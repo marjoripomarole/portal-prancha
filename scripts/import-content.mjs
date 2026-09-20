@@ -9,11 +9,11 @@ const norm=s=>s.normalize('NFD').replace(/\p{Diacritic}/gu,'').toLowerCase();
 const subjectFor=name=>subjects.find(s=>norm(s.name)===norm(name))?.id??(name.includes('Prática')?'pratica':null);
 function add(item){if(!item.subject)throw Error('Subject missing '+item.id);items.push({...item,version:'2026-09-20.1'});}
 function copy(src,dest){fs.mkdirSync(path.dirname(dest),{recursive:true});fs.cpSync(path.join(root,src),dest,{recursive:true,filter:p=>!/(Icon\r|\.DS_Store|\.bak)$/.test(p)});}
-fs.mkdirSync('public/cadernos',{recursive:true});
-for(const [src,dest]of [['prancha-genetica/dist','genetica'],['prancha-molecula/dist','molecula']])copy(src,'public/cadernos/'+dest);
-fs.mkdirSync('public/cadernos/forma',{recursive:true});for(const name of fs.readdirSync(path.join(root,'prancha-0909')))if(/\.(js|css|html)$/.test(name)||name==='assets')copy('prancha-0909/'+name,'public/cadernos/forma/'+name);
-copy('Forma a Função II/semana 6/Pranchas - os 8 pontos do Ari.html','public/cadernos/ari/index.html');
-copy('Anki - 2026.2/Prévia/media','public/media');
+fs.mkdirSync('protected-assets/cadernos',{recursive:true});
+for(const [src,dest]of [['prancha-genetica/dist','genetica'],['prancha-molecula/dist','molecula']])copy(src,'protected-assets/cadernos/'+dest);
+fs.mkdirSync('protected-assets/cadernos/forma',{recursive:true});for(const name of fs.readdirSync(path.join(root,'prancha-0909')))if(/\.(js|css|html)$/.test(name)||name==='assets')copy('prancha-0909/'+name,'protected-assets/cadernos/forma/'+name);
+copy('Forma a Função II/semana 6/Pranchas - os 8 pontos do Ari.html','protected-assets/cadernos/ari/index.html');
+copy('Anki - 2026.2/Prévia/media','protected-assets/media');
 const a=run(['prancha-0909/data.js'],'DATA');
 const imhtml=(ref)=>{const im=a.images.find(x=>x.id===ref.id);if(!im)return '';const pin=(im.pins??[]).find(p=>p.n===ref.pin);if(!pin)throw Error("Missing visual pin "+ref.id);return `<figure><div style="position:relative;display:inline-block;max-width:100%"><img src="/cadernos/forma/${esc(im.src??im.path)}" alt="Imagem do exercício" style="margin:0;max-height:none;width:100%"/><span style="position:absolute;left:${pin.x}%;top:${pin.y}%;transform:translate(-50%,-50%);border:2px solid white;background:#203e3b;color:white;width:26px;height:26px;border-radius:50%;text-align:center;line-height:22px">${ref.pin}</span></div><figcaption>Imagem do acervo de Forma a Função</figcaption></figure>`};
 for(const u of a.units){const base={subject:'forma',week:u.week,module:u.title,source:'Prancha 09/09 · '+u.source};

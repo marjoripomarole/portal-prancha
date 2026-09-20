@@ -1,0 +1,14 @@
+.git
+.env*
+.wrangler
+.vinext
+.sites-runtime
+.openai
+.agents
+.codex
+node_modules
+dist
+tests
+outputs
+work
+README.md

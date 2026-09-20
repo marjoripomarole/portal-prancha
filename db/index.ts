@@ -1,13 +1,13 @@
-import { env } from "cloudflare:workers";
-import { drizzle } from "drizzle-orm/d1";
-import * as schema from "./schema";
-
-export function getDb() {
-  if (!env.DB) {
-    throw new Error(
-      "Cloudflare D1 binding `DB` is unavailable. Set the `d1` field in .openai/hosting.json to `DB` or let your control plane inject the real binding values before using the database."
-    );
-  }
-
-  return drizzle(env.DB, { schema });
+import {neon} from '@neondatabase/serverless';
+let client: ReturnType<typeof neon> | undefined;
+function getClient() {
+  if (!process.env.DATABASE_URL) throw new Error('DATABASE_URL is required');
+  return client ??= neon(process.env.DATABASE_URL);
+}
+// SQL and placeholders are authored on the server. All user values are parameters.
+export async function query<T = Record<string, any>>(sql: string, values: unknown[] = []): Promise<T[]> {
+  return await getClient().query(sql, values) as T[];
+}
+export async function one<T = Record<string, any>>(sql: string, values: unknown[] = []): Promise<T | null> {
+  return (await query<T>(sql, values))[0] ?? null;
 }

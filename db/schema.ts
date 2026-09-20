@@ -1,5 +1,0 @@
-import {sqliteTable,text,integer,primaryKey} from 'drizzle-orm/sqlite-core';
-export const members=sqliteTable('members',{userId:text('user_id').primaryKey(),joinedAt:integer('joined_at').notNull()});
-export const attempts=sqliteTable('attempts',{userId:text('user_id').notNull(),eventId:text('event_id').notNull(),itemId:text('item_id').notNull(),kind:text('kind').notNull(),correct:integer('correct'),assisted:integer('assisted').notNull(),rating:integer('rating'),answer:text('answer'),createdAt:integer('created_at').notNull()},t=>[primaryKey({columns:[t.userId,t.eventId]})]);
-export const snapshots=sqliteTable('snapshots',{userId:text('user_id').notNull(),book:text('book').notNull(),payload:text('payload').notNull(),revision:integer('revision').notNull(),updatedAt:integer('updated_at').notNull()},t=>[primaryKey({columns:[t.userId,t.book]})]);
-export const joinLimits=sqliteTable('join_limits',{userId:text('user_id').notNull(),bucket:integer('bucket').notNull(),count:integer('count').notNull()},t=>[primaryKey({columns:[t.userId,t.bucket]})]);
