@@ -1,0 +1,371 @@
+[
+  {
+    "id": "w1-p23",
+    "week": 1,
+    "page": 23,
+    "pdf": "Conceitos de Metabolismo  e Glicólise.pdf",
+    "width": 1076,
+    "height": 479,
+    "src": "assets/w1-p23.webp"
+  },
+  {
+    "id": "w1-p50",
+    "week": 1,
+    "page": 50,
+    "pdf": "Conceitos de Metabolismo  e Glicólise.pdf",
+    "width": 587,
+    "height": 627,
+    "src": "assets/w1-p50.webp"
+  },
+  {
+    "id": "w1-p59",
+    "week": 1,
+    "page": 59,
+    "pdf": "Conceitos de Metabolismo  e Glicólise.pdf",
+    "width": 662,
+    "height": 262,
+    "src": "assets/w1-p59.webp"
+  },
+  {
+    "id": "w2-p21",
+    "week": 2,
+    "page": 21,
+    "pdf": "Ciclo de Krebs e a produção do ATP.pdf",
+    "width": 525,
+    "height": 1013,
+    "src": "assets/w2-p21.webp"
+  },
+  {
+    "id": "w2-p32",
+    "week": 2,
+    "page": 32,
+    "pdf": "Ciclo de Krebs e a produção do ATP.pdf",
+    "width": 646,
+    "height": 383,
+    "src": "assets/w2-p32.webp"
+  },
+  {
+    "id": "w2-p40",
+    "week": 2,
+    "page": 40,
+    "pdf": "Ciclo de Krebs e a produção do ATP.pdf",
+    "width": 703,
+    "height": 529,
+    "src": "assets/w2-p40.webp"
+  },
+  {
+    "id": "w2-p42",
+    "week": 2,
+    "page": 42,
+    "pdf": "Ciclo de Krebs e a produção do ATP.pdf",
+    "width": 1274,
+    "height": 1007,
+    "src": "assets/w2-p42.webp"
+  },
+  {
+    "id": "w2-p46",
+    "week": 2,
+    "page": 46,
+    "pdf": "Ciclo de Krebs e a produção do ATP.pdf",
+    "width": 647,
+    "height": 465,
+    "src": "assets/w2-p46.webp"
+  },
+  {
+    "id": "w2-p53",
+    "week": 2,
+    "page": 53,
+    "pdf": "Ciclo de Krebs e a produção do ATP.pdf",
+    "width": 704,
+    "height": 428,
+    "src": "assets/w2-p53.webp"
+  },
+  {
+    "id": "w2-p54",
+    "week": 2,
+    "page": 54,
+    "pdf": "Ciclo de Krebs e a produção do ATP.pdf",
+    "width": 758,
+    "height": 614,
+    "src": "assets/w2-p54.webp"
+  },
+  {
+    "id": "w2-p56",
+    "week": 2,
+    "page": 56,
+    "pdf": "Ciclo de Krebs e a produção do ATP.pdf",
+    "width": 637,
+    "height": 478,
+    "src": "assets/w2-p56.webp"
+  },
+  {
+    "id": "w3-p26",
+    "week": 3,
+    "page": 26,
+    "pdf": "Gliconeogênese  Via das Pentoses Fosfatos  Metabolismo do Glicogênio 1.pdf",
+    "width": 743,
+    "height": 1030,
+    "src": "assets/w3-p26.webp"
+  },
+  {
+    "id": "w3-p27",
+    "week": 3,
+    "page": 27,
+    "pdf": "Gliconeogênese  Via das Pentoses Fosfatos  Metabolismo do Glicogênio 1.pdf",
+    "width": 1599,
+    "height": 1014,
+    "src": "assets/w3-p27.webp"
+  },
+  {
+    "id": "w3-p34",
+    "week": 3,
+    "page": 34,
+    "pdf": "Gliconeogênese  Via das Pentoses Fosfatos  Metabolismo do Glicogênio 1.pdf",
+    "width": 657,
+    "height": 547,
+    "src": "assets/w3-p34.webp"
+  },
+  {
+    "id": "w3-p35",
+    "week": 3,
+    "page": 35,
+    "pdf": "Gliconeogênese  Via das Pentoses Fosfatos  Metabolismo do Glicogênio 1.pdf",
+    "width": 674,
+    "height": 428,
+    "src": "assets/w3-p35.webp"
+  },
+  {
+    "id": "w3-p43",
+    "week": 3,
+    "page": 43,
+    "pdf": "Gliconeogênese  Via das Pentoses Fosfatos  Metabolismo do Glicogênio 1.pdf",
+    "width": 685,
+    "height": 441,
+    "src": "assets/w3-p43.webp"
+  },
+  {
+    "id": "w3-p47",
+    "week": 3,
+    "page": 47,
+    "pdf": "Gliconeogênese  Via das Pentoses Fosfatos  Metabolismo do Glicogênio 1.pdf",
+    "width": 716,
+    "height": 501,
+    "src": "assets/w3-p47.webp"
+  },
+  {
+    "id": "w3-p50",
+    "week": 3,
+    "page": 50,
+    "pdf": "Gliconeogênese  Via das Pentoses Fosfatos  Metabolismo do Glicogênio 1.pdf",
+    "width": 884,
+    "height": 669,
+    "src": "assets/w3-p50.webp"
+  },
+  {
+    "id": "w3-p55",
+    "week": 3,
+    "page": 55,
+    "pdf": "Gliconeogênese  Via das Pentoses Fosfatos  Metabolismo do Glicogênio 1.pdf",
+    "width": 764,
+    "height": 721,
+    "src": "assets/w3-p55.webp"
+  },
+  {
+    "id": "w3-p58",
+    "week": 3,
+    "page": 58,
+    "pdf": "Gliconeogênese  Via das Pentoses Fosfatos  Metabolismo do Glicogênio 1.pdf",
+    "width": 857,
+    "height": 327,
+    "src": "assets/w3-p58.webp"
+  },
+  {
+    "id": "w3-p59",
+    "week": 3,
+    "page": 59,
+    "pdf": "Gliconeogênese  Via das Pentoses Fosfatos  Metabolismo do Glicogênio 1.pdf",
+    "width": 582,
+    "height": 713,
+    "src": "assets/w3-p59.webp"
+  },
+  {
+    "id": "w4-p12",
+    "week": 4,
+    "page": 12,
+    "pdf": "Fontes de Glicose 1.pdf",
+    "width": 803,
+    "height": 749,
+    "src": "assets/w4-p12.webp"
+  },
+  {
+    "id": "w4-p16",
+    "week": 4,
+    "page": 16,
+    "pdf": "Fontes de Glicose 1.pdf",
+    "width": 519,
+    "height": 1029,
+    "src": "assets/w4-p16.webp"
+  },
+  {
+    "id": "w5-p28",
+    "week": 5,
+    "page": 28,
+    "pdf": "Metabolismo da célula tumoral.pdf",
+    "width": 806,
+    "height": 516,
+    "src": "assets/w5-p28.webp"
+  },
+  {
+    "id": "w5-p29",
+    "week": 5,
+    "page": 29,
+    "pdf": "Metabolismo da célula tumoral.pdf",
+    "width": 945,
+    "height": 733,
+    "src": "assets/w5-p29.webp"
+  },
+  {
+    "id": "w5-p33",
+    "week": 5,
+    "page": 33,
+    "pdf": "Metabolismo da célula tumoral.pdf",
+    "width": 568,
+    "height": 781,
+    "src": "assets/w5-p33.webp"
+  },
+  {
+    "id": "w5-p38",
+    "week": 5,
+    "page": 38,
+    "pdf": "Metabolismo da célula tumoral.pdf",
+    "width": 581,
+    "height": 664,
+    "src": "assets/w5-p38.webp"
+  },
+  {
+    "id": "w5-p39",
+    "week": 5,
+    "page": 39,
+    "pdf": "Metabolismo da célula tumoral.pdf",
+    "width": 1341,
+    "height": 824,
+    "src": "assets/w5-p39.webp"
+  },
+  {
+    "id": "w6-p12",
+    "week": 6,
+    "page": 12,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 1079,
+    "height": 783,
+    "src": "assets/w6-p12.webp"
+  },
+  {
+    "id": "w6-p13",
+    "week": 6,
+    "page": 13,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 1054,
+    "height": 886,
+    "src": "assets/w6-p13.webp"
+  },
+  {
+    "id": "w6-p19",
+    "week": 6,
+    "page": 19,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 1093,
+    "height": 424,
+    "src": "assets/w6-p19.webp"
+  },
+  {
+    "id": "w6-p23",
+    "week": 6,
+    "page": 23,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 445,
+    "height": 599,
+    "src": "assets/w6-p23.webp"
+  },
+  {
+    "id": "w6-p34",
+    "week": 6,
+    "page": 34,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 536,
+    "height": 806,
+    "src": "assets/w6-p34.webp"
+  },
+  {
+    "id": "w6-p37",
+    "week": 6,
+    "page": 37,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 1084,
+    "height": 505,
+    "src": "assets/w6-p37.webp"
+  },
+  {
+    "id": "w6-p42",
+    "week": 6,
+    "page": 42,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 467,
+    "height": 500,
+    "src": "assets/w6-p42.webp"
+  },
+  {
+    "id": "w6-p45",
+    "week": 6,
+    "page": 45,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 610,
+    "height": 870,
+    "src": "assets/w6-p45.webp"
+  },
+  {
+    "id": "w6-p48",
+    "week": 6,
+    "page": 48,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 924,
+    "height": 754,
+    "src": "assets/w6-p48.webp"
+  },
+  {
+    "id": "w6-p52",
+    "week": 6,
+    "page": 52,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 861,
+    "height": 609,
+    "src": "assets/w6-p52.webp"
+  },
+  {
+    "id": "w6-p60",
+    "week": 6,
+    "page": 60,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 1081,
+    "height": 999,
+    "src": "assets/w6-p60.webp"
+  },
+  {
+    "id": "w6-p62",
+    "week": 6,
+    "page": 62,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 494,
+    "height": 572,
+    "src": "assets/w6-p62.webp"
+  },
+  {
+    "id": "w6-p70",
+    "week": 6,
+    "page": 70,
+    "pdf": "Ácidos graxos e triacilglicerol  corpos cetônicos 3.pdf",
+    "width": 500,
+    "height": 806,
+    "src": "assets/w6-p70.webp"
+  }
+]

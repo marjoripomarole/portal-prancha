@@ -1,0 +1,142 @@
+{
+  "created": "2026-09-20",
+  "items": 2513,
+  "duplicateCardsSkipped": 140,
+  "bySubject": [
+    {
+      "id": "forma",
+      "name": "Forma a Função II",
+      "description": "Anatomia · Histologia · Embriologia",
+      "counts": {
+        "read": 145,
+        "mcq": 424,
+        "written": 129,
+        "recall": 757
+      },
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "molecula",
+      "name": "Molécula à Célula II",
+      "description": "Mecanismos · Metabolismo · Cálculos",
+      "counts": {
+        "read": 37,
+        "mcq": 114,
+        "written": 16,
+        "recall": 187
+      },
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "genetica",
+      "name": "Genótipo ao Fenótipo",
+      "description": "Heranças · Diagnóstico · Genética",
+      "counts": {
+        "read": 34,
+        "mcq": 75,
+        "written": 12,
+        "recall": 124
+      },
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "microbiota",
+      "name": "Microbiota a Imunidade II",
+      "description": "Imunologia · Virologia",
+      "counts": {
+        "read": 14,
+        "mcq": 5,
+        "written": 0,
+        "recall": 136
+      },
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    {
+      "id": "pfis",
+      "name": "PFIS II",
+      "description": "Epidemiologia · Saúde coletiva",
+      "counts": {
+        "read": 9,
+        "mcq": 10,
+        "written": 0,
+        "recall": 84
+      },
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        7
+      ]
+    },
+    {
+      "id": "pesquisa",
+      "name": "Pesquisa Científica",
+      "description": "Método · Pergunta · Evidências",
+      "counts": {
+        "read": 5,
+        "mcq": 0,
+        "written": 0,
+        "recall": 67
+      },
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "pratica",
+      "name": "Prática Médica II",
+      "description": "Comunicação · Habilidades · Segurança",
+      "counts": {
+        "read": 9,
+        "mcq": 5,
+        "written": 0,
+        "recall": 115
+      },
+      "weeks": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ]
+}
