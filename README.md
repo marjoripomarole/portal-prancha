@@ -2,6 +2,20 @@
 
 Plataforma estudantil de Medicina 2026.2, publicada em https://portal-prancha.vercel.app. Next.js 16 no Vercel, autenticação Google via Auth.js e banco Postgres dedicado no Neon (plano gratuito, região São Paulo).
 
+## Código e acompanhamento
+
+- Repositório privado: https://github.com/marjoripomarole/portal-prancha
+- Quadro de desenvolvimento: https://github.com/users/marjoripomarole/projects/2
+- Produção: https://portal-prancha.vercel.app
+
+A branch `main` representa a versão de produção; mudanças em desenvolvimento usam branches `codex/`. O repositório inclui o conteúdo educacional necessário à aplicação. Credenciais, arquivos `.env`, configuração local da Vercel e listas de alunos ficam fora do Git. Os materiais de estudo continuam em `protected-assets/`, servidos apenas pelas rotas autorizadas da aplicação.
+
+## Mudança de acesso solicitada em 21/09/2026 — pendente de implementação
+
+A responsável decidiu substituir os códigos de convite por **e-mail institucional verificado**, correlacionado às listas de alunos de cada sala para determinar turma, grupo A/B e semestre. A consulta autenticada ao Outlook em 21/09/2026 confirmou o domínio `faculdadesiriolibanes.org.br` e o uso de Microsoft/Outlook; uma relação de 100 registros identificados como alunos foi salva no vault privado, sem vínculo de sala confirmado. A política de acesso antes da associação às listas ainda precisa ser definida. O mecanismo descrito abaixo continua sendo o estado atual em produção, e não o requisito futuro.
+
+Acompanhar a migração no [GitHub Project](https://github.com/users/marjoripomarole/projects/2/views/1?pane=issue&itemId=251546808). A decisão detalhada e o modelo de lista ficam em `_/Portal Prancha/21 set - Acesso por e-mail institucional.md` e `_/Portal Prancha/Modelo - lista de alunos.csv`, no vault fora desta aplicação. Não criar novos convites como solução futura nem incluir listas de alunos no repositório ou no cliente. A atualização diária de conteúdo não deve tentar implementar a migração de acesso antes dessas definições.
+
 ## Conteúdo e aprendizagem
 
 O relatório `content/import-report.json` registra 2.513 atividades e leituras de sete disciplinas. Importa as pranchas de Forma a Função, Molécula, Genética, Histo/Embrio, Simulado da Semana, cartões Anki e 71 notas/resumos; 140 cartões repetidos foram descartados. As oito pranchas do Ari permanecem como consulta.
