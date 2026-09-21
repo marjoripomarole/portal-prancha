@@ -63,6 +63,14 @@ Redirect autorizado no Google: `https://portal-prancha.vercel.app/api/auth/callb
 Projeto Google dedicado: Portal Prancha (`hopeful-expanse-509221-i6`). A chave Google está marcada como sensível no Vercel; uma cópia local protegida fica em `.env.google.local`, ignorada pelo Git e pelo deploy. Não imprimir seu conteúdo.
 O botão de entrada permanece desativado se a configuração Google ou o banco estiverem ausentes.
 
+### Proteção das variáveis na Vercel
+
+Em 21/09/2026, o recurso Neon foi restringido a **Production environment only**. A integração passou suas 16 variáveis para o tipo **Secret** (`sensitive`), incluindo as oito credenciais antes sinalizadas como “Needs Attention”. Os valores existentes foram preservados; essa configuração protege sua leitura no painel/CLI e não realiza rotação de senha. `AUTH_SECRET` e `AUTH_GOOGLE_SECRET` também são Secrets. `AUTH_URL` e `AUTH_GOOGLE_ID` permanecem Config, pois são identificadores não secretos.
+
+O recurso Neon está conectado somente à produção do Portal. Previews e desenvolvimento precisam de um banco e credenciais próprios; não ampliar o acesso ao banco de produção para habilitá-los. Não sobrescrever arquivos locais de credenciais com `vercel env pull`: Secrets não podem ser recuperados por esse comando. As cópias locais existentes continuam privadas e fora do Git.
+
+Alterações de valores exigem nova publicação. Uma eventual rotação de senha do Neon precisa ser coordenada com o redeploy e a atualização das cópias locais, pois invalida a credencial anterior.
+
 A publicação anterior no Sites foi substituída como destino principal. Nenhum runtime ou login do Sites é necessário ao aplicativo atual.
 
 ## Desenvolvimento e verificação
@@ -83,6 +91,8 @@ No vault original, execute `node scripts/import-content.mjs` e `node scripts/pre
 
 ## Publicação
 
-`vercel deploy --prod --yes`. O projeto está vinculado em `.vercel/project.json` (ignorado pelo Git). Segredos nunca devem aparecer no README, histórico Git, cliente ou logs. As variáveis locais `.env*` também estão excluídas do upload.
+O repositório GitHub está conectado ao projeto existente na Vercel. Pushes para `main` disparam a publicação de produção; outras branches geram previews, que ainda precisam de configuração isolada para testar login e banco. Um commit somente local não dispara publicação.
+
+Para uma publicação manual, use `vercel deploy --prod --yes`. O projeto está vinculado em `.vercel/project.json` (ignorado pelo Git). Segredos nunca devem aparecer no README, histórico Git, cliente ou logs. As variáveis locais `.env*` também estão excluídas do upload. Confirme o estado READY e o acesso ao site após qualquer publicação.
 
 Referências: [Auth.js Google](https://authjs.dev/getting-started/providers/google), [Next.js no Vercel](https://vercel.com/docs/frameworks/full-stack/nextjs), [Neon serverless](https://neon.com/docs/serverless/serverless-driver).
