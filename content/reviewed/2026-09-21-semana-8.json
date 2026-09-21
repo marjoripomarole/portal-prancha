@@ -1,0 +1,363 @@
+{
+  "reviewedAt": "2026-09-21",
+  "sources": [
+    {
+      "path": "Pesquisa Científica/semana 8/Aula_07_Observacionais_15Set2026.pdf",
+      "sha256": "8011dd1c86ae1ee0d2efd27f7fb3bc03fd6c2f8931c9c1ecff5f1c7bbfb60d43",
+      "scope": "Síntese dos desenhos e exercícios das páginas 20–23, 35–40 e 49–53; não reprodução integral."
+    },
+    {
+      "path": "Genótipo ao Fenótipo/semana 8/Aula 8_Anomalias Cromossômicas.pdf",
+      "sha256": "ba549d06c076bd3312a82c361a3f6088c92257b288338f869a1b98885c417862",
+      "scope": "Tipos numéricos e estruturais; conflito da página 17 resolvido pelas definições posteriores e MedlinePlus."
+    },
+    {
+      "path": "Molécula à Célula II/semana 8/Bioquimica do Sangue  Vitaminas 3.pdf",
+      "sha256": "9c8644bf0038956ad919e06c5b7d76182c9525b29598ae1a57892b667cac9fea",
+      "scope": "Hemoglobina, página 12; revisão de B12 complementada pelo NIH."
+    },
+    {
+      "path": "Molécula à Célula II/semana 8/23 set - Preparação - Bioquímica do sangue e vitaminas.md",
+      "sha256": "6f35a8c49989e703b84bc1f4751ad244ade9ca0cd8c958899bfdea803d017cda",
+      "scope": "Fundamentos e vitamina B12; excluídas logística e afirmação antiga de que não há slides."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 8/22 set - Preparação - Febres hemorrágicas virais.md",
+      "sha256": "f75d203e010816ce53047247b9e07e05df96875838236aea55ab1e0fa091de89",
+      "scope": "Preparação temática restrita à dengue, conferida na OMS; não delimita prova."
+    },
+    {
+      "path": "Prática Médica II/semana 8/23 set - Preparação - BLS pediátrico e obstrução de vias aéreas.md",
+      "sha256": "38729b151dbc7b66675eac1556ad7cac3a1fe8c9534c5b7c5153c4b9885cba2f",
+      "scope": "Treino em manequim; técnica de compressão e obstrução grave conferidas na AHA/AAP 2025."
+    }
+  ],
+  "items": [
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Estudos observacionais: seleção, temporalidade e medidas",
+      "source": "Pesquisa Científica/semana 8/Aula_07_Observacionais_15Set2026.pdf · páginas 13–18, 25–32, 41–53",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-observacionais-read",
+      "kind": "read",
+      "title": "Estudos observacionais: seleção, temporalidade e medidas",
+      "body": "<p>Classifique o estudo pela seleção dos participantes e pela organização temporal das medidas. No transversal, exposição e desfecho são avaliados numa ocasião ou período curto: a prevalência descreve a proporção com a condição, mas a ordem temporal pode ser incerta.</p><p>Na coorte, acompanha-se a ocorrência de novos desfechos numa população definida. O risco acumulado usa os novos casos e a população inicialmente em risco; o risco relativo divide o risco dos expostos pelo dos não expostos. Reconhecer a sequência exposição–desfecho ajuda a avaliar temporalidade, mas não elimina confundimento.</p><p>No caso-controle, a seleção começa pelo desfecho: casos e controles têm suas exposições comparadas. A odds de exposição é expostos/não expostos em cada grupo; OR é a razão dessas odds. A proporção de casos escolhida pelo pesquisador não fornece diretamente incidência nem RR populacional.</p><p>Exercícios da aula: transversal, 180/600 = 30% e 135/900 = 15%; coorte de dois anos, 150/500 = 30% e 60/500 = 12%, RR = 2,5; caso-controle, odds 200/100 = 2 e 100/200 = 0,5, OR = 4. OR = 4 não deve ser apresentado automaticamente como risco quatro vezes maior.</p>"
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Estudos observacionais: seleção, temporalidade e medidas",
+      "source": "Pesquisa Científica/semana 8/Aula_07_Observacionais_15Set2026.pdf · páginas 13–18, 25–32, 41–53",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-observacionais-q1",
+      "kind": "mcq",
+      "title": "Em um levantamento no mesmo dia, 180 de 600 estudantes e 135 de 900 apresentam cefaleia. Quais são as prevalências?",
+      "options": [
+        "30% e 15%",
+        "18% e 13,5%",
+        "3% e 1,5%",
+        "60% e 90%"
+      ],
+      "answer": 0,
+      "explanation": "180/600 = 0,30; 135/900 = 0,15. São prevalências, pois a condição foi avaliada naquele recorte temporal."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Estudos observacionais: seleção, temporalidade e medidas",
+      "source": "Pesquisa Científica/semana 8/Aula_07_Observacionais_15Set2026.pdf · páginas 13–18, 25–32, 41–53",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-observacionais-q2",
+      "kind": "mcq",
+      "title": "Uma coorte acompanha por dois anos 500 expostos e 500 não expostos, inicialmente sem cefaleia. Surgem 150 e 60 casos. Qual é o RR?",
+      "options": [
+        "0,4",
+        "1,5",
+        "2,5",
+        "4"
+      ],
+      "answer": 2,
+      "explanation": "RR = (150/500)/(60/500) = 0,30/0,12 = 2,5. Compara riscos acumulados no mesmo intervalo de dois anos."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Estudos observacionais: seleção, temporalidade e medidas",
+      "source": "Pesquisa Científica/semana 8/Aula_07_Observacionais_15Set2026.pdf · páginas 13–18, 25–32, 41–53",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-observacionais-q3",
+      "kind": "mcq",
+      "title": "Em um caso-controle, há 200 expostos e 100 não expostos entre casos; 100 expostos e 200 não expostos entre controles. Qual é o OR?",
+      "options": [
+        "0,25",
+        "2",
+        "2,5",
+        "4"
+      ],
+      "answer": 3,
+      "explanation": "OR = (200/100)/(100/200) = 2/0,5 = 4. A odds de exposição entre casos é quatro vezes a dos controles."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Estudos observacionais: seleção, temporalidade e medidas",
+      "source": "Pesquisa Científica/semana 8/Aula_07_Observacionais_15Set2026.pdf · páginas 13–18, 25–32, 41–53",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-observacionais-q4",
+      "kind": "mcq",
+      "title": "Por que um caso-controle convencional não estima diretamente a incidência pela proporção de casos da amostra?",
+      "options": [
+        "Porque nenhum dado de exposição é coletado",
+        "Porque a seleção fixa casos e controles, sem representar diretamente a população em risco acompanhada",
+        "Porque OR é sempre igual a RR",
+        "Porque estudos observacionais não usam números"
+      ],
+      "answer": 1,
+      "explanation": "O número de casos e controles decorre da amostragem pelo desfecho. Falta o denominador populacional em risco acompanhado necessário à incidência."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Estudos observacionais: seleção, temporalidade e medidas",
+      "source": "Pesquisa Científica/semana 8/Aula_07_Observacionais_15Set2026.pdf · páginas 13–18, 25–32, 41–53",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-observacionais-recall",
+      "kind": "recall",
+      "title": "Como distinguir transversal, coorte e caso-controle sem depender apenas da palavra retrospectivo?",
+      "explanation": "Transversal: medidas numa ocasião ou período curto. Coorte: população definida e ocorrência do desfecho ao longo do acompanhamento, inclusive reconstruído em registros. Caso-controle: seleção pelo desfecho e comparação das exposições."
+    },
+    {
+      "subject": "genetica",
+      "week": 8,
+      "module": "Anomalias cromossômicas: número e estrutura",
+      "source": "Genótipo ao Fenótipo/semana 8/Aula 8_Anomalias Cromossômicas.pdf · páginas 17 e 21; MedlinePlus: https://medlineplus.gov/genetics/understanding/mutationsanddisorders/structuralchanges/",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-cromossomos-read",
+      "kind": "read",
+      "title": "Anomalias cromossômicas: número e estrutura",
+      "body": "<p>Aneuploidias alteram cromossomos individuais, como uma trissomia. Poliploidias envolvem conjuntos completos adicionais, como a triploidia. Alterações estruturais reorganizam segmentos: deleção perde material; duplicação acrescenta cópias; inversão muda a orientação; translocação muda sua posição entre cromossomos.</p><p>Um rearranjo balanceado não apresenta ganho ou perda aparente de material. Um desbalanceado apresenta material adicional ou ausente. Um rearranjo aparentemente balanceado ainda pode interromper genes ou gerar gametas desbalanceados.</p><p><strong>Nota de revisão:</strong> a página 17 dos slides inverte esses dois rótulos. Aqui foi usada a definição das páginas seguintes, também confirmada pelo <a href=\"https://medlineplus.gov/genetics/understanding/mutationsanddisorders/structuralchanges/\">MedlinePlus Genetics</a>.</p>"
+    },
+    {
+      "subject": "genetica",
+      "week": 8,
+      "module": "Anomalias cromossômicas: número e estrutura",
+      "source": "Genótipo ao Fenótipo/semana 8/Aula 8_Anomalias Cromossômicas.pdf · páginas 17 e 21; MedlinePlus: https://medlineplus.gov/genetics/understanding/mutationsanddisorders/structuralchanges/",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-cromossomos-q1",
+      "kind": "mcq",
+      "title": "Qual alteração envolve um conjunto cromossômico completo adicional?",
+      "options": [
+        "Trissomia 21",
+        "Deleção terminal",
+        "Triploidia",
+        "Duplicação de um segmento"
+      ],
+      "answer": 2,
+      "explanation": "Triploidia corresponde a três conjuntos completos. Trissomia de um cromossomo individual é aneuploidia."
+    },
+    {
+      "subject": "genetica",
+      "week": 8,
+      "module": "Anomalias cromossômicas: número e estrutura",
+      "source": "Genótipo ao Fenótipo/semana 8/Aula 8_Anomalias Cromossômicas.pdf · páginas 17 e 21; MedlinePlus: https://medlineplus.gov/genetics/understanding/mutationsanddisorders/structuralchanges/",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-cromossomos-q2",
+      "kind": "mcq",
+      "title": "Qual é a definição correta de rearranjo cromossômico balanceado?",
+      "options": [
+        "Reorganização sem ganho ou perda aparente de material",
+        "Qualquer deleção",
+        "Qualquer ganho de material genético",
+        "Garantia de ausência de efeito biológico"
+      ],
+      "answer": 0,
+      "explanation": "Balanceamento se refere à quantidade de material. Ponto de quebra e consequências reprodutivas ainda podem ser relevantes."
+    },
+    {
+      "subject": "genetica",
+      "week": 8,
+      "module": "Anomalias cromossômicas: número e estrutura",
+      "source": "Genótipo ao Fenótipo/semana 8/Aula 8_Anomalias Cromossômicas.pdf · páginas 17 e 21; MedlinePlus: https://medlineplus.gov/genetics/understanding/mutationsanddisorders/structuralchanges/",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-cromossomos-recall",
+      "kind": "recall",
+      "title": "Qual é a diferença entre deleção e duplicação?",
+      "explanation": "Deleção: perda de um segmento cromossômico. Duplicação: cópia adicional de um segmento, com aumento de dosagem dos genes envolvidos."
+    },
+    {
+      "subject": "molecula",
+      "week": 8,
+      "module": "Hemoglobina e vitamina B12: estrutura e função",
+      "source": "Molécula à Célula II/semana 8/Bioquimica do Sangue  Vitaminas 3.pdf · página 12; Molécula à Célula II/semana 8/23 set - Preparação - Bioquímica do sangue e vitaminas.md; NIH: https://ods.od.nih.gov/factsheets/Vitaminb12-HealthProfessional/",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-sangue-read",
+      "kind": "read",
+      "title": "Hemoglobina e vitamina B12: estrutura e função",
+      "body": "<p>A hemoglobina A possui duas cadeias alfa e duas beta. Cada cadeia contém um grupo heme com ferro ferroso, capaz de ligar uma molécula de oxigênio: uma HbA pode transportar até quatro moléculas de O2. A ligação de oxigênio favorece a ligação nas demais subunidades, caracterizando cooperatividade.</p><p>A vitamina B12 participa das reações de metionina sintase e metilmalonil-CoA mutase. Sua deficiência pode afetar a formação de células sanguíneas e provocar alterações neurológicas, que podem ocorrer mesmo sem anemia. Por isso, estudar B12 apenas como causa de anemia é incompleto.</p><p>Fonte complementar: <a href=\"https://ods.od.nih.gov/factsheets/Vitaminb12-HealthProfessional/\">NIH — vitamina B12</a>. Síntese para estudo dos mecanismos; não é um roteiro de diagnóstico ou suplementação.</p>"
+    },
+    {
+      "subject": "molecula",
+      "week": 8,
+      "module": "Hemoglobina e vitamina B12: estrutura e função",
+      "source": "Molécula à Célula II/semana 8/Bioquimica do Sangue  Vitaminas 3.pdf · página 12; Molécula à Célula II/semana 8/23 set - Preparação - Bioquímica do sangue e vitaminas.md; NIH: https://ods.od.nih.gov/factsheets/Vitaminb12-HealthProfessional/",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-sangue-q1",
+      "kind": "mcq",
+      "title": "Quantas moléculas de O2 uma molécula de HbA pode ligar quando todos os seus hemes estão ocupados?",
+      "options": [
+        "Uma",
+        "Duas",
+        "Três",
+        "Quatro"
+      ],
+      "answer": 3,
+      "explanation": "A HbA é tetramérica: cada uma das quatro cadeias contém um heme capaz de ligar uma molécula de O2."
+    },
+    {
+      "subject": "molecula",
+      "week": 8,
+      "module": "Hemoglobina e vitamina B12: estrutura e função",
+      "source": "Molécula à Célula II/semana 8/Bioquimica do Sangue  Vitaminas 3.pdf · página 12; Molécula à Célula II/semana 8/23 set - Preparação - Bioquímica do sangue e vitaminas.md; NIH: https://ods.od.nih.gov/factsheets/Vitaminb12-HealthProfessional/",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-sangue-q2",
+      "kind": "mcq",
+      "title": "Qual afirmação sobre deficiência de B12 é correta?",
+      "options": [
+        "Só tem consequências quando há anemia",
+        "Pode apresentar manifestações neurológicas sem anemia",
+        "Não interfere em funções celulares",
+        "A hemoglobina substitui sua função"
+      ],
+      "answer": 1,
+      "explanation": "Alterações neurológicas podem surgir sem anemia. A ausência de anemia, isoladamente, não exclui deficiência."
+    },
+    {
+      "subject": "molecula",
+      "week": 8,
+      "module": "Hemoglobina e vitamina B12: estrutura e função",
+      "source": "Molécula à Célula II/semana 8/Bioquimica do Sangue  Vitaminas 3.pdf · página 12; Molécula à Célula II/semana 8/23 set - Preparação - Bioquímica do sangue e vitaminas.md; NIH: https://ods.od.nih.gov/factsheets/Vitaminb12-HealthProfessional/",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-sangue-recall",
+      "kind": "recall",
+      "title": "O que significa cooperatividade positiva na ligação do oxigênio à hemoglobina?",
+      "explanation": "A ligação de O2 a uma subunidade favorece a ligação nas demais. Os quatro sítios não se comportam como ligações independentes."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Dengue: transmissão e evolução dos sintomas",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Preparação - Febres hemorrágicas virais.md; OMS: https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-dengue-read",
+      "kind": "read",
+      "title": "Dengue: transmissão e evolução dos sintomas",
+      "body": "<p>A dengue é transmitida por mosquitos infectados. Para revisar febres hemorrágicas virais, relacione agente, transmissão, evolução temporal, manifestações e prevenção, sem presumir que todos os vírus compartilhem o mesmo mecanismo.</p><p>A redução da febre não garante recuperação: manifestações importantes podem surgir depois que ela cede. Dor abdominal intensa, vômitos persistentes e sangramento são exemplos que exigem avaliação clínica; não se deve interpretar uma única medida isoladamente.</p><p>Preparação temática conferida na <a href=\"https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue\">OMS</a>. A lista de agentes e o recorte da avaliação devem ser confirmados no material da disciplina.</p>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Dengue: transmissão e evolução dos sintomas",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Preparação - Febres hemorrágicas virais.md; OMS: https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-dengue-q1",
+      "kind": "mcq",
+      "title": "Na dengue, a queda da febre permite concluir que a pessoa está recuperada?",
+      "options": [
+        "Sim, em qualquer situação",
+        "Sim, se ocorrer no mesmo dia",
+        "Não; sinais de gravidade podem aparecer após a febre ceder",
+        "Não existe mudança temporal dos sintomas"
+      ],
+      "answer": 2,
+      "explanation": "A evolução precisa ser avaliada em conjunto. A OMS descreve manifestações graves que podem surgir depois que a febre desaparece."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Dengue: transmissão e evolução dos sintomas",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Preparação - Febres hemorrágicas virais.md; OMS: https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-dengue-q2",
+      "kind": "mcq",
+      "title": "Qual via de transmissão corresponde à dengue?",
+      "options": [
+        "Picada de mosquito infectado",
+        "Inalação habitual de poeira com excretas de roedores",
+        "Alimento com toxina bacteriana",
+        "Herança cromossômica"
+      ],
+      "answer": 0,
+      "explanation": "A transmissão habitual ocorre pela picada de mosquitos infectados. Não confundir agentes diferentes ao estudar febres virais."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Dengue: transmissão e evolução dos sintomas",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Preparação - Febres hemorrágicas virais.md; OMS: https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-dengue-recall",
+      "kind": "recall",
+      "title": "Que informação temporal deve ser registrada ao relacionar febre e outros sintomas na dengue?",
+      "explanation": "Quando a febre começou e cedeu, e quando surgiram os demais sintomas. Melhora da temperatura isolada não basta para concluir recuperação."
+    },
+    {
+      "subject": "pratica",
+      "week": 8,
+      "module": "BLS pediátrico: pontos para treino em manequim",
+      "source": "Prática Médica II/semana 8/23 set - Preparação - BLS pediátrico e obstrução de vias aéreas.md; AHA/AAP 2025: https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-bls-pediatrico-read",
+      "kind": "read",
+      "title": "BLS pediátrico: pontos para treino em manequim",
+      "body": "<p>Prepare a estação prática distinguindo lactente de criança e conferindo o algoritmo completo com o instrutor. As diretrizes AHA/AAP 2025 recomendam, no lactente, compressões com uma mão ou dois polegares envolvendo o tórax; a técnica com dois dedos deixou de ser recomendada.</p><p>Na obstrução grave por corpo estranho com responsividade preservada: lactente, alternar cinco golpes dorsais e cinco compressões torácicas; criança, cinco golpes dorsais e cinco compressões abdominais. Compressões abdominais não são indicadas no lactente.</p><p>Este recorte serve para treino supervisionado e não cobre todos os ramos do atendimento. Consulte o <a href=\"https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support\">algoritmo e as diretrizes AHA/AAP 2025</a>.</p>"
+    },
+    {
+      "subject": "pratica",
+      "week": 8,
+      "module": "BLS pediátrico: pontos para treino em manequim",
+      "source": "Prática Médica II/semana 8/23 set - Preparação - BLS pediátrico e obstrução de vias aéreas.md; AHA/AAP 2025: https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-bls-pediatrico-q1",
+      "kind": "mcq",
+      "title": "No lactente responsivo com obstrução grave, que sequência é recomendada pela AHA/AAP 2025?",
+      "options": [
+        "Cinco compressões abdominais e cinco torácicas",
+        "Cinco golpes dorsais e cinco compressões torácicas",
+        "Somente compressões abdominais",
+        "Varredura digital às cegas"
+      ],
+      "answer": 1,
+      "explanation": "Alternam-se cinco golpes dorsais e cinco compressões torácicas. Não se usam compressões abdominais no lactente."
+    },
+    {
+      "subject": "pratica",
+      "week": 8,
+      "module": "BLS pediátrico: pontos para treino em manequim",
+      "source": "Prática Médica II/semana 8/23 set - Preparação - BLS pediátrico e obstrução de vias aéreas.md; AHA/AAP 2025: https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-bls-pediatrico-q2",
+      "kind": "mcq",
+      "title": "Qual técnica de compressão torácica no lactente foi retirada da recomendação AHA/AAP 2025?",
+      "options": [
+        "Dois polegares envolvendo o tórax",
+        "Uma mão",
+        "Todas as técnicas de compressão",
+        "Dois dedos sobre o esterno"
+      ],
+      "answer": 3,
+      "explanation": "A técnica com dois dedos foi retirada pela dificuldade de atingir profundidade adequada. As alternativas recomendadas são uma mão ou dois polegares envolvendo o tórax."
+    },
+    {
+      "subject": "pratica",
+      "week": 8,
+      "module": "BLS pediátrico: pontos para treino em manequim",
+      "source": "Prática Médica II/semana 8/23 set - Preparação - BLS pediátrico e obstrução de vias aéreas.md; AHA/AAP 2025: https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support",
+      "version": "2026-09-21.1",
+      "id": "reviewed-w08-bls-pediatrico-recall",
+      "kind": "recall",
+      "title": "Na obstrução grave de uma criança responsiva, o que alternar com os cinco golpes dorsais?",
+      "explanation": "Cinco compressões abdominais. No lactente, o segundo componente é torácico, não abdominal."
+    }
+  ]
+}

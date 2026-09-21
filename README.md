@@ -18,7 +18,7 @@ Acompanhar a migração no [GitHub Project](https://github.com/users/marjoripoma
 
 ## Conteúdo e aprendizagem
 
-O relatório `content/import-report.json` registra 2.513 atividades e leituras de sete disciplinas. Importa as pranchas de Forma a Função, Molécula, Genética, Histo/Embrio, Simulado da Semana, cartões Anki e 71 notas/resumos; 140 cartões repetidos foram descartados. As oito pranchas do Ari permanecem como consulta.
+O relatório `content/import-report.json` registra 2.535 atividades e leituras de sete disciplinas. Importa as pranchas de Forma a Função, Molécula, Genética, Histo/Embrio, Simulado da Semana, cartões Anki e 71 notas/resumos; 140 cartões repetidos foram descartados. As oito pranchas do Ari permanecem como consulta.
 
 As ferramentas completas estão incorporadas. O armazenamento delas é redirecionado para snapshots da conta, com controle de revisão e alerta de falha/conflito. Tentativas da biblioteca e histórico das ferramentas são apresentados separadamente. Históricos dos sites antigos não migram automaticamente.
 
@@ -87,7 +87,13 @@ Verificados na migração inicial: 2.513 IDs, 1.473 referências a imagens e nov
 
 ## Atualização do acervo
 
-No vault original, execute `node scripts/import-content.mjs` e `node scripts/prepare-books.mjs`. As fontes originais são preservadas. Depois valide o conteúdo, compile e teste os fluxos afetados. Apenas materiais selecionados são importados; atividades pessoais, áudios e documentos completos da turma não são publicados automaticamente.
+A atualização diária usa `node scripts/import-content.mjs`, que aplica somente os pacotes revisados em `content/reviewed/*.json`. Cada pacote contém data de revisão, caminhos e hashes SHA-256 das fontes, escopo da seleção e itens com IDs estáveis no namespace `reviewed-`. A aplicação é aditiva e idempotente; ausência de uma fonte não remove atividades. O catálogo e as semanas disponíveis na interface são atualizados a partir dos itens efetivamente incorporados. `created` mantém a data histórica do catálogo; `updated` registra a última alteração editorial.
+
+A reconstrução antiga das pranchas e notas das semanas 1–7 só roda com `node scripts/import-content.mjs --rebuild-legacy`; não faz parte da rotina diária e exige revisar o diff completo. Os pacotes editoriais são reaplicados ao final. Rode `scripts/prepare-books.mjs` somente quando as pranchas incorporadas forem intencionalmente atualizadas, preservando suas chaves de snapshot. Para acrescentar novas semanas, use pacotes revisados, sem ampliar a importação automática de arquivos brutos.
+
+Antes de publicar: `npm run validate:content`, `node tests/reviewed-content.mjs`, verificação de tipos e build. O teste compara o catálogo com o HEAD, impede alteração dos itens anteriores nesta atualização e verifica repetição da importação, colisões de IDs e ausência de fontes. O inventário e o relatório privado ficam fora do projeto, em `_/Portal Prancha/Atualização diária/`. Inventariado ou citado não significa publicado.
+
+Em 21/09, foram acrescentados 22 itens da semana 8: cinco leituras, 12 questões e cinco cartões em Pesquisa, Genética, Molécula, Microbiota e Prática Médica. A seleção não representa cobertura integral das aulas. Histologia/Neuroembriologia aguardam revisão das imagens; documentos pessoais e de visitas não foram incorporados. A inversão de rótulos na página 17 da aula de Genética foi registrada e esclarecida na leitura correspondente.
 
 ## Publicação
 

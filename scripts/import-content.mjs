@@ -1,3 +1,9 @@
+// Daily updates use only explicitly reviewed bundles. Legacy rebuild is opt-in.
+if (!process.argv.includes('--rebuild-legacy')) {
+  const {applyReviewed}=await import('./apply-reviewed-content.mjs');
+  applyReviewed();
+  process.exit(0);
+}
 import fs from 'node:fs';import path from 'node:path';import vm from 'node:vm';
 const root=path.resolve('..'),items=[];
 const read=p=>fs.readFileSync(path.join(root,p),'utf8'),json=p=>JSON.parse(read(p));
@@ -39,3 +45,5 @@ for(const subject of subjects){const folder=fs.readdirSync(root).find(n=>norm(n)
 const ids=new Set();for(const x of items){if(ids.has(x.id))throw Error('Duplicate id '+x.id);ids.add(x.id);if(x.kind==='mcq'&&(!Array.isArray(x.options)||!Number.isInteger(x.answer)||x.answer<0||x.answer>=x.options.length))throw Error('Invalid key '+x.id);}
 const report={created:'2026-09-20',items:items.length,duplicateCardsSkipped:dedup,bySubject:subjects.map(s=>({...s,counts:Object.fromEntries(['read','mcq','written','recall'].map(k=>[k,items.filter(x=>x.subject===s.id&&x.kind===k).length])),weeks:[...new Set(items.filter(x=>x.subject===s.id).map(x=>x.week))].sort((a,b)=>a-b)}))};
 fs.writeFileSync('content/catalog.json',JSON.stringify({subjects,items}));fs.writeFileSync('content/import-report.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));
+
+await (await import('./apply-reviewed-content.mjs')).applyReviewed();

@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {execFileSync} from 'node:child_process';
+import {mergeReviewed} from '../scripts/apply-reviewed-content.mjs';
+const before=JSON.parse(execFileSync('git',['show','HEAD:content/catalog.json'],{encoding:'utf8',maxBuffer:20_000_000}));
+const current=JSON.parse(fs.readFileSync('content/catalog.json'));
+const bundles=fs.readdirSync('content/reviewed').filter(f=>f.endsWith('.json')).map(f=>JSON.parse(fs.readFileSync('content/reviewed/'+f)));
+const result=mergeReviewed(before,bundles);
+assert.deepEqual(result,current);
+for(const item of before.items) assert.deepEqual(result.items.find(x=>x.id===item.id),item,`Existing item changed: ${item.id}`);
+assert.deepEqual(mergeReviewed(result,bundles),result,'Repeated import must be idempotent');
+assert.deepEqual(mergeReviewed(result,[]),result,'Missing bundle must not delete existing activities');
+assert.throws(()=>mergeReviewed(before,[bundles[0],bundles[0]]),/Duplicate reviewed ID/);
+const invalid=structuredClone(bundles[0]); invalid.items[0].id=before.items[0].id;
+assert.throws(()=>mergeReviewed(before,[invalid]),/namespace/);
+assert(result.items.some(i=>i.week===8));
+assert.equal((150/500)/(60/500),2.5);assert.equal((200/100)/(100/200),4);
+console.log(JSON.stringify({preservedItems:before.items.length,newItems:result.items.length-before.items.length,idempotent:true,missingSourcesPreserved:true}));
