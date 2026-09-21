@@ -16,13 +16,21 @@ Credenciais Google configuradas no Vercel e política Google aceita pela proprie
 
 O aplicativo Google está **In production**, confirmado no console em 21/09/2026 após autorização explícita da proprietária. Qualquer conta Google pode iniciar o login; somente quem informar o convite da turma acessa o acervo. Login real da proprietária, ingresso pelo convite, biblioteca e prancha de Genética foram confirmados no navegador de produção.
 
-O conteúdo privado continua protegido no servidor. Os 18 testes de isolamento e persistência da migração usam duas sessões locais de teste; isso é distinto da verificação do login real Google em uma conta.
+O conteúdo privado continua protegido no servidor. Os testes de isolamento e persistência usam sessões locais temporárias; isso é distinto da verificação do login real Google em uma conta.
 
 ## Autenticação e acesso
 
 A entrada usa exclusivamente Google, com escopos `openid email profile`, e exige e-mail verificado. A sessão é assinada e criptografada pelo Auth.js, com duração de sete dias. A identidade é `google:<sub>`; cabeçalhos de identidade do antigo Sites não são aceitos.
 
-Após o login, o aluno informa o convite da turma. Apenas o SHA-256 do convite é versionado. O documento com o código está fora do projeto, no vault. Há limite de oito tentativas por conta a cada dez minutos.
+Após o login, o aluno informa o convite e confere turma, grupo A/B, semestre letivo e período do curso antes de confirmar. Há quatro convites distintos em 2026.2: T1A, T1B, T2A e T2B. A configuração em `content/cohorts.json` contém somente hashes SHA-256; os códigos completos ficam no vault, fora do projeto. Cada consulta ou confirmação de convite conta no limite de oito requisições por conta a cada dez minutos, aplicado atomicamente.
+
+A tabela `members` mantém a identidade e o progresso. `enrollments` registra uma única turma por conta e semestre letivo. Outro convite do mesmo semestre não sobrescreve essa matrícula, inclusive em requisições concorrentes. A exportação inclui as matrículas da própria conta. Convites não permitem consultar respostas de colegas.
+
+A autorização exige matrícula em um grupo habilitado do `activeTerm`. Uma matrícula antiga ou grupo inexistente não libera o acervo atual. O convite global anterior foi retirado do aplicativo; contas existentes usam um dos novos convites para se vincular, sem alterar a data de criação, respostas ou snapshots. A proprietária confirmou que pertence à T2A.
+
+T3 está prevista para 2027 em `futureCohorts`, sem convite ativo. Os grupos são cadastrados explicitamente: não são deduzidos da passagem do calendário. Para um novo semestre, acrescente grupos/convites com hashes novos e altere `activeTerm` após conferir o calendário; mantenha os registros históricos e os identificadores de conteúdo. Uma correção administrativa de turma altera apenas a matrícula específica, preservando a conta e seu histórico.
+
+As quatro turmas compartilham o acervo disponível, principalmente do segundo semestre do curso. A identificação da T1 não cria conteúdo do terceiro semestre. Apenas a T2A tem calendário de avaliações cadastrado; os demais grupos recebem uma indicação de calendário ainda indisponível.
 
 Todas as consultas e escritas usam a identidade verificada no servidor. IDs enviados pelo cliente não permitem consultar colegas. O banco é acessível apenas pelo servidor. Os arquivos educacionais ficam em `protected-assets`, fora de `public`, e são servidos por rotas que verificam sessão e matrícula. A página inicial e a descrição do acervo são públicas.
 
@@ -49,11 +57,11 @@ A publicação anterior no Sites foi substituída como destino principal. Nenhum
 - `npm run build` compila para Vercel; `npm start` executa a compilação.
 - `npx tsc --noEmit` verifica os tipos.
 - `npm run validate:content` verifica IDs, gabaritos e referências a imagens.
-- `npm run db:migrate` aplica o SQL idempotente em `db/migrations`, usando `.env.production.local` local e ignorado pelo Git.
+- `npm run db:migrate` aplica em ordem as migrações ainda não registradas em `schema_migrations`, a partir de `db/migrations`, usando `.env.production.local` local e ignorado pelo Git.
 - `node --env-file=.env.test.local node_modules/next/dist/bin/next start --hostname localhost --port 4318` inicia o teste local com segredo de sessão exclusivo.
-- `npm run test:integration` testa o servidor local contra o banco dedicado. Cria duas identidades temporárias, assina sessões com o segredo local e remove os registros de teste ao terminar. Não simula o consentimento Google: o fluxo OAuth real exige verificação separada no navegador.
+- `npm run test:integration` testa o servidor local contra o banco dedicado. Cria oito identidades temporárias, assina sessões com o segredo local e remove os registros de teste ao terminar. Não simula o consentimento Google: o fluxo OAuth real exige verificação separada no navegador.
 
-Verificados nesta migração: compilação, tipos, 2.513 IDs, 1.473 referências a imagens, nove marcadores visuais e 18 verificações de acesso/persistência. As verificações cobrem isolamento, sessão adulterada, cabeçalhos falsos, convite, CSRF, correção, repetição concorrente, conflitos de snapshot, imagens privadas e pranchas completas.
+Verificados na migração inicial: 2.513 IDs, 1.473 referências a imagens e nove marcadores visuais. Na divisão de turmas, a compilação local com Webpack e TypeScript passou, assim como 31 verificações de acesso/persistência. O Turbopack local encontrou uma restrição de porta do ambiente; a publicação mantém o compilador padrão da Vercel. As verificações cobrem isolamento, sessão adulterada, cabeçalhos falsos, convite, CSRF, correção, repetição concorrente, conflitos de snapshot, imagens privadas e pranchas completas. A ampliação para turmas acrescenta prévia de convite, os quatro grupos, rejeição do convite antigo e de T3, disputa de matrícula, limite concorrente de tentativas, bloqueio por semestre/grupo inválido e preservação do histórico entre semestres.
 
 ## Atualização do acervo
 

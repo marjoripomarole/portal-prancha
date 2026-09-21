@@ -1,0 +1,51 @@
+{
+  "activeTerm": "2026.2",
+  "groups": [
+    {
+      "id": "t1a-2026s2",
+      "cohort": "T1",
+      "section": "A",
+      "academicTerm": "2026.2",
+      "coursePeriod": 3,
+      "enabled": true,
+      "inviteHash": "2f8259d5101908b3060587fcdfa29152314d0c82443a162ffc6e1380a5d23009"
+    },
+    {
+      "id": "t1b-2026s2",
+      "cohort": "T1",
+      "section": "B",
+      "academicTerm": "2026.2",
+      "coursePeriod": 3,
+      "enabled": true,
+      "inviteHash": "188691eb03a9be4b4598243a461e120c3b5fa62e72efd80a4f541a9f0d785ac0"
+    },
+    {
+      "id": "t2a-2026s2",
+      "cohort": "T2",
+      "section": "A",
+      "academicTerm": "2026.2",
+      "coursePeriod": 2,
+      "enabled": true,
+      "inviteHash": "657b214cc600bcce42dd452219558890a6ee5ba97261279868e9d326c4d80f90"
+    },
+    {
+      "id": "t2b-2026s2",
+      "cohort": "T2",
+      "section": "B",
+      "academicTerm": "2026.2",
+      "coursePeriod": 2,
+      "enabled": true,
+      "inviteHash": "3f749590b96ba8fc2bf002a8566e587bfd2a6717ac2f0b022d9b1aefb3f3b6e4"
+    }
+  ],
+  "futureCohorts": [
+    {
+      "cohort": "T3",
+      "startYear": 2027,
+      "sections": [
+        "A",
+        "B"
+      ]
+    }
+  ]
+}
