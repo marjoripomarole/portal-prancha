@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Prancha | Seu semestre de Medicina",
+  title: "Portal Prancha",
   description: "Conteúdo, prática e progresso individual de Medicina 2026.2.",
   other: {
     "codex-preview": "development",
