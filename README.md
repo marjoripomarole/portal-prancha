@@ -10,6 +10,12 @@ As ferramentas completas estão incorporadas. O armazenamento delas é redirecio
 
 Leitura, respostas assistidas, acertos objetivos e autoavaliação são medidas distintas. A cobertura é desigual entre disciplinas e não equivale a domínio do currículo. Os gabaritos não receberam nova revisão docente.
 
+## Estado da ativação em 21/09/2026
+
+Credenciais Google configuradas no Vercel e política Google aceita pela proprietária. O botão de login está ativo; início OAuth verificado, com escopos `openid email profile` e callback correto. A página pública de privacidade está em `/privacidade`.
+
+O aplicativo Google permanece em **Testing**, com uma conta de teste (a proprietária). A publicação para todas as contas externas depende da confirmação específica solicitada após bloqueio da revisão automática. O acesso ao conteúdo continua exigindo o convite. O teste completo de login no navegador está pendente: o Chrome interrompeu a automação por uma janela de outra extensão aberta.
+
 ## Autenticação e acesso
 
 A entrada usa exclusivamente Google, com escopos `openid email profile`, e exige e-mail verificado. A sessão é assinada e criptografada pelo Auth.js, com duração de sete dias. A identidade é `google:<sub>`; cabeçalhos de identidade do antigo Sites não são aceitos.
@@ -30,7 +36,7 @@ Variáveis de produção no Vercel:
 - `AUTH_URL=https://portal-prancha.vercel.app`.
 
 Redirect autorizado no Google: `https://portal-prancha.vercel.app/api/auth/callback/google`.
-Projeto Google dedicado: Portal Prancha (`hopeful-expanse-509221-i6`).
+Projeto Google dedicado: Portal Prancha (`hopeful-expanse-509221-i6`). A chave Google está marcada como sensível no Vercel; uma cópia local protegida fica em `.env.google.local`, ignorada pelo Git e pelo deploy. Não imprimir seu conteúdo.
 O botão de entrada permanece desativado se a configuração Google ou o banco estiverem ausentes.
 
 A publicação anterior no Sites foi substituída como destino principal. Nenhum runtime ou login do Sites é necessário ao aplicativo atual.
