@@ -1,0 +1,169 @@
+{
+  "reviewedAt": "2026-09-22",
+  "sources": [
+    {
+      "path": "Forma a Função II/_/ROTEIRO DE ESTUDO DA EMBRIOLOGIA E HISTOLOGIA DO SISTEMA NERVOSO.pdf",
+      "sha256": "61a75653583d36fd5f1fa16300c189efcdca8047faa9a090bd54d18d0d2e6aa2",
+      "scope": "Páginas 1–4: síntese neural. Página 5 contém pedido de criação de slides, ignorado como conteúdo não didático. Semana 8 por associação às aulas locais 11 e 12; não se refere às semanas embrionárias."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "sha256": "f22703a2dd1c0eb79ecd95578635780af4c93bfd1047669e0b0a6e22cc435060",
+      "scope": "Transmissão de Ebola e hantavírus; sem dados de surtos, nomes de pacientes, contatos do professor ou recomendações terapêuticas. Conferência em OMS e CDC em 22/09/2026."
+    }
+  ],
+  "items": [
+    {
+      "subject": "forma",
+      "week": 8,
+      "module": "Roteiro neural: origem, camadas e revestimentos",
+      "source": "Forma a Função II/_/ROTEIRO DE ESTUDO DA EMBRIOLOGIA E HISTOLOGIA DO SISTEMA NERVOSO.pdf · p. 1–4; https://vmicro.iusm.iu.edu/hs_vm/docs/lab5_3.htm",
+      "version": "2026-09-22.1",
+      "id": "reviewed-w08-roteiro-neural-read",
+      "kind": "read",
+      "title": "Roteiro neural: origem, camadas e revestimentos",
+      "body": "<p>Na neurulação, o ectoderma forma a placa e o tubo neural, origem do SNC. Células da crista neural migram e contribuem para estruturas periféricas, incluindo células de Schwann e células satélites. Não confunda tubo neural e crista neural.</p><p>No córtex cerebelar, da superfície para a profundidade, reconheça as camadas molecular, de células de Purkinje e granular. A camada de Purkinje forma uma fileira de grandes corpos celulares entre as outras duas. A camada granular é densamente celular. Fonte de conferência: <a href=\"https://vmicro.iusm.iu.edu/hs_vm/docs/lab5_3.htm\">Indiana University — microscopia virtual</a>.</p><p>Na medula, a substância cinzenta ocupa a região central e a branca fica na periferia. Nos nervos periféricos, endoneuro envolve fibras individuais, perineuro delimita fascículos e epineuro reveste o nervo. Identifique primeiro a arquitetura e depois as células.</p><p>Oligodendrócitos produzem mielina no SNC; células de Schwann, no SNP. Células ependimárias revestem as cavidades ventriculares e o canal central. Esta síntese acompanha a semana letiva 8; as semanas do desenvolvimento embrionário são outra escala temporal.</p>"
+    },
+    {
+      "subject": "forma",
+      "week": 8,
+      "module": "Roteiro neural: origem, camadas e revestimentos",
+      "source": "Forma a Função II/_/ROTEIRO DE ESTUDO DA EMBRIOLOGIA E HISTOLOGIA DO SISTEMA NERVOSO.pdf · p. 1–4; https://vmicro.iusm.iu.edu/hs_vm/docs/lab5_3.htm",
+      "version": "2026-09-22.1",
+      "id": "reviewed-w08-roteiro-neural-q1",
+      "kind": "mcq",
+      "title": "Do exterior para o interior do córtex cerebelar, qual sequência deve orientar a leitura da lâmina?",
+      "options": [
+        "Granular, molecular, Purkinje",
+        "Molecular, Purkinje, granular",
+        "Purkinje, granular, molecular",
+        "Molecular, granular, Purkinje"
+      ],
+      "answer": 1,
+      "explanation": "A camada de Purkinje fica entre a molecular superficial e a granular profunda."
+    },
+    {
+      "subject": "forma",
+      "week": 8,
+      "module": "Roteiro neural: origem, camadas e revestimentos",
+      "source": "Forma a Função II/_/ROTEIRO DE ESTUDO DA EMBRIOLOGIA E HISTOLOGIA DO SISTEMA NERVOSO.pdf · p. 1–4; https://vmicro.iusm.iu.edu/hs_vm/docs/lab5_3.htm",
+      "version": "2026-09-22.1",
+      "id": "reviewed-w08-roteiro-neural-q2",
+      "kind": "mcq",
+      "title": "Em um nervo com vários fascículos, qual revestimento delimita cada fascículo, em vez do nervo inteiro?",
+      "options": [
+        "Epineuro",
+        "Endoneuro",
+        "Perineuro",
+        "Pia-máter"
+      ],
+      "answer": 2,
+      "explanation": "O perineuro delimita o fascículo. O endoneuro envolve fibras individuais; o epineuro organiza o conjunto do nervo."
+    },
+    {
+      "subject": "forma",
+      "week": 8,
+      "module": "Roteiro neural: origem, camadas e revestimentos",
+      "source": "Forma a Função II/_/ROTEIRO DE ESTUDO DA EMBRIOLOGIA E HISTOLOGIA DO SISTEMA NERVOSO.pdf · p. 1–4; https://vmicro.iusm.iu.edu/hs_vm/docs/lab5_3.htm",
+      "version": "2026-09-22.1",
+      "id": "reviewed-w08-roteiro-neural-q3",
+      "kind": "mcq",
+      "title": "Qual associação entre origem embrionária e estrutura está correta no roteiro neural?",
+      "options": [
+        "Tubo neural → SNC; crista neural → células de Schwann",
+        "Crista neural → todo o SNC; tubo neural → Schwann",
+        "Endoderma → tubo neural",
+        "Mesoderma → todas as células de Schwann"
+      ],
+      "answer": 0,
+      "explanation": "Tubo e crista são componentes distintos do desenvolvimento neural. As células de Schwann derivam da crista neural."
+    },
+    {
+      "subject": "forma",
+      "week": 8,
+      "module": "Roteiro neural: origem, camadas e revestimentos",
+      "source": "Forma a Função II/_/ROTEIRO DE ESTUDO DA EMBRIOLOGIA E HISTOLOGIA DO SISTEMA NERVOSO.pdf · p. 1–4; https://vmicro.iusm.iu.edu/hs_vm/docs/lab5_3.htm",
+      "version": "2026-09-22.1",
+      "id": "reviewed-w08-roteiro-neural-recall",
+      "kind": "recall",
+      "title": "Como diferenciar oligodendrócito, célula de Schwann e célula ependimária pela função?",
+      "explanation": "Oligodendrócito: mielina no SNC. Schwann: mielina no SNP. Ependimária: revestimento das cavidades ventriculares e do canal central."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Ebola e hantavírus: exposição e transmissão",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf; https://www.who.int/news-room/fact-sheets/detail/ebola-disease; https://www.cdc.gov/hantavirus/about/",
+      "version": "2026-09-22.1",
+      "id": "reviewed-w08-ebola-hanta-read",
+      "kind": "read",
+      "title": "Ebola e hantavírus: exposição e transmissão",
+      "body": "<p>Investigue exposição, local e intervalo até os sintomas, além da manifestação clínica. Uma síndrome febril inespecífica não identifica o vírus por si só.</p><p>No Ebola, a transmissão entre pessoas envolve contato de mucosas ou pele lesada com sangue ou fluidos corporais infectados, incluindo materiais contaminados. Ausência de hemorragia não exclui a doença. Veja a <a href=\"https://www.who.int/news-room/fact-sheets/detail/ebola-disease\">síntese da OMS</a>.</p><p>Hantavírus são associados principalmente a roedores e à exposição a suas excretas e saliva. Não generalize que nunca existe transmissão entre pessoas: o vírus Andes é a exceção conhecida. Confira o <a href=\"https://www.cdc.gov/hantavirus/about/\">CDC</a>.</p><p>Para revisar, faça três colunas: fonte de exposição, via de entrada e informação epidemiológica necessária. Não transforme uma exposição isolada em diagnóstico confirmado. Números de surtos e protocolos clínicos exigem consulta específica atualizada.</p>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Ebola e hantavírus: exposição e transmissão",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf; https://www.who.int/news-room/fact-sheets/detail/ebola-disease; https://www.cdc.gov/hantavirus/about/",
+      "version": "2026-09-22.1",
+      "id": "reviewed-w08-ebola-hanta-q1",
+      "kind": "mcq",
+      "title": "Qual associação é adequada ao comparar as exposições de Ebola e hantavírus?",
+      "options": [
+        "Ambos dependem exclusivamente de picada de mosquito",
+        "Ebola: fluidos infectados; hantavírus: principalmente roedores e suas excretas",
+        "Ebola: apenas alimento; hantavírus: apenas água",
+        "Ambos são doenças exclusivamente hereditárias"
+      ],
+      "answer": 1,
+      "explanation": "As vias de transmissão diferem. O contato com fluidos infectados é relevante no Ebola; roedores e excretas são centrais na epidemiologia dos hantavírus."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Ebola e hantavírus: exposição e transmissão",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf; https://www.who.int/news-room/fact-sheets/detail/ebola-disease; https://www.cdc.gov/hantavirus/about/",
+      "version": "2026-09-22.1",
+      "id": "reviewed-w08-ebola-hanta-q2",
+      "kind": "mcq",
+      "title": "Qual informação impede a afirmação de que hantavírus nunca se transmite entre pessoas?",
+      "options": [
+        "A existência de células de Schwann",
+        "A presença de febre em qualquer paciente",
+        "A transmissão interpessoal documentada do vírus Andes",
+        "A ausência de mosquitos em determinada cidade"
+      ],
+      "answer": 2,
+      "explanation": "O vírus Andes é uma exceção conhecida com transmissão entre pessoas, conforme o CDC."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Ebola e hantavírus: exposição e transmissão",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf; https://www.who.int/news-room/fact-sheets/detail/ebola-disease; https://www.cdc.gov/hantavirus/about/",
+      "version": "2026-09-22.1",
+      "id": "reviewed-w08-ebola-hanta-q3",
+      "kind": "mcq",
+      "title": "Por que ausência de sangramento não basta para afastar Ebola em uma investigação?",
+      "options": [
+        "Porque toda febre é Ebola",
+        "Porque exames nunca são necessários",
+        "Porque o local de exposição não importa",
+        "Porque hemorragia não está presente em todos os casos"
+      ],
+      "answer": 3,
+      "explanation": "A OMS descreve sangramento como manifestação menos frequente, que pode ocorrer mais tarde. Avaliação clínica, epidemiológica e laboratorial precisa ser integrada."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Ebola e hantavírus: exposição e transmissão",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf; https://www.who.int/news-room/fact-sheets/detail/ebola-disease; https://www.cdc.gov/hantavirus/about/",
+      "version": "2026-09-22.1",
+      "id": "reviewed-w08-ebola-hanta-recall",
+      "kind": "recall",
+      "title": "Que três dimensões organizar antes de atribuir uma síndrome febril a uma exposição?",
+      "explanation": "Pessoa, tempo e lugar: qual exposição ocorreu, em que local, e qual foi a sequência temporal em relação aos sintomas. Essa organização orienta a investigação, mas não confirma etiologia isoladamente."
+    }
+  ]
+}
