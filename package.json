@@ -12,7 +12,8 @@
     "lint": "eslint app auth.ts lib db --ignore-pattern components",
     "validate:content": "node scripts/validate-content.mjs",
     "db:migrate": "node --env-file=.env.production.local scripts/migrate.mjs",
-    "test:integration": "node --env-file=.env.test.local tests/integration.mjs"
+    "test:integration": "node --env-file=.env.test.local tests/integration.mjs",
+    "test:code-access": "node --env-file=.env.test.local tests/code-access.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",

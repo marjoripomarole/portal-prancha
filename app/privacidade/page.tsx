@@ -1,24 +1,13 @@
 import Link from 'next/link';
-
-export const metadata = {title: 'Privacidade | Portal Prancha'};
-
-export default function Privacy() {
-  return <main className="shell"><section className="paper exercise">
-    <p className="eyebrow">PORTAL PRANCHA · ATUALIZADO EM 21/09/2026</p>
-    <h1>Seus dados de estudo</h1>
-    <p>O Portal Prancha é uma iniciativa estudantil para organizar os estudos da turma de Medicina 2026.2. Esta página explica como a plataforma utiliza seus dados.</p>
-    <h2>Login com Google</h2>
-    <p>Ao entrar, o Google fornece seu identificador de conta, nome, e-mail verificado e imagem de perfil. Esses dados identificam sua sessão. O Portal não recebe sua senha Google e não solicita acesso a mensagens do Gmail, arquivos do Drive, contatos ou calendário.</p>
-    <h2>O que fica salvo</h2>
-    <p>Guardamos sua turma, grupo A/B e semestre letivo, além de leituras marcadas, respostas escritas, resultados de questões, uso declarado de ajuda, autoavaliações, datas das atividades e histórico das pranchas. Esses registros permitem retomar os estudos e consultar o próprio progresso. O identificador Google vincula os registros à sua conta; entrar em um novo semestre não apaga seu histórico.</p>
-    <h2>Quem tem acesso</h2>
-    <p>Cada aluno acessa o próprio histórico. O convite libera os materiais da turma e não libera respostas de colegas. A responsável pela plataforma pode administrar a base de dados para manter o serviço e atender solicitações dos usuários.</p>
-    <p>Usamos Google para autenticação, Vercel para hospedagem e Neon para o banco de dados. Esses serviços processam os dados necessários ao funcionamento da plataforma e podem registrar informações técnicas de conexão conforme suas próprias políticas. O Portal não vende o histórico de estudo nem utiliza respostas para publicidade.</p>
-    <h2>Sessão e preferências</h2>
-    <p>Cookies de autenticação mantêm sua sessão por até sete dias. Você pode encerrar a sessão pelo botão “Sair da conta”. O histórico integrado é salvo no servidor; registros existentes em outros sites de estudo não são importados automaticamente.</p>
-    <h2>Exportação, correção e exclusão</h2>
-    <p>Na área “Meu progresso”, você pode exportar seu histórico. Para solicitar correção ou exclusão dos dados da conta, entre em contato com a responsável, Marjori Pomarole, pelo e-mail <a href="mailto:marjoripomarole@gmail.com">marjoripomarole@gmail.com</a>. Os registros ficam armazenados para permitir a continuidade dos estudos enquanto sua conta estiver ativa, salvo solicitação de exclusão.</p>
-    <p>Evite inserir nas respostas informações pessoais de pacientes ou de terceiros. As atividades destinam-se ao estudo e não integram prontuários ou registros oficiais da faculdade.</p>
-    <p><Link className="lightbutton" href="/">Voltar ao Portal</Link></p>
-  </section></main>;
-}
+export const metadata = {title:'Privacidade | Portal Prancha'};
+export default function Privacy(){return <main className="shell"><section className="paper exercise">
+<p className="eyebrow">PORTAL PRANCHA · ATUALIZADO EM 23/09/2026</p><h1>Seus dados de estudo</h1>
+<p>O Portal é uma iniciativa estudantil para organizar os estudos de Medicina. O acesso utiliza o código da turma, sem login com Google.</p>
+<h2>Um histórico por navegador</h2><p>Ao entrar, o servidor cria uma identificação aleatória para este navegador. O código identifica a turma, não a pessoa. Navegadores e dispositivos diferentes recebem históricos separados. Pessoas que utilizam o mesmo perfil de navegador compartilham esse histórico.</p>
+<h2>Cookies de acesso</h2><p>Dois cookies protegidos mantêm a identificação e a sessão por até 180 dias após a entrada. Sair encerra a sessão; o identificador do navegador permanece para retomar o histórico após informar novamente o código. Limpar cookies, trocar de navegador, usar janela anônima ou deixar os cookies expirarem impede recuperar automaticamente o histórico. Não há recuperação por e-mail.</p>
+<h2>O que fica salvo</h2><p>Guardamos turma, semestre, leituras marcadas, respostas, resultados, uso de ajuda, autoavaliações e histórico das pranchas. Cada consulta usa a identificação protegida do navegador; o código compartilhado não permite consultar o histórico de outros navegadores.</p>
+<h2>Contas anteriores</h2><p>Históricos anteriores vinculados ao Google foram preservados, mas não são associados automaticamente a novos acessos por código. O login Google foi desativado. Uma eventual recuperação desses históricos requer atendimento individual da responsável, com confirmação da titularidade.</p>
+<h2>Hospedagem e proteção</h2><p>Vercel hospeda o Portal e Neon armazena os dados. Para limitar tentativas de entrada, o servidor usa uma representação protegida do endereço de rede, sem gravar o endereço original nessa tabela. Os provedores podem registrar dados técnicos de conexão. O Portal não vende históricos de estudo.</p>
+<h2>Exportação, correção e exclusão</h2><p>Você pode exportar o histórico deste navegador em Meu progresso. Para correção ou exclusão, procure Marjori Pomarole pelo e-mail <a href="mailto:marjoripomarole@gmail.com">marjoripomarole@gmail.com</a>. Preserve o acesso no navegador para ajudar a identificar o histórico. A responsável pode administrar o banco para manutenção e atendimento.</p>
+<p>Não inclua informações pessoais de pacientes ou terceiros nas respostas. As atividades são materiais de estudo, não prontuários ou registros oficiais da faculdade.</p><p><Link className="lightbutton" href="/">Voltar ao Portal</Link></p>
+</section></main>}
