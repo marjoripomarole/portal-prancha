@@ -53,3 +53,15 @@ Em 21/09, foram acrescentados 22 itens da semana 8: cinco leituras, 12 questões
 ## Publicação
 
 GitHub `main` publica no projeto Vercel `portal-prancha`. Confirme READY, alias principal e acesso real após publicar. Alterações devem preservar dados e identificadores dos alunos. AGENTS.md/CLAUDE.md locais gerados por Next não fazem parte destas alterações.
+
+## Métricas de acesso — 23/09/2026
+
+Painel privado: https://vercel.com/marjoripomarole/portal-prancha/analytics
+
+Vercel Web Analytics está habilitado no plano Hobby, sem upgrade: 50.000 eventos/mês e histórico consultável de 30 dias no momento da configuração. A coleta começa após o deploy em novos carregamentos; não existe histórico retroativo. Bloqueadores e limites do plano podem reduzir a contagem. Visitantes estimados não correspondem necessariamente a alunos únicos.
+
+`app/access-analytics.tsx` monta o SDK oficial separadamente do fluxo de estudos, apenas em produção. `lib/analytics-policy.mjs` permite somente pageviews da origem principal e das páginas `/`, `/entrar`, `/privacidade`; remove query e fragmento e rejeita eventos personalizados. Não envia códigos, identificadores de dispositivo ou respostas. Não acessa Neon, não escreve no histórico e não altera cookies de autenticação. Nenhum recarregamento é imposto a abas existentes.
+
+Este painel mede acessos e visualizações de páginas, dispositivo, navegador, país aproximado e origem. As abas internas Hoje/Matérias/Praticar não mudam de URL e não são contadas como páginas distintas. Não mede tempo de estudo, acertos, conclusões ou usuários simultâneos precisos. Não foram habilitados eventos personalizados (exigem outro plano).
+
+Validação do filtro de privacidade: `node --test tests/analytics-policy.mjs`. A instrumentação é não bloqueante: falha na coleta não deve impedir a utilização do Portal.
