@@ -1,0 +1,133 @@
+{
+  "reviewedAt": "2026-09-23",
+  "sources": [
+    {
+      "path": "Forma a Função II/semana 8/Princípios TC e RM_2026 Sírio.pdf",
+      "sha256": "ac00170e8ee47f1358a62335f03bc4867ecc68fb73b8eac5a04c8894871badae",
+      "scope": "Páginas 13–17 e 28–33: escala de atenuação, janelas e princípios de RM. Sem casos clínicos, imagens de pacientes, contraindicações ou protocolos."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "sha256": "df178193fe114416279adf7a6fb38983d3ccc4a8deb30ad26f5a51b1aa61ca33",
+      "scope": "Páginas 38–40: transmissão e prevenção de norovírus. Formulações absolutas sobre resistência a cloro/álcool substituídas pela orientação contextualizada do CDC; sem protocolos terapêuticos ou vacinação."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-w08-imagem-read",
+      "subject": "forma",
+      "week": 8,
+      "module": "Princípios de TC e RM",
+      "source": "Forma a Função II/semana 8/Princípios TC e RM_2026 Sírio.pdf · p. 13–17, 28–33; https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+      "version": "2026-09-23.1",
+      "kind": "read",
+      "title": "TC e RM: atenuação, janelas e formação do sinal",
+      "body": "<p>A TC utiliza raios X e reconstrói diferenças de atenuação. Na escala de Hounsfield, a água é a referência de 0 UH e o ar fica próximo de −1000 UH. A atenuação do osso varia; não trate um valor ilustrativo da aula como constante para todo tecido ósseo.</p><p>A janela organiza a apresentação em tons de cinza: o nível define o centro e a largura define o intervalo exibido. Ajustar a janela muda a visualização, não o valor de atenuação registrado no exame. Por isso, uma mesma aquisição pode ser observada com janelas diferentes.</p><p>A RM utiliza campo magnético, pulsos de radiofrequência e sinais associados à relaxação dos núcleos. Diferentemente da TC, não usa raios X. A aparência depende da sequência; não transfira automaticamente a interpretação claro/escuro da TC para a RM. Conferência: <a href=\"https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri\">NIBIB — princípios de RM</a>.</p>"
+    },
+    {
+      "id": "reviewed-w08-imagem-q1",
+      "subject": "forma",
+      "week": 8,
+      "module": "Princípios de TC e RM",
+      "source": "Forma a Função II/semana 8/Princípios TC e RM_2026 Sírio.pdf · p. 13–17, 28–33; https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+      "version": "2026-09-23.1",
+      "kind": "mcq",
+      "title": "Ao mudar a janela de uma TC, o que é alterado?",
+      "options": [
+        "A atenuação original de cada tecido",
+        "O intervalo apresentado em tons de cinza",
+        "A composição química do tecido",
+        "O tipo de radiação emitida"
+      ],
+      "answer": 1,
+      "explanation": "Nível e largura controlam a exibição dos valores já adquiridos, sem mudar a atenuação registrada."
+    },
+    {
+      "id": "reviewed-w08-imagem-q2",
+      "subject": "forma",
+      "week": 8,
+      "module": "Princípios de TC e RM",
+      "source": "Forma a Função II/semana 8/Princípios TC e RM_2026 Sírio.pdf · p. 13–17, 28–33; https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+      "version": "2026-09-23.1",
+      "kind": "mcq",
+      "title": "Qual associação descreve corretamente os princípios de TC e RM?",
+      "options": [
+        "TC: radiofrequência; RM: raios X",
+        "Ambas usam exclusivamente raios X",
+        "TC: raios X; RM: campo magnético e radiofrequência",
+        "Ambas medem somente a reflexão do ultrassom"
+      ],
+      "answer": 2,
+      "explanation": "A TC mede atenuação de raios X. A RM obtém sinais a partir da interação com campo magnético e pulsos de radiofrequência."
+    },
+    {
+      "id": "reviewed-w08-imagem-recall",
+      "subject": "forma",
+      "week": 8,
+      "module": "Princípios de TC e RM",
+      "source": "Forma a Função II/semana 8/Princípios TC e RM_2026 Sírio.pdf · p. 13–17, 28–33; https://www.nibib.nih.gov/science-education/science-topics/magnetic-resonance-imaging-mri",
+      "version": "2026-09-23.1",
+      "kind": "recall",
+      "title": "Explique nível e largura da janela sem confundir apresentação e aquisição.",
+      "explanation": "Nível é o centro do intervalo mostrado; largura é sua extensão. A janela redistribui os tons exibidos, mas não modifica os valores de atenuação da aquisição."
+    },
+    {
+      "id": "reviewed-w07-norovirus-read",
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Norovírus: transmissão e prevenção",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf · p. 38–40; https://www.cdc.gov/norovirus/prevention/index.html",
+      "version": "2026-09-23.1",
+      "kind": "read",
+      "title": "Norovírus: interromper a transmissão com medidas específicas",
+      "body": "<p>A aula relaciona a transmissão de norovírus a mãos, alimentos e superfícies contaminadas. Partículas provenientes de vômito também podem contaminar o ambiente e alcançar a boca; isso não deve ser confundido automaticamente com o padrão de transmissão de vírus respiratórios.</p><p>Para prevenção, lave as mãos com água e sabão. Álcool em gel isoladamente não funciona bem contra norovírus e não substitui a lavagem. Para superfícies, é necessário um produto com eficácia contra norovírus e uso conforme suas instruções. O CDC inclui produtos apropriados à base de hipoclorito; portanto, não é correto resumir o vírus como resistente a qualquer uso de cloro.</p><p>Leia cada afirmação junto com o contexto: agente, superfície ou mãos, produto e modo de uso. Fonte de conferência: <a href=\"https://www.cdc.gov/norovirus/prevention/index.html\">CDC — prevenção de norovírus</a>.</p>"
+    },
+    {
+      "id": "reviewed-w07-norovirus-q1",
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Norovírus: transmissão e prevenção",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf · p. 38–40; https://www.cdc.gov/norovirus/prevention/index.html",
+      "version": "2026-09-23.1",
+      "kind": "mcq",
+      "title": "Qual mensagem sobre higiene das mãos é mais adequada para prevenção de norovírus?",
+      "options": [
+        "Álcool em gel sempre substitui água e sabão",
+        "Só é necessário lavar as mãos quando há sujeira visível",
+        "Lavar com água e sabão; álcool em gel sozinho não substitui essa medida",
+        "Lavar com água sem sabão oferece a mesma recomendação"
+      ],
+      "answer": 2,
+      "explanation": "O CDC enfatiza água e sabão, pois álcool em gel isolado não funciona bem contra norovírus."
+    },
+    {
+      "id": "reviewed-w07-norovirus-q2",
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Norovírus: transmissão e prevenção",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf · p. 38–40; https://www.cdc.gov/norovirus/prevention/index.html",
+      "version": "2026-09-23.1",
+      "kind": "mcq",
+      "title": "Por que “norovírus resiste a qualquer desinfecção com cloro” é uma generalização incorreta?",
+      "options": [
+        "Porque qualquer detergente esteriliza superfícies",
+        "Porque há produtos apropriados à base de hipoclorito eficazes quando usados corretamente",
+        "Porque norovírus só se transmite pelo sangue",
+        "Porque limpar superfícies nunca tem relação com transmissão"
+      ],
+      "answer": 1,
+      "explanation": "A eficácia depende do produto e das condições de uso. O CDC recomenda opções apropriadas à base de hipoclorito ou outros produtos com eficácia contra norovírus."
+    },
+    {
+      "id": "reviewed-w07-norovirus-recall",
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Norovírus: transmissão e prevenção",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf · p. 38–40; https://www.cdc.gov/norovirus/prevention/index.html",
+      "version": "2026-09-23.1",
+      "kind": "recall",
+      "title": "Como conectar a via de transmissão do norovírus às medidas de prevenção?",
+      "explanation": "Contaminação de mãos, alimentos e superfícies pode levar partículas virais à boca. Água e sabão para as mãos e desinfecção adequada do ambiente atuam sobre etapas desse percurso."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 2545,
+  "items": 2553,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -8,10 +8,10 @@
       "name": "Forma a Função II",
       "description": "Anatomia · Histologia · Embriologia",
       "counts": {
-        "read": 146,
-        "mcq": 427,
+        "read": 147,
+        "mcq": 429,
         "written": 129,
-        "recall": 758
+        "recall": 759
       },
       "weeks": [
         1,
@@ -69,10 +69,10 @@
       "name": "Microbiota a Imunidade II",
       "description": "Imunologia · Virologia",
       "counts": {
-        "read": 16,
-        "mcq": 10,
+        "read": 17,
+        "mcq": 12,
         "written": 0,
-        "recall": 138
+        "recall": 139
       },
       "weeks": [
         1,
@@ -145,5 +145,5 @@
       ]
     }
   ],
-  "updated": "2026-09-23"
+  "updated": "2026-09-24"
 }
