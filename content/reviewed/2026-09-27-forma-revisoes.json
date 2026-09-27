@@ -1,0 +1,660 @@
+{
+  "reviewedAt": "2026-09-27",
+  "sources": [
+    {
+      "path": "prancha-0909/data.js",
+      "sha256": "90498386ac769beefca2316db923f7d643ad5666d40251d9a764107685b0017e",
+      "scope": "Questões importadas da Prancha 09/09; enunciados e gabaritos mantidos, só a alternativa que se destacava pelo tamanho foi ajustada."
+    },
+    {
+      "path": "prancha-0909/histo-data.js",
+      "sha256": "493c77112a4d3bba5b27c227da2e9ef322f4bcb178a173d3411cd9053419d57e",
+      "scope": "Questões importadas da revisão rápida de Histologia e Embriologia."
+    },
+    {
+      "path": "simulado-da-semana/content/archive/2026-2-semana-01.json",
+      "sha256": "69e9c2b6353c1ba9d7443bdfc5eeab82e77b1183c39ce8addc498b29880b62f8",
+      "scope": "Questões importadas do simulado da semana 1; alternativas reescritas."
+    }
+  ],
+  "items": [],
+  "revisions": [
+    {
+      "id": "forma-u02-q2",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Uretra esponjosa, na porção bulbar, fixada ao corpo esponjoso e esmagada contra os ramos isquiopúbicos.",
+        "Uretra prostática, a porção mais estreita da uretra, esmagada dentro da glândula pelo hematoma pélvico.",
+        "Uretra membranácea, fixada no espaço perineal profundo e cisalhada pelo deslocamento da sínfise púbica.",
+        "Colo da bexiga, fixado ao púbis pelos ligamentos pubovesicais e rompido pela tração da sínfise deslocada."
+      ],
+      "answer": 2,
+      "from": "c42091ca826da36b"
+    },
+    {
+      "id": "forma-u02-qh2",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Lobo posterior (zona periférica), que se projeta na bexiga e comprime o trígono quando o detrusor contrai.",
+        "Lobo médio (zona de transição), que atua como válvula de esfera sobre o óstio interno quando o detrusor contrai.",
+        "Lobo anterior (estroma fibromuscular), que se hipertrofia e estreita a uretra prostática quando o detrusor contrai.",
+        "Zona central, sede habitual da hiperplasia, que envolve os ductos ejaculatórios e se projeta no trígono."
+      ],
+      "answer": 1,
+      "from": "8af107627e35a7b4"
+    },
+    {
+      "id": "forma-u02-qh4",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Ligamento útero-ovárico; artéria ovariana, ramo da aorta em L2; o ureter, que cruza os vasos ilíacos comuns na entrada da pelve, medial ao ovário.",
+        "Mesovário; ramo ovárico da artéria uterina, ramo da ilíaca interna; o ureter, que passa inferior à artéria uterina junto ao colo.",
+        "Ligamento suspensor do ovário; artéria ovariana, ramo da ilíaca interna; o nervo obturatório, que corre na parede lateral da pelve até o canal obturatório.",
+        "Ligamento suspensor do ovário; artéria ovariana, ramo da aorta em L2; o ureter, que cruza a bifurcação da ilíaca comum na entrada da pelve."
+      ],
+      "answer": 3,
+      "from": "724f3647a08e445e"
+    },
+    {
+      "id": "forma-u04-q3",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Hormônio anti-mülleriano, secretado pelas células de Sertoli da gônada fetal.",
+        "Testosterona, secretada pelas células de Leydig sob estímulo de hCG e LH.",
+        "SOX9, ativado por SRY na rede gênica que diferencia a gônada em testículo.",
+        "Di-hidrotestosterona, formada da testosterona pela 5α-redutase dos tecidos-alvo."
+      ],
+      "answer": 3,
+      "from": "89b8ad21109e59ef"
+    },
+    {
+      "id": "forma-u04-q13",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Infecção persistente por HPV de alto risco, com proliferação das glândulas endocervicais.",
+        "Invasão do estroma cervical por células colunares atípicas que romperam a membrana basal.",
+        "Metaplasia escamosa obstruindo a saída de glândulas endocervicais, com retenção de muco.",
+        "Hiperplasia de glândulas da mucosa vaginal sob estímulo estrogênico prolongado e excessivo."
+      ],
+      "answer": 2,
+      "from": "be5361a88624953d"
+    },
+    {
+      "id": "forma-u05-q3",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Compartimento profundo: transverso profundo do períneo e esfíncter externo da uretra",
+        "Compartimento superficial: bulbospongioso, isquiocavernoso e transverso superficial",
+        "Diafragma pélvico: puborretal, pubococcígeo e iliococcígeo, além do coccígeo",
+        "Compartimento superficial: transverso profundo, isquiocavernoso e esfíncter da uretra"
+      ],
+      "answer": 1,
+      "from": "9f72f80a0f1855be"
+    },
+    {
+      "id": "forma-u05-q16",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Compartimento superficial, abaixo da membrana do períneo; bulbo do pênis e bulbospongioso",
+        "Compartimento superficial, acima da membrana do períneo; glândulas bulbouretrais (Cowper)",
+        "Compartimento profundo, acima da membrana do períneo; glândulas bulbouretrais (de Cowper)",
+        "Diafragma pélvico, acima do compartimento profundo; feixe puboprostático do levantador"
+      ],
+      "answer": 2,
+      "from": "f0bf4888b63441ba"
+    },
+    {
+      "id": "forma-visual-v2-04",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Fossa ilíaca, superfície côncava situada acima da linha arqueada e longe do forame obturado",
+        "Incisura isquiática maior, entalhe posterior à cavidade articular, acima da espinha isquiática",
+        "Tuberosidade isquiática, saliência rugosa situada posteroinferiormente ao forame obturado",
+        "Acetábulo, cavidade articular formada pelos três ossos, situada superiormente ao forame obturado"
+      ],
+      "answer": 3,
+      "from": "921d0122a6bfe401"
+    },
+    {
+      "id": "forma-u06-q5",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Nervo vago (X): é a via aferente do reflexo e explica a falta de contração ao toque",
+        "Nervo glossofaríngeo (IX): conduz a sensibilidade da parede da faringe e da raiz da língua",
+        "Nervo maxilar (V2): conduz a sensibilidade do palato mole e do istmo das fauces",
+        "Nervo hipoglosso (XII): conduz a propriocepção da raiz da língua que dispara o reflexo"
+      ],
+      "answer": 1,
+      "from": "a0616871cab6aa86"
+    },
+    {
+      "id": "forma-u07-q7",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Mucosas de Weber; lubrificam o sulco e retêm o estímulo gustativo nos botões",
+        "Serosas de von Ebner; secreção aquosa que fixa o estímulo e prolonga a sensação",
+        "Serosas de von Ebner; lavam o sulco e renovam o estímulo nos botões gustativos",
+        "Mucosas de Blandin-Nuhn; lubrificam o sulco e protegem os botões do atrito"
+      ],
+      "answer": 2,
+      "from": "1b724c7c257ea0b7"
+    },
+    {
+      "id": "forma-u07-q12",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Tonsila palatina, com criptas profundas e ramificadas",
+        "Tonsila lingual, com criptas rasas na base da língua",
+        "Tonsila faríngea, com dobras sem criptas verdadeiras",
+        "Tonsila tubária, com criptas sob epitélio pavimentoso"
+      ],
+      "answer": 2,
+      "from": "cd9955ea6b068c8d"
+    },
+    {
+      "id": "forma-u08-q11",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Nuligesta, pois nenhuma das gestações chegou ao parto",
+        "Multípara, pois o número de gestações é maior que um",
+        "Multigesta e nulípara: três gestações e nenhum parto",
+        "Primigesta nulípara, pois abortos não contam como gestação"
+      ],
+      "answer": 2,
+      "from": "a9dc2e20d4450016"
+    },
+    {
+      "id": "forma-u09-q9",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Músculo cricofaríngeo com o constritor inferior da faringe",
+        "Diafragma crural com o ligamento frenoesofágico associado",
+        "Esfíncter pilórico com a camada circular do canal pilórico",
+        "Camada muscular oblíqua com a incisura angular do estômago"
+      ],
+      "answer": 1,
+      "from": "80852ea97d2ce06e"
+    },
+    {
+      "id": "forma-u10-q7",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Veia porta, formada atrás do colo do pâncreas pela confluência mesentérico-esplênica",
+        "Artéria hepática própria, continuação da hepática comum depois da emissão da gastroduodenal",
+        "Ducto colédoco, formado pela união do ducto cístico com o ducto hepático comum, acima do duodeno",
+        "Veia cava inferior, que forma a parede posterior do forame omental abaixo do fígado"
+      ],
+      "answer": 0,
+      "from": "609081dd1c494871"
+    },
+    {
+      "id": "forma-u10-qh1",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Fáscia de fusão de Toldt; ureter direito, primariamente retroperitoneal",
+        "Fáscia de fusão de Toldt; duodeno descendente, secundariamente retroperitoneal",
+        "Fáscia transversal; ureter direito, secundariamente retroperitoneal",
+        "Fáscia renal de Gerota; veia cava inferior, secundariamente retroperitoneal"
+      ],
+      "answer": 0,
+      "from": "ac33e6c1237520c6"
+    },
+    {
+      "id": "forma-u11-q7",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "São criptas de Lieberkühn do jejuno, que atravessam a muscular da mucosa nas regiões de absorção máxima",
+        "São glândulas de Brunner do íleo, cujos ductos se abrem no epitélio associado ao folículo das placas de Peyer",
+        "São glândulas de Brunner do duodeno; as criptas de Lieberkühn são da mucosa e não passam da muscular da mucosa",
+        "São placas de Peyer do íleo em corte tangencial, com folículos que cruzam a muscular da mucosa rumo à submucosa"
+      ],
+      "answer": 2,
+      "from": "b258115cf02409c0"
+    },
+    {
+      "id": "forma-u11-q16",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Células de Paneth da base das criptas do duodeno, com grânulos apicais liberados na luz junto com lisozima e defensinas antimicrobianas",
+        "Células enteroendócrinas do íleo e do cólon, com grânulos apicais liberados na luz e reabsorvidos pelos enterócitos das criptas vizinhas",
+        "Células caliciformes das vilosidades do jejuno, com grânulos apicais liberados no muco que recobre a borda estriada dos enterócitos",
+        "Células enteroendócrinas do duodeno e jejuno proximal, com grânulos basais liberados na lâmina própria para ação endócrina/parácrina"
+      ],
+      "answer": 3,
+      "from": "3bde451a4fd33295"
+    },
+    {
+      "id": "forma-u11-qh2",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Cólon transverso: o mesocólon fixa a face posterior com adventícia, e a face anterior, livre, é recoberta por mesotélio",
+        "Cólon sigmoide: o mesossigmoide deixa a face posterior sem peritônio, coberta por adventícia, e a anterior com serosa",
+        "Cólon ascendente: retroperitoneal secundário, com serosa nas faces anterior e laterais e adventícia na face posterior",
+        "Reto inferior (terço distal): tem serosa na face anterior, voltada à escavação, e adventícia junto ao sacro"
+      ],
+      "answer": 2,
+      "from": "a0b09b5a4e4575af"
+    },
+    {
+      "id": "forma-u13-q2",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Atrofia precoce, pois é drenado apenas pela veia hepática média, sem colaterais.",
+        "Necrose isquêmica, porque recebe ramos portais apenas do ramo esquerdo da veia porta.",
+        "Hipertrofia compensatória, porque drena por veias próprias diretamente na veia cava inferior.",
+        "Congestão idêntica ao restante do fígado, porque drena somente pela veia hepática esquerda."
+      ],
+      "answer": 2,
+      "from": "2086d928c0a96cc7"
+    },
+    {
+      "id": "forma-u13-q7",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Cálculo de colesterol; a conduta depende de sintomas e de complicações biliares associadas.",
+        "Lama biliar em camada; a conduta depende de repetir o exame após jejum prolongado de 8 horas.",
+        "Pólipo de vesícula; a conduta depende de tamanho, morfologia, crescimento e fatores de risco.",
+        "Cálculo impactado no infundíbulo; a conduta depende de febre e sinal de Murphy ultrassonográfico."
+      ],
+      "answer": 2,
+      "from": "fa1154a36e8c3974"
+    },
+    {
+      "id": "forma-u13-q9",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "TC com protocolo pancreático ou RM, porque o pâncreas retroperitoneal fica encoberto por gás e profundidade.",
+        "Repetir o US após jejum e ingestão de água, pois a janela gástrica cheia costuma mostrar o segmento.",
+        "Colangio-RM sem contraste, porque a dor em faixa indica obstrução ductal que o US não detecta na cabeça.",
+        "Endoscopia digestiva alta, porque dor irradiada ao dorso sugere úlcera posterior e dispensa imagem do pâncreas."
+      ],
+      "answer": 0,
+      "from": "550366b68e9ebb8f"
+    },
+    {
+      "id": "forma-u14-q16",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Do mesoderma, como o córtex; inervadas por fibras simpáticas pós-ganglionares",
+        "Do endoderma, como o pâncreas; inervadas por fibras parassimpáticas vagais",
+        "Da crista neural; inervadas diretamente por fibras simpáticas pré-ganglionares",
+        "Do epitélio celômico; inervadas por fibras simpáticas pós-ganglionares"
+      ],
+      "answer": 2,
+      "from": "9ccbb71da0c2fc8f"
+    },
+    {
+      "id": "forma-u15-q8",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Na veia cava inferior, logo acima da veia renal esquerda",
+        "Na veia esplênica, posterior ao corpo do pâncreas, junto ao hilo",
+        "Na veia gonadal esquerda, antes de sua entrada na veia renal",
+        "Na veia renal esquerda, após receber a veia frênica inferior"
+      ],
+      "answer": 3,
+      "from": "68c03f9cb958f0bc"
+    },
+    {
+      "id": "forma-u15-q14",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Arcadas pancreaticoduodenais entre a gastroduodenal (celíaco) e a mesentérica superior",
+        "Arcadas pancreaticoduodenais entre a gastroduodenal (celíaco) e a mesentérica inferior",
+        "Arcada da curvatura maior entre as gastromentais direita e esquerda, ambas do celíaco",
+        "Anastomose entre pancreaticoduodenais inferiores e cólica média, da mesentérica superior"
+      ],
+      "answer": 0,
+      "from": "aa6b2ac405865aa3"
+    },
+    {
+      "id": "forma-u15-q17",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Segmento I, drenado por veias curtas próprias direto na veia cava inferior",
+        "Segmento II, drenado pela veia hepática esquerda até a veia cava inferior",
+        "Segmento IVa, drenado pela veia hepática média até a veia cava inferior",
+        "Segmento VII, drenado pela veia hepática direita até a veia cava inferior"
+      ],
+      "answer": 0,
+      "from": "16f9a63b7b7abf83"
+    },
+    {
+      "id": "forma-u16-q5",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Ácido fólico 0,4 mg/dia a partir do teste de gravidez positivo, mantido até o fim do 1º trimestre",
+        "Ácido fólico 4 mg/dia iniciado ao confirmar a gestação, na 8ª semana de amenorreia, até o parto",
+        "Ácido fólico 4 mg/dia iniciado pelo menos 1 mês antes da concepção, mantido durante o 1º trimestre",
+        "Ácido fólico 0,4 mg/dia iniciado 1 mês antes da concepção, suspenso ao fechamento do tubo no 28º dia"
+      ],
+      "answer": 2,
+      "from": "8b3984462919f44d"
+    },
+    {
+      "id": "forma-u16-q12",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "No assoalho da boca, na carúncula sublingual, lateralmente ao frênulo da língua",
+        "Na parte faríngea da língua, posterior ao sulco terminal, junto à tonsila lingual",
+        "No vestíbulo da boca, na papila em frente ao 2º molar inferior, após cruzar o masseter",
+        "No vestíbulo da boca, na papila em frente ao 2º molar superior, após perfurar o bucinador"
+      ],
+      "answer": 3,
+      "from": "cc2a8443d4aabac5"
+    },
+    {
+      "id": "forma-u16-q18",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Valécula epiglótica da orofaringe, entre a raiz da língua e a face anterior da epiglote",
+        "Recesso piriforme da laringofaringe, entre a prega ariepiglótica e a lâmina da cartilagem tireóidea",
+        "Ventrículo da laringe, entre as pregas vestibular e vocal, no interior da cavidade laríngea",
+        "Recesso faríngeo da nasofaringe, posterior ao toro tubário, junto à parede lateral da faringe"
+      ],
+      "answer": 1,
+      "from": "c2d7ffe5ae2c0022"
+    },
+    {
+      "id": "forma-u16-q19",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "A cauda do pâncreas corre no ligamento esplenorrenal com os vasos esplênicos e toca o hilo do baço",
+        "A cabeça do pâncreas se prende ao hilo esplênico pelo ligamento gastroesplênico e vasos curtos",
+        "O colo do pâncreas é perfurado pela artéria esplênica antes de ela se ramificar no hilo esplênico",
+        "O processo uncinado envolve a veia esplênica em seu trajeto posterior ao corpo do pâncreas até o hilo"
+      ],
+      "answer": 0,
+      "from": "f8bf32a74bc2fa03"
+    },
+    {
+      "id": "forma-u16-q20",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "No espaço retroperitoneal, atrás do pâncreas; alcança o saco maior pelo hiato entre os folhetos do mesocólon transverso",
+        "Na escavação retovesical, por gravidade direta; alcança o saco maior pelo recesso subfrênico esquerdo do peritônio",
+        "Na bolsa omental, atrás do estômago e à frente do pâncreas; alcança o saco maior pelo forame omental (de Winslow)",
+        "No recesso esplênico do saco maior, atrás do baço; alcança a bolsa omental através do ligamento gastroesplênico"
+      ],
+      "answer": 2,
+      "from": "ea17f113bd5c433a"
+    },
+    {
+      "id": "forma-u17-q6",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Parte superior, cuja porção proximal tem o colédoco passando posteriormente a ela",
+        "Parte descendente, que desce à direita e é cruzada anteriormente pelo mesocólon transverso",
+        "Parte horizontal, que cruza à frente da aorta e atrás dos vasos mesentéricos superiores",
+        "Parte ascendente, que sobe à esquerda da aorta abdominal até a flexura duodenojejunal"
+      ],
+      "answer": 1,
+      "from": "1e330a477341d02e"
+    },
+    {
+      "id": "forma-u17-q14",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Da crista ilíaca ao tubérculo púbico; espessamento da margem inferior da fáscia transversal do abdome",
+        "Da espinha ilíaca anterossuperior ao tubérculo púbico; margem inferior da aponeurose do oblíquo externo",
+        "Da espinha ilíaca anteroinferior ao tubérculo púbico; margem inferior da aponeurose do oblíquo interno",
+        "Da espinha ilíaca anterossuperior à sínfise púbica; margem inferior da aponeurose do transverso do abdome"
+      ],
+      "answer": 1,
+      "from": "27fec560cc61bc7b"
+    },
+    {
+      "id": "forma-u17-q15",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Acetábulo, cavidade articular lateral formada pelos três ossos do quadril",
+        "Incisura isquiática maior, abertura posterior entre o ílio e a espinha isquiática",
+        "Forame obturado, abertura inferomedial ao acetábulo, entre o púbis e o ísquio",
+        "Forame sacral anterior, pequena abertura na face pélvica do sacro"
+      ],
+      "answer": 2,
+      "from": "a4b48e092e7e2434"
+    },
+    {
+      "id": "forma-u18-q20",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Divisão da cloaca pelo septo urorretal em seio urogenital anterior (bexiga, uretra, próstata) e canal anorretal posterior (reto)",
+        "Rotação de 90° do intestino posterior em torno da artéria mesentérica inferior, que leva o reto para trás do seio urogenital primitivo",
+        "Regressão dos ductos de Müller sob ação do AMH, que libera espaço anterior ao reto para o brotamento endodérmico da próstata",
+        "Migração do mesoderma intermediário para a pelve, que forma bexiga e próstata anteriormente ao endoderma do reto primitivo"
+      ],
+      "answer": 0,
+      "from": "3419ac3331e8853a"
+    },
+    {
+      "id": "forma-u18-q22",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Zona 1 (periportal), primeira a receber sangue arterial rico em tóxico; drena pelos ramos portais, intrassegmentares na imagem",
+        "Zona 3 (centrolobular), menos oxigenada e rica em CYP450; sua veia central drena para as veias hepáticas, intersegmentares na imagem",
+        "Zona 2 (mediozonal), onde o gradiente de oxigênio se inverte; drena para a veia sublobular, que na imagem acompanha a tríade",
+        "Zona 1 (periportal), rica em CYP450 e primeira a ser exposta; drena pelas veias hepáticas, que na imagem acompanham o ducto biliar"
+      ],
+      "answer": 1,
+      "from": "da18e792d69eebb2"
+    },
+    {
+      "id": "forma-u18-q27",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Veia mesentérica superior, que passa atrás do bulbo antes de formar a porta; as papilas ficam na 3ª parte, junto ao processo uncinado",
+        "Aorta abdominal, sobre a qual o bulbo repousa logo após o piloro; as papilas ficam na 4ª parte, junto à flexura duodenojejunal",
+        "Ducto pancreático acessório, que passa atrás do bulbo até o colo do pâncreas; as papilas ficam na 1ª parte, logo após o piloro",
+        "Colédoco, junto com a artéria gastroduodenal e a veia porta; as papilas maior e menor ficam na parede posteromedial da 2ª parte"
+      ],
+      "answer": 3,
+      "from": "cdf92b9913d62fb5"
+    },
+    {
+      "id": "histo-figado",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Luz ampla e parede muito fina, sem músculo",
+        "Parede muscular espessa sem epitélio cúbico",
+        "Revestimento de células cúbicas bem definidas",
+        "Cordões de hepatócitos ao redor da veia central"
+      ],
+      "answer": 2,
+      "from": "216f3256cd10fff3"
+    },
+    {
+      "id": "histo-colon",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Vilosidades + absorção no delgado",
+        "Glândulas submucosas + neutralização",
+        "Ácinos serosos + secreção de enzimas",
+        "Criptas sem vilos + muito muco"
+      ],
+      "answer": 3,
+      "from": "48b30ae541bf91d7"
+    },
+    {
+      "id": "histo-estomago",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Pepsinogênio e muco protetor",
+        "Ácido clorídrico e fator intrínseco",
+        "Insulina e glucagon pancreáticos",
+        "Bicarbonato e defensinas locais"
+      ],
+      "answer": 1,
+      "from": "f11d2316a0bc9df8"
+    },
+    {
+      "id": "histo-colo",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Ectocérvice colunar; endocérvice pavimentosa",
+        "Ambas pavimentosas queratinizadas",
+        "Ambas colunares ciliadas, sem muco",
+        "Ectocérvice pavimentosa; endocérvice colunar"
+      ],
+      "answer": 3,
+      "from": "10f18ae937dd5b5a"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q01",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Células de Leydig produzem AMH e regridem os ductos de Wolff.",
+        "Células de Sertoli produzem AMH e regridem os ductos de Müller.",
+        "O SRY induz diretamente a formação das tubas uterinas.",
+        "A testosterona promove regressão dos ductos mesonéfricos."
+      ],
+      "answer": 1,
+      "from": "221f0149c7e99ced"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q03",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "A ereção depende principalmente do simpático torácico e lombar.",
+        "Ereção e ejaculação são fenômenos exclusivamente somáticos e voluntários.",
+        "Ereção: parassimpático sacral; emissão e ejaculação: sobretudo simpático.",
+        "A emissão do sêmen depende apenas de fibras parassimpáticas sacrais."
+      ],
+      "answer": 2,
+      "from": "9649b52b2c167b89"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q05",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Hipoblasto; induzir a neurulação do embrião",
+        "Citotrofoblasto; iniciar a gastrulação",
+        "Sinciciotrofoblasto; manter o corpo lúteo",
+        "Epiblasto; formar a decídua basal materna"
+      ],
+      "answer": 2,
+      "from": "fde0d80c7f33baf8"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q06",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "O hipoblasto induz o ectoderma a formar os somitos.",
+        "Notocorda induz o ectoderma a formar a placa neural.",
+        "Crista neural forma a notocorda e depois o endoderma.",
+        "Trofoblasto forma diretamente o sistema nervoso central."
+      ],
+      "answer": 1,
+      "from": "8fe7707e32dc9551"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q07",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "É provável HPB e deve-se solicitar PSA antes de qualquer conduta.",
+        "Provável torção testicular; o Doppler não deve atrasar a cirurgia.",
+        "É hidrocele simples e pode aguardar uma avaliação eletiva.",
+        "É epididimite e o aumento de fluxo sempre confirma o diagnóstico."
+      ],
+      "answer": 1,
+      "from": "c49027d74ab0ba1a"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q09",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Sim, porque o PSA elevado é específico de câncer de próstata.",
+        "Sim, desde que a próstata também esteja aumentada ao toque.",
+        "Não; o PSA sobe em doenças benignas e a histologia confirma.",
+        "Não, porque a ressonância nunca participa da investigação do câncer."
+      ],
+      "answer": 2,
+      "from": "cb4e0729b68c728e"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q28",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Formação de hérnia inguinal direta pelo triângulo de Hesselbach",
+        "Comunicação com o peritônio, favorecendo hérnia inguinal indireta",
+        "Obliteração precoce e completa da túnica vaginal do testículo",
+        "Interrupção da formação dos túbulos seminíferos do testículo"
+      ],
+      "answer": 1,
+      "from": "95a988fdc8cd56ae"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q31",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Aumenta muito o volume total do concepto a cada nova divisão.",
+        "Consiste em meiose de células pluripotentes no endométrio.",
+        "Produz blastômeros por mitoses, sem aumentar muito o volume total.",
+        "Começa somente depois da implantação completa no endométrio."
+      ],
+      "answer": 2,
+      "from": "a47f8a5acb15cdab"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q33",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "A urina funciona como janela acústica para as estruturas pélvicas.",
+        "O enchimento vesical torna o PSA mais específico para câncer.",
+        "A bexiga cheia elimina a necessidade de usar o transdutor linear.",
+        "A urina aumenta o fluxo arterial dos testículos e do útero."
+      ],
+      "answer": 0,
+      "from": "d5b09865d3e6e4ef"
+    }
+  ]
+}

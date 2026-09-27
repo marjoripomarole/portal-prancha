@@ -65,14 +65,14 @@
       "week": 8,
       "module": "Roteiro neural: origem, camadas e revestimentos",
       "source": "Forma a Função II/_/ROTEIRO DE ESTUDO DA EMBRIOLOGIA E HISTOLOGIA DO SISTEMA NERVOSO.pdf · p. 1–4; https://vmicro.iusm.iu.edu/hs_vm/docs/lab5_3.htm",
-      "version": "2026-09-22.1",
+      "version": "2026-09-27.1",
       "id": "reviewed-w08-roteiro-neural-q3",
       "kind": "mcq",
       "title": "Qual associação entre origem embrionária e estrutura está correta no roteiro neural?",
       "options": [
         "Tubo neural → SNC; crista neural → células de Schwann",
         "Crista neural → todo o SNC; tubo neural → Schwann",
-        "Endoderma → tubo neural",
+        "Endoderma → tubo neural; mesoderma → Schwann",
         "Mesoderma → todas as células de Schwann"
       ],
       "answer": 0,
