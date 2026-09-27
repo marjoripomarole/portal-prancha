@@ -1,0 +1,65 @@
+{
+  "reviewedAt": "2026-09-27",
+  "sources": [
+    {
+      "path": "simulado-da-semana/content/archive/2026-2-semana-01.json",
+      "sha256": "69e9c2b6353c1ba9d7443bdfc5eeab82e77b1183c39ce8addc498b29880b62f8",
+      "scope": "Questões importadas do simulado da semana 1; enunciados e gabaritos mantidos, alternativas reescritas."
+    }
+  ],
+  "items": [],
+  "revisions": [
+    {
+      "id": "sim-2026-2-semana-01-q16",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "O líder fala para o grupo todo e alguém executa a tarefa em silêncio.",
+        "A ordem vai a uma pessoa, que a repete; o emissor confirma o término.",
+        "Cada membro decide a própria tarefa sem informar o restante da equipe.",
+        "A tarefa é registrada apenas depois do atendimento, no prontuário."
+      ],
+      "answer": 1,
+      "from": "145a2ad1e01d762f"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q17",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Cores e critérios dos códigos são universais em todos os hospitais do país.",
+        "O código substitui a avaliação clínica e os protocolos da unidade.",
+        "O código organiza o fluxo; nomes e critérios dependem da instituição.",
+        "A ativação do código encerra a necessidade de reavaliar o paciente."
+      ],
+      "answer": 2,
+      "from": "b7a404c6c2ced586"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q18",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Conhecer bem a própria tarefa e ignorar o restante da cena.",
+        "Acompanhar paciente, meta, tarefas, recursos e mudanças.",
+        "Evitar reavaliar a cena para não alterar o plano inicial.",
+        "Centralizar toda a informação no líder sem compartilhá-la."
+      ],
+      "answer": 1,
+      "from": "d121a13154054547"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q39",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Executar pessoalmente todas as tarefas para manter o controle total.",
+        "Organizar prioridades, distribuir funções e manter a visão global.",
+        "Manter o plano inicial mesmo quando o estado do paciente muda.",
+        "Reservar as informações para o profissional de maior cargo."
+      ],
+      "answer": 1,
+      "from": "7c86e2fdb54bf452"
+    }
+  ]
+}

@@ -317,15 +317,15 @@
       "week": 8,
       "module": "BLS pediátrico: pontos para treino em manequim",
       "source": "Prática Médica II/semana 8/23 set - Preparação - BLS pediátrico e obstrução de vias aéreas.md; AHA/AAP 2025: https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support",
-      "version": "2026-09-21.1",
+      "version": "2026-09-27.1",
       "id": "reviewed-w08-bls-pediatrico-q1",
       "kind": "mcq",
       "title": "No lactente responsivo com obstrução grave, que sequência é recomendada pela AHA/AAP 2025?",
       "options": [
         "Cinco compressões abdominais e cinco torácicas",
         "Cinco golpes dorsais e cinco compressões torácicas",
-        "Somente compressões abdominais",
-        "Varredura digital às cegas"
+        "Somente compressões abdominais repetidas até desobstruir",
+        "Varredura digital às cegas antes das compressões"
       ],
       "answer": 1,
       "explanation": "Alternam-se cinco golpes dorsais e cinco compressões torácicas. Não se usam compressões abdominais no lactente."

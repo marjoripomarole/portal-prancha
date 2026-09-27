@@ -1,0 +1,848 @@
+{
+  "reviewedAt": "2026-09-27",
+  "sources": [
+    {
+      "path": "PFIS II/semana 1/6 ago - Comunicação em Saúde, CNV e Cultura da Paz.md",
+      "sha256": "240df9cbf289e64d81bfd61c24e4d8cef9f7c49e30a2b8d5d0ff9f40ad1863fa",
+      "scope": "Barreiras de comunicação, teach-back, componentes da CNV, pedido versus exigência e escuta empática."
+    },
+    {
+      "path": "PFIS II/semana 2/APS 02 - Medindo Saúde e Doença - Marjori Pomarole.md",
+      "sha256": "b4467e0ea68e9dd47593a55124362f91843b804c00d9c5eed4669a29d61882fa",
+      "scope": "Incidência, prevalência, letalidade, mortalidade infantil, padronização etária e DALY."
+    },
+    {
+      "path": "PFIS II/semana 3/20 ago - Redes de Atenção à Saúde e Redes Temáticas.md",
+      "sha256": "18a49a7203801f669c34bb687b348e9453a51875544e5221ead577d99d3dea3e",
+      "scope": "Atributos e estrutura operacional das RAS, coordenação pela APS, regionalização e redes temáticas."
+    },
+    {
+      "path": "PFIS II/semana 4/27 ago - Epidemiologia descritiva - tempo, lugar e pessoa.md",
+      "sha256": "e87665e214a8647ae9ac61eaaf0c1cda93ecd0e342cc3c602910519346bedd33",
+      "scope": "Tempo, lugar e pessoa; contagens versus coeficientes; endemia, epidemia, surto e pandemia; limites da descrição."
+    },
+    {
+      "path": "PFIS II/semana 4/27 ago - Análise FOFA aplicada à UBS.md",
+      "sha256": "213f29147c324900ce55f539abc336459271c122c0072eb3557571261120ba2d",
+      "scope": "Estrutura da matriz, dependência do recorte e uso da FOFA para decidir ações."
+    },
+    {
+      "path": "PFIS II/semana 4/27 ago - Atores sociais em projetos de saúde.md",
+      "sha256": "e7ccbae0fd051482e3d32b0e9e52138c97cf20115751e71af0ea38c676efe0ac",
+      "scope": "Ator social, stakeholder e parceiro; posições; matriz poder por interesse."
+    },
+    {
+      "path": "PFIS II/semana 5/3 set - Preparação - Oficina de Epidemiologia e PICS.md",
+      "sha256": "3b13bda4a60093d377a14927991062082987f13df1ec6a27e5bc03727c350a65",
+      "scope": "Denominador sob risco, exemplo fictício de incidência e marcos da PNPIC."
+    },
+    {
+      "path": "PFIS II/semana 7/17 set - Preparação - Epidemiologia analítica, BVS e Vigitel.md",
+      "sha256": "dd0dbed0f03549536f4199cc0d61a584a25871670c9ee9ab5ce7982da28493ee",
+      "scope": "Tabela 2 por 2, RR, OR, vieses, confundimento, busca na BVS e leitura crítica do Vigitel."
+    },
+    {
+      "path": "PFIS II/semana 7/17 set - Resumo - Revisão de Epidemiologia.md",
+      "sha256": "9f6bfc1fb46387f73f71a4cdb4a3e045a8014ccfbd96338ef204cbeaa711d573",
+      "scope": "Incidência como entrada e prevalência como estoque, pessoa-tempo, letalidade e prevenção."
+    },
+    {
+      "path": "PFIS II/semana 9/1 out - Preparação - N1 de PFIS e apresentação SWOT.md",
+      "sha256": "3ca07493eb48e10fecc0e10a1d384c45c90432939953e254d29d88d338058774",
+      "scope": "Perguntas de domínio usadas como roteiro."
+    }
+  ],
+  "items": [
+    {
+      "subject": "pfis",
+      "week": 1,
+      "module": "Comunicação em saúde e CNV",
+      "source": "PFIS II/semana 1/6 ago - Comunicação em Saúde, CNV e Cultura da Paz.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w01-cnv-q1",
+      "kind": "mcq",
+      "title": "Após explicar o uso do inalador, o profissional pergunta \"entendeu?\" e o paciente diz que sim. O que o teach-back acrescentaria?",
+      "options": [
+        "Repetir a mesma explicação, agora falando mais devagar",
+        "Entregar um folheto e encerrar a consulta ali",
+        "Aceitar o sim como confirmação da compreensão",
+        "Pedir que o paciente mostre como vai usar o inalador"
+      ],
+      "answer": 3,
+      "explanation": "O teach-back verifica se a explicação foi clara, pedindo que a pessoa explique ou demonstre com as próprias palavras. Um sim não confirma compreensão."
+    },
+    {
+      "subject": "pfis",
+      "week": 1,
+      "module": "Comunicação em saúde e CNV",
+      "source": "PFIS II/semana 1/6 ago - Comunicação em Saúde, CNV e Cultura da Paz.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w01-cnv-q2",
+      "kind": "mcq",
+      "title": "Na frase \"Quando não recebo o resultado, fico ansiosa porque preciso de previsibilidade\", qual trecho expressa a necessidade?",
+      "options": [
+        "Preciso de previsibilidade",
+        "Quando não recebo o resultado",
+        "Fico ansiosa",
+        "Você me deixa ansiosa"
+      ],
+      "answer": 0,
+      "explanation": "Observação: não receber o resultado. Sentimento: ansiedade. Necessidade: previsibilidade. A última opção é acusatória e não aparece na frase."
+    },
+    {
+      "subject": "pfis",
+      "week": 1,
+      "module": "Comunicação em saúde e CNV",
+      "source": "PFIS II/semana 1/6 ago - Comunicação em Saúde, CNV e Cultura da Paz.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w01-cnv-q3",
+      "kind": "mcq",
+      "title": "Uma paciente relata a perda do marido e o estudante responde: \"Isso também aconteceu comigo, sei exatamente como é.\" Como classificar essa resposta?",
+      "options": [
+        "Empatia, pois mostra que ele entende a dor",
+        "Compaixão, pois gera desejo de agir e cuidar",
+        "Simpatia que desloca o foco para quem escuta",
+        "Teach-back, pois confirma o que foi relatado"
+      ],
+      "answer": 2,
+      "explanation": "Comparar e trazer a própria experiência pode aproximar, mas desloca o foco. Empatia mantém a atenção no que a outra pessoa sente e precisa."
+    },
+    {
+      "subject": "pfis",
+      "week": 1,
+      "module": "Comunicação em saúde e CNV",
+      "source": "PFIS II/semana 1/6 ago - Comunicação em Saúde, CNV e Cultura da Paz.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w01-cnv-q4",
+      "kind": "mcq",
+      "title": "Qual afirmação sobre a Comunicação Não Violenta está correta?",
+      "options": [
+        "Consiste em falar sempre de forma calma e em voz baixa",
+        "Não exige concordar com tudo nem aceitar desrespeito",
+        "Garante que o outro atenderá ao pedido formulado",
+        "Recomenda evitar qualquer conflito com a equipe"
+      ],
+      "answer": 1,
+      "explanation": "A CNV organiza observação, sentimento, necessidade e pedido. Não é concordância, supressão do conflito nem garantia de que o pedido será atendido."
+    },
+    {
+      "subject": "pfis",
+      "week": 1,
+      "module": "Comunicação em saúde e CNV",
+      "source": "PFIS II/semana 1/6 ago - Comunicação em Saúde, CNV e Cultura da Paz.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w01-cnv-q5",
+      "kind": "mcq",
+      "title": "Um familiar está muito angustiado. Qual resposta é uma armadilha comum da escuta?",
+      "options": [
+        "\"O que mais preocupa o senhor agora?\"",
+        "\"Parece que isso tem sido muito difícil\"",
+        "\"Posso explicar o que acontece a seguir?\"",
+        "\"Fique tranquilo, vai ficar tudo bem\""
+      ],
+      "answer": 3,
+      "explanation": "Tranquilizar sem base minimiza a experiência e pode quebrar a confiança. As outras respostas abrem espaço, reconhecem a emoção ou pedem licença antes de orientar."
+    },
+    {
+      "subject": "pfis",
+      "week": 2,
+      "module": "Medidas de saúde e doença",
+      "source": "PFIS II/semana 7/17 set - Resumo - Revisão de Epidemiologia.md; PFIS II/semana 2/APS 02 - Medindo Saúde e Doença - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w02-med-q1",
+      "kind": "mcq",
+      "title": "Num hospital, 30 de 300 pacientes com uma infecção morreram por ela. Qual medida foi calculada e qual o valor?",
+      "options": [
+        "Letalidade de 10% entre os doentes",
+        "Mortalidade de 10% na população",
+        "Incidência de 10% entre os expostos",
+        "Prevalência de 10% no município"
+      ],
+      "answer": 0,
+      "explanation": "O denominador são os casos da doença, por isso é letalidade: 30/300 = 10%. Não é mortalidade populacional."
+    },
+    {
+      "subject": "pfis",
+      "week": 2,
+      "module": "Medidas de saúde e doença",
+      "source": "PFIS II/semana 2/APS 02 - Medindo Saúde e Doença - Marjori Pomarole.md; PFIS II/semana 7/17 set - Resumo - Revisão de Epidemiologia.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w02-med-q2",
+      "kind": "mcq",
+      "title": "Qual mudança tende a aumentar a prevalência de uma doença crônica?",
+      "options": [
+        "Aumento da taxa de cura da doença",
+        "Redução do número de casos novos",
+        "Pacientes vivendo mais tempo sem cura",
+        "Aumento da letalidade entre os casos da doença"
+      ],
+      "answer": 2,
+      "explanation": "A prevalência funciona como um estoque. Quem vive mais sem se curar permanece mais tempo entre os casos existentes."
+    },
+    {
+      "subject": "pfis",
+      "week": 2,
+      "module": "Medidas de saúde e doença",
+      "source": "PFIS II/semana 2/APS 02 - Medindo Saúde e Doença - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w02-med-q3",
+      "kind": "mcq",
+      "title": "Qual é o denominador do coeficiente de mortalidade infantil?",
+      "options": [
+        "População menor de um ano no meio do ano",
+        "Nascidos vivos no mesmo local e período",
+        "Óbitos de menores de cinco anos no período",
+        "Mulheres em idade fértil no mesmo local"
+      ],
+      "answer": 1,
+      "explanation": "O CMI relaciona óbitos de menores de um ano aos nascidos vivos no mesmo local e período, geralmente por mil."
+    },
+    {
+      "subject": "pfis",
+      "week": 2,
+      "module": "Medidas de saúde e doença",
+      "source": "PFIS II/semana 2/APS 02 - Medindo Saúde e Doença - Marjori Pomarole.md; PFIS II/semana 7/17 set - Resumo - Revisão de Epidemiologia.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w02-med-q4",
+      "kind": "mcq",
+      "title": "Por que padronizar por idade antes de comparar a mortalidade de dois países?",
+      "options": [
+        "Para corrigir erros de registro dos óbitos em cada país",
+        "Para aumentar o número real de óbitos registrados no país mais jovem",
+        "Para dispensar o cálculo das taxas específicas por idade",
+        "Para comparar populações com estruturas etárias diferentes"
+      ],
+      "answer": 3,
+      "explanation": "Uma população mais velha tende a ter taxa bruta maior só pela idade. A padronização produz uma medida comparativa, que não corrige registros nem substitui taxas específicas."
+    },
+    {
+      "subject": "pfis",
+      "week": 2,
+      "module": "Medidas de saúde e doença",
+      "source": "PFIS II/semana 2/APS 02 - Medindo Saúde e Doença - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w02-med-q5",
+      "kind": "mcq",
+      "title": "Quais componentes formam o DALY, ou IAV?",
+      "options": [
+        "Mortalidade infantil e mortalidade materna no mesmo período",
+        "Incidência e prevalência da doença na população estudada",
+        "Anos perdidos por morte precoce e anos vividos com incapacidade",
+        "Mortalidade geral e expectativa de vida ao nascer da população"
+      ],
+      "answer": 2,
+      "explanation": "DALY = AVP + API: anos de vida perdidos por morte prematura mais anos vividos com incapacidade."
+    },
+    {
+      "subject": "pfis",
+      "week": 2,
+      "module": "Medidas de saúde e doença",
+      "source": "PFIS II/semana 7/17 set - Resumo - Revisão de Epidemiologia.md; PFIS II/semana 5/3 set - Preparação - Oficina de Epidemiologia e PICS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w02-med-q6",
+      "kind": "mcq",
+      "title": "Uma doença tem poucos casos novos por ano, mas dura décadas. O que se espera?",
+      "options": [
+        "Prevalência alta, mesmo com incidência baixa",
+        "Incidência alta, pois a doença dura muito",
+        "Prevalência baixa, igual à sua incidência",
+        "Letalidade alta, pela longa duração da doença"
+      ],
+      "answer": 0,
+      "explanation": "A prevalência depende da entrada de casos e da duração. Doença longa acumula casos existentes mesmo com pouca entrada."
+    },
+    {
+      "subject": "pfis",
+      "week": 2,
+      "module": "Medidas de saúde e doença",
+      "source": "PFIS II/semana 7/17 set - Resumo - Revisão de Epidemiologia.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w02-med-q7",
+      "kind": "mcq",
+      "title": "Um estudo soma 33 pessoas-ano de acompanhamento e observa 3 casos novos. Como expressar o resultado?",
+      "options": [
+        "Risco de 9% em um ano de seguimento",
+        "9,09 casos por 100 pessoas-ano",
+        "Prevalência de 9% entre os acompanhados",
+        "Letalidade de 9 casos por 100 pessoas"
+      ],
+      "answer": 1,
+      "explanation": "3/33 = 0,0909 caso por pessoa-ano, ou 9,09 por 100 pessoas-ano. É uma taxa com tempo no denominador, não uma proporção de risco."
+    },
+    {
+      "subject": "pfis",
+      "week": 2,
+      "module": "Medidas de saúde e doença",
+      "source": "PFIS II/semana 5/3 set - Preparação - Oficina de Epidemiologia e PICS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w02-med-q8",
+      "kind": "mcq",
+      "title": "Numa população de 1.000 pessoas, 80 já tinham a doença no início do ano e 40 casos novos surgiram. Qual é a incidência acumulada no ano?",
+      "options": [
+        "Exatamente 4%, dividindo por 1.000 pessoas",
+        "Cerca de 12%, somando casos novos e antigos",
+        "Exatamente 8%, pela prevalência do início",
+        "Cerca de 4,35%, com 920 pessoas sob risco"
+      ],
+      "answer": 3,
+      "explanation": "Quem já tinha a doença não está sob risco de desenvolvê-la. 40/920 ≈ 4,35%. Somar casos antigos confunde incidência com prevalência."
+    },
+    {
+      "subject": "pfis",
+      "week": 1,
+      "module": "Medidas de saúde e doença",
+      "source": "PFIS II/semana 7/17 set - Resumo - Revisão de Epidemiologia.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w02-med-q9",
+      "kind": "mcq",
+      "title": "Qual ação é exemplo de prevenção primária?",
+      "options": [
+        "Rastrear para detectar a doença mais cedo",
+        "Reabilitar após um AVC já instalado",
+        "Vacinar para evitar que a doença apareça",
+        "Tratar para reduzir as complicações"
+      ],
+      "answer": 2,
+      "explanation": "Prevenção primária evita o aparecimento da doença. Rastreamento é secundária e reabilitação é terciária."
+    },
+    {
+      "subject": "pfis",
+      "week": 3,
+      "module": "Redes de Atenção à Saúde",
+      "source": "PFIS II/semana 3/20 ago - Redes de Atenção à Saúde e Redes Temáticas.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w03-ras-q1",
+      "kind": "mcq",
+      "title": "O que significa dizer que a rede de atenção é poliárquica?",
+      "options": [
+        "Os pontos têm funções distintas, sem hierarquia de importância",
+        "O hospital coordena o cuidado e a APS apenas encaminha os casos",
+        "Cada serviço funciona sozinho, sem fluxos pactuados entre eles",
+        "A densidade tecnológica é a mesma em todos os pontos da rede"
+      ],
+      "answer": 0,
+      "explanation": "Na rede poliárquica, nenhum ponto é mais importante; o que varia é a densidade tecnológica. A coordenação cabe à APS."
+    },
+    {
+      "subject": "pfis",
+      "week": 3,
+      "module": "Redes de Atenção à Saúde",
+      "source": "PFIS II/semana 3/20 ago - Redes de Atenção à Saúde e Redes Temáticas.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w03-ras-q2",
+      "kind": "mcq",
+      "title": "Uma gestante de alto risco é encaminhada ao pré-natal especializado. O que acontece com seu vínculo com a UBS?",
+      "options": [
+        "Encerra-se até o parto, no serviço especializado",
+        "Passa a ser da maternidade de referência regional",
+        "Só é retomado se houver alguma intercorrência grave",
+        "Continua: a APS segue coordenando o cuidado"
+      ],
+      "answer": 3,
+      "explanation": "A APS mantém a responsabilidade longitudinal: acompanha vacinação, exames, condições sociais e o seguimento após o parto, mesmo com o cuidado especializado."
+    },
+    {
+      "subject": "pfis",
+      "week": 3,
+      "module": "Redes de Atenção à Saúde",
+      "source": "PFIS II/semana 3/20 ago - Redes de Atenção à Saúde e Redes Temáticas.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w03-ras-q3",
+      "kind": "mcq",
+      "title": "Qual conjunto corresponde aos sistemas logísticos da rede?",
+      "options": [
+        "Laboratório, imagem e assistência farmacêutica",
+        "Regulação, prontuário, transporte sanitário e SAMU",
+        "CIT, CIB e CIR, com pactuação entre os gestores",
+        "UBS, equipes de Saúde da Família e Consultório na Rua"
+      ],
+      "answer": 1,
+      "explanation": "Sistemas logísticos garantem o fluxo de pessoas, informações e produtos. Laboratório e farmácia são sistemas de apoio; CIT, CIB e CIR são governança; UBS e eSF são APS."
+    },
+    {
+      "subject": "pfis",
+      "week": 3,
+      "module": "Redes de Atenção à Saúde",
+      "source": "PFIS II/semana 3/20 ago - Redes de Atenção à Saúde e Redes Temáticas.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w03-ras-q4",
+      "kind": "mcq",
+      "title": "Um município de 5 mil habitantes quer abrir maternidade própria com equipe 24 horas. Qual análise a aula propõe?",
+      "options": [
+        "Abrir sempre, pois toda cidade precisa de maternidade própria e completa",
+        "Recusar sempre, pois partos só podem ocorrer em hospitais de capital",
+        "Pesar escala, qualidade e distância; a referência regional pode ser melhor",
+        "Decidir apenas pelo custo, sem considerar o tempo de deslocamento das gestantes"
+      ],
+      "answer": 2,
+      "explanation": "Serviços de menor frequência e maior densidade tecnológica tendem a ser regionalizados. A decisão equilibra economia de escala, qualidade e acesso."
+    },
+    {
+      "subject": "pfis",
+      "week": 3,
+      "module": "Redes de Atenção à Saúde",
+      "source": "PFIS II/semana 3/20 ago - Redes de Atenção à Saúde e Redes Temáticas.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w03-ras-q5",
+      "kind": "mcq",
+      "title": "Os CAPS fazem parte de qual rede temática do SUS?",
+      "options": [
+        "Rede de Atenção Psicossocial",
+        "Rede de Urgência e Emergência",
+        "Rede Alyne",
+        "Rede de Cuidados à Pessoa com Deficiência"
+      ],
+      "answer": 0,
+      "explanation": "A RAPS organiza o cuidado territorial em saúde mental e uso de álcool e drogas, com CAPS, CAPS AD, CAPSi e outros pontos."
+    },
+    {
+      "subject": "pfis",
+      "week": 3,
+      "module": "Redes de Atenção à Saúde",
+      "source": "PFIS II/semana 3/20 ago - Redes de Atenção à Saúde e Redes Temáticas.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w03-ras-q6",
+      "kind": "mcq",
+      "title": "Um município tem UBS, hospital e ambulatório, mas nenhum serviço sabe o que o outro fez com o paciente. Por que isso não é uma rede?",
+      "options": [
+        "Falta um hospital de alta complexidade no próprio município",
+        "Há serviços demais, e rede exige um único ponto de atenção",
+        "A APS deveria ser substituída pelo ambulatório especializado",
+        "Faltam fluxo pactuado, comunicação e coordenação do cuidado"
+      ],
+      "answer": 3,
+      "explanation": "Muitos serviços formam só um catálogo se não houver população adscrita, fluxos pactuados, comunicação, coordenação pela APS e responsabilização."
+    },
+    {
+      "subject": "pfis",
+      "week": 4,
+      "module": "Epidemiologia descritiva, FOFA e atores sociais",
+      "source": "PFIS II/semana 4/27 ago - Epidemiologia descritiva - tempo, lugar e pessoa.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w04-desc-q1",
+      "kind": "mcq",
+      "title": "O estado A teve 5.000 casos e o município B, 300. Por que isso não basta para dizer onde o risco é maior?",
+      "options": [
+        "O estado sempre tem risco maior por ter mais casos",
+        "Faltam as populações para calcular os coeficientes",
+        "Municípios pequenos não registram casos corretamente",
+        "O risco só pode ser comparado na mesma semana"
+      ],
+      "answer": 1,
+      "explanation": "Contagens absolutas dependem do tamanho da população. Um lugar pequeno com poucos casos pode ter incidência maior por 100.000 habitantes."
+    },
+    {
+      "subject": "pfis",
+      "week": 4,
+      "module": "Epidemiologia descritiva, FOFA e atores sociais",
+      "source": "PFIS II/semana 4/27 ago - Epidemiologia descritiva - tempo, lugar e pessoa.md; PFIS II/semana 7/17 set - Resumo - Revisão de Epidemiologia.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w04-desc-q2",
+      "kind": "mcq",
+      "title": "O que o termo pandemia descreve?",
+      "options": [
+        "Disseminação por vários países com transmissão sustentada",
+        "Uma doença necessariamente mais grave que uma epidemia",
+        "Ocorrência habitual e esperada de uma doença numa área",
+        "Um surto restrito a uma única instituição ou a um evento"
+      ],
+      "answer": 0,
+      "explanation": "Pandemia se refere à extensão geográfica, não à gravidade. Ocorrência habitual é endemia; evento localizado é surto."
+    },
+    {
+      "subject": "pfis",
+      "week": 4,
+      "module": "Epidemiologia descritiva, FOFA e atores sociais",
+      "source": "PFIS II/semana 4/27 ago - Epidemiologia descritiva - tempo, lugar e pessoa.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w04-desc-q3",
+      "kind": "mcq",
+      "title": "Numa série temporal, os casos graves caem depois do início da vacinação. O que a descrição permite afirmar?",
+      "options": [
+        "A vacinação foi a única causa da queda observada",
+        "A queda se deve certamente ao atraso das notificações recentes",
+        "A queda é compatível com efeito, mas não o prova sozinha",
+        "A série descritiva é inútil para acompanhar vacinas"
+      ],
+      "answer": 2,
+      "explanation": "Coincidência temporal é compatível com efeito, mas variantes, comportamento, testagem e atraso de notificação também mudam a curva."
+    },
+    {
+      "subject": "pfis",
+      "week": 4,
+      "module": "Epidemiologia descritiva, FOFA e atores sociais",
+      "source": "PFIS II/semana 4/27 ago - Epidemiologia descritiva - tempo, lugar e pessoa.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w04-desc-q4",
+      "kind": "mcq",
+      "title": "Na febre maculosa, qual é o papel das capivaras e dos carrapatos?",
+      "options": [
+        "Capivaras são vetores; carrapatos são hospedeiros",
+        "Ambos transmitem a doença diretamente às pessoas",
+        "Capivaras são o agente causador da febre maculosa",
+        "Capivaras são hospedeiras; carrapatos são vetores"
+      ],
+      "answer": 3,
+      "explanation": "Carrapatos do gênero Amblyomma são vetores. Capivaras e cavalos são hospedeiros no ciclo ecológico, não vetores."
+    },
+    {
+      "subject": "pfis",
+      "week": 4,
+      "module": "Epidemiologia descritiva, FOFA e atores sociais",
+      "source": "PFIS II/semana 4/27 ago - Análise FOFA aplicada à UBS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w04-fofa-q1",
+      "kind": "mcq",
+      "title": "Num projeto de estudantes na UBS, a falta de um profissional que a prefeitura não contratou é classificada como:",
+      "options": [
+        "Ameaça, porque o projeto não controla contratações",
+        "Fraqueza, porque falta um profissional na equipe",
+        "Força, porque o grupo se adapta à falta do profissional",
+        "Oportunidade, porque abre espaço para novos voluntários"
+      ],
+      "answer": 0,
+      "explanation": "Interno e externo dependem do objeto. Para a UBS, pode ser fraqueza; para um projeto discente que não controla contratações, é ameaça. Por isso é preciso declarar o recorte."
+    },
+    {
+      "subject": "pfis",
+      "week": 4,
+      "module": "Epidemiologia descritiva, FOFA e atores sociais",
+      "source": "PFIS II/semana 4/27 ago - Análise FOFA aplicada à UBS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w04-fofa-q2",
+      "kind": "mcq",
+      "title": "Uma nova política municipal passa a financiar ações de educação em saúde. Para o projeto da UBS, isso é:",
+      "options": [
+        "Força: fator interno que favorece o grupo",
+        "Fraqueza: fator interno desfavorável",
+        "Oportunidade: fator externo favorável",
+        "Ameaça: fator externo desfavorável"
+      ],
+      "answer": 2,
+      "explanation": "É um fator externo favorável: oportunidade. Forças e fraquezas são internas ao objeto analisado."
+    },
+    {
+      "subject": "pfis",
+      "week": 4,
+      "module": "Epidemiologia descritiva, FOFA e atores sociais",
+      "source": "PFIS II/semana 4/27 ago - Análise FOFA aplicada à UBS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w04-fofa-q3",
+      "kind": "mcq",
+      "title": "Segundo a aula, quando uma análise FOFA cumpre sua finalidade?",
+      "options": [
+        "Quando os quatro quadrantes têm o mesmo número de itens listados",
+        "Quando os achados levam a prioridades e a ações acompanhadas",
+        "Quando o grupo preenche a matriz sem consultar outros atores",
+        "Quando cada quadrante é ilustrado com uma foto da unidade"
+      ],
+      "answer": 1,
+      "explanation": "Preencher quadrantes e parar no diagnóstico transforma a FOFA em ilustração. Ela serve para decidir o que manter, corrigir, aproveitar ou prevenir."
+    },
+    {
+      "subject": "pfis",
+      "week": 4,
+      "module": "Epidemiologia descritiva, FOFA e atores sociais",
+      "source": "PFIS II/semana 4/27 ago - Atores sociais em projetos de saúde.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w04-atores-q1",
+      "kind": "mcq",
+      "title": "Na matriz poder por interesse, como lidar com um ator de alto poder e alto interesse no projeto?",
+      "options": [
+        "Apenas monitorar, pois a relevância pode mudar",
+        "Manter satisfeito com informes ocasionais",
+        "Só manter informado, sem incluir nas decisões",
+        "Gerenciar de perto e envolver nas decisões"
+      ],
+      "answer": 3,
+      "explanation": "Alto poder e alto interesse: gerenciar de perto, construir aliança e comunicar com frequência."
+    },
+    {
+      "subject": "pfis",
+      "week": 4,
+      "module": "Epidemiologia descritiva, FOFA e atores sociais",
+      "source": "PFIS II/semana 4/27 ago - Atores sociais em projetos de saúde.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w04-atores-q2",
+      "kind": "mcq",
+      "title": "Não há informação sobre a posição de uma liderança comunitária em relação ao projeto. Como registrá-la?",
+      "options": [
+        "Posição desconhecida ou neutra provisória, com baixa confiança",
+        "Contrária, pois quem não apoia abertamente costuma se opor",
+        "Favorável, pois lideranças comunitárias apoiam projetos de saúde",
+        "Neutra definitiva, pois a ausência de sinal prova neutralidade"
+      ],
+      "answer": 0,
+      "explanation": "Ausência de informação não prova neutralidade. Não se deve atribuir posição pelo cargo; registre a incerteza e atualize o mapa."
+    },
+    {
+      "subject": "pfis",
+      "week": 5,
+      "module": "PICS e oficina de epidemiologia",
+      "source": "PFIS II/semana 5/3 set - Preparação - Oficina de Epidemiologia e PICS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w05-pics-q1",
+      "kind": "mcq",
+      "title": "Qual marco aprovou a Política Nacional de Práticas Integrativas e Complementares no SUS?",
+      "options": [
+        "Portaria nº 849, de 2017",
+        "Portaria GM/MS nº 971, de 2006",
+        "Portaria GM nº 702, de 2018",
+        "Lei Orgânica da Saúde, de 1990"
+      ],
+      "answer": 1,
+      "explanation": "A PNPIC foi aprovada em 2006. As portarias de 2017 e 2018 ampliaram o conjunto de práticas."
+    },
+    {
+      "subject": "pfis",
+      "week": 5,
+      "module": "PICS e oficina de epidemiologia",
+      "source": "PFIS II/semana 5/3 set - Preparação - Oficina de Epidemiologia e PICS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w05-pics-q2",
+      "kind": "mcq",
+      "title": "Um grupo de práticas integrativas foi bem recebido pelos usuários. O que isso demonstra sobre o projeto?",
+      "options": [
+        "Impacto comprovado na saúde dos participantes",
+        "Adesão garantida dos usuários durante todo o próximo ano",
+        "Aceitação, que é diferente de impacto no desfecho",
+        "Efetividade equivalente à de um ensaio clínico"
+      ],
+      "answer": 2,
+      "explanation": "Aceitação inicial, participação e impacto são conceitos diferentes. Uma atividade bem recebida não prova melhora no desfecho."
+    },
+    {
+      "subject": "pfis",
+      "week": 7,
+      "module": "Epidemiologia analítica, BVS e Vigitel",
+      "source": "PFIS II/semana 7/17 set - Preparação - Epidemiologia analítica, BVS e Vigitel.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w07-anal-q1",
+      "kind": "mcq",
+      "title": "Numa coorte, 30 de 100 expostos e 10 de 100 não expostos adoeceram. Qual é o RR e sua leitura?",
+      "options": [
+        "RR = 3%: aumento de três pontos no risco",
+        "RR = 20: diferença de 20 casos por grupo",
+        "RR = 0,33: exposição associada à proteção",
+        "RR = 3: risco observado três vezes maior"
+      ],
+      "answer": 3,
+      "explanation": "Risco nos expostos 30%, nos não expostos 10%: RR = 0,30/0,10 = 3. É razão, sem porcentagem, e não prova causa sozinho."
+    },
+    {
+      "subject": "pfis",
+      "week": 7,
+      "module": "Epidemiologia analítica, BVS e Vigitel",
+      "source": "PFIS II/semana 7/17 set - Preparação - Epidemiologia analítica, BVS e Vigitel.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w07-anal-q2",
+      "kind": "mcq",
+      "title": "Num caso-controle, 60 dos casos e 30 dos controles foram expostos; 40 casos e 70 controles não foram. Qual é a OR?",
+      "options": [
+        "3,5",
+        "2,0",
+        "1,5",
+        "0,29"
+      ],
+      "answer": 0,
+      "explanation": "OR = (a × d) / (b × c) = (60 × 70) / (40 × 30) = 4.200 / 1.200 = 3,5. Com casos e controles nas colunas, b são casos não expostos e c controles expostos."
+    },
+    {
+      "subject": "pfis",
+      "week": 7,
+      "module": "Epidemiologia analítica, BVS e Vigitel",
+      "source": "PFIS II/semana 7/17 set - Preparação - Epidemiologia analítica, BVS e Vigitel.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w07-anal-q3",
+      "kind": "mcq",
+      "title": "Uma intervenção tem RR de 0,8 para um desfecho. Qual é a redução relativa do risco?",
+      "options": [
+        "80%",
+        "8%",
+        "20%",
+        "0,2%"
+      ],
+      "answer": 2,
+      "explanation": "A redução relativa é 1 − RR = 1 − 0,8 = 0,2, ou 20%."
+    },
+    {
+      "subject": "pfis",
+      "week": 7,
+      "module": "Epidemiologia analítica, BVS e Vigitel",
+      "source": "PFIS II/semana 7/17 set - Preparação - Epidemiologia analítica, BVS e Vigitel.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w07-anal-q4",
+      "kind": "mcq",
+      "title": "Num caso-controle sobre tabagismo, os controles foram escolhidos entre internados por doenças também ligadas ao fumo. Qual problema isso cria?",
+      "options": [
+        "Viés de memória dos casos",
+        "Viés de seleção dos controles",
+        "Erro aleatório por amostra pequena",
+        "Confundimento pela idade dos casos"
+      ],
+      "answer": 1,
+      "explanation": "Controles devem representar a população que deu origem aos casos. Escolhê-los por doença associada à exposição distorce a comparação."
+    },
+    {
+      "subject": "pfis",
+      "week": 7,
+      "module": "Epidemiologia analítica, BVS e Vigitel",
+      "source": "PFIS II/semana 7/17 set - Preparação - Epidemiologia analítica, BVS e Vigitel.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w07-anal-q5",
+      "kind": "mcq",
+      "title": "Que limite deve ser considerado ao usar dados do Vigitel?",
+      "options": [
+        "Mede os fatores de risco por exame físico em cada domicílio",
+        "Representa igualmente áreas rurais e todas as cidades do país",
+        "Dispensa ponderação, pois entrevista toda a população adulta",
+        "É inquérito telefônico, autorreferido, nas capitais e no DF"
+      ],
+      "answer": 3,
+      "explanation": "O Vigitel é telefônico, com indicadores autorreferidos, nas capitais e no Distrito Federal, e usa ponderação. Generalizar exige cuidado."
+    },
+    {
+      "subject": "pfis",
+      "week": 7,
+      "module": "Epidemiologia analítica, BVS e Vigitel",
+      "source": "PFIS II/semana 7/17 set - Preparação - Epidemiologia analítica, BVS e Vigitel.md; PFIS II/semana 4/27 ago - Epidemiologia descritiva - tempo, lugar e pessoa.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w07-anal-q6",
+      "kind": "mcq",
+      "title": "Qual é a principal diferença entre epidemiologia descritiva e analítica?",
+      "options": [
+        "A descritiva gera hipóteses; a analítica compara grupos para testá-las",
+        "A descritiva prova causas; a analítica apenas descreve a sua distribuição",
+        "A descritiva usa só casos; a analítica usa só pessoas saudáveis",
+        "A descritiva exige ensaio clínico; a analítica exige série temporal"
+      ],
+      "answer": 0,
+      "explanation": "A descritiva mostra quem, onde e quando e produz hipóteses. A analítica compara expostos e não expostos, ou casos e controles, para investigar associação."
+    },
+    {
+      "subject": "pfis",
+      "week": 7,
+      "module": "Epidemiologia analítica, BVS e Vigitel",
+      "source": "PFIS II/semana 7/17 set - Preparação - Epidemiologia analítica, BVS e Vigitel.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w07-anal-q7",
+      "kind": "mcq",
+      "title": "Numa busca na BVS com os conceitos hipertensão, atividade física e controle pressórico, como combinar os termos?",
+      "options": [
+        "Todos os termos com AND, para deixar a busca mais completa",
+        "Todos os termos com OR, para garantir os três conceitos juntos",
+        "Sinônimos de cada conceito com OR; conceitos entre si com AND",
+        "Conceitos com OR e sinônimos com NOT, para evitar repetição"
+      ],
+      "answer": 2,
+      "explanation": "OR amplia dentro do conceito; AND cruza conceitos diferentes. Depois, consultar DeCS/MeSH e registrar a estratégia."
+    },
+    {
+      "subject": "pfis",
+      "week": 7,
+      "module": "Epidemiologia analítica, BVS e Vigitel",
+      "source": "PFIS II/semana 7/17 set - Preparação - Epidemiologia analítica, BVS e Vigitel.md; PFIS II/semana 7/17 set - Resumo - Revisão de Epidemiologia.md; PFIS II/semana 9/1 out - Preparação - N1 de PFIS e apresentação SWOT.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w07-anal-w1",
+      "kind": "written",
+      "title": "Numa coorte de 200 trabalhadores, 20 de 80 expostos a ruído intenso e 12 de 120 não expostos desenvolveram hipertensão em cinco anos. Monte a tabela 2 por 2, calcule os riscos, o RR e interprete. O que avaliar antes de falar em causa?",
+      "rubric": [
+        "Tabela correta: a = 20, b = 60, c = 12, d = 108",
+        "Risco nos expostos 20/80 = 25%; nos não expostos 12/120 = 10%",
+        "RR = 0,25/0,10 = 2,5, escrito sem porcentagem",
+        "Interpretação: risco observado 2,5 vezes o dos não expostos no período",
+        "Antes de causa: acaso, viés, confundimento, temporalidade e plausibilidade",
+        "Cita um possível confundidor, como idade, obesidade ou turno de trabalho"
+      ],
+      "explanation": "Tabela: expostos 20 com e 60 sem hipertensão; não expostos 12 com e 108 sem. Risco nos expostos = 20/80 = 25%; nos não expostos = 12/120 = 10%. RR = 0,25/0,10 = 2,5: no período, o risco observado entre expostos foi 2,5 vezes o dos não expostos. Antes de afirmar causa, avaliar acaso, com intervalo de confiança, vieses de seleção e informação, confundimento por fatores como idade ou obesidade, temporalidade, que a coorte ajuda a documentar, e plausibilidade.",
+      "hint": "Risco é casos sobre o total de cada grupo. RR é razão entre riscos."
+    },
+    {
+      "subject": "pfis",
+      "week": 4,
+      "module": "Epidemiologia descritiva, FOFA e atores sociais",
+      "source": "PFIS II/semana 4/27 ago - Análise FOFA aplicada à UBS.md; PFIS II/semana 4/27 ago - Atores sociais em projetos de saúde.md; PFIS II/semana 9/1 out - Preparação - N1 de PFIS e apresentação SWOT.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pf-w04-fofa-w1",
+      "kind": "written",
+      "title": "Um grupo de estudantes planeja uma ação de educação sobre hipertensão numa UBS. Proponha um item para cada quadrante da FOFA, justifique por que cada um é interno ou externo e derive uma ação verificável.",
+      "rubric": [
+        "Declara o objeto: a ação educativa do grupo, e não a UBS inteira",
+        "Força e fraqueza internas ao projeto, com evidência",
+        "Oportunidade e ameaça externas ao projeto, com evidência",
+        "Justifica interno versus externo pelo que o grupo controla",
+        "Deriva uma ação com responsável, prazo e indicador",
+        "Separa o que foi observado, relatado e o que é hipótese"
+      ],
+      "explanation": "Objeto: a ação educativa do grupo. Força: material educativo já produzido e testado. Fraqueza: horário da atividade incompatível com o de trabalho dos usuários. Oportunidade: campanha municipal de hipertensão no mesmo mês. Ameaça: sobrecarga da UBS por surto respiratório. Força e fraqueza dependem do grupo; oportunidade e ameaça estão fora do seu controle. Ação: aproveitar a campanha e oferecer um horário noturno, com responsável definido e indicador de participação comparado à linha de base.",
+      "hint": "Interno é o que o projeto controla. Declare o objeto antes de classificar."
+    }
+  ],
+  "revisions": [
+    {
+      "id": "sim-2026-2-semana-01-q19",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Testar a memória do paciente sob pressão na consulta.",
+        "Conferir se a explicação foi clara e refazê-la se preciso.",
+        "Fazer o paciente repetir exatamente as mesmas palavras ditas.",
+        "Substituir as perguntas abertas por uma prova oral curta."
+      ],
+      "answer": 1,
+      "from": "1b0ca2222f163cda"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q21",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Você tem sido irresponsável com o seu tratamento.",
+        "Você nunca se importa com as consultas marcadas.",
+        "Na última semana, você não tomou quatro doses.",
+        "Você está tentando sabotar o plano de cuidado."
+      ],
+      "answer": 2,
+      "from": "aa6b12f6a1909fc9"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q41",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Interromper para oferecer uma solução antes que termine.",
+        "Corrigir de imediato a interpretação feita pelo próprio paciente.",
+        "Compreender sentimentos e necessidades antes de aconselhar.",
+        "Mudar de assunto para evitar intensificar a emoção dele."
+      ],
+      "answer": 2,
+      "from": "44f81d2b336fef8c"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q42",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Se o resultado foi publicado numa tabela com valor de p",
+        "Acaso, viés, confundimento, temporalidade e plausibilidade",
+        "A opinião do participante mais exposto ao fator estudado",
+        "Se todos os indivíduos expostos acabaram desenvolvendo a doença"
+      ],
+      "answer": 1,
+      "from": "bafd94247d7735dd"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q43",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "A exceção individual prova que o fator não está associado à doença.",
+        "O risco é probabilístico; uma exceção não anula a associação.",
+        "Todo fator de risco deve produzir o desfecho em todos os expostos.",
+        "Associações populacionais só valem quando não há nenhuma exceção."
+      ],
+      "answer": 1,
+      "from": "92d598edc361ea6a"
+    }
+  ]
+}

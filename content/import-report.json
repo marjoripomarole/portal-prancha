@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 2658,
+  "items": 2698,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -91,8 +91,8 @@
       "description": "Epidemiologia · Saúde coletiva",
       "counts": {
         "read": 9,
-        "mcq": 10,
-        "written": 0,
+        "mcq": 48,
+        "written": 2,
         "recall": 84
       },
       "weeks": [
