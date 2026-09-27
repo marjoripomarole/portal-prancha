@@ -110,13 +110,13 @@
       "week": 7,
       "module": "Extração de DNA e controle de qualidade",
       "source": "Genótipo ao Fenótipo/semana 7/APS - Extração de DNA - Marjori Pomarole.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "id": "reviewed-ge-w07-ext-q5",
       "kind": "mcq",
       "title": "Uma amostra tem A260/A280 de 1,8. O que isso garante?",
       "options": [
         "Que o DNA está livre de sais e pronto para qualquer exame",
-        "Que o DNA está totalmente íntegro, sem nenhuma fragmentação relevante",
+        "Que o DNA está íntegro, sem nenhuma fragmentação",
         "Nada sobre inibidores ou integridade: é um indicador parcial",
         "Que a concentração é suficiente para o sequenciamento"
       ],
@@ -382,12 +382,12 @@
       "week": 8,
       "module": "Anomalias cromossômicas: número e estrutura",
       "source": "Genótipo ao Fenótipo/semana 8/25 set - Resumo guiado - Anomalias cromossômicas.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "id": "reviewed-ge-w08-anom-q10",
       "kind": "mcq",
       "title": "Por que um microarray normal não afasta uma translocação balanceada?",
       "options": [
-        "Ele só analisa os cromossomos sexuais presentes na amostra",
+        "Ele analisa apenas os cromossomos sexuais",
         "Ele lê a sequência, mas ignora os cromossomos",
         "Ele exige que a translocação cause uma deleção",
         "Ele detecta perdas e ganhos, não troca de posição"
@@ -979,11 +979,11 @@
     },
     {
       "id": "gen-m6q10",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
       "options": [
         "Nada foi achado no alcance e na interpretação desse exame",
-        "Foi excluída qualquer doença genética para esse paciente e família",
+        "Foi excluída qualquer doença genética para o paciente",
         "Todos os mecanismos epigenéticos também foram avaliados",
         "Não é mais necessário correlacionar o fenótipo clínico"
       ],
@@ -1080,6 +1080,214 @@
       ],
       "answer": 2,
       "from": "d8daf144ec62a6ee"
+    },
+    {
+      "id": "gen-m1q2",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Genes em loci diferentes",
+        "Alelos de um mesmo locus",
+        "Cromátides-irmãs idênticas",
+        "Duas proteínas já traduzidas"
+      ],
+      "answer": 1,
+      "from": "cf707bd08693a26e"
+    },
+    {
+      "id": "gen-m1q7",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Dissomia uniparental",
+        "Quimerismo por dois zigotos",
+        "Mosaicismo pós-zigótico",
+        "Variante germinativa herdada"
+      ],
+      "answer": 2,
+      "from": "1109a3b9bed44610"
+    },
+    {
+      "id": "gen-m1q10",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Replicação seletiva de éxons",
+        "Splicing alternativo do pré-mRNA",
+        "Aneuploidia do cromossomo do gene",
+        "Transcrição reversa do mRNA"
+      ],
+      "answer": 1,
+      "from": "540ed9b753c49e4c"
+    },
+    {
+      "id": "gen-m2q3",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Pseudodeficiência laboratorial",
+        "Efeito dominante negativo",
+        "Haploinsuficiência simples",
+        "Ganho de função tóxico"
+      ],
+      "answer": 1,
+      "from": "f8a277be1914e2fb"
+    },
+    {
+      "id": "gen-m2q5",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Deleção de três bases",
+        "Substituição de uma base",
+        "Duplicação de seis bases",
+        "Deleção de uma base"
+      ],
+      "answer": 3,
+      "from": "f75c6e08d8c3f7fd"
+    },
+    {
+      "id": "gen-m2q7",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Herança recessiva",
+        "Haploinsuficiência",
+        "Codominância alélica",
+        "Ganho de função tóxico"
+      ],
+      "answer": 1,
+      "from": "59084cd74fa689f3"
+    },
+    {
+      "id": "gen-m2q8",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "O genótipo idêntico impede diferenças de gravidade",
+        "A HbF não influencia a gravidade da doença falciforme",
+        "Modificadores da expressão podem alterar o fenótipo",
+        "A variante em HBB foi perdida no caso mais leve"
+      ],
+      "answer": 2,
+      "from": "f632969d68a828d5"
+    },
+    {
+      "id": "gen-m3q2",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Todos os filhos serão aa e desenvolverão PKU clássica",
+        "Não há risco fetal, pois os filhos não terão genótipo aa",
+        "A toxicidade fetal exige uma mutação nova no gene PAH",
+        "Os filhos serão Aa e podem sofrer toxicidade intrauterina"
+      ],
+      "answer": 3,
+      "from": "1122f3ee64e30bc0"
+    },
+    {
+      "id": "gen-m4q2",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Herança mitocondrial",
+        "Herança ligada ao Y",
+        "Autossômico dominante",
+        "Ligada ao X, fora da PAR"
+      ],
+      "answer": 2,
+      "from": "268456f498d712b9"
+    },
+    {
+      "id": "gen-m4q5",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "100%",
+        "25%",
+        "50%",
+        "75%"
+      ],
+      "answer": 1,
+      "from": "eab28f5aaf77b9c7"
+    },
+    {
+      "id": "gen-m4q6",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Autossômica dominante",
+        "Mitocondrial paterna",
+        "Autossômica recessiva",
+        "Herança ligada ao Y"
+      ],
+      "answer": 2,
+      "from": "091bec204c87afeb"
+    },
+    {
+      "id": "gen-m4q10",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Hemizigose do alelo",
+        "Duas variantes em cis",
+        "Heterozigose composta",
+        "Heterogeneidade de locus"
+      ],
+      "answer": 2,
+      "from": "9b32bc99786ad92d"
+    },
+    {
+      "id": "gen-m5q7",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Ela perdeu os dois cromossomos X nas células",
+        "Os dois X ficam silenciados em todas as células",
+        "Inativação desviada do X em tecidos relevantes",
+        "Mulheres não manifestam condições ligadas ao X"
+      ],
+      "answer": 2,
+      "from": "1ddebd088169f83f"
+    },
+    {
+      "id": "gen-m5q13",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Faixa de penetrância reduzida",
+        "Faixa normal, benigna e estável",
+        "Faixa de penetrância completa",
+        "Pré-mutação do gene FMR1"
+      ],
+      "answer": 0,
+      "from": "8e9236bf881acb53"
+    },
+    {
+      "id": "gen-m6q3",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Dosagem de fenilalanina",
+        "Cariótipo com bandamento",
+        "Microarray cromossômico",
+        "qPCR de um gene aleatório"
+      ],
+      "answer": 1,
+      "from": "e5c98f77f318d3a6"
+    },
+    {
+      "id": "gen-m6q11",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Concluir que não há síndrome, pois não há deleção",
+        "Teste de metilação adequado ao locus suspeito",
+        "Repetir o mesmo FISH para confirmar o resultado",
+        "Dosar a glicemia como confirmação molecular"
+      ],
+      "answer": 1,
+      "from": "c5148dd4b28ee71f"
     }
   ]
 }

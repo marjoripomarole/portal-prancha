@@ -143,7 +143,7 @@
       "week": 8,
       "module": "Anomalias cromossômicas: número e estrutura",
       "source": "Genótipo ao Fenótipo/semana 8/Aula 8_Anomalias Cromossômicas.pdf · páginas 17 e 21; MedlinePlus: https://medlineplus.gov/genetics/understanding/mutationsanddisorders/structuralchanges/",
-      "version": "2026-09-21.1",
+      "version": "2026-09-27.1",
       "id": "reviewed-w08-cromossomos-q1",
       "kind": "mcq",
       "title": "Qual alteração envolve um conjunto cromossômico completo adicional?",
@@ -151,7 +151,7 @@
         "Trissomia 21",
         "Deleção terminal",
         "Triploidia",
-        "Duplicação de um segmento"
+        "Duplicação segmentar"
       ],
       "answer": 2,
       "explanation": "Triploidia corresponde a três conjuntos completos. Trissomia de um cromossomo individual é aneuploidia."
