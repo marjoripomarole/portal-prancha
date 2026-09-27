@@ -103,15 +103,15 @@
       "week": 8,
       "module": "Estudos observacionais: seleção, temporalidade e medidas",
       "source": "Pesquisa Científica/semana 8/Aula_07_Observacionais_15Set2026.pdf · páginas 13–18, 25–32, 41–53",
-      "version": "2026-09-21.1",
+      "version": "2026-09-27.1",
       "id": "reviewed-w08-observacionais-q4",
       "kind": "mcq",
       "title": "Por que um caso-controle convencional não estima diretamente a incidência pela proporção de casos da amostra?",
       "options": [
-        "Porque nenhum dado de exposição é coletado",
-        "Porque a seleção fixa casos e controles, sem representar diretamente a população em risco acompanhada",
-        "Porque OR é sempre igual a RR",
-        "Porque estudos observacionais não usam números"
+        "Porque o caso-controle não coleta nenhum dado sobre exposições anteriores",
+        "Porque a amostra é escolhida pelo desfecho, não pela população em risco",
+        "Porque a OR calculada nesse desenho é sempre igual ao risco relativo",
+        "Porque o número de controles precisa ser igual ao número de casos"
       ],
       "answer": 1,
       "explanation": "O número de casos e controles decorre da amostragem pelo desfecho. Falta o denominador populacional em risco acompanhado necessário à incidência."

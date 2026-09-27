@@ -1,0 +1,989 @@
+{
+  "reviewedAt": "2026-09-27",
+  "sources": [
+    {
+      "path": "Pesquisa Científica/semana 7/APS - Modalidades de Pesquisa - Marjori Pomarole.md",
+      "sha256": "54b744cd725a8f43f2f125589d4cc1744a9b0e7314c3f3f2fdb7e4fe382aa0bf",
+      "scope": "Abordagens qualitativa, quantitativa e mista; técnicas; desenhos sequenciais. Cenários novos, sem repetir as questões da APS."
+    },
+    {
+      "path": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
+      "sha256": "8a50a7b6c26cfb9ea791589b5646c355fc60e2bc690200b173bbd55edf78cc55",
+      "scope": "Comparação entre modalidades, desenhos mistos, amostragem qualitativa, critérios de rigor e pegadinhas."
+    },
+    {
+      "path": "Pesquisa Científica/semana 1/3 ago.md",
+      "sha256": "0722ddcd88bb744b82904a0ce42c291206d7fa5d4e8622272f7b5f95f484a005",
+      "scope": "Sangria, viés de confirmação, Semmelweis e MBE."
+    },
+    {
+      "path": "Pesquisa Científica/semana 2/10 ago.md",
+      "sha256": "58d557552bd63c64940871e462edbf4ecf4caa44c13ffed72bc0dec9093a304c",
+      "scope": "Características do conhecimento científico, Popper, Kuhn, Oreskes, pseudociência e espectro da pesquisa."
+    },
+    {
+      "path": "Pesquisa Científica/semana 3/APS 3 - Do Tema à Pergunta - Marjori Pomarole.md",
+      "sha256": "9bc0bd954d8abf0c5e75b875c3fe0bfb8965e165421b6d5aeb917b41970cb596",
+      "scope": "PICOT/PECOT, exposição observada versus intervenção e FINER. Cenários novos."
+    },
+    {
+      "path": "Pesquisa Científica/semana 4/APS 4 - MeSH e Estratégias de Busca no PubMed - Marjori Pomarole.md",
+      "sha256": "1131a941612be1229407f36bce28e3d9be3d3a547e4ea878ca03808a5ff5c106",
+      "scope": "MeSH, termos livres, mapeamento automático e estrutura AND/OR."
+    },
+    {
+      "path": "Pesquisa Científica/semana 4/24 ago - Fontes e Referências.md",
+      "sha256": "10f9198d23d60c3634cda92f99fd43410f35ea1effbf62828d81b931d9c97ecc",
+      "scope": "Operador NOT, fontes primárias/secundárias, CRAAP, LILACS/DeCS, reprodutibilidade e paráfrase."
+    },
+    {
+      "path": "Pesquisa Científica/semana 5/APS 5 - Seleção Amostral e Validade dos Estudos - Marjori Pomarole.md",
+      "sha256": "5ac413a9feb38f38bb8c853d6c1d846570697f4a06aea090f2992fe1b5f8ac70",
+      "scope": "Voluntário saudável, precisão versus viés, validade interna/externa, população acessível e amostra real."
+    },
+    {
+      "path": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
+      "sha256": "e1bed9e10e4945c808cc2bee1b0e576da238d275b109f5e07dc852e39e44bd8b",
+      "scope": "Desenhos observacionais, RR, OR, razão de prevalências, coorte retrospectiva e vieses. Cálculos refeitos."
+    },
+    {
+      "path": "Pesquisa Científica/semana 9/28 set - Preparação - N1 de Pesquisa Científica.md",
+      "sha256": "f761ad4af165318372ea7126794ef9cf77ad86c2a4959ffe4c6ccd2484294eb0",
+      "scope": "Perguntas de domínio usadas como roteiro das discursivas."
+    }
+  ],
+  "items": [
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md; Pesquisa Científica/semana 7/APS - Modalidades de Pesquisa - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-read",
+      "kind": "read",
+      "title": "Modalidades de pesquisa: como escolher pela pergunta",
+      "body": "<p>A modalidade é escolhida pela <b>pergunta</b>, não pelo prestígio do método. Nenhuma é mais científica por natureza.</p><ul><li><b>Quantitativa:</b> quanto, com que frequência, há associação ou efeito? Dados numéricos, variáveis definidas, amostragem muitas vezes probabilística ou calculada, análise estatística.</li><li><b>Qualitativa:</b> como, por quê, que significado ou experiência? Entrevistas, grupos focais, observação e documentos. Amostragem intencional, pela diversidade de informação. Análise por codificação, temas e interpretação.</li><li><b>Métodos mistos:</b> combinam os dois para uma pergunta que nenhum resolve sozinho. O ponto decisivo é a <b>integração planejada</b> dos resultados.</li></ul><p><b>Desenhos mistos:</b> convergente, com as duas coletas no mesmo período e comparadas. Sequencial explicativo, quantitativo e depois qualitativo para explicar os números. Sequencial exploratório, qualitativo e depois quantitativo, por exemplo para construir um instrumento. Incorporado, com um componente secundário dentro do outro.</p><p><b>Pegadinhas:</b> uma pergunta aberta num questionário não faz o estudo misto. Entrevistar muita gente não torna o estudo quantitativo. Amostra pequena não define pesquisa qualitativa. Saturação precisa estar ligada ao objetivo e aparecer na análise. Associação estatística não prova causa.</p>"
+    },
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-q1",
+      "kind": "mcq",
+      "title": "Qual pergunta é mais bem respondida por uma abordagem qualitativa?",
+      "options": [
+        "Qual é a prevalência de hesitação vacinal entre os responsáveis atendidos na UBS?",
+        "A hesitação vacinal é maior entre responsáveis com menor escolaridade?",
+        "Como responsáveis de uma UBS explicam suas dúvidas sobre vacinar os filhos?",
+        "Quantas doses atrasadas há por criança cadastrada na UBS neste ano?"
+      ],
+      "answer": 2,
+      "explanation": "Perguntas de como e por quê, sobre significados e explicações, pedem abordagem qualitativa. Prevalência, associação e contagem são perguntas quantitativas."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/APS - Modalidades de Pesquisa - Marjori Pomarole.md; Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-q2",
+      "kind": "mcq",
+      "title": "Uma equipe aplica questionários a 320 residentes e encontra associação entre plantões noturnos e sintomas de burnout. Depois, entrevista 18 residentes para entender como os plantões afetam a rotina. Qual é o desenho?",
+      "options": [
+        "Sequencial explicativo, porque o qualitativo aprofunda um achado quantitativo",
+        "Sequencial exploratório, porque as entrevistas vieram depois dos questionários",
+        "Convergente, porque as duas coletas tratam do mesmo fenômeno e são comparadas",
+        "Estudo qualitativo, porque a interpretação final depende das entrevistas"
+      ],
+      "answer": 0,
+      "explanation": "No sequencial explicativo, a etapa quantitativa vem antes e a qualitativa ajuda a explicar o que os números mostraram. No exploratório a ordem é inversa. No convergente as coletas ocorrem no mesmo período."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-q3",
+      "kind": "mcq",
+      "title": "Um grupo entrevista pacientes com insuficiência cardíaca sobre dificuldades no autocuidado. Com os temas encontrados, constrói um questionário aplicado depois a 400 pacientes. Qual é o desenho misto?",
+      "options": [
+        "Sequencial explicativo: o qualitativo vem primeiro e explica os resultados",
+        "Convergente: as duas etapas são coletadas e comparadas ao mesmo tempo",
+        "Incorporado: o questionário é um componente secundário das entrevistas",
+        "Sequencial exploratório: o qualitativo vem primeiro e orienta o instrumento"
+      ],
+      "answer": 3,
+      "explanation": "Explorar o fenômeno qualitativamente e depois construir ou testar um instrumento é o uso típico do sequencial exploratório, com ordem qualitativo e depois quantitativo."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-q4",
+      "kind": "mcq",
+      "title": "Um questionário fechado com 40 itens inclui, no final, uma pergunta aberta opcional para comentários. Isso caracteriza métodos mistos?",
+      "options": [
+        "Sim, porque o estudo passa a reunir dados numéricos e dados em texto livre",
+        "Não, porque falta um componente qualitativo planejado e integrado à análise",
+        "Sim, desde que ao menos metade dos participantes responda à pergunta aberta",
+        "Não, porque métodos mistos exigem que a etapa qualitativa venha antes"
+      ],
+      "answer": 1,
+      "explanation": "Métodos mistos exigem componentes quantitativo e qualitativo planejados e um ponto de integração. Um campo de comentários não cumpre isso. Também não há exigência de que o qualitativo venha antes."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md; Pesquisa Científica/semana 7/APS - Modalidades de Pesquisa - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-q5",
+      "kind": "mcq",
+      "title": "O que orienta a seleção de participantes numa pesquisa qualitativa bem planejada?",
+      "options": [
+        "Cálculo amostral para garantir representatividade estatística da população",
+        "Número mínimo de 30 participantes para permitir a análise de conteúdo",
+        "Seleção intencional de pessoas que tragam diversidade de experiências",
+        "Sorteio aleatório entre os cadastrados, para evitar viés de seleção"
+      ],
+      "answer": 2,
+      "explanation": "Na pesquisa qualitativa, a amostragem é intencional ou teórica e busca riqueza e diversidade informacional, não representatividade estatística. Não existe número mínimo fixo."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/APS - Modalidades de Pesquisa - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-q6",
+      "kind": "mcq",
+      "title": "Um pesquisador conduz uma discussão com oito enfermeiras ao mesmo tempo e usa a interação entre elas como fonte de dados sobre a passagem de plantão. Qual técnica é essa?",
+      "options": [
+        "Entrevista semiestruturada",
+        "Grupo focal",
+        "Observação não participante",
+        "Análise documental"
+      ],
+      "answer": 1,
+      "explanation": "O grupo focal reúne vários participantes e usa a interação do grupo como dado. A entrevista semiestruturada é individual, a observação registra práticas em campo e a análise documental usa documentos."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-q7",
+      "kind": "mcq",
+      "title": "Qual critério é próprio do rigor em pesquisa qualitativa?",
+      "options": [
+        "Reflexividade sobre como a posição do pesquisador influencia a análise",
+        "Cálculo do intervalo de confiança para cada categoria temática encontrada",
+        "Randomização dos participantes entre os grupos de entrevista e controle",
+        "Amostra grande o bastante para garantir poder estatístico"
+      ],
+      "answer": 0,
+      "explanation": "Reflexividade, rastreabilidade entre dados e temas, justificativa da seleção e atenção a casos divergentes são critérios qualitativos. Intervalo de confiança, randomização e poder estatístico pertencem à lógica quantitativa."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-q8",
+      "kind": "mcq",
+      "title": "Uma pesquisadora encerra as entrevistas no número previsto e afirma que houve saturação, sem descrever como a identificou. Qual é o problema?",
+      "options": [
+        "Dez entrevistas são sempre insuficientes em qualquer estudo qualitativo",
+        "A saturação só pode ser declarada depois de pelo menos 30 entrevistas",
+        "Saturação só se aplica a grupos focais, não a entrevistas individuais",
+        "A saturação deve se ligar ao objetivo e ser demonstrada na análise"
+      ],
+      "answer": 3,
+      "explanation": "Saturação não é uma justificativa retrospectiva para qualquer tamanho de amostra. Ela deve se conectar ao objetivo e à estratégia analítica e ficar demonstrada. Não há número fixo que a garanta."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/APS - Modalidades de Pesquisa - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-q9",
+      "kind": "mcq",
+      "title": "Um estudo com 320 estudantes encontra menor ansiedade entre os que usam simuladores, com p < 0,001. Qual conclusão é adequada?",
+      "options": [
+        "A simulação causou a redução da ansiedade, pois o p é muito pequeno",
+        "Há associação estatística, mas o p não mede o efeito nem prova causa",
+        "A diferença entre os grupos é grande, já que o p ficou abaixo de 0,001",
+        "O resultado vale para todos os estudantes do país, pelo tamanho do p"
+      ],
+      "answer": 1,
+      "explanation": "O valor de p não informa a magnitude da associação, que exige medida de efeito e intervalo de confiança. Também não demonstra causalidade nem generalização."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-r1",
+      "kind": "recall",
+      "title": "O que separa métodos mistos de dois estudos paralelos?",
+      "explanation": "Integração planejada\n\nDefinir onde e como os resultados quantitativos e qualitativos se conectam, com prioridade e sequência explícitas. Divergências entre eles devem ser discutidas."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-r2",
+      "kind": "recall",
+      "title": "Sequencial exploratório: qual etapa vem primeiro?",
+      "explanation": "A qualitativa\n\nQualitativo e depois quantitativo, por exemplo para construir um questionário. No sequencial explicativo, o quantitativo vem primeiro."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 7,
+      "module": "Modalidades: quantitativa, qualitativa e mista",
+      "source": "Pesquisa Científica/semana 7/APS - Modalidades de Pesquisa - Marjori Pomarole.md; Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w07-mod-w1",
+      "kind": "written",
+      "title": "Uma UBS oferece um grupo de cessação do tabagismo e a adesão às sessões varia muito entre os participantes. Formule uma pergunta quantitativa e uma qualitativa sobre essa adesão e explique como um desenho misto integraria as duas.",
+      "rubric": [
+        "Pergunta quantitativa com variáveis mensuráveis, como a associação entre conflito de horário e percentual de sessões frequentadas",
+        "Pergunta qualitativa sobre experiências, significados ou motivos que favorecem ou dificultam a adesão",
+        "Técnicas coerentes: registros ou questionário na quantitativa; entrevistas ou grupos focais na qualitativa",
+        "Desenho misto nomeado com a ordem das etapas, por exemplo sequencial explicativo",
+        "Ponto de integração explícito: como os relatos explicam ou complementam os números",
+        "Ressalva de que associação observada não prova causa"
+      ],
+      "explanation": "Exemplo: quantitativa: entre os participantes do grupo, qual é a associação entre conflitos de horário e o percentual de sessões frequentadas em seis meses? Qualitativa: como os participantes descrevem o que favorece ou dificulta sua presença nas sessões? Desenho sequencial explicativo: primeiro medir adesão e fatores registrados, depois entrevistar participantes de alta e de baixa adesão para explicar o padrão encontrado. A integração acontece na interpretação conjunta. A associação não demonstra, sozinha, causa.",
+      "hint": "Comece pelo tipo de pergunta: quanto e se há associação, ou como e por quê."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 1,
+      "module": "Método científico e confiança na ciência",
+      "source": "Pesquisa Científica/semana 2/10 ago.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w01-met-q1",
+      "kind": "mcq",
+      "title": "Qual hipótese é falseável no sentido de Popper?",
+      "options": [
+        "A droga X funciona para quem acredita nela e falha para quem duvida do efeito",
+        "A energia vital do paciente se reequilibra com a droga X, ainda que sem sinais",
+        "A droga X pode ajudar alguns pacientes em algumas situações ainda não especificadas",
+        "Quem recebe a droga X tem menos internações em um ano do que quem recebe placebo"
+      ],
+      "answer": 3,
+      "explanation": "Uma hipótese falseável prevê um resultado observável que poderia contrariá-la. As demais se protegem da refutação: dependem da crença, de algo não observável ou são vagas demais."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 1,
+      "module": "Método científico e confiança na ciência",
+      "source": "Pesquisa Científica/semana 1/3 ago.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w01-met-q2",
+      "kind": "mcq",
+      "title": "Por que a sangria persistiu por séculos apesar de não funcionar?",
+      "options": [
+        "Tradição, autoridade e viés de confirmação sustentaram a prática sem teste",
+        "Estudos controlados da época mostravam benefício nas febres epidêmicas",
+        "A prática era rara e pouco aplicada, o que dificultava perceber seus danos",
+        "Não havia doenças febris frequentes para comparar tratados e não tratados"
+      ],
+      "answer": 0,
+      "explanation": "A sangria foi mantida por tradição e autoridade, e o viés de confirmação fazia lembrar melhoras e esquecer mortes. Faltava comparação sistemática."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 2,
+      "module": "Método científico e confiança na ciência",
+      "source": "Pesquisa Científica/semana 2/10 ago.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w01-met-q3",
+      "kind": "mcq",
+      "title": "Para Naomi Oreskes, a confiança na ciência se apoia principalmente em quê?",
+      "options": [
+        "Na existência de um método científico único, aplicado de forma infalível",
+        "Na concordância imediata de todos os cientistas sobre cada novo resultado",
+        "No escrutínio crítico coletivo: revisão por pares, replicação e correção",
+        "Na autoridade dos pesquisadores mais experientes e reconhecidos da área"
+      ],
+      "answer": 2,
+      "explanation": "Oreskes rejeita a ideia de um método único e infalível. A confiança vem de filtros coletivos como avaliação ética, congressos, revisão por pares, publicação transparente e replicação."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 2,
+      "module": "Método científico e confiança na ciência",
+      "source": "Pesquisa Científica/semana 2/10 ago.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w01-met-q4",
+      "kind": "mcq",
+      "title": "Um grupo divulga um tratamento com base em depoimentos, recusa estudos independentes e muda a explicação a cada resultado negativo. Isso sugere:",
+      "options": [
+        "Ciência provisória, pois toda teoria admite ser corrigida com o tempo",
+        "Pseudociência, pois a afirmação fica protegida contra a refutação",
+        "Pesquisa translacional, pois parte da prática clínica para a bancada",
+        "Mudança de paradigma, pois o grupo reage a anomalias persistentes"
+      ],
+      "answer": 1,
+      "explanation": "Depoimentos como base, fuga de escrutínio independente e explicações ajustadas a cada evidência contrária são sinais de pseudociência."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 1,
+      "module": "Método científico e confiança na ciência",
+      "source": "Pesquisa Científica/semana 1/3 ago.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w01-met-q5",
+      "kind": "mcq",
+      "title": "Na medicina baseada em evidências, a decisão clínica integra quais elementos?",
+      "options": [
+        "Melhor evidência disponível, opinião de especialistas e custo do serviço",
+        "Resultados de metanálises, protocolos institucionais e tradição local",
+        "Experiência clínica, preferência do médico e resultado de um único estudo",
+        "Melhor evidência disponível, experiência clínica e valores do paciente"
+      ],
+      "answer": 3,
+      "explanation": "O tripé da MBE é a melhor evidência disponível, a experiência clínica e os valores e circunstâncias do paciente."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 1,
+      "module": "Método científico e confiança na ciência",
+      "source": "Pesquisa Científica/semana 1/3 ago.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w01-met-q6",
+      "kind": "mcq",
+      "title": "Semmelweis reduziu a mortalidade por febre puerperal com a lavagem das mãos, mas foi rejeitado por colegas. O que o caso ilustra?",
+      "options": [
+        "A lavagem das mãos só foi aceita após um ensaio clínico randomizado",
+        "A hipótese era infalseável, por isso a rejeição foi cientificamente correta",
+        "Produzir evidência não basta; a aceitação depende de cultura e comunicação",
+        "Taxas de mortalidade não servem como evidência para testar uma hipótese"
+      ],
+      "answer": 2,
+      "explanation": "Semmelweis usou a comparação de mortalidade entre clínicas e antes e depois da mudança. A resistência mostra que a aceitação da evidência também depende de cultura, comunicação e disposição para revisar crenças."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 2,
+      "module": "Método científico e confiança na ciência",
+      "source": "Pesquisa Científica/semana 2/10 ago.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w02-met-q7",
+      "kind": "mcq",
+      "title": "Um efeito adverso inesperado num ensaio clínico leva pesquisadores a estudar seu mecanismo em células. Esse movimento é:",
+      "options": [
+        "Pesquisa translacional, do paciente de volta à bancada",
+        "Pesquisa de implementação, da bancada para o sistema de saúde",
+        "Estudo observacional, pois descreve um efeito sem intervir",
+        "Pesquisa básica isolada, sem relação com a prática clínica"
+      ],
+      "answer": 0,
+      "explanation": "O espectro é bidirecional. Achados clínicos inesperados geram perguntas mecanísticas, o sentido paciente para bancada da pesquisa translacional."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 2,
+      "module": "Método científico e confiança na ciência",
+      "source": "Pesquisa Científica/semana 2/10 ago.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w02-met-q8",
+      "kind": "mcq",
+      "title": "Para Thomas Kuhn, o que costuma preceder uma mudança de paradigma?",
+      "options": [
+        "Um único experimento isolado e não reproduzido que contradiz a teoria",
+        "Acúmulo de anomalias persistentes que a teoria vigente não explica",
+        "A decisão de uma autoridade científica de substituir a teoria vigente",
+        "O consenso imediato de todos os pesquisadores em torno de uma ideia"
+      ],
+      "answer": 1,
+      "explanation": "A ciência normal acrescenta resultados a uma estrutura existente. Anomalias persistentes contribuem para revoluções científicas que mudam problemas, métodos e explicações."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 3,
+      "module": "Da pergunta ao protocolo",
+      "source": "Pesquisa Científica/semana 3/APS 3 - Do Tema à Pergunta - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w03-perg-q1",
+      "kind": "mcq",
+      "title": "Pesquisadores acompanham por um ano trabalhadores de turno noturno fixo e de turno diurno, definidos pela empresa, e comparam a incidência de distúrbios do sono. Por que a pergunta segue PECOT e não PICOT?",
+      "options": [
+        "Porque há dois grupos comparados e um período definido de seguimento",
+        "Porque o desfecho é medido por questionário, e não por exame clínico",
+        "Porque trabalhadores não podem ser população em estudos de intervenção",
+        "Porque o turno é exposição observada, não atribuída pelos pesquisadores"
+      ],
+      "answer": 3,
+      "explanation": "Usa-se E de exposição quando os pesquisadores apenas observam uma condição definida fora do estudo. Ter grupos e seguimento não transforma o estudo em intervenção."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 3,
+      "module": "Da pergunta ao protocolo",
+      "source": "Pesquisa Científica/semana 3/APS 3 - Do Tema à Pergunta - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w03-perg-q2",
+      "kind": "mcq",
+      "title": "Um projeto quer avaliar se um novo protocolo de alta reduz readmissões em 30 dias. O hospital tem registros completos e equipe disponível, mas a pergunta já foi respondida por vários ensaios grandes e concordantes. Qual critério FINER fica mais fraco?",
+      "options": [
+        "Factível",
+        "Ético",
+        "Novo",
+        "Relevante"
+      ],
+      "answer": 2,
+      "explanation": "O critério Novo pergunta se o estudo acrescenta algo. Com dados e equipe, a factibilidade está garantida, e nada indica problema ético. Um estudo que só repete evidência já sólida acrescenta pouco."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 3,
+      "module": "Da pergunta ao protocolo",
+      "source": "Pesquisa Científica/semana 3/APS 3 - Do Tema à Pergunta - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w03-perg-q3",
+      "kind": "mcq",
+      "title": "Na pergunta \"Em idosos com fratura de fêmur, a mobilização precoce, comparada à mobilização após 72 horas, reduz o delirium durante a internação?\", qual é o desfecho?",
+      "options": [
+        "Mobilização precoce após a cirurgia de fêmur",
+        "Ocorrência de delirium durante a internação",
+        "Idosos internados com fratura de fêmur",
+        "Mobilização iniciada após 72 horas"
+      ],
+      "answer": 1,
+      "explanation": "O desfecho é o resultado medido, o delirium. Idosos com fratura são a população, a mobilização precoce é a intervenção e a mobilização após 72 horas é o comparador."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 3,
+      "module": "Da pergunta ao protocolo",
+      "source": "Pesquisa Científica/semana 3/APS 3 - Do Tema à Pergunta - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w03-perg-q4",
+      "kind": "mcq",
+      "title": "Qual formulação transforma melhor o tema \"sono de estudantes de medicina\" numa pergunta respondível?",
+      "options": [
+        "Entre calouros de medicina, dormir menos de 6 h se associa a mais ansiedade no semestre?",
+        "Como o sono influencia a vida acadêmica de todos os estudantes universitários do país?",
+        "O sono é importante para a saúde física e mental dos estudantes de medicina?",
+        "Quais são todos os fatores que afetam o sono dos estudantes em qualquer curso do país?"
+      ],
+      "answer": 0,
+      "explanation": "Uma pergunta respondível delimita população, exposição, desfecho e tempo. As outras são amplas demais ou já têm resposta óbvia."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 4,
+      "module": "Busca bibliográfica e uso de fontes",
+      "source": "Pesquisa Científica/semana 4/APS 4 - MeSH e Estratégias de Busca no PubMed - Marjori Pomarole.md; Pesquisa Científica/semana 4/24 ago - Fontes e Referências.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w04-busca-q1",
+      "kind": "mcq",
+      "title": "Qual estratégia está estruturada corretamente para os conceitos \"higiene das mãos\" e \"infecção hospitalar\"?",
+      "options": [
+        "(Hand Hygiene[mh] AND handwashing[tiab]) OR (Cross Infection[mh] AND nosocomial[tiab])",
+        "Hand Hygiene[mh] OR handwashing[tiab] OR Cross Infection[mh] OR nosocomial[tiab]",
+        "(Hand Hygiene[mh] OR handwashing[tiab]) AND (Cross Infection[mh] OR nosocomial[tiab])",
+        "(Hand Hygiene[mh] OR handwashing[tiab]) NOT (Cross Infection[mh] OR nosocomial[tiab])"
+      ],
+      "answer": 2,
+      "explanation": "Dentro de cada conceito, descritor e sinônimos são unidos por OR. Conceitos diferentes são cruzados por AND. Unir tudo por OR mistura os conceitos, e NOT excluiria justamente o segundo conceito."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 4,
+      "module": "Busca bibliográfica e uso de fontes",
+      "source": "Pesquisa Científica/semana 4/APS 4 - MeSH e Estratégias de Busca no PubMed - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w04-busca-q2",
+      "kind": "mcq",
+      "title": "Uma busca feita só com descritores MeSH não encontra um artigo publicado há duas semanas que já está no PubMed. Qual é a explicação mais provável?",
+      "options": [
+        "O PubMed só disponibiliza artigos após seis meses da data de publicação",
+        "O registro ainda não recebeu MeSH e faltaram termos livres em [tiab]",
+        "O operador AND exclui automaticamente artigos publicados no mês corrente",
+        "Artigos recentes entram apenas no Google Acadêmico, não em bases indexadas"
+      ],
+      "answer": 1,
+      "explanation": "Um registro pode entrar no PubMed antes de receber descritores MeSH. Combinar MeSH com termos livres em [tiab], unidos por OR, protege a cobertura."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 4,
+      "module": "Busca bibliográfica e uso de fontes",
+      "source": "Pesquisa Científica/semana 4/APS 4 - MeSH e Estratégias de Busca no PubMed - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w04-busca-q3",
+      "kind": "mcq",
+      "title": "Um estudante busca \"obesity causes hypertension\" e depois \"hypertension causes obesity\" e obtém os mesmos resultados. O que isso mostra?",
+      "options": [
+        "O PubMed identificou que as duas perguntas têm a mesma resposta na literatura",
+        "A busca falhou porque faltou incluir o operador NOT entre os dois conceitos",
+        "Os descritores MeSH ordenam os resultados pela força da evidência causal",
+        "O mapeamento automático combina os termos, mas não representa a direção causal"
+      ],
+      "answer": 3,
+      "explanation": "O mapeamento automático processa termos e os combina por AND. A direção entre exposição e desfecho pertence à pergunta e ao desenho, não à busca."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 4,
+      "module": "Busca bibliográfica e uso de fontes",
+      "source": "Pesquisa Científica/semana 4/24 ago - Fontes e Referências.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w04-busca-q4",
+      "kind": "mcq",
+      "title": "Por que o operador NOT deve ser usado com cautela?",
+      "options": [
+        "Pode excluir artigos relevantes que só mencionam o termo excluído",
+        "Aumenta muito o número de resultados irrelevantes a serem triados",
+        "Não é aceito pelo PubMed e faz a busca retornar zero resultados",
+        "Substitui os descritores MeSH por termos livres sem avisar o usuário"
+      ],
+      "answer": 0,
+      "explanation": "NOT retira todo registro que contenha o termo, inclusive estudos pertinentes que apenas o mencionam."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 4,
+      "module": "Busca bibliográfica e uso de fontes",
+      "source": "Pesquisa Científica/semana 4/24 ago - Fontes e Referências.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w04-busca-q5",
+      "kind": "mcq",
+      "title": "Uma revisão sistemática com metanálise sobre vacinas, publicada em periódico científico, é classificada como:",
+      "options": [
+        "Acadêmica e primária, pois apresenta uma análise estatística nova",
+        "Popular e secundária, pois pode ser lida pelo público em geral",
+        "Primária e popular, pois trata de um tema de interesse coletivo",
+        "Acadêmica e secundária, pois sintetiza estudos já publicados"
+      ],
+      "answer": 3,
+      "explanation": "Os dois eixos são independentes. A revisão sistemática é acadêmica pelo meio e pelo método, e secundária porque analisa e sintetiza estudos primários."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 4,
+      "module": "Busca bibliográfica e uso de fontes",
+      "source": "Pesquisa Científica/semana 4/24 ago - Fontes e Referências.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w04-busca-q6",
+      "kind": "mcq",
+      "title": "Um site de suplementos cita estudos, mas vende o produto que recomenda. Qual critério do teste CRAAP mais pesa contra essa fonte?",
+      "options": [
+        "Atualidade",
+        "Propósito",
+        "Relevância",
+        "Exatidão"
+      ],
+      "answer": 1,
+      "explanation": "O critério Propósito pergunta se a fonte quer informar, vender ou persuadir e se há conflito de interesse."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 4,
+      "module": "Busca bibliográfica e uso de fontes",
+      "source": "Pesquisa Científica/semana 4/APS 4 - MeSH e Estratégias de Busca no PubMed - Marjori Pomarole.md; Pesquisa Científica/semana 4/24 ago - Fontes e Referências.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w04-busca-q7",
+      "kind": "mcq",
+      "title": "Quais informações tornam uma busca bibliográfica reprodutível?",
+      "options": [
+        "Base, título dos artigos lidos, nome do orientador e resumo da conclusão",
+        "Apenas as palavras-chave usadas, já que a base pode ser inferida depois",
+        "Base, estratégia completa, campos, filtros, data e número de resultados",
+        "O número de resultados e os três artigos mais citados encontrados"
+      ],
+      "answer": 2,
+      "explanation": "Para outra pessoa repetir a busca, é preciso registrar base, expressão exata, campos, filtros, data e número de registros recuperados."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 4,
+      "module": "Busca bibliográfica e uso de fontes",
+      "source": "Pesquisa Científica/semana 4/APS 4 - MeSH e Estratégias de Busca no PubMed - Marjori Pomarole.md; Pesquisa Científica/semana 4/24 ago - Fontes e Referências.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w04-busca-q8",
+      "kind": "mcq",
+      "title": "Ao levar uma estratégia do PubMed para a LILACS, o que precisa mudar?",
+      "options": [
+        "Trocar MeSH por DeCS e adaptar a sintaxe e os campos da base",
+        "Nada, pois todas as bases usam o mesmo vocabulário e a mesma sintaxe",
+        "Retirar os operadores booleanos, que não funcionam em bases regionais",
+        "Usar só termos em inglês, pois a LILACS não indexa outros idiomas"
+      ],
+      "answer": 0,
+      "explanation": "A LILACS usa o vocabulário DeCS e tem sintaxe própria. Ela é relevante justamente por indexar literatura em português e espanhol."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 4,
+      "module": "Busca bibliográfica e uso de fontes",
+      "source": "Pesquisa Científica/semana 4/24 ago - Fontes e Referências.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w04-busca-q9",
+      "kind": "mcq",
+      "title": "Você reescreve com suas palavras um achado de um artigo de acesso gratuito. Precisa citar?",
+      "options": [
+        "Não, pois a paráfrase transforma o conteúdo em conhecimento próprio",
+        "Não, porque conteúdo gratuito na internet dispensa a indicação de autoria",
+        "Só se o trecho for copiado literalmente, entre aspas e com página",
+        "Sim, a ideia continua sendo do autor, mesmo reescrita e de acesso livre"
+      ],
+      "answer": 3,
+      "explanation": "Paráfrase adequada continua exigindo citação. Conteúdo gratuito continua tendo autoria."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 4,
+      "module": "Busca bibliográfica e uso de fontes",
+      "source": "Pesquisa Científica/semana 4/APS 4 - MeSH e Estratégias de Busca no PubMed - Marjori Pomarole.md; Pesquisa Científica/semana 4/24 ago - Fontes e Referências.md; Pesquisa Científica/semana 9/28 set - Preparação - N1 de Pesquisa Científica.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w04-busca-w1",
+      "kind": "written",
+      "title": "Monte uma estratégia de busca no PubMed para a pergunta \"Em idosos, exercício físico reduz quedas?\". Explique os blocos, os operadores e o que registrar para a busca ser reprodutível.",
+      "rubric": [
+        "Separa os conceitos em blocos: idosos, exercício e quedas",
+        "Em cada bloco, une descritor MeSH e termos livres em [tiab] com OR",
+        "Une blocos diferentes com AND",
+        "Evita NOT ou justifica seu uso com cautela",
+        "Confere a tradução em Search Details",
+        "Registra base, estratégia completa, filtros, data e número de resultados"
+      ],
+      "explanation": "Exemplo: (Aged[mh] OR elderly[tiab] OR \"older adults\"[tiab]) AND (Exercise[mh] OR \"physical activity\"[tiab] OR training[tiab]) AND (Accidental Falls[mh] OR falls[tiab]). OR amplia dentro do conceito e AND cruza conceitos. Os termos em [tiab] recuperam registros ainda não indexados com MeSH. Depois de executar, conferir Search Details e registrar base, expressão, filtros, data e número de resultados.",
+      "hint": "Um bloco por conceito. Dentro do bloco, OR. Entre blocos, AND."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 5,
+      "module": "Amostra, precisão e validade",
+      "source": "Pesquisa Científica/semana 5/APS 5 - Seleção Amostral e Validade dos Estudos - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w05-amostra-q1",
+      "kind": "mcq",
+      "title": "Uma pesquisa de prevalência de tabagismo recruta voluntários que comparecem a um centro de saúde. Dobrar a amostra pelo mesmo método:",
+      "options": [
+        "Corrige o viés, pois a amostra passa a representar melhor a cidade",
+        "Não altera a precisão, pois o método de recrutamento continua igual",
+        "Melhora a precisão, mas não corrige o viés de seleção dos voluntários",
+        "Elimina a autosseleção, desde que o intervalo de confiança fique estreito"
+      ],
+      "answer": 2,
+      "explanation": "Mais participantes reduzem o erro aleatório, mas não removem o erro sistemático de quem escolhe participar. Intervalo estreito indica precisão, não ausência de viés."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 5,
+      "module": "Amostra, precisão e validade",
+      "source": "Pesquisa Científica/semana 5/APS 5 - Seleção Amostral e Validade dos Estudos - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w05-amostra-q2",
+      "kind": "mcq",
+      "title": "Nesse mesmo estudo com voluntários, a prevalência de tabagismo observada tende a ser:",
+      "options": [
+        "Menor que a municipal, pelo efeito do voluntário saudável",
+        "Maior que a municipal, porque fumantes buscam mais o serviço",
+        "Igual à municipal, pois o viés se anula em amostras grandes",
+        "Impossível de estimar, pois voluntários não podem ser estudados"
+      ],
+      "answer": 0,
+      "explanation": "Voluntários costumam ter hábitos mais saudáveis que a população. A direção é plausível, mas só se confirma com informação sobre quem não participou."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 5,
+      "module": "Amostra, precisão e validade",
+      "source": "Pesquisa Científica/semana 5/APS 5 - Seleção Amostral e Validade dos Estudos - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w05-amostra-q3",
+      "kind": "mcq",
+      "title": "Qual situação ameaça a validade externa, mas não necessariamente a interna?",
+      "options": [
+        "O grupo tratado teve mais perdas de seguimento que o grupo controle",
+        "O desfecho foi medido sem cegamento e com instrumento não validado",
+        "Os grupos diferiram em tabagismo, fator associado ao desfecho",
+        "Ensaio bem conduzido só em homens de meia-idade, aplicado a idosas"
+      ],
+      "answer": 3,
+      "explanation": "Validade externa é a possibilidade de aplicar o resultado a outras populações. As demais situações comprometem a validade interna: perdas diferenciais, erro de mensuração e confundimento."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 5,
+      "module": "Amostra, precisão e validade",
+      "source": "Pesquisa Científica/semana 5/APS 5 - Seleção Amostral e Validade dos Estudos - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w05-amostra-q4",
+      "kind": "mcq",
+      "title": "Para estudar a associação entre tabagismo e câncer, uma coorte formada por voluntários mais saudáveis que a média:",
+      "options": [
+        "É inútil, pois qualquer amostra não representativa invalida associações",
+        "Pode estimar a associação, se tiver validade interna e exposição variada",
+        "Serve para estimar a incidência nacional de câncer, mas não associações",
+        "Só é válida se ampliar o número de centros até reproduzir o país inteiro"
+      ],
+      "answer": 1,
+      "explanation": "Frequências populacionais exigem representatividade. Associações podem ser estimadas em amostras não representativas, com variação de exposição, boa mensuração e controle de confundimento e seleção."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 5,
+      "module": "Amostra, precisão e validade",
+      "source": "Pesquisa Científica/semana 5/APS 5 - Seleção Amostral e Validade dos Estudos - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w05-amostra-q5",
+      "kind": "mcq",
+      "title": "Um estudo recruta os 40 primeiros calouros que respondem a um post no Instagram. Quais são, respectivamente, a população acessível e a amostra real?",
+      "options": [
+        "Todos os calouros do país; os 40 calouros sorteados pelo centro",
+        "Os 40 primeiros que responderam; todos os calouros da faculdade",
+        "Calouros alcançados pelo post; os 40 primeiros que responderam",
+        "Todos os usuários do Instagram; calouros que viram o post"
+      ],
+      "answer": 2,
+      "explanation": "A população acessível é quem pode ser alcançado pelo recrutamento. A amostra real é quem de fato entrou. A população-alvo é a quem se quer aplicar o resultado."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 5,
+      "module": "Amostra, precisão e validade",
+      "source": "Pesquisa Científica/semana 5/APS 5 - Seleção Amostral e Validade dos Estudos - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w05-amostra-q6",
+      "kind": "mcq",
+      "title": "Uma balança sempre marca 2 kg a mais, com valores muito próximos entre si. Ela é:",
+      "options": [
+        "Acurada, mas não precisa",
+        "Precisa, mas não acurada",
+        "Precisa e acurada",
+        "Nem precisa nem acurada"
+      ],
+      "answer": 1,
+      "explanation": "Valores repetidos próximos indicam precisão. O deslocamento sistemático de 2 kg indica falta de acurácia, e repetir a medida não corrige isso."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 5,
+      "module": "Amostra, precisão e validade",
+      "source": "Pesquisa Científica/semana 5/APS 5 - Seleção Amostral e Validade dos Estudos - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w05-amostra-q7",
+      "kind": "mcq",
+      "title": "Qual afirmação sobre randomização e amostragem aleatória está correta?",
+      "options": [
+        "São sinônimos: ambas garantem que a amostra represente a população-alvo",
+        "A randomização garante validade externa; a amostragem, validade interna",
+        "Amostragem aleatória elimina confundimento entre grupos de tratamento",
+        "Randomização aloca entre grupos; amostragem aleatória sorteia quem entra"
+      ],
+      "answer": 3,
+      "explanation": "A amostragem aleatória decide quem entra no estudo e favorece a generalização. A randomização distribui os participantes entre grupos e favorece a comparabilidade, ou seja, a validade interna."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 5,
+      "module": "Amostra, precisão e validade",
+      "source": "Pesquisa Científica/semana 5/APS 5 - Seleção Amostral e Validade dos Estudos - Marjori Pomarole.md; Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w05-amostra-q8",
+      "kind": "mcq",
+      "title": "Café e câncer de pulmão aparecem associados, mas fumantes bebem mais café. Nesse caso, o tabagismo é:",
+      "options": [
+        "Confundidor",
+        "Viés de seleção",
+        "Erro aleatório",
+        "Viés de memória"
+      ],
+      "answer": 0,
+      "explanation": "Um confundidor se associa à exposição e causa o desfecho, criando uma associação aparente entre café e câncer."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Escolher e interpretar estudos observacionais",
+      "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w08-obs-q5",
+      "kind": "mcq",
+      "title": "Para estudar obesidade e hipertensão, selecionam-se 300 hipertensos e 300 não hipertensos e investiga-se o IMC anterior. Qual é o desenho?",
+      "options": [
+        "Coorte retrospectiva",
+        "Transversal",
+        "Caso-controle",
+        "Coorte prospectiva"
+      ],
+      "answer": 2,
+      "explanation": "O ponto de partida é o desfecho: casos com hipertensão e controles sem hipertensão, comparados quanto à exposição anterior."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Escolher e interpretar estudos observacionais",
+      "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w08-obs-q6",
+      "kind": "mcq",
+      "title": "Com prontuários, pesquisadores identificam trabalhadores de 2015, classificam a exposição a solventes e verificam nos registros quem desenvolveu doença renal até 2024. Qual é o desenho?",
+      "options": [
+        "Caso-controle: os dados vêm de prontuários antigos",
+        "Coorte retrospectiva: parte da exposição registrada em 2015",
+        "Transversal: exposição e doença estão no mesmo registro",
+        "Coorte prospectiva: acompanha o aparecimento da doença no tempo"
+      ],
+      "answer": 1,
+      "explanation": "Usar dados antigos não define o desenho. A coorte retrospectiva parte de uma população num ponto passado, classifica a exposição e reconstrói a ocorrência posterior do desfecho. O caso-controle seleciona pelo desfecho."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Escolher e interpretar estudos observacionais",
+      "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w08-obs-q7",
+      "kind": "mcq",
+      "title": "Uma coorte observa risco de 5% nos expostos e de 10% nos não expostos. Como interpretar?",
+      "options": [
+        "RR = 0,5%: o risco dos expostos ficou meio ponto percentual menor",
+        "RR = 2: a exposição dobrou o risco de adoecer no período estudado",
+        "RR = 0,5: a exposição é protetora e deve ser recomendada a todos",
+        "RR = 0,5: metade do risco, sem provar efeito protetor"
+      ],
+      "answer": 3,
+      "explanation": "RR = 0,05 / 0,10 = 0,5. É uma razão, sem sinal de porcentagem. Associação observacional não basta para chamar a exposição de protetora ou recomendá-la."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Escolher e interpretar estudos observacionais",
+      "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w08-obs-q8",
+      "kind": "mcq",
+      "title": "Num estudo transversal, 30% dos que usam telas mais de 6 h por dia têm cefaleia, contra 15% dos demais. O que se pode afirmar?",
+      "options": [
+        "A razão de prevalências é 2, sem estabelecer a ordem temporal",
+        "O risco relativo de desenvolver cefaleia é 2 para quem usa mais telas",
+        "As telas causam cefaleia, pois a prevalência dobrou no grupo exposto",
+        "Nada, pois estudos transversais não permitem comparar grupos"
+      ],
+      "answer": 0,
+      "explanation": "No transversal, compara-se prevalência: 30% / 15% = 2. Ele pode estimar associação, mas não mostra se a exposição precedeu a cefaleia nem mede risco de desenvolver o desfecho."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Escolher e interpretar estudos observacionais",
+      "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w08-obs-q9",
+      "kind": "mcq",
+      "title": "Por que o caso-controle é eficiente para desfechos raros?",
+      "options": [
+        "Acompanha uma população grande por décadas até os casos aparecerem",
+        "Mede exposição e desfecho no mesmo momento, sem precisar de controles",
+        "Parte de casos existentes, sem esperar eventos numa população grande",
+        "Sorteia quem será exposto, garantindo número suficiente de casos"
+      ],
+      "answer": 2,
+      "explanation": "Ao selecionar pelo desfecho, o caso-controle reúne casos raros sem acompanhar milhares de pessoas. A qualidade depende de bons controles e de boa informação sobre a exposição."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Escolher e interpretar estudos observacionais",
+      "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w08-obs-q10",
+      "kind": "mcq",
+      "title": "Num caso-controle sobre dieta na gestação e malformações, mães de crianças afetadas lembram mais detalhes da própria dieta. Qual viés é esse?",
+      "options": [
+        "Viés de seleção dos controles",
+        "Viés de memória",
+        "Perda de seguimento",
+        "Erro aleatório"
+      ],
+      "answer": 1,
+      "explanation": "Casos e controles podem relatar exposições passadas com precisão diferente. Isso é viés de memória, comum no caso-controle."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Escolher e interpretar estudos observacionais",
+      "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w08-obs-q11",
+      "kind": "mcq",
+      "title": "Uma coorte perde 30% dos participantes, principalmente os mais doentes. Qual é o risco?",
+      "options": [
+        "Nenhum, pois os 70% restantes ainda formam uma amostra muito grande",
+        "Apenas perda de precisão, sem nenhum efeito sobre a estimativa final",
+        "O desenho passa a ser um caso-controle, já que há dados faltantes",
+        "Viés, se quem saiu difere de quem ficou em exposição e desfecho"
+      ],
+      "answer": 3,
+      "explanation": "Perdas diferenciais podem distorcer a estimativa, não só reduzir a precisão. Aumentar a amostra não corrige isso."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Escolher e interpretar estudos observacionais",
+      "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w08-obs-q12",
+      "kind": "mcq",
+      "title": "Quando a OR de um caso-controle se aproxima do RR?",
+      "options": [
+        "Sempre, pois as duas medidas são intercambiáveis",
+        "Quando o desfecho é raro na população de origem",
+        "Quando o número de casos é igual ao de controles",
+        "Quando a exposição é comum entre os controles"
+      ],
+      "answer": 1,
+      "explanation": "RR compara riscos e OR compara odds. Elas se aproximam quando o desfecho é raro. Fora disso, não são intercambiáveis."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Escolher e interpretar estudos observacionais",
+      "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md; Pesquisa Científica/semana 9/28 set - Preparação - N1 de Pesquisa Científica.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w08-obs-w1",
+      "kind": "written",
+      "title": "Para a pergunta \"obesidade está associada ao desenvolvimento de hipertensão?\", escolha um desenho observacional e justifique: quem entra, o que medir, quando medir, qual medida calcular e a principal limitação.",
+      "rubric": [
+        "Escolhe coorte para estudar casos novos, ou justifica outra escolha com coerência",
+        "Participantes começam sem hipertensão, com o IMC medido no início",
+        "Acompanhamento com aferição da pressão ao longo do tempo",
+        "Calcula incidência em obesos e não obesos e o RR, sem porcentagem",
+        "Aponta limitações: tempo, custo, perdas, mudança da exposição e confundimento",
+        "Não conclui causalidade automaticamente"
+      ],
+      "explanation": "Coorte prospectiva: adultos sem hipertensão no início, classificados pelo IMC basal, acompanhados com aferições periódicas da pressão, por exemplo por dez anos. Calcula-se a incidência em obesos e não obesos e o RR, por exemplo 0,20 / 0,10 = 2. A coorte documenta a exposição antes do desfecho, mas exige tempo e recursos, sofre com perdas de seguimento e mudanças do peso, e fatores como sedentarismo e dieta podem confundir a associação.",
+      "hint": "Quem já tem hipertensão no início não serve para estudar casos novos."
+    },
+    {
+      "subject": "pesquisa",
+      "week": 8,
+      "module": "Escolher e interpretar estudos observacionais",
+      "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-pc-w08-obs-r2",
+      "kind": "recall",
+      "title": "Qual desenho parte do desfecho?",
+      "explanation": "Caso-controle\n\nSeleciona casos e controles e compara exposições anteriores. A coorte parte da exposição e acompanha o aparecimento do desfecho."
+    }
+  ]
+}

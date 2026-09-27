@@ -1,10 +1,33 @@
 import fs from 'node:fs';
 import assert from 'node:assert/strict';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import {fileURLToPath} from 'node:url';
 
+// Fingerprint of an imported question's alternatives and key, recorded by each revision.
+export const optionsFingerprint = item => crypto.createHash('sha256').update(JSON.stringify([item.options, item.answer])).digest('hex').slice(0, 16);
+
+// Revisions rewrite the alternatives of imported questions (for example, to remove answer-length cues).
+// A revision applies only while the imported original still matches its fingerprint; otherwise it is skipped loudly.
+function applyRevisions(byId, bundles, warn) {
+  const revised = new Set();
+  for (const bundle of bundles) for (const r of bundle.revisions ?? []) {
+    assert(!revised.has(r.id), `Duplicate revision: ${r.id}`);
+    revised.add(r.id);
+    assert(!r.id.startsWith('reviewed-'), 'Edit reviewed items in their own bundle');
+    assert(r.from && r.version && r.reason, `Revision needs from, version and reason: ${r.id}`);
+    const item = byId.get(r.id);
+    if (!item) { warn(`Revision target missing: ${r.id}`); continue; }
+    assert(item.kind === 'mcq' && Array.isArray(r.options) && r.options.length === item.options.length && Number.isInteger(r.answer) && r.options[r.answer], `Invalid revision: ${r.id}`);
+    if (JSON.stringify([item.options, item.answer]) === JSON.stringify([r.options, r.answer])) continue;
+    if (optionsFingerprint(item) !== r.from) { warn(`Stale revision skipped: ${r.id}`); continue; }
+    byId.set(r.id, {...item, options: r.options, answer: r.answer, ...(r.explanation ? {explanation: r.explanation} : {}), version: r.version});
+  }
+  return revised;
+}
+
 // Additive by default: an absent source never removes an existing activity.
-export function mergeReviewed(catalog, bundles) {
+export function mergeReviewed(catalog, bundles, warn = message => console.warn(message)) {
   const byId = new Map(catalog.items.map(item => [item.id, item]));
   const reviewedIds = new Set();
   for (const bundle of bundles) {
@@ -21,6 +44,7 @@ export function mergeReviewed(catalog, bundles) {
       byId.set(item.id, item);
     }
   }
+  applyRevisions(byId, bundles, warn);
   return {...catalog, items: [...byId.values()]};
 }
 export function applyReviewed() {
