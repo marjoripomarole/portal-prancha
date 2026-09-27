@@ -233,3 +233,23 @@ button:disabled { cursor:default; }
 @media(prefers-reduced-motion:reduce) { *,*::before,*::after{scroll-behavior:auto!important;transition:none!important} }
 
 @media(max-width:700px) { .nav{flex-wrap:wrap;overflow:visible;padding:12px 0!important}.nav button{flex:1 0 auto}.filters>[data-slot=select-trigger]{flex:1 1 calc(50% - 8px)}.filters>[data-slot=select-trigger]:first-of-type{flex-basis:100%} }
+
+/* Próxima prova, agenda da semana e simulado sem correção */
+.examcard { background:white; border:2px solid var(--fsl-blue); border-radius:18px; padding:22px; margin-bottom:16px; }
+.examcard .eyebrow { color:var(--fsl-blue); }
+.examcard h2 { font-size:28px; }
+.examcard p:not(.eyebrow) { font-size:13px; line-height:1.6; margin-top:6px; }
+.examcard .lightbutton { width:100%; white-space:normal; height:auto; margin-top:14px; }
+.examcard .lightbutton.alt { background:white; color:var(--fsl-blue); margin-top:10px; }
+.examtag { display:table; margin:0 0 5px; padding:1px 8px; border-radius:99px; background:var(--fsl-blue); color:white; font-size:10px; font-weight:800; }
+.agenda div.past { opacity:.45; }
+.agenda div.next b,.agenda div.next span { color:var(--fsl-blue); font-weight:800; }
+.agenda .agendanote { display:block; font-style:normal; font-size:10px; font-weight:400; margin-top:2px; }
+.option.wrong { background:#fdecec; border:2px solid #b3261e; }
+.examreview { border-top:1.5px solid var(--border); padding:16px 0; }
+.examreview h3 { font-size:16px; line-height:1.45; margin:4px 0 8px; }
+.examreview p { font-size:14px; line-height:1.6; }
+.examreview.ok .eyebrow { color:var(--fsl-blue); }
+.examreview.bad .eyebrow { color:#b3261e; }
+.practicegrid { grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); }
+@media(max-width:700px) { .examcard{margin-bottom:0}.practicegrid{grid-template-columns:1fr} }
