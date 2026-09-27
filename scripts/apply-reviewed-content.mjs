@@ -19,9 +19,15 @@ function applyRevisions(byId, bundles, warn) {
     const item = byId.get(r.id);
     if (!item) { warn(`Revision target missing: ${r.id}`); continue; }
     assert(item.kind === 'mcq' && Array.isArray(r.options) && r.options.length === item.options.length && Number.isInteger(r.answer) && r.options[r.answer], `Invalid revision: ${r.id}`);
-    if (JSON.stringify([item.options, item.answer]) === JSON.stringify([r.options, r.answer])) continue;
-    if (optionsFingerprint(item) !== r.from) { warn(`Stale revision skipped: ${r.id}`); continue; }
-    byId.set(r.id, {...item, options: r.options, answer: r.answer, ...(r.explanation ? {explanation: r.explanation} : {}), version: r.version});
+    const same = JSON.stringify([item.options, item.answer]) === JSON.stringify([r.options, r.answer]) && (!r.explanation || item.explanation === r.explanation);
+    if (same) {
+      // Already applied: keep provenance so the revision can be updated later.
+      if (item.revisedFrom !== r.from || item.version !== r.version) byId.set(r.id, {...item, version: r.version, revisedFrom: r.from});
+      continue;
+    }
+    // An item revised earlier carries the fingerprint of its imported original.
+    if ((item.revisedFrom ?? optionsFingerprint(item)) !== r.from) { warn(`Stale revision skipped: ${r.id}`); continue; }
+    byId.set(r.id, {...item, options: r.options, answer: r.answer, ...(r.explanation ? {explanation: r.explanation} : {}), version: r.version, revisedFrom: r.from});
   }
   return revised;
 }

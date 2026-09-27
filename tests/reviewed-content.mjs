@@ -25,6 +25,9 @@ assert.deepEqual(mergeReviewed(applied,[probe],warn),applied,'Revision must be i
 const drifted=structuredClone(before);drifted.items.find(i=>i.id===target.id).options[0]+=' (mudou)';
 assert.deepEqual(mergeReviewed(drifted,[probe],warn).items.find(i=>i.id===target.id),drifted.items.find(i=>i.id===target.id),'Stale revision must not apply');
 assert(warnings.some(w=>w.startsWith('Stale revision skipped')));
+assert.equal(applied.items.find(i=>i.id===target.id).revisedFrom,rev.from,'Applied revision records its original');
+const rev2={...rev,version:'test.2',options:rev.options.map(o=>o+' (v2)')};
+assert.deepEqual(mergeReviewed(applied,[{...probe,revisions:[rev2]}],warn).items.find(i=>i.id===target.id).options,rev2.options,'Updated revision re-applies over its earlier version');
 assert.throws(()=>mergeReviewed(before,[{...probe,revisions:[{...rev,id:'reviewed-x'}]}],warn),/own bundle/);
 assert.deepEqual(mergeReviewed(result,bundles),result,'Repeated import must be idempotent');
 assert.deepEqual(mergeReviewed(result,[]),result,'Missing bundle must not delete existing activities');
