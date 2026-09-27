@@ -359,13 +359,13 @@
     },
     {
       "id": "mol-sintese-4",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
       "options": [
         "Glicerol-3-fosfato para reesterificar ácidos graxos",
         "Palmitato por inversão da β-oxidação no adipócito",
         "Glicose livre para exportar como função principal",
-        "Carnitina para o transporte pela CPT I"
+        "Carnitina para o transporte de ácidos graxos pela CPT I"
       ],
       "answer": 0,
       "from": "ebd2a1c57fd69905"

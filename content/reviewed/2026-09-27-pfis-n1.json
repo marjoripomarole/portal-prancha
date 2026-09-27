@@ -76,18 +76,18 @@
       "week": 1,
       "module": "Comunicação em saúde e CNV",
       "source": "PFIS II/semana 1/6 ago - Comunicação em Saúde, CNV e Cultura da Paz.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "id": "reviewed-pf-w01-cnv-q2",
       "kind": "mcq",
-      "title": "Na frase \"Quando não recebo o resultado, fico ansiosa porque preciso de previsibilidade\", qual trecho expressa a necessidade?",
+      "title": "Na frase \"Quando não recebo o resultado, fico ansiosa porque preciso de previsibilidade\", o trecho \"fico ansiosa\" corresponde a qual componente da CNV?",
       "options": [
-        "Preciso de previsibilidade",
-        "Quando não recebo o resultado",
-        "Fico ansiosa",
-        "Você me deixa ansiosa"
+        "Sentimento",
+        "Necessidade",
+        "Observação",
+        "Pedido"
       ],
       "answer": 0,
-      "explanation": "Observação: não receber o resultado. Sentimento: ansiedade. Necessidade: previsibilidade. A última opção é acusatória e não aparece na frase."
+      "explanation": "Observação: não receber o resultado. Sentimento: ansiedade. Necessidade: previsibilidade. Não há pedido explícito nessa frase."
     },
     {
       "subject": "pfis",
@@ -166,7 +166,7 @@
       "week": 2,
       "module": "Medidas de saúde e doença",
       "source": "PFIS II/semana 2/APS 02 - Medindo Saúde e Doença - Marjori Pomarole.md; PFIS II/semana 7/17 set - Resumo - Revisão de Epidemiologia.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "id": "reviewed-pf-w02-med-q2",
       "kind": "mcq",
       "title": "Qual mudança tende a aumentar a prevalência de uma doença crônica?",
@@ -174,7 +174,7 @@
         "Aumento da taxa de cura da doença",
         "Redução do número de casos novos",
         "Pacientes vivendo mais tempo sem cura",
-        "Aumento da letalidade entre os casos da doença"
+        "Aumento da letalidade entre os casos"
       ],
       "answer": 2,
       "explanation": "A prevalência funciona como um estoque. Quem vive mais sem se curar permanece mais tempo entre os casos existentes."
@@ -202,13 +202,13 @@
       "week": 2,
       "module": "Medidas de saúde e doença",
       "source": "PFIS II/semana 2/APS 02 - Medindo Saúde e Doença - Marjori Pomarole.md; PFIS II/semana 7/17 set - Resumo - Revisão de Epidemiologia.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "id": "reviewed-pf-w02-med-q4",
       "kind": "mcq",
       "title": "Por que padronizar por idade antes de comparar a mortalidade de dois países?",
       "options": [
         "Para corrigir erros de registro dos óbitos em cada país",
-        "Para aumentar o número real de óbitos registrados no país mais jovem",
+        "Para aumentar o número real de óbitos do país mais jovem",
         "Para dispensar o cálculo das taxas específicas por idade",
         "Para comparar populações com estruturas etárias diferentes"
       ],
@@ -382,15 +382,15 @@
       "week": 3,
       "module": "Redes de Atenção à Saúde",
       "source": "PFIS II/semana 3/20 ago - Redes de Atenção à Saúde e Redes Temáticas.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "id": "reviewed-pf-w03-ras-q5",
       "kind": "mcq",
       "title": "Os CAPS fazem parte de qual rede temática do SUS?",
       "options": [
         "Rede de Atenção Psicossocial",
         "Rede de Urgência e Emergência",
-        "Rede Alyne",
-        "Rede de Cuidados à Pessoa com Deficiência"
+        "Rede Alyne, materno-infantil",
+        "Rede da Pessoa com Deficiência"
       ],
       "answer": 0,
       "explanation": "A RAPS organiza o cuidado territorial em saúde mental e uso de álcool e drogas, com CAPS, CAPS AD, CAPSi e outros pontos."
@@ -843,6 +843,19 @@
       ],
       "answer": 1,
       "from": "92d598edc361ea6a"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q22",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Mortalidade",
+        "Letalidade",
+        "Incidência",
+        "Prevalência"
+      ],
+      "answer": 1,
+      "from": "2a1d22fd93bab6ca"
     }
   ]
 }

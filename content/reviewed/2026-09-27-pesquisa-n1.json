@@ -177,7 +177,7 @@
       "week": 7,
       "module": "Modalidades: quantitativa, qualitativa e mista",
       "source": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "id": "reviewed-pc-w07-mod-q7",
       "kind": "mcq",
       "title": "Qual critério é próprio do rigor em pesquisa qualitativa?",
@@ -185,7 +185,7 @@
         "Reflexividade sobre como a posição do pesquisador influencia a análise",
         "Cálculo do intervalo de confiança para cada categoria temática encontrada",
         "Randomização dos participantes entre os grupos de entrevista e controle",
-        "Amostra grande o bastante para garantir poder estatístico"
+        "Amostra grande o bastante para garantir poder estatístico nos testes"
       ],
       "answer": 0,
       "explanation": "Reflexividade, rastreabilidade entre dados e temas, justificativa da seleção e atenção a casos divergentes são critérios qualitativos. Intervalo de confiança, randomização e poder estatístico pertencem à lógica quantitativa."
@@ -471,14 +471,14 @@
       "week": 3,
       "module": "Da pergunta ao protocolo",
       "source": "Pesquisa Científica/semana 3/APS 3 - Do Tema à Pergunta - Marjori Pomarole.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "id": "reviewed-pc-w03-perg-q4",
       "kind": "mcq",
       "title": "Qual formulação transforma melhor o tema \"sono de estudantes de medicina\" numa pergunta respondível?",
       "options": [
         "Entre calouros de medicina, dormir menos de 6 h se associa a mais ansiedade no semestre?",
         "Como o sono influencia a vida acadêmica de todos os estudantes universitários do país?",
-        "O sono é importante para a saúde física e mental dos estudantes de medicina?",
+        "O sono é importante para a saúde física e mental dos estudantes de medicina hoje?",
         "Quais são todos os fatores que afetam o sono dos estudantes em qualquer curso do país?"
       ],
       "answer": 0,
@@ -851,7 +851,7 @@
       "week": 8,
       "module": "Escolher e interpretar estudos observacionais",
       "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "id": "reviewed-pc-w08-obs-q7",
       "kind": "mcq",
       "title": "Uma coorte observa risco de 5% nos expostos e de 10% nos não expostos. Como interpretar?",
@@ -859,7 +859,7 @@
         "RR = 0,5%: o risco dos expostos ficou meio ponto percentual menor",
         "RR = 2: a exposição dobrou o risco de adoecer no período estudado",
         "RR = 0,5: a exposição é protetora e deve ser recomendada a todos",
-        "RR = 0,5: metade do risco, sem provar efeito protetor"
+        "RR = 0,5: metade do risco observado, sem provar efeito protetor"
       ],
       "answer": 3,
       "explanation": "RR = 0,05 / 0,10 = 0,5. É uma razão, sem sinal de porcentagem. Associação observacional não basta para chamar a exposição de protetora ou recomendá-la."
@@ -905,12 +905,12 @@
       "week": 8,
       "module": "Escolher e interpretar estudos observacionais",
       "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "id": "reviewed-pc-w08-obs-q10",
       "kind": "mcq",
       "title": "Num caso-controle sobre dieta na gestação e malformações, mães de crianças afetadas lembram mais detalhes da própria dieta. Qual viés é esse?",
       "options": [
-        "Viés de seleção dos controles",
+        "Viés de seleção",
         "Viés de memória",
         "Perda de seguimento",
         "Erro aleatório"

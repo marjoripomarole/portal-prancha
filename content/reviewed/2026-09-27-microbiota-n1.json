@@ -341,7 +341,7 @@
       "week": 4,
       "module": "VHS, FAN e Coombs na interpretação clínica",
       "source": "Microbiota a Imunidade II/semana 4/25 ago - Aplicação clínica e laboratorial da autoimunidade - VHS, FAN e Coombs.md; Microbiota a Imunidade II/semana 3/18 ago - Aula - Hipersensibilidade tipos II, III e IV.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "id": "reviewed-mi-w04-lab-q5",
       "kind": "mcq",
       "title": "Para investigar hemólise imune que já está acontecendo, qual teste procura IgG ou complemento aderidos às hemácias do paciente?",
@@ -349,7 +349,7 @@
         "Coombs indireto",
         "Coombs direto",
         "FAN em células HEp-2",
-        "Velocidade de hemossedimentação"
+        "VHS de Westergren"
       ],
       "answer": 1,
       "explanation": "O Coombs direto detecta anticorpo ou complemento já ligados às hemácias. O indireto procura anticorpos livres no soro, como na triagem pré-transfusional."
@@ -485,7 +485,7 @@
       "week": 5,
       "module": "Estrutura, replicação e patogênese viral",
       "source": "Microbiota a Imunidade II/semana 5/1 set - Aula - Classificação, estrutura, replicação e patogênese viral.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-27.2",
       "id": "reviewed-mi-w05-viro-q8",
       "kind": "mcq",
       "title": "Por que um antibiótico não trata um resfriado viral?",
@@ -493,7 +493,7 @@
         "Os vírus produzem enzimas que degradam os antibióticos",
         "Vírus não têm os alvos bacterianos que os antibióticos atingem",
         "O antibiótico atua, mas só depois de sete dias de uso",
-        "Os vírus ficam escondidos no núcleo, onde o fármaco não consegue entrar"
+        "Os vírus ficam no núcleo, onde o fármaco não consegue entrar"
       ],
       "answer": 1,
       "explanation": "Antibióticos atingem parede bacteriana, ribossomo 70S, folato bacteriano e outras enzimas bacterianas. Vírus não têm esses alvos."

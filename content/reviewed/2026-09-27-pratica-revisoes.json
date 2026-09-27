@@ -60,6 +60,19 @@
       ],
       "answer": 1,
       "from": "7c86e2fdb54bf452"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q38",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "A ordem de chegada, independentemente do quadro clínico",
+        "A preferência do profissional disponível",
+        "O risco e a gravidade identificados na avaliação",
+        "A idade do paciente, isoladamente"
+      ],
+      "answer": 2,
+      "from": "4319379985e2869e"
     }
   ]
 }

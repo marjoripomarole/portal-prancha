@@ -335,13 +335,13 @@
       "week": 8,
       "module": "BLS pediátrico: pontos para treino em manequim",
       "source": "Prática Médica II/semana 8/23 set - Preparação - BLS pediátrico e obstrução de vias aéreas.md; AHA/AAP 2025: https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/pediatric-basic-life-support",
-      "version": "2026-09-21.1",
+      "version": "2026-09-27.1",
       "id": "reviewed-w08-bls-pediatrico-q2",
       "kind": "mcq",
       "title": "Qual técnica de compressão torácica no lactente foi retirada da recomendação AHA/AAP 2025?",
       "options": [
         "Dois polegares envolvendo o tórax",
-        "Uma mão",
+        "Uma mão sobre o esterno",
         "Todas as técnicas de compressão",
         "Dois dedos sobre o esterno"
       ],
