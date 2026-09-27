@@ -46,7 +46,15 @@ A atualização diária usa `node scripts/import-content.mjs`, que aplica soment
 
 A reconstrução antiga das pranchas e notas das semanas 1–7 só roda com `node scripts/import-content.mjs --rebuild-legacy`; não faz parte da rotina diária e exige revisar o diff completo. Os pacotes editoriais são reaplicados ao final. Rode `scripts/prepare-books.mjs` somente quando as pranchas incorporadas forem intencionalmente atualizadas, preservando suas chaves de snapshot. Para acrescentar novas semanas, use pacotes revisados, sem ampliar a importação automática de arquivos brutos.
 
-Antes de publicar: `npm run validate:content`, `node tests/reviewed-content.mjs`, verificação de tipos e build. O teste compara o catálogo com o HEAD, impede alteração dos itens anteriores nesta atualização e verifica repetição da importação, colisões de IDs e ausência de fontes. O inventário e o relatório privado ficam fora do projeto, em `_/Portal Prancha/Atualização diária/`. Inventariado ou citado não significa publicado.
+### Revisão das alternativas — 27/09/2026
+
+Todas as questões objetivas foram revisadas para que a alternativa correta não se destaque pelo tamanho. Nas questões importadas, os pacotes revisados podem trazer `revisions`: cada revisão mantém enunciado, número de alternativas e gabarito, e registra em `from` a impressão digital das alternativas originais. Ela só é aplicada enquanto o original importado corresponder a essa impressão; caso contrário, é pulada com aviso. O item revisado guarda `revisedFrom`, o que permite refinar a revisão depois. Itens do namespace `reviewed-` são corrigidos no próprio pacote, com nova `version`.
+
+As pranchas incorporadas em `protected-assets/cadernos` recebem as mesmas alternativas com `node scripts/apply-revisions-to-cadernos.mjs`. O script só altera uma questão quando o original da prancha tem a mesma impressão digital da revisão, e confere que nenhuma outra questão mudou. Rode-o de novo depois de `--rebuild-legacy`, que restaura as pranchas a partir do vault.
+
+`node tests/answer-cues.mjs` falha se alguma objetiva tiver uma alternativa visivelmente mais longa ou mais curta que as demais, isto é, mais de 10% e mais de 8 caracteres de diferença. Também falha se, numa disciplina, a correta for a mais longa em mais de 30% das questões. Novos pacotes precisam passar nesse teste.
+
+Antes de publicar: `npm run validate:content`, `node tests/reviewed-content.mjs`, `node tests/answer-cues.mjs`, `node --experimental-strip-types tests/study.mjs`, verificação de tipos e build. O teste compara o catálogo com o HEAD, impede alteração dos itens anteriores nesta atualização e verifica repetição da importação, colisões de IDs e ausência de fontes. O inventário e o relatório privado ficam fora do projeto, em `_/Portal Prancha/Atualização diária/`. Inventariado ou citado não significa publicado.
 
 Em 21/09, foram acrescentados 22 itens da semana 8: cinco leituras, 12 questões e cinco cartões em Pesquisa, Genética, Molécula, Microbiota e Prática Médica. A seleção não representa cobertura integral das aulas. Histologia/Neuroembriologia aguardam revisão das imagens; documentos pessoais e de visitas não foram incorporados. A inversão de rótulos na página 17 da aula de Genética foi registrada e esclarecida na leitura correspondente.
 

@@ -31,12 +31,7 @@ const QUICK = {
       "why": "Sangue segue pelos sinusoides até a veia central; bile segue dos hepatócitos para os ductos nos espaços-porta.",
       "contrast": "Veia central não vem acompanhada de artéria e ducto. Zona 3, perto dela, recebe menos oxigênio e é vulnerável à hipóxia.",
       "question": "Em um espaço porta, qual pista identifica o ducto biliar?",
-      "options": [
-        "Luz ampla e parede muito fina",
-        "Parede muscular espessa sem epitélio cúbico",
-        "Revestimento de células cúbicas bem definidas",
-        "Cordões de hepatócitos ao redor da veia central"
-      ],
+      "options": ["Luz ampla e parede muito fina, sem músculo","Parede muscular espessa sem epitélio cúbico","Revestimento de células cúbicas bem definidas","Cordões de hepatócitos ao redor da veia central"],
       "answer": 2,
       "explain": "O ducto tem epitélio cúbico. Vasos têm endotélio pavimentoso; hemácias ajudam, mas sua ausência isolada não prova que seja ducto.",
       "core": true,
@@ -75,12 +70,7 @@ const QUICK = {
       "why": "Muco lubrifica o conteúdo fecal; o epitélio também absorve água e eletrólitos.",
       "contrast": "Apêndice também não tem vilos: procure muito tecido linfoide e a organização de todo o corte. Uma cripta isolada não identifica o órgão.",
       "question": "Qual combinação explica melhor esta mucosa?",
-      "options": [
-        "Vilosidades + absorção no delgado",
-        "Glândulas submucosas + neutralização",
-        "Ácinos serosos + secreção de enzimas",
-        "Criptas sem vilos + abundante produção de muco"
-      ],
+      "options": ["Vilosidades + absorção no delgado","Glândulas submucosas + neutralização","Ácinos serosos + secreção de enzimas","Criptas sem vilos + muito muco"],
       "answer": 3,
       "explain": "As criptas descem para dentro da mucosa; não são projeções para a luz. As células claras são principalmente caliciformes, produtoras de mucinas.",
       "core": true,
@@ -97,12 +87,7 @@ const QUICK = {
       "why": "Parietais → HCl e fator intrínseco. Principais → pepsinogênio. Basofilia basal se relaciona ao retículo rugoso para síntese proteica.",
       "contrast": "Fovéola é invaginação, não vilosidade. No piloro predominam glândulas mucosas; não espere a mesma distribuição do corpo/fundo.",
       "question": "A perda de células parietais reduz diretamente qual dupla?",
-      "options": [
-        "Pepsinogênio e muco",
-        "Ácido clorídrico e fator intrínseco",
-        "Insulina e glucagon",
-        "Bicarbonato e defensinas"
-      ],
+      "options": ["Pepsinogênio e muco protetor","Ácido clorídrico e fator intrínseco","Insulina e glucagon pancreáticos","Bicarbonato e defensinas locais"],
       "answer": 1,
       "explain": "Parietal produz HCl e fator intrínseco, necessário à absorção de B12 no íleo. Pepsinogênio vem das células principais.",
       "core": true,
@@ -317,12 +302,7 @@ const QUICK = {
       "why": "O revestimento externo resiste ao atrito; o canal secreta muco.",
       "contrast": "A junção escamocolunar e a zona de transformação são referências importantes; não confunda colo uterino com corpo do útero.",
       "question": "Qual associação de revestimentos está correta?",
-      "options": [
-        "Ectocérvice colunar; endocérvice pavimentosa",
-        "Ambas pavimentosas queratinizadas",
-        "Ambas colunares ciliadas",
-        "Ectocérvice pavimentosa; endocérvice colunar"
-      ],
+      "options": ["Ectocérvice colunar; endocérvice pavimentosa","Ambas pavimentosas queratinizadas","Ambas colunares ciliadas, sem muco","Ectocérvice pavimentosa; endocérvice colunar"],
       "answer": 3,
       "explain": "Os dois territórios têm funções e epitélios diferentes. O padrão normal deve ser reconhecido antes de interpretar alterações.",
       "core": false,
