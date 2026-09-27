@@ -161,15 +161,15 @@
       "week": 8,
       "module": "Anomalias cromossômicas: número e estrutura",
       "source": "Genótipo ao Fenótipo/semana 8/Aula 8_Anomalias Cromossômicas.pdf · páginas 17 e 21; MedlinePlus: https://medlineplus.gov/genetics/understanding/mutationsanddisorders/structuralchanges/",
-      "version": "2026-09-21.1",
+      "version": "2026-09-27.1",
       "id": "reviewed-w08-cromossomos-q2",
       "kind": "mcq",
       "title": "Qual é a definição correta de rearranjo cromossômico balanceado?",
       "options": [
         "Reorganização sem ganho ou perda aparente de material",
-        "Qualquer deleção",
-        "Qualquer ganho de material genético",
-        "Garantia de ausência de efeito biológico"
+        "Qualquer deleção que remova genes de um cromossomo",
+        "Qualquer ganho de material genético num cromossomo",
+        "Rearranjo que garante ausência de qualquer efeito no portador"
       ],
       "answer": 0,
       "explanation": "Balanceamento se refere à quantidade de material. Ponto de quebra e consequências reprodutivas ainda podem ser relevantes."

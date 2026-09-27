@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 2698,
+  "items": 2727,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -50,9 +50,9 @@
       "description": "Heranças · Diagnóstico · Genética",
       "counts": {
         "read": 35,
-        "mcq": 77,
-        "written": 12,
-        "recall": 125
+        "mcq": 102,
+        "written": 14,
+        "recall": 127
       },
       "weeks": [
         1,
@@ -61,6 +61,7 @@
         4,
         5,
         6,
+        7,
         8
       ]
     },
