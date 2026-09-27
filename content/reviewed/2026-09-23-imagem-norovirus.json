@@ -88,14 +88,14 @@
       "week": 7,
       "module": "Norovírus: transmissão e prevenção",
       "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf · p. 38–40; https://www.cdc.gov/norovirus/prevention/index.html",
-      "version": "2026-09-23.1",
+      "version": "2026-09-27.1",
       "kind": "mcq",
       "title": "Qual mensagem sobre higiene das mãos é mais adequada para prevenção de norovírus?",
       "options": [
-        "Álcool em gel sempre substitui água e sabão",
-        "Só é necessário lavar as mãos quando há sujeira visível",
-        "Lavar com água e sabão; álcool em gel sozinho não substitui essa medida",
-        "Lavar com água sem sabão oferece a mesma recomendação"
+        "Álcool em gel é suficiente se aplicado várias vezes ao dia",
+        "Lavar as mãos só é necessário quando há sujeira visível",
+        "Água e sabão; álcool em gel sozinho não substitui a lavagem",
+        "Lavar só com água, sem sabão, oferece a mesma proteção"
       ],
       "answer": 2,
       "explanation": "O CDC enfatiza água e sabão, pois álcool em gel isolado não funciona bem contra norovírus."
@@ -106,14 +106,14 @@
       "week": 7,
       "module": "Norovírus: transmissão e prevenção",
       "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf · p. 38–40; https://www.cdc.gov/norovirus/prevention/index.html",
-      "version": "2026-09-23.1",
+      "version": "2026-09-27.1",
       "kind": "mcq",
       "title": "Por que “norovírus resiste a qualquer desinfecção com cloro” é uma generalização incorreta?",
       "options": [
-        "Porque qualquer detergente esteriliza superfícies",
-        "Porque há produtos apropriados à base de hipoclorito eficazes quando usados corretamente",
-        "Porque norovírus só se transmite pelo sangue",
-        "Porque limpar superfícies nunca tem relação com transmissão"
+        "Porque todo produto clorado inativa o vírus em qualquer dose",
+        "Porque há produtos com hipoclorito eficazes se bem usados",
+        "Porque o norovírus se transmite só por gotículas no ar",
+        "Porque a limpeza de superfícies não influencia a transmissão"
       ],
       "answer": 1,
       "explanation": "A eficácia depende do produto e das condições de uso. O CDC recomenda opções apropriadas à base de hipoclorito ou outros produtos com eficácia contra norovírus."

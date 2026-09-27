@@ -105,15 +105,15 @@
       "week": 8,
       "module": "Ebola e hantavírus: exposição e transmissão",
       "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf; https://www.who.int/news-room/fact-sheets/detail/ebola-disease; https://www.cdc.gov/hantavirus/about/",
-      "version": "2026-09-22.1",
+      "version": "2026-09-27.1",
       "id": "reviewed-w08-ebola-hanta-q1",
       "kind": "mcq",
       "title": "Qual associação é adequada ao comparar as exposições de Ebola e hantavírus?",
       "options": [
-        "Ambos dependem exclusivamente de picada de mosquito",
-        "Ebola: fluidos infectados; hantavírus: principalmente roedores e suas excretas",
-        "Ebola: apenas alimento; hantavírus: apenas água",
-        "Ambos são doenças exclusivamente hereditárias"
+        "Ebola: picada de mosquito; hantavírus: contato com sangue",
+        "Ebola: fluidos infectados; hantavírus: roedores e excretas",
+        "Ebola: água contaminada; hantavírus: alimento cru",
+        "Ebola: roedores e excretas; hantavírus: fluidos infectados"
       ],
       "answer": 1,
       "explanation": "As vias de transmissão diferem. O contato com fluidos infectados é relevante no Ebola; roedores e excretas são centrais na epidemiologia dos hantavírus."
@@ -123,15 +123,15 @@
       "week": 8,
       "module": "Ebola e hantavírus: exposição e transmissão",
       "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf; https://www.who.int/news-room/fact-sheets/detail/ebola-disease; https://www.cdc.gov/hantavirus/about/",
-      "version": "2026-09-22.1",
+      "version": "2026-09-27.1",
       "id": "reviewed-w08-ebola-hanta-q2",
       "kind": "mcq",
       "title": "Qual informação impede a afirmação de que hantavírus nunca se transmite entre pessoas?",
       "options": [
-        "A existência de células de Schwann",
-        "A presença de febre em qualquer paciente",
+        "A predominância da síndrome renal na Ásia e na Europa",
+        "A exposição a excretas de roedores em áreas rurais",
         "A transmissão interpessoal documentada do vírus Andes",
-        "A ausência de mosquitos em determinada cidade"
+        "A plaquetopenia observada nos casos cardiopulmonares"
       ],
       "answer": 2,
       "explanation": "O vírus Andes é uma exceção conhecida com transmissão entre pessoas, conforme o CDC."
@@ -141,14 +141,14 @@
       "week": 8,
       "module": "Ebola e hantavírus: exposição e transmissão",
       "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf; https://www.who.int/news-room/fact-sheets/detail/ebola-disease; https://www.cdc.gov/hantavirus/about/",
-      "version": "2026-09-22.1",
+      "version": "2026-09-27.1",
       "id": "reviewed-w08-ebola-hanta-q3",
       "kind": "mcq",
       "title": "Por que ausência de sangramento não basta para afastar Ebola em uma investigação?",
       "options": [
-        "Porque toda febre é Ebola",
-        "Porque exames nunca são necessários",
-        "Porque o local de exposição não importa",
+        "Porque o sangramento só aparece nas primeiras horas",
+        "Porque a febre sem resposta a antitérmico já define Ebola",
+        "Porque o PCR inicial é sempre positivo nos casos reais",
         "Porque hemorragia não está presente em todos os casos"
       ],
       "answer": 3,

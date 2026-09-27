@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 2606,
+  "items": 2658,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -70,9 +70,9 @@
       "description": "Imunologia · Virologia",
       "counts": {
         "read": 17,
-        "mcq": 12,
-        "written": 0,
-        "recall": 139
+        "mcq": 60,
+        "written": 2,
+        "recall": 141
       },
       "weeks": [
         1,

@@ -1,0 +1,1032 @@
+{
+  "reviewedAt": "2026-09-27",
+  "sources": [
+    {
+      "path": "Microbiota a Imunidade II/semana 1/Resolução atividade em grupo.md",
+      "sha256": "2e66628168135cc7ce177df71441589c5ed63c9c552fafb7493b1871844639ad",
+      "scope": "Complemento, apresentação antigênica e resposta Th1; usado nas revisões das questões importadas da semana 1."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 2/APS 02 - Hipersensibilidade Tipo I - Marjori Pomarole.md",
+      "sha256": "e15cdf6202a82ed20fc59ec0f2fae890ac420986bad811bd32e8378e0db8f670",
+      "scope": "Sensibilização por IgE, mastócitos, histamina, fase tardia, atopia e anafilaxia. Cenários novos."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 3/18 ago - Aula - Hipersensibilidade tipos II, III e IV.md",
+      "sha256": "8c159f8fdcfa956165483ef4fcad1fa65bb46f23a2d59a0c6ca9916e1c1d3b05",
+      "scope": "Mecanismos dos tipos II, III e IV, exemplos clínicos e comparação III versus IV."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 4/25 ago - Aplicação clínica e laboratorial da autoimunidade - VHS, FAN e Coombs.md",
+      "sha256": "7221a3a1f51153c3ba244cc3f7b8cbb3472e7d0ecb39b8d9b6023304f4b6e39d",
+      "scope": "Princípio e interpretação de VHS, FAN e Coombs; valores de referência não foram usados como questão."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 5/1 set - Aula - Classificação, estrutura, replicação e patogênese viral.md",
+      "sha256": "22d650e3ff0202bb607a9630ad7012a3561bf9aa775fc5cb0c9ccb869d23b0ef",
+      "scope": "Estrutura viral, Baltimore, ciclo replicativo, tropismo, padrões de infecção e variação antigênica."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 6/8 set - Resumo dos PDFs - Vírus respiratórios.md",
+      "sha256": "b46a40b59258411df5a17977bbe2c395f652bd5ac29d53fd3a12aa910995fecc",
+      "scope": "Sarampo, caxumba, VSR, parainfluenza, influenza e coronavírus. Ressalvas do resumo respeitadas; sem condutas terapêuticas."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 7/15 set - Resumo guiado - Diarreias virais e enterovírus.md",
+      "sha256": "71da3eb70056f7825865aa58b15115805ad90d0561518573d8525ee2981bbcc5",
+      "scope": "Rotavírus, norovírus, enterovírus, poliomielite e interpretação de testes. Sem esquemas vacinais."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 8/22 set - Resumo guiado - Febres hemorrágicas virais.md",
+      "sha256": "6eae3b70cf20e75707522c403366ddd7489c1a630d01dccc1796087b25c32fdc",
+      "scope": "Febre amarela, dengue, Ebola, hantavírus e investigação de surtos, com as correções do resumo e fontes OMS/CDC/MS citadas nele."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 9/29 set - Preparação - N1 de Microbiota.md",
+      "sha256": "87cdff2e84d1d84d41d742784585d7b2b610f0ba98161c80bdf71f50467a15d3",
+      "scope": "Perguntas de recuperação ativa usadas como roteiro."
+    }
+  ],
+  "items": [
+    {
+      "subject": "microbiota",
+      "week": 2,
+      "module": "Hipersensibilidade tipo I na prática",
+      "source": "Microbiota a Imunidade II/semana 2/APS 02 - Hipersensibilidade Tipo I - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w02-hs1-q1",
+      "kind": "mcq",
+      "title": "Numa pessoa já sensibilizada, o que desencadeia a ativação do mastócito na reexposição ao alérgeno?",
+      "options": [
+        "Ligação do alérgeno a IgG circulante e depósito no vaso",
+        "Apresentação do alérgeno em MHC I a linfócitos T CD8+",
+        "Ligação cruzada de IgE já ligada ao FcεRI pelo alérgeno",
+        "Ativação direta do complemento pela via alternativa"
+      ],
+      "answer": 2,
+      "explanation": "Na sensibilização, Th2, IL-4 e IL-13 levam à produção de IgE, que se fixa no FcεRI dos mastócitos. Na reexposição, o alérgeno liga e aproxima essas IgE, ativando a célula."
+    },
+    {
+      "subject": "microbiota",
+      "week": 2,
+      "module": "Hipersensibilidade tipo I na prática",
+      "source": "Microbiota a Imunidade II/semana 2/APS 02 - Hipersensibilidade Tipo I - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w02-hs1-q2",
+      "kind": "mcq",
+      "title": "Qual mediador pré-formado explica a maior parte do prurido e da urticária imediatos?",
+      "options": [
+        "Histamina",
+        "Interferon-gama",
+        "Interleucina-17",
+        "Fragmento C3b"
+      ],
+      "answer": 0,
+      "explanation": "A histamina fica armazenada nos grânulos do mastócito. Pelo receptor H1, causa vasodilatação, aumento de permeabilidade e estímulo de terminações sensoriais."
+    },
+    {
+      "subject": "microbiota",
+      "week": 2,
+      "module": "Hipersensibilidade tipo I na prática",
+      "source": "Microbiota a Imunidade II/semana 2/APS 02 - Hipersensibilidade Tipo I - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w02-hs1-q3",
+      "kind": "mcq",
+      "title": "Horas depois de uma crise alérgica, os sintomas voltam com infiltrado inflamatório. Qual célula é mais característica dessa fase tardia?",
+      "options": [
+        "Neutrófilo",
+        "Plasmócito",
+        "Célula NK",
+        "Eosinófilo"
+      ],
+      "answer": 3,
+      "explanation": "Na fase tardia, citocinas e quimiocinas recrutam células, com destaque para eosinófilos sob influência de IL-5 e eotaxinas."
+    },
+    {
+      "subject": "microbiota",
+      "week": 2,
+      "module": "Hipersensibilidade tipo I na prática",
+      "source": "Microbiota a Imunidade II/semana 2/APS 02 - Hipersensibilidade Tipo I - Marjori Pomarole.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w02-hs1-q4",
+      "kind": "mcq",
+      "title": "Um paciente tem urticária e leve edema labial após contato com um alérgeno, sem dispneia nem hipotensão. Como classificar com esses dados?",
+      "options": [
+        "Anafilaxia, porque houve urticária e edema",
+        "Reação alérgica sem critérios de anafilaxia",
+        "Hipersensibilidade tipo IV, pela lesão cutânea",
+        "Doença do soro, por envolver pele e mucosa"
+      ],
+      "answer": 1,
+      "explanation": "Urticária e angioedema isolados não fecham anafilaxia, que exige comprometimento potencialmente grave, sobretudo respiratório ou circulatório, ou a combinação prevista nos critérios."
+    },
+    {
+      "subject": "microbiota",
+      "week": 3,
+      "module": "Hipersensibilidade tipos II, III e IV",
+      "source": "Microbiota a Imunidade II/semana 3/18 ago - Aula - Hipersensibilidade tipos II, III e IV.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w03-hs-q1",
+      "kind": "mcq",
+      "title": "O que distingue a hipersensibilidade tipo II da tipo III?",
+      "options": [
+        "No tipo II o efetor é IgE; no III é a célula T",
+        "No tipo II o antígeno já está fixo; no III ele é solúvel",
+        "No tipo II há complemento; no III ele nunca participa",
+        "No tipo II a reação é tardia; no tipo III ela é sempre imediata"
+      ],
+      "answer": 1,
+      "explanation": "No tipo II, o anticorpo reconhece alvo fixo em célula, matriz ou receptor. No tipo III, antígeno solúvel e anticorpo formam imunocomplexos que se depositam e causam inflamação."
+    },
+    {
+      "subject": "microbiota",
+      "week": 3,
+      "module": "Hipersensibilidade tipos II, III e IV",
+      "source": "Microbiota a Imunidade II/semana 3/18 ago - Aula - Hipersensibilidade tipos II, III e IV.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w03-hs-q2",
+      "kind": "mcq",
+      "title": "Na doença de Graves, como o autoanticorpo contra o receptor de TSH causa a doença?",
+      "options": [
+        "Bloqueia o receptor e reduz a produção de T3 e T4",
+        "Forma imunocomplexos que se depositam na tireoide",
+        "Estimula o receptor e mantém a tireoide ativada",
+        "Recruta linfócitos T CD8+ que destroem os folículos"
+      ],
+      "answer": 2,
+      "explanation": "É um exemplo de tipo II por estimulação receptora: a IgG imita o TSH e leva à produção excessiva de hormônios, sem exigir destruição celular."
+    },
+    {
+      "subject": "microbiota",
+      "week": 3,
+      "module": "Hipersensibilidade tipos II, III e IV",
+      "source": "Microbiota a Imunidade II/semana 3/18 ago - Aula - Hipersensibilidade tipos II, III e IV.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w03-hs-q3",
+      "kind": "mcq",
+      "title": "Por que a IgG anti-D materna pode destruir hemácias fetais, enquanto a IgM anti-A em geral não atinge o feto?",
+      "options": [
+        "Porque a IgG atravessa a placenta e a IgM não",
+        "Porque a IgM não ativa o complemento de modo algum",
+        "Porque o feto não expressa nenhum antígeno do sistema ABO",
+        "Porque a IgG é pentamérica e se liga melhor às hemácias"
+      ],
+      "answer": 0,
+      "explanation": "A IgG atravessa a placenta e se liga às hemácias fetais RhD positivas. A IgM, pentamérica, não atravessa. Ela ativa muito bem o complemento."
+    },
+    {
+      "subject": "microbiota",
+      "week": 3,
+      "module": "Hipersensibilidade tipos II, III e IV",
+      "source": "Microbiota a Imunidade II/semana 3/18 ago - Aula - Hipersensibilidade tipos II, III e IV.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w03-hs-q4",
+      "kind": "mcq",
+      "title": "Numa reação transfusional ABO, qual combinação explica a hemólise intravascular?",
+      "options": [
+        "IgE fixada em mastócitos e liberação maciça de histamina no sangue",
+        "Linfócitos T CD8+ que reconhecem hemácias por MHC I",
+        "IgG que opsoniza hemácias para remoção no baço e fígado",
+        "IgM natural anti-A ou anti-B e ativação maciça do complemento"
+      ],
+      "answer": 3,
+      "explanation": "Anticorpos naturais, sobretudo IgM, ativam o complemento até o complexo de ataque à membrana, com lise intravascular. A opsonização por IgG é o mecanismo típico da hemólise extravascular."
+    },
+    {
+      "subject": "microbiota",
+      "week": 3,
+      "module": "Hipersensibilidade tipos II, III e IV",
+      "source": "Microbiota a Imunidade II/semana 3/18 ago - Aula - Hipersensibilidade tipos II, III e IV.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w03-hs-q5",
+      "kind": "mcq",
+      "title": "Após uma faringite, surgem hematúria e proteinúria com C3 baixo. Qual mecanismo explica melhor esse quadro?",
+      "options": [
+        "Anticorpos contra receptores tubulares que bloqueiam sua função",
+        "Depósito glomerular de imunocomplexos e consumo de complemento",
+        "Linfócitos Th1 formando granulomas no interstício renal",
+        "IgE ligada a mastócitos renais e liberação de histamina"
+      ],
+      "answer": 1,
+      "explanation": "É o modelo da glomerulonefrite pós-infecciosa, tipo III. O consumo da via clássica pode reduzir C3 e C4, o que apoia, mas não confirma sozinho, doença por imunocomplexos."
+    },
+    {
+      "subject": "microbiota",
+      "week": 3,
+      "module": "Hipersensibilidade tipos II, III e IV",
+      "source": "Microbiota a Imunidade II/semana 3/18 ago - Aula - Hipersensibilidade tipos II, III e IV.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w03-hs-q6",
+      "kind": "mcq",
+      "title": "Uma lesão pruriginosa surge 48 horas após o contato com um produto e mostra infiltrado mononuclear. Qual é o efetor dominante?",
+      "options": [
+        "Imunocomplexos",
+        "IgE e mastócitos",
+        "Linfócitos T",
+        "IgM e complemento"
+      ],
+      "answer": 2,
+      "explanation": "A dermatite de contato é o exemplo clássico de tipo IV, com reação tardia de 48 a 72 horas conduzida por linfócitos T."
+    },
+    {
+      "subject": "microbiota",
+      "week": 3,
+      "module": "Hipersensibilidade tipos II, III e IV",
+      "source": "Microbiota a Imunidade II/semana 3/18 ago - Aula - Hipersensibilidade tipos II, III e IV.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w03-hs-q7",
+      "kind": "mcq",
+      "title": "Na miastenia gravis, qual ação do autoanticorpo explica a fraqueza?",
+      "options": [
+        "Bloqueia e reduz os receptores de acetilcolina na placa motora",
+        "Estimula continuamente os receptores até esgotar a acetilcolina",
+        "Forma imunocomplexos que se depositam nas fibras musculares",
+        "Ativa mastócitos na junção e libera histamina local"
+      ],
+      "answer": 0,
+      "explanation": "Os anticorpos bloqueiam a ligação da acetilcolina, favorecem a internalização dos receptores e podem ativar complemento. A transmissão falha e a fraqueza é fatigável."
+    },
+    {
+      "subject": "microbiota",
+      "week": 3,
+      "module": "Hipersensibilidade tipos II, III e IV",
+      "source": "Microbiota a Imunidade II/semana 3/18 ago - Aula - Hipersensibilidade tipos II, III e IV.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w03-hs-q8",
+      "kind": "mcq",
+      "title": "Na ADCC, qual célula executa a morte do alvo revestido por IgG?",
+      "options": [
+        "Mastócito, por FcεRI",
+        "Linfócito B, pelo BCR",
+        "Neutrófilo, pelo TCR",
+        "Célula NK, por CD16"
+      ],
+      "answer": 3,
+      "explanation": "A NK reconhece a porção Fc da IgG por CD16 e libera perforina e granzimas. O mecanismo é humoral porque depende do anticorpo."
+    },
+    {
+      "subject": "microbiota",
+      "week": 4,
+      "module": "VHS, FAN e Coombs na interpretação clínica",
+      "source": "Microbiota a Imunidade II/semana 4/25 ago - Aplicação clínica e laboratorial da autoimunidade - VHS, FAN e Coombs.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w04-lab-q1",
+      "kind": "mcq",
+      "title": "Por que a inflamação acelera a velocidade de hemossedimentação?",
+      "options": [
+        "A inflamação reduz o número de hemácias e deixa o sangue mais leve",
+        "Proteínas como o fibrinogênio favorecem o empilhamento das hemácias",
+        "Os leucócitos ativados se ligam às hemácias e as puxam para o fundo",
+        "O VHS mede diretamente a quantidade de citocinas inflamatórias"
+      ],
+      "answer": 1,
+      "explanation": "Proteínas de fase aguda, sobretudo o fibrinogênio, reduzem a repulsão entre hemácias e favorecem rouleaux, que sedimentam mais rápido. É um marcador indireto e inespecífico."
+    },
+    {
+      "subject": "microbiota",
+      "week": 4,
+      "module": "VHS, FAN e Coombs na interpretação clínica",
+      "source": "Microbiota a Imunidade II/semana 4/25 ago - Aplicação clínica e laboratorial da autoimunidade - VHS, FAN e Coombs.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w04-lab-q2",
+      "kind": "mcq",
+      "title": "Um paciente melhorou de uma infecção há dias. A PCR normalizou, mas o VHS continua elevado. Como interpretar?",
+      "options": [
+        "O VHS alto confirma que a infecção persiste",
+        "A PCR normal indica erro técnico do laboratório",
+        "O VHS costuma cair mais devagar que a PCR",
+        "O VHS alto confirma uma doença autoimune nova"
+      ],
+      "answer": 2,
+      "explanation": "A PCR sobe e cai mais rápido. O VHS pode permanecer elevado por mais tempo, mesmo após melhora clínica."
+    },
+    {
+      "subject": "microbiota",
+      "week": 4,
+      "module": "VHS, FAN e Coombs na interpretação clínica",
+      "source": "Microbiota a Imunidade II/semana 4/25 ago - Aplicação clínica e laboratorial da autoimunidade - VHS, FAN e Coombs.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w04-lab-q3",
+      "kind": "mcq",
+      "title": "Uma mulher de 68 anos, assintomática, tem FAN 1:80 com padrão pontilhado fino em exame de rotina. O que concluir?",
+      "options": [
+        "Achado de baixo valor preditivo sem clínica compatível",
+        "Diagnóstico de lúpus, pois o FAN é específico dessa doença",
+        "Indicação de iniciar imunossupressão de forma preventiva",
+        "Exame inválido, pois o FAN só é positivo em pessoas doentes"
+      ],
+      "answer": 0,
+      "explanation": "Pessoas saudáveis, sobretudo idosas, podem ter FAN positivo em título baixo. Sem manifestações clínicas, o resultado isolado não autoriza diagnóstico."
+    },
+    {
+      "subject": "microbiota",
+      "week": 4,
+      "module": "VHS, FAN e Coombs na interpretação clínica",
+      "source": "Microbiota a Imunidade II/semana 4/25 ago - Aplicação clínica e laboratorial da autoimunidade - VHS, FAN e Coombs.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w04-lab-q4",
+      "kind": "mcq",
+      "title": "Qual resultado de FAN indica maior título de autoanticorpo?",
+      "options": [
+        "Positivo até a diluição de 1:80",
+        "Positivo até a diluição de 1:160",
+        "Positivo até a diluição de 1:320",
+        "Positivo até a diluição de 1:640"
+      ],
+      "answer": 3,
+      "explanation": "O título é a maior diluição que ainda mostra fluorescência. Quanto maior o denominador, mais anticorpo havia na amostra."
+    },
+    {
+      "subject": "microbiota",
+      "week": 4,
+      "module": "VHS, FAN e Coombs na interpretação clínica",
+      "source": "Microbiota a Imunidade II/semana 4/25 ago - Aplicação clínica e laboratorial da autoimunidade - VHS, FAN e Coombs.md; Microbiota a Imunidade II/semana 3/18 ago - Aula - Hipersensibilidade tipos II, III e IV.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w04-lab-q5",
+      "kind": "mcq",
+      "title": "Para investigar hemólise imune que já está acontecendo, qual teste procura IgG ou complemento aderidos às hemácias do paciente?",
+      "options": [
+        "Coombs indireto",
+        "Coombs direto",
+        "FAN em células HEp-2",
+        "Velocidade de hemossedimentação"
+      ],
+      "answer": 1,
+      "explanation": "O Coombs direto detecta anticorpo ou complemento já ligados às hemácias. O indireto procura anticorpos livres no soro, como na triagem pré-transfusional."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/1 set - Aula - Classificação, estrutura, replicação e patogênese viral.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w05-viro-q1",
+      "kind": "mcq",
+      "title": "Por que um vírus de RNA de fita simples negativa precisa carregar sua própria RNA-polimerase?",
+      "options": [
+        "Seu genoma é traduzido direto, mas precisa ser protegido no núcleo",
+        "A célula humana só traduz RNA negativo com enzimas do próprio vírus",
+        "Seu genoma precisa ser copiado em RNA positivo antes da tradução",
+        "A enzima serve para integrar o genoma viral ao DNA do hospedeiro"
+      ],
+      "answer": 2,
+      "explanation": "RNA negativo não funciona como mRNA. A RNA-polimerase dependente de RNA viral produz o RNA positivo. Integração ao DNA é própria dos retrovírus."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/1 set - Aula - Classificação, estrutura, replicação e patogênese viral.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w05-viro-q2",
+      "kind": "mcq",
+      "title": "Um vírus se liga a receptores de um tecido, mas não se replica ali. O que melhor explica isso?",
+      "options": [
+        "A célula não é permissiva: faltam fatores intracelulares",
+        "O receptor sozinho garante replicação em qualquer célula",
+        "Vírus envelopados nunca se replicam em tecidos sólidos",
+        "A ligação ao receptor destrói o genoma viral na entrada"
+      ],
+      "answer": 0,
+      "explanation": "O receptor contribui para o tropismo, mas não basta. A célula também precisa fornecer fatores intracelulares adequados."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/1 set - Aula - Classificação, estrutura, replicação e patogênese viral.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w05-viro-q3",
+      "kind": "mcq",
+      "title": "O que é o nucleocapsídeo?",
+      "options": [
+        "Apenas o capsídeo, sem o genoma",
+        "O envelope lipídico com glicoproteínas",
+        "A partícula completa fora da célula",
+        "O genoma viral associado ao capsídeo"
+      ],
+      "answer": 3,
+      "explanation": "Nucleocapsídeo é genoma mais capsídeo e proteínas associadas. A partícula completa é o vírion."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/1 set - Aula - Classificação, estrutura, replicação e patogênese viral.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w05-viro-q4",
+      "kind": "mcq",
+      "title": "Qual afirmação sobre vírus envelopados está correta?",
+      "options": [
+        "São sempre mais graves que os vírus sem envelope",
+        "Costumam ser mais sensíveis a detergentes e ressecamento",
+        "Saem da célula sempre por lise, e nunca por brotamento",
+        "Resistem melhor ao ácido gástrico que os não envelopados"
+      ],
+      "answer": 1,
+      "explanation": "O envelope lipídico é sensível a detergentes, solventes, calor e dessecação. Ele não torna o vírus automaticamente mais grave ou mais transmissível."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/1 set - Aula - Classificação, estrutura, replicação e patogênese viral.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w05-viro-q5",
+      "kind": "mcq",
+      "title": "Após a varicela, o vírus volta anos depois como herpes-zóster. Que padrão de infecção é esse?",
+      "options": [
+        "Infecção aguda sem persistência",
+        "Infecção crônica produtiva contínua",
+        "Latência com reativação",
+        "Ciclo lisogênico de bacteriófago"
+      ],
+      "answer": 2,
+      "explanation": "Na latência, o genoma persiste com pouca ou nenhuma produção viral e pode reativar. Lítico e lisogênico descrevem bacteriófagos."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/1 set - Aula - Classificação, estrutura, replicação e patogênese viral.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w05-viro-q6",
+      "kind": "mcq",
+      "title": "Um fármaco impede a maturação das partículas virais. Qual é a consequência esperada?",
+      "options": [
+        "Surgem partículas montadas, porém não infectantes",
+        "O vírus deixa de se ligar ao receptor da célula",
+        "O genoma não é liberado do capsídeo após a entrada",
+        "Nenhuma proteína viral chega a ser sintetizada"
+      ],
+      "answer": 0,
+      "explanation": "A maturação torna a partícula infectante. Bloqueá-la permite montagem, mas gera vírions incapazes de infectar."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/1 set - Aula - Classificação, estrutura, replicação e patogênese viral.md; Microbiota a Imunidade II/semana 6/8 set - Resumo dos PDFs - Vírus respiratórios.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w05-viro-q7",
+      "kind": "mcq",
+      "title": "Qual mecanismo explica uma mudança antigênica abrupta do influenza A com potencial pandêmico?",
+      "options": [
+        "Acúmulo gradual de mutações pontuais na hemaglutinina viral",
+        "Integração do genoma viral ao DNA da célula hospedeira",
+        "Perda do envelope lipídico durante a replicação nuclear",
+        "Rearranjo de segmentos entre vírus que coinfectam uma célula"
+      ],
+      "answer": 3,
+      "explanation": "Rearranjo, ou shift, troca segmentos entre vírus e pode gerar novidade antigênica abrupta. A deriva, ou drift, é gradual e também ocorre no SARS-CoV-2."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/1 set - Aula - Classificação, estrutura, replicação e patogênese viral.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w05-viro-q8",
+      "kind": "mcq",
+      "title": "Por que um antibiótico não trata um resfriado viral?",
+      "options": [
+        "Os vírus produzem enzimas que degradam os antibióticos",
+        "Vírus não têm os alvos bacterianos que os antibióticos atingem",
+        "O antibiótico atua, mas só depois de sete dias de uso",
+        "Os vírus ficam escondidos no núcleo, onde o fármaco não consegue entrar"
+      ],
+      "answer": 1,
+      "explanation": "Antibióticos atingem parede bacteriana, ribossomo 70S, folato bacteriano e outras enzimas bacterianas. Vírus não têm esses alvos."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/8 set - Resumo dos PDFs - Vírus respiratórios.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w06-resp-q1",
+      "kind": "mcq",
+      "title": "No influenza, qual é o papel da neuraminidase?",
+      "options": [
+        "Liberar as novas partículas da célula infectada",
+        "Ligar o vírus ao ácido siálico para a entrada",
+        "Promover a fusão do envelope com o endossomo",
+        "Copiar os segmentos de RNA no núcleo celular"
+      ],
+      "answer": 0,
+      "explanation": "A hemaglutinina participa da ligação e da entrada. A neuraminidase cliva ácido siálico e facilita a liberação, por isso é alvo de oseltamivir."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/8 set - Resumo dos PDFs - Vírus respiratórios.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w06-resp-q2",
+      "kind": "mcq",
+      "title": "Uma criança pequena tem tosse ladrante e estridor. Qual agente a aula associa a esse quadro de crupe?",
+      "options": [
+        "Metapneumovírus",
+        "Rinovírus",
+        "Coronavírus sazonal",
+        "Parainfluenza"
+      ],
+      "answer": 3,
+      "explanation": "Parainfluenza tem forte associação com laringotraqueobronquite. O nome não significa que seja um subtipo de influenza."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/8 set - Resumo dos PDFs - Vírus respiratórios.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w06-resp-q3",
+      "kind": "mcq",
+      "title": "Um lactente de três meses tem coriza, depois taquipneia, sibilos e dificuldade para mamar. Qual associação a aula destaca?",
+      "options": [
+        "Caxumba, com disseminação para a parótida",
+        "VSR, com comprometimento dos bronquíolos",
+        "Sarampo, com manchas de Koplik e exantema",
+        "Parainfluenza, com crupe e estridor laríngeo"
+      ],
+      "answer": 1,
+      "explanation": "Bronquiolite no lactente é a associação central do VSR. Metapneumovírus pode produzir quadro semelhante, e só testes moleculares separam os dois."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/8 set - Resumo dos PDFs - Vírus respiratórios.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w06-resp-q4",
+      "kind": "mcq",
+      "title": "Qual par de coronavírus e receptor está correto?",
+      "options": [
+        "SARS-CoV-2 e DPP4",
+        "MERS-CoV e ACE2",
+        "MERS-CoV e DPP4",
+        "SARS-CoV-1 e DPP4"
+      ],
+      "answer": 2,
+      "explanation": "SARS-CoV-1 e SARS-CoV-2 usam ACE2, e o NL63 também. MERS-CoV usa DPP4."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/8 set - Resumo dos PDFs - Vírus respiratórios.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w06-resp-q5",
+      "kind": "mcq",
+      "title": "Uma criança com febre, tosse, coriza e conjuntivite não tem manchas de Koplik. Isso afasta sarampo?",
+      "options": [
+        "Não, pois as manchas de Koplik não aparecem em todos os casos",
+        "Sim, pois as manchas de Koplik são obrigatórias no sarampo",
+        "Sim, pois sem exantema já presente o sarampo fica excluído",
+        "Não, pois as manchas de Koplik só surgem depois da alta hospitalar"
+      ],
+      "answer": 0,
+      "explanation": "Koplik pode preceder o exantema, mas não está presente em todos os casos. A ausência não exclui sarampo."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/8 set - Resumo dos PDFs - Vírus respiratórios.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w06-resp-q6",
+      "kind": "mcq",
+      "title": "Um paciente com síndrome gripal e alta suspeita de influenza tem teste rápido de antígeno negativo. O que concluir?",
+      "options": [
+        "O negativo exclui influenza e indica origem bacteriana",
+        "O negativo mostra que o quadro é certamente COVID-19",
+        "O negativo indica que a nova coleta deve ser feita no sangue",
+        "O negativo não exclui a hipótese; a RT-PCR é mais sensível"
+      ],
+      "answer": 3,
+      "explanation": "Testes rápidos de antígeno são menos sensíveis que a RT-PCR. Momento e qualidade da coleta também influenciam o resultado."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/8 set - Resumo dos PDFs - Vírus respiratórios.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w06-resp-q7",
+      "kind": "mcq",
+      "title": "Na COVID-19 grave com hipoxemia, que papel a dexametasona tem no raciocínio apresentado?",
+      "options": [
+        "Antiviral que bloqueia a replicação do SARS-CoV-2 no início",
+        "Corticoide imunomodulador contra a inflamação, não antiviral",
+        "Inibidor da neuraminidase usado nas primeiras 48 horas",
+        "Vacina terapêutica que induz anticorpos neutralizantes"
+      ],
+      "answer": 1,
+      "explanation": "O material separa antivirais, ligados à fase de replicação, de imunomodulação em quadros inflamatórios graves. A dexametasona é corticoide."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/8 set - Resumo dos PDFs - Vírus respiratórios.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w06-resp-q8",
+      "kind": "mcq",
+      "title": "Um adulto jovem com parotidite dolorosa passa a ter dor e aumento testicular. Qual é a hipótese mais coerente?",
+      "options": [
+        "Complicação tardia do sarampo",
+        "Infecção bacteriana da parótida",
+        "Orquite associada à caxumba",
+        "Bronquiolite por metapneumovírus"
+      ],
+      "answer": 2,
+      "explanation": "A caxumba não fica restrita à parótida: orquite, ooforite, pancreatite e meningite asséptica estão entre as manifestações."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/15 set - Resumo guiado - Diarreias virais e enterovírus.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w07-gi-q1",
+      "kind": "mcq",
+      "title": "Qual estrutura corresponde ao rotavírus?",
+      "options": [
+        "RNA de fita dupla em 11 segmentos, sem envelope",
+        "RNA de fita simples positiva, com envelope lipídico",
+        "DNA de fita dupla circular, sem envelope proteico",
+        "RNA de fita simples negativa, em oito segmentos"
+      ],
+      "answer": 0,
+      "explanation": "O rotavírus não tem envelope e possui RNA de fita dupla em 11 segmentos, o que permite rearranjo. A partícula tem capsídeo de três camadas."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/15 set - Resumo guiado - Diarreias virais e enterovírus.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w07-gi-q2",
+      "kind": "mcq",
+      "title": "Como o rotavírus produz diarreia tão intensa?",
+      "options": [
+        "Apenas destrói enterócitos, sem nenhum componente secretor",
+        "Apenas libera uma toxina, sem lesar as células intestinais",
+        "Causa sangramento da mucosa, que puxa água para o lúmen",
+        "Soma lesão absortiva osmótica e secreção induzida pela NSP4"
+      ],
+      "answer": 3,
+      "explanation": "Há mecanismos simultâneos: lesão dos enterócitos com componente osmótico, NSP4 com ação enterotóxica e sinalização entérica com serotonina."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/15 set - Resumo guiado - Diarreias virais e enterovírus.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w07-gi-q3",
+      "kind": "mcq",
+      "title": "Após uma confraternização, pessoas de várias idades têm vômitos intensos de início abrupto e diarreia aquosa. Qual hipótese a aula destaca?",
+      "options": [
+        "Rotavírus",
+        "Norovírus",
+        "Adenovírus 40/41",
+        "Poliovírus"
+      ],
+      "answer": 1,
+      "explanation": "Surto, várias idades, início abrupto e vômitos marcantes lembram norovírus. É hipótese, não diagnóstico confirmado."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/15 set - Resumo guiado - Diarreias virais e enterovírus.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w07-gi-q4",
+      "kind": "mcq",
+      "title": "Uma criança recém-vacinada por via oral contra rotavírus tem diarreia e teste positivo para o vírus. O que considerar?",
+      "options": [
+        "O teste confirma falha vacinal e infecção selvagem",
+        "O positivo indica que a vacina causou a desidratação",
+        "Pode ser vírus vacinal; positivo não prova causalidade",
+        "O resultado dispensa avaliar a hidratação da criança"
+      ],
+      "answer": 2,
+      "explanation": "Após vacina oral, pode haver detecção de vírus vacinal. Eliminação após a melhora e coinfecções também dificultam atribuir a causa."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/15 set - Resumo guiado - Diarreias virais e enterovírus.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w07-gi-q5",
+      "kind": "mcq",
+      "title": "O que a palavra herpangina indica sobre a etiologia?",
+      "options": [
+        "Infecção por herpes simples na orofaringe posterior",
+        "Reativação do vírus varicela-zóster na mucosa oral",
+        "Lesão bacteriana secundária a vesículas herpéticas",
+        "Nada sobre herpesvírus: é causada por enterovírus"
+      ],
+      "answer": 3,
+      "explanation": "Herpangina é causada por enterovírus, com lesões dolorosas na região posterior da boca. O nome não significa herpesvírus."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/15 set - Resumo guiado - Diarreias virais e enterovírus.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w07-gi-q6",
+      "kind": "mcq",
+      "title": "Qual diferença imunológica entre as vacinas contra poliomielite está correta?",
+      "options": [
+        "A VIP é inativada; a VOP é atenuada e induz imunidade intestinal",
+        "A VIP é atenuada; a VOP é inativada e não se replica no intestino",
+        "As duas são inativadas e diferem apenas pela via de aplicação",
+        "A VOP é inativada e não gera poliovírus derivado da vacina"
+      ],
+      "answer": 0,
+      "explanation": "A VIP usa vírus inativado e não se replica. A VOP usa vírus vivo atenuado, estimula imunidade intestinal e tem riscos raros de reversão."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/15 set - Resumo guiado - Diarreias virais e enterovírus.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w07-gi-q7",
+      "kind": "mcq",
+      "title": "Um lactente tem poucas evacuações, mas está prostrado e não consegue beber. Por que isso preocupa mais que muitas evacuações com boa ingestão?",
+      "options": [
+        "O número de evacuações é o melhor indicador de desidratação",
+        "A repercussão na hidratação importa mais que o número de fezes",
+        "Prostração sem diarreia intensa descarta gastroenterite viral",
+        "A ingestão só importa depois que o agente é identificado"
+      ],
+      "answer": 1,
+      "explanation": "O foco inicial é a gravidade. Menor ingestão e sinais de perfusão comprometida pesam mais que a contagem de evacuações."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Resumo guiado - Febres hemorrágicas virais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w08-fhv-q1",
+      "kind": "mcq",
+      "title": "Na dengue, como pode ocorrer choque sem grande hemorragia externa?",
+      "options": [
+        "A destruição do fígado impede totalmente a síntese de albumina",
+        "O vírus lisa as hemácias e causa anemia aguda e intensa",
+        "O extravasamento de plasma reduz o volume circulante efetivo",
+        "A febre alta desidrata o paciente mais que qualquer outro fator"
+      ],
+      "answer": 2,
+      "explanation": "Produtos virais e inflamação alteram a barreira vascular. O plasma extravasa, o volume efetivo cai e pode haver hipoperfusão e choque."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Resumo guiado - Febres hemorrágicas virais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w08-fhv-q2",
+      "kind": "mcq",
+      "title": "No segundo dia de febre, um paciente com suspeita de dengue tem IgM negativa. O que concluir?",
+      "options": [
+        "Não exclui dengue; no início, NS1 e PCR ajudam mais",
+        "Exclui dengue, pois a IgM é positiva desde o primeiro dia",
+        "Confirma infecção por outro sorotipo, já que a IgM falhou",
+        "Indica que o paciente teve dengue grave no passado recente"
+      ],
+      "answer": 0,
+      "explanation": "A sorologia depende do tempo de resposta. No início, NS1 e testes moleculares têm maior utilidade; a IgM ganha peso com a evolução."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Resumo guiado - Febres hemorrágicas virais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w08-fhv-q3",
+      "kind": "mcq",
+      "title": "O que é amplificação dependente de anticorpos, ADE, na dengue?",
+      "options": [
+        "Anticorpo neutralizante impede qualquer infecção futura",
+        "IgM de primeira infecção protege contra os quatro sorotipos",
+        "Anticorpo que destrói plaquetas e causa sangramento grave",
+        "Anticorpo de outro sorotipo facilita a entrada viral via Fc"
+      ],
+      "answer": 3,
+      "explanation": "Anticorpos que reconhecem outro sorotipo sem neutralizá-lo podem facilitar a entrada em células com receptores Fc. Isso aumenta o risco, sem significar que toda segunda infecção será grave."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Resumo guiado - Febres hemorrágicas virais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w08-fhv-q4",
+      "kind": "mcq",
+      "title": "Por que a morte de macacos interessa à vigilância da febre amarela?",
+      "options": [
+        "Eles transmitem o vírus diretamente às pessoas pela mordida",
+        "Eles são sentinelas da circulação viral, não transmissores",
+        "Eles são os vetores do ciclo urbano, junto com o Aedes",
+        "Eles indicam que o ciclo urbano voltou a ocorrer no país"
+      ],
+      "answer": 1,
+      "explanation": "Primatas são vítimas e sentinelas no ciclo silvestre. Não transmitem diretamente às pessoas, e sua morte não justifica agressão aos animais."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Resumo guiado - Febres hemorrágicas virais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w08-fhv-q5",
+      "kind": "mcq",
+      "title": "O que define um arbovírus?",
+      "options": [
+        "Pertencer à família Flaviviridae e ter RNA positivo",
+        "Causar sempre febre hemorrágica e sangramento grave",
+        "Ser transmitido por artrópodes, sem formar uma família",
+        "Infectar apenas mosquitos e nunca seres humanos ou animais"
+      ],
+      "answer": 2,
+      "explanation": "Arbovírus é uma categoria epidemiológica de vírus transmitidos por artrópodes, não uma família taxonômica."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Resumo guiado - Febres hemorrágicas virais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w08-fhv-q6",
+      "kind": "mcq",
+      "title": "No Brasil, qual padrão da hantavirose é o mais relevante?",
+      "options": [
+        "Síndrome cardiopulmonar",
+        "Febre com síndrome renal",
+        "Encefalite com convulsões",
+        "Hepatite com icterícia"
+      ],
+      "answer": 0,
+      "explanation": "Nas Américas predomina a síndrome cardiopulmonar, com extravasamento pulmonar, insuficiência respiratória e choque. A febre com síndrome renal predomina na Ásia e na Europa."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Resumo guiado - Febres hemorrágicas virais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w08-fhv-q7",
+      "kind": "mcq",
+      "title": "Ao iniciar a investigação de um surto, quais são os três eixos descritivos?",
+      "options": [
+        "Vetor, reservatório e cura",
+        "Agente, dose e mutação",
+        "Sintoma, exame e remédio",
+        "Pessoa, tempo e lugar"
+      ],
+      "answer": 3,
+      "explanation": "Organizar quem adoeceu, quando os sintomas começaram e onde ocorreram as exposições orienta a definição de caso e as hipóteses."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Resumo guiado - Febres hemorrágicas virais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w08-fhv-q8",
+      "kind": "mcq",
+      "title": "Num caso suspeito de Ebola, o PCR inicial vem negativo. O que isso permite concluir?",
+      "options": [
+        "Que surgiu uma variante nova que escapa ao teste molecular",
+        "Que as precauções podem ser suspensas imediatamente",
+        "Nada isolado: amostra, momento e desempenho do teste importam",
+        "Que o paciente certamente nunca teve contato com fluidos infectados"
+      ],
+      "answer": 2,
+      "explanation": "Um PCR negativo pode refletir momento, amostra, sensibilidade ou outros problemas. Não prova mutação nem dispensa as precauções de caso suspeito."
+    },
+    {
+      "subject": "microbiota",
+      "week": 3,
+      "module": "Hipersensibilidade tipos II, III e IV",
+      "source": "Microbiota a Imunidade II/semana 3/18 ago - Aula - Hipersensibilidade tipos II, III e IV.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w03-hs-w1",
+      "kind": "written",
+      "title": "Compare as hipersensibilidades tipos II, III e IV quanto ao alvo, ao efetor que causa a lesão e ao mecanismo do dano. Dê um exemplo de cada.",
+      "rubric": [
+        "Tipo II: IgG ou IgM contra alvo fixo em célula, matriz ou receptor",
+        "Tipo II: complemento, opsonização, ADCC ou disfunção de receptor, com exemplo como anemia hemolítica, Graves ou miastenia",
+        "Tipo III: antígeno solúvel forma imunocomplexos que se depositam",
+        "Tipo III: complemento e neutrófilos causam a inflamação, com exemplo como doença do soro, glomerulonefrite ou LES",
+        "Tipo IV: linfócitos T como efetores, Th1/Th17 com inflamação ou CD8 com citotoxicidade",
+        "Tipo IV: reação tardia de 48 a 72 horas, com exemplo como dermatite de contato ou teste tuberculínico"
+      ],
+      "explanation": "No tipo II, IgG ou IgM reconhecem um alvo já fixo e lesam por complemento e MAC, opsonização, ADCC ou por estimular ou bloquear receptores, como na anemia hemolítica autoimune, em Graves e na miastenia. No tipo III, antígeno solúvel e anticorpo formam imunocomplexos que se depositam em vasos, glomérulos ou sinóvia; complemento e neutrófilos produzem a inflamação, como na doença do soro e na glomerulonefrite pós-infecciosa. No tipo IV, o efetor é a célula T: Th1 e Th17 causam inflamação e CD8 mata células-alvo, com reação tardia, como na dermatite de contato.",
+      "hint": "Pergunte sempre: qual é o alvo, qual é o efetor e como o efetor causa o dano?"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/22 set - Resumo guiado - Febres hemorrágicas virais.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w08-fhv-w1",
+      "kind": "written",
+      "title": "Um paciente com dengue tem febre alta por três dias. No quarto dia a febre cede, mas surgem dor abdominal intensa e vômitos persistentes. Explique o mecanismo provável, por que a queda da febre não indica melhora e que exames ajudam no início e após a primeira semana.",
+      "rubric": [
+        "Reconhece dor abdominal intensa e vômitos persistentes como sinais de alarme",
+        "Explica o extravasamento plasmático por alteração da barreira vascular",
+        "Relaciona redução do volume circulante efetivo com hipoperfusão e risco de choque",
+        "Explica que a fase crítica pode coincidir com a defervescência",
+        "No início: NS1 e métodos moleculares; depois: sorologia IgM ganha peso",
+        "Não reduz a avaliação à plaquetometria nem prescreve condutas sem protocolo"
+      ],
+      "explanation": "A dor abdominal intensa e os vômitos persistentes são sinais de alarme. Produtos virais, como a NS1, e a resposta inflamatória alteram a barreira vascular; o plasma extravasa, o volume circulante efetivo cai e pode haver hipoperfusão e choque, mesmo sem grande sangramento. A fase crítica pode coincidir com a queda da febre, por isso a defervescência não significa alta. Nos primeiros dias, NS1 e testes moleculares ajudam mais; com a evolução, a IgM ganha centralidade. A conduta segue o protocolo de classificação de risco, sem depender de um único exame.",
+      "hint": "Pense em permeabilidade vascular, não em sangramento."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/1 set - Aula - Classificação, estrutura, replicação e patogênese viral.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w05-viro-r1",
+      "kind": "recall",
+      "title": "Deriva ou rearranjo: qual é gradual?",
+      "explanation": "Deriva, ou drift\n\nAcúmulo gradual de mutações. Rearranjo, ou shift, troca segmentos entre vírus e causa mudança abrupta."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/8 set - Resumo dos PDFs - Vírus respiratórios.md",
+      "version": "2026-09-27.1",
+      "id": "reviewed-mi-w06-resp-r1",
+      "kind": "recall",
+      "title": "Hemaglutinina ou neuraminidase: qual libera as partículas?",
+      "explanation": "Neuraminidase\n\nA hemaglutinina liga ao ácido siálico e participa da entrada. A neuraminidase cliva o ácido siálico e libera as partículas."
+    }
+  ],
+  "revisions": [
+    {
+      "id": "sim-2026-2-semana-01-q10",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Formar anticorpos neutralizantes no plasma",
+        "Opsonizar a bactéria para a fagocitose",
+        "Apresentar antígeno direto ao TCR",
+        "Induzir a bactéria a formar cápsula"
+      ],
+      "answer": 1,
+      "from": "703379b8b95d37ac"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q12",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Th1 com IFN-γ ativando macrófagos",
+        "Anticorpos isolados no plasma sanguíneo",
+        "Inibição completa dos neutrófilos locais",
+        "IgE produzida sem ativação celular"
+      ],
+      "answer": 0,
+      "from": "cb30ddba6b0b5ba2"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q34",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Recrutar e ativar leucócitos no foco inflamatório",
+        "Produzir anticorpos a partir do próprio complemento",
+        "Apresentar peptídeos microbianos em moléculas MHC I",
+        "Bloquear a migração de neutrófilos para o tecido"
+      ],
+      "answer": 0,
+      "from": "7d6772e1daa05f3f"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q35",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "PAMP é um anticorpo do hospedeiro; fator de virulência é um linfócito ativado.",
+        "PAMP é estrutura microbiana conservada vista por PRRs; virulência favorece dano ou escape.",
+        "PAMP existe apenas em vírus; fatores de virulência existem somente em bactérias.",
+        "PAMP é o dano causado ao tecido; fator de virulência é o receptor que reconhece o micróbio."
+      ],
+      "answer": 1,
+      "from": "428f21df53beb763"
+    }
+  ]
+}

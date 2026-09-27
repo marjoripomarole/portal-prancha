@@ -259,15 +259,15 @@
       "week": 8,
       "module": "Dengue: transmissão e evolução dos sintomas",
       "source": "Microbiota a Imunidade II/semana 8/22 set - Preparação - Febres hemorrágicas virais.md; OMS: https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
-      "version": "2026-09-21.1",
+      "version": "2026-09-27.1",
       "id": "reviewed-w08-dengue-q1",
       "kind": "mcq",
       "title": "Na dengue, a queda da febre permite concluir que a pessoa está recuperada?",
       "options": [
-        "Sim, em qualquer situação",
-        "Sim, se ocorrer no mesmo dia",
-        "Não; sinais de gravidade podem aparecer após a febre ceder",
-        "Não existe mudança temporal dos sintomas"
+        "Sim, desde que o paciente consiga se alimentar e beber água",
+        "Sim, se a febre cair antes do quinto dia de doença",
+        "Não; sinais de gravidade podem surgir quando a febre cede",
+        "Não; a febre só cai quando já existe dengue grave"
       ],
       "answer": 2,
       "explanation": "A evolução precisa ser avaliada em conjunto. A OMS descreve manifestações graves que podem surgir depois que a febre desaparece."
@@ -277,15 +277,15 @@
       "week": 8,
       "module": "Dengue: transmissão e evolução dos sintomas",
       "source": "Microbiota a Imunidade II/semana 8/22 set - Preparação - Febres hemorrágicas virais.md; OMS: https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
-      "version": "2026-09-21.1",
+      "version": "2026-09-27.1",
       "id": "reviewed-w08-dengue-q2",
       "kind": "mcq",
       "title": "Qual via de transmissão corresponde à dengue?",
       "options": [
-        "Picada de mosquito infectado",
-        "Inalação habitual de poeira com excretas de roedores",
-        "Alimento com toxina bacteriana",
-        "Herança cromossômica"
+        "Picada de mosquito Aedes infectado",
+        "Inalação de excretas de roedores",
+        "Contato com sangue de primatas",
+        "Ingestão de água contaminada"
       ],
       "answer": 0,
       "explanation": "A transmissão habitual ocorre pela picada de mosquitos infectados. Não confundir agentes diferentes ao estudar febres virais."
