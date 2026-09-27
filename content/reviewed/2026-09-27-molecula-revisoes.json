@@ -1,0 +1,504 @@
+{
+  "reviewedAt": "2026-09-27",
+  "sources": [
+    {
+      "path": "prancha-molecula/content.json",
+      "sha256": "d69b18454452998d8f60ed25b6489d27faee1902a61eb9844b14e16efde159c0",
+      "scope": "Questões importadas da prancha de Molécula; enunciados e gabaritos mantidos, alternativas reescritas."
+    },
+    {
+      "path": "simulado-da-semana/content/archive/2026-2-semana-01.json",
+      "sha256": "69e9c2b6353c1ba9d7443bdfc5eeab82e77b1183c39ce8addc498b29880b62f8",
+      "scope": "Questões importadas do simulado da semana 1."
+    },
+    {
+      "path": "simulado-da-semana/content/current-week.json",
+      "sha256": "68331ee4edb549426aa18cd79115dd833bcfa0659743170a068c33bb2f2f317e",
+      "scope": "Questões importadas do simulado de revisão para a prova de Molécula."
+    }
+  ],
+  "items": [],
+  "revisions": [
+    {
+      "id": "mol-energia-1",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Barreira de ativação",
+        "ΔG°′ padrão da reação",
+        "Constante de equilíbrio",
+        "Energia final dos produtos"
+      ],
+      "answer": 0,
+      "from": "319d55eff06d5c77"
+    },
+    {
+      "id": "mol-energia-3",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Produção e consumo de ATP podem subir juntos",
+        "O metabolismo parou, porque o ATP não mudou",
+        "O AMP prova que a célula parou de consumir ATP",
+        "Concentração constante exige fluxo igual a zero"
+      ],
+      "answer": 0,
+      "from": "ff96fa6003bfd79f"
+    },
+    {
+      "id": "mol-energia-4",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Menos malonil-CoA e menor restrição à CPT I",
+        "Mais malonil-CoA e mais bloqueio da CPT I",
+        "Síntese de lipídios sem nenhum consumo de ATP",
+        "Ativação de todas as enzimas fosforiladas"
+      ],
+      "answer": 0,
+      "from": "1ca2f4b971cdceda"
+    },
+    {
+      "id": "mol-glicolise-3",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Menor ATP → pior membrana e deformabilidade → remoção",
+        "Menor NADPH da PK → falha direta da G6PD → hemólise",
+        "Falha de Krebs na hemácia → queda do ATP mitocondrial",
+        "Coombs negativo → confirmação específica de PKLR"
+      ],
+      "answer": 0,
+      "from": "76835961917a7535"
+    },
+    {
+      "id": "mol-krebs-1",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "3 NADH + 1 FADH₂ + 1 GTP + 2 CO₂",
+        "4 NADH + 1 FADH₂ + 1 GTP + 3 CO₂",
+        "6 NADH + 2 FADH₂ + 2 GTP + 4 CO₂",
+        "3 NADPH + 1 FADH₂ + 2 ATP + 1 CO₂"
+      ],
+      "answer": 0,
+      "from": "4772d04259499efd"
+    },
+    {
+      "id": "mol-krebs-4",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Oxida acetil-CoA e fornece intermediários para biossíntese",
+        "Produz diretamente a maior parte do ATP e dispensa a cadeia",
+        "Funciona apenas como via anabólica quando o O₂ está baixo",
+        "Gera glicose líquida a partir de qualquer acetil-CoA recebido"
+      ],
+      "answer": 0,
+      "from": "8359a05b749dd3de"
+    },
+    {
+      "id": "mol-cadeia-1",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "I, III e IV",
+        "I, II e III",
+        "II, III e IV",
+        "I, II, III e IV"
+      ],
+      "answer": 0,
+      "from": "317bfd58ff2b4888"
+    },
+    {
+      "id": "mol-gng-3",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Fornecer energia e acetil-CoA regulador, sem glicose líquida",
+        "Converter acetil-CoA diretamente em piruvato no fígado em jejum",
+        "Transformar toda acetila em oxaloacetato líquido novo",
+        "Substituir por cetonas a glicose usada pelas hemácias"
+      ],
+      "answer": 0,
+      "from": "84e626c4c610747d"
+    },
+    {
+      "id": "mol-glicogenio-2",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Músculo não tem glicose-6-fosfatase relevante",
+        "Músculo não possui glicogênio-fosforilase",
+        "Glicogênio muscular contém somente frutose",
+        "O glucagon bloqueia a captação de glicose muscular"
+      ],
+      "answer": 0,
+      "from": "6c37680cdaa162be"
+    },
+    {
+      "id": "mol-glicogenio-4",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "A ligação B, α(1→6)",
+        "As ligações A, α(1→4)",
+        "A ligação da glicogenina",
+        "A ligação ATP-glicogênio"
+      ],
+      "answer": 0,
+      "from": "3c65a404b2cddd50"
+    },
+    {
+      "id": "mol-fontes-1",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Hidrólise da lactose na borda em escova",
+        "Ação da GALT no citosol dos hepatócitos",
+        "Ação da PDH na matriz mitocondrial muscular",
+        "Transporte por GLUT4 ativado pela insulina"
+      ],
+      "answer": 0,
+      "from": "e689a0a070bb6f09"
+    },
+    {
+      "id": "mol-fontes-3",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Intolerância é digestiva; galactosemia é metabólica",
+        "Ambas são causadas por deficiência da enzima GALT",
+        "Ambas são alergias às proteínas do leite de vaca",
+        "A lactase converte galactose em glicose-6-fosfato"
+      ],
+      "answer": 0,
+      "from": "8f5785fac8f4adfa"
+    },
+    {
+      "id": "mol-diabetes-1",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Horários não medidos e interferências devem ser avaliados",
+        "O resultado de HbA1c está necessariamente errado",
+        "Não houve hiperglicemia em nenhum horário do dia",
+        "A HbA1c mede diretamente a atividade da PFK-1 hepática"
+      ],
+      "answer": 0,
+      "from": "c3a7f6afca26488d"
+    },
+    {
+      "id": "mol-diabetes-3",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Produção hepática de glicose inadequadamente elevada",
+        "Supressão completa de gliconeogênese pelo glucagon",
+        "Impossibilidade de qualquer tecido captar glicose",
+        "Ausência de qualquer metabolismo de lipídios no fígado"
+      ],
+      "answer": 0,
+      "from": "2e35e99919213125"
+    },
+    {
+      "id": "mol-warburg-2",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "PDK fosforila a PDH e reduz a entrada de piruvato",
+        "PDK desfosforila a PDH e ativa a oxidação do piruvato",
+        "PDK converte o lactato diretamente em citrato mitocondrial",
+        "HIF-1 transfere um fosfato diretamente para o ADP"
+      ],
+      "answer": 0,
+      "from": "47d0c13b65f7be10"
+    },
+    {
+      "id": "mol-oncometabolitos-1",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Produção de D-2HG a partir de α-cetoglutarato",
+        "Conversão de lactato em glicogênio no tumor",
+        "Produção direta de ATP pelo complexo IV",
+        "Hidrólise da lactose no citosol tumoral"
+      ],
+      "answer": 0,
+      "from": "8d18428bb33873d2"
+    },
+    {
+      "id": "mol-oncometabolitos-2",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "O conjunto medido aumentou; o fluxo segue indeterminado",
+        "O fluxo glicolítico dobrou exatamente na mesma proporção",
+        "A exportação de lactato para fora da célula duplicou",
+        "O tumor ficou clinicamente resistente à droga"
+      ],
+      "answer": 0,
+      "from": "024522e461e73c3b"
+    },
+    {
+      "id": "mol-oncometabolitos-3",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Perturbação genética independente, medida do alvo e resgate",
+        "Uma única dose alta testada em uma só linhagem celular",
+        "Comparar poços de cultura sem normalizar o número de células",
+        "Medir apenas o aumento do RNA do alvo após a droga"
+      ],
+      "answer": 0,
+      "from": "f6adb7ac7ff7acf5"
+    },
+    {
+      "id": "mol-oncometabolitos-4",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Não; enriquecimento exige tempo, conjunto e modelo",
+        "Sim; porcentagem marcada é sempre igual ao fluxo",
+        "Sim; basta haver uma única amostra marcada no tempo",
+        "Não; o carbono marcado da glicose nunca chega ao lactato"
+      ],
+      "answer": 0,
+      "from": "a6bab1823ec0dc15"
+    },
+    {
+      "id": "mol-lipolise-1",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Albumina",
+        "Quilomícron",
+        "Hemoglobina",
+        "LDL circulante"
+      ],
+      "answer": 0,
+      "from": "8a63879dc67cca5b"
+    },
+    {
+      "id": "mol-lipolise-2",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "ATGL → HSL → MGL",
+        "LPL → PFK-1 → PDH",
+        "HSL → ATGL → MGL",
+        "ACC → FASN → CPT II"
+      ],
+      "answer": 0,
+      "from": "14781ed52e3445c2"
+    },
+    {
+      "id": "mol-beta-4",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Biotina: propionil-CoA carboxilase; B12: mutase",
+        "B12: propionil-CoA carboxilase; biotina: mutase",
+        "TPP: carboxilase; FAD: metilmalonil-CoA mutase",
+        "NADPH: carboxilase; biotina: metilmalonil-CoA mutase"
+      ],
+      "answer": 0,
+      "from": "f93892c72efe3d2c"
+    },
+    {
+      "id": "mol-cetona-1",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Ausência da enzima SCOT",
+        "Ausência de mitocôndrias",
+        "Ausência de acetil-CoA",
+        "Ausência de HMG-CoA sintase"
+      ],
+      "answer": 0,
+      "from": "c1dcfc1bd3a8c7f1"
+    },
+    {
+      "id": "mol-cetona-2",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Não; é preciso avaliar o estado ácido-base",
+        "Sim; toda cetose de jejum é uma acidose grave",
+        "Sim; acetona é a única causa possível de acidose",
+        "Não; corpos cetônicos nunca se associam a acidose"
+      ],
+      "answer": 0,
+      "from": "8a6a2f898914c9bd"
+    },
+    {
+      "id": "mol-cetona-4",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Hemácia madura",
+        "Músculo esquelético",
+        "Músculo cardíaco",
+        "Neurônio cerebral"
+      ],
+      "answer": 0,
+      "from": "9a5780ec58c45289"
+    },
+    {
+      "id": "mol-sintese-3",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Coordenar síntese de gordura e menor entrada para oxidação",
+        "Oxidar imediatamente todo ácido graxo recém-sintetizado",
+        "Ativar diretamente a HSL no espaço extracelular",
+        "Converter NADPH em oxigênio na mitocôndria"
+      ],
+      "answer": 0,
+      "from": "87c26b5ab352f2a3"
+    },
+    {
+      "id": "mol-sintese-4",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Glicerol-3-fosfato para reesterificar ácidos graxos",
+        "Palmitato por inversão da β-oxidação no adipócito",
+        "Glicose livre para exportar como função principal",
+        "Carnitina para o transporte pela CPT I"
+      ],
+      "answer": 0,
+      "from": "ebd2a1c57fd69905"
+    },
+    {
+      "id": "mol-propionica-1",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Propionil-CoA → D-metilmalonil-CoA",
+        "Metilmalonil-CoA → succinil-CoA",
+        "Piruvato → lactato pela LDH citosólica",
+        "Acetil-CoA → malonil-CoA pela ACC"
+      ],
+      "answer": 0,
+      "from": "5e49230bf62346ba"
+    },
+    {
+      "id": "mol-propionica-3",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Energia e ingestão reduzidas limitam a produção de glicose",
+        "Toda a glicose do corpo vem da oxidação de ácidos graxos ímpares",
+        "A propionil-CoA carboxilase produz glicose diretamente",
+        "A acidose bloqueia apenas o GLUT4 e poupa o fígado"
+      ],
+      "answer": 0,
+      "from": "c0e5d6cee90d9984"
+    },
+    {
+      "id": "mol-propionica-4",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Y: formação de propionilcarnitina",
+        "Z: acetil-CoA revertido a piruvato",
+        "W: desvio da propionila para lactose",
+        "Aumento da atividade da SCOT hepática"
+      ],
+      "answer": 0,
+      "from": "0a0da8604501565d"
+    },
+    {
+      "id": "sim-2026-2-prova-molecula-celula-01-q04",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Ativação alostérica, com aumento do fluxo glicolítico",
+        "Conversão da PFK-1 em uma forma de piruvato quinase",
+        "Nenhuma mudança, pois a PFK-1 ignora a carga energética",
+        "Inibição alostérica, com redução do fluxo glicolítico"
+      ],
+      "answer": 3,
+      "from": "efa3a5fbbdfcc0be"
+    },
+    {
+      "id": "sim-2026-2-prova-molecula-celula-01-q19",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Citrato sintase, ancorada na membrana interna, no Complexo I",
+        "Fumarase, na membrana externa, como parte do Complexo III",
+        "Malato desidrogenase, na membrana interna, no Complexo IV",
+        "Succinato desidrogenase, na membrana interna, no Complexo II"
+      ],
+      "answer": 3,
+      "from": "f71ecbc857390f07"
+    },
+    {
+      "id": "sim-2026-2-prova-molecula-celula-01-q25",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "O NADH transfere um grupo fosfato diretamente ao ADP na matriz.",
+        "O retorno de H+ pela ATP sintase usa a força próton-motriz.",
+        "O oxigênio transfere fosfato ao ADP no Complexo IV e libera água.",
+        "Os prótons atravessam livremente a membrana e fosforilam o ADP."
+      ],
+      "answer": 1,
+      "from": "2d8cba9fbab876b3"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q13",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "4 ATP líquidos, 1 NADH e 1 piruvato",
+        "2 ATP líquidos, 2 NADH e 2 piruvatos",
+        "2 ATP líquidos, 4 NADH e acetil-CoA",
+        "Nenhum ATP líquido, 2 NADH e 2 piruvatos"
+      ],
+      "answer": 1,
+      "from": "891c11b1034bd400"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q14",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Porque converte o piruvato em lactato no citosol das células.",
+        "Porque é etapa comprometida e sensível ao estado energético.",
+        "Porque é a única enzima da glicólise que produz NADH na via.",
+        "Porque atua apenas dentro da matriz mitocondrial da célula."
+      ],
+      "answer": 1,
+      "from": "de9571470fccde0e"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q15",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "Hemácias têm muitas mitocôndrias e produzem ATP demais.",
+        "A enzima sintetiza hemoglobina no núcleo da hemácia madura.",
+        "A hemácia depende da glicólise; sem ATP, perde deformabilidade.",
+        "A deficiência impede a produção de anticorpos contra hemácias."
+      ],
+      "answer": 2,
+      "from": "90b1e49b7f3f99ff"
+    },
+    {
+      "id": "sim-2026-2-semana-01-q37",
+      "version": "2026-09-27.1",
+      "reason": "Alternativas reescritas para que a correta não se destaque pelo tamanho e os distratores sejam plausíveis.",
+      "options": [
+        "A glicólise ocorre na mitocôndria e consome O2 diretamente.",
+        "A glicólise é citosólica e não consome O2 diretamente.",
+        "A glicólise só ocorre quando falta oxigênio na célula.",
+        "O oxigênio é convertido em lactato na última reação da via."
+      ],
+      "answer": 1,
+      "from": "d191cf2083f5a466"
+    }
+  ]
+}

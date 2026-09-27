@@ -219,15 +219,15 @@
       "week": 8,
       "module": "Hemoglobina e vitamina B12: estrutura e função",
       "source": "Molécula à Célula II/semana 8/Bioquimica do Sangue  Vitaminas 3.pdf · página 12; Molécula à Célula II/semana 8/23 set - Preparação - Bioquímica do sangue e vitaminas.md; NIH: https://ods.od.nih.gov/factsheets/Vitaminb12-HealthProfessional/",
-      "version": "2026-09-21.1",
+      "version": "2026-09-27.1",
       "id": "reviewed-w08-sangue-q2",
       "kind": "mcq",
       "title": "Qual afirmação sobre deficiência de B12 é correta?",
       "options": [
-        "Só tem consequências quando há anemia",
-        "Pode apresentar manifestações neurológicas sem anemia",
-        "Não interfere em funções celulares",
-        "A hemoglobina substitui sua função"
+        "Só traz consequências clínicas quando há anemia",
+        "Pode causar manifestações neurológicas sem anemia",
+        "Não interfere em nenhuma função celular importante",
+        "Sua função pode ser substituída pela hemoglobina"
       ],
       "answer": 1,
       "explanation": "Alterações neurológicas podem surgir sem anemia. A ausência de anemia, isoladamente, não exclui deficiência."
