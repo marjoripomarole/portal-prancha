@@ -1,6 +1,6 @@
 // Run: node --experimental-strip-types tests/study.mjs
 import assert from 'node:assert/strict';
-import {nextExam, upcomingExams, orderSubjects, dayLabel, optionOrder, shuffle, prioritize, isDue, isMistake, latestByItem, localDate} from '../lib/study.ts';
+import {nextExam, upcomingExams, orderSubjects, dayLabel, optionOrder, shuffle, prioritize, isDue, isMistake, latestByItem, localDate, unseen} from '../lib/study.ts';
 
 const t2a = 't2a-2026s2';
 // Next assessment follows the official weekly board; the P1 review is not an assessment.
@@ -66,5 +66,10 @@ for (let s = 1; s < 30; s++) {
 }
 // A later correct answer clears an earlier mistake.
 assert(!isMistake(latestByItem([ev('x', 'answer', {correct: 0}), ev('x', 'answer', {correct: 1})]).get('x')));
+
+// Only never practised items, ordered by week and then by catalog order.
+const course = [{id: 'w3a', week: 3}, {id: 'wrong', week: 1}, {id: 'w1a', week: 1}, {id: 'old-ok', week: 2}, {id: 'w2a', week: 2}, {id: 'w1b', week: 1}];
+assert.deepEqual(unseen(course, latest).map(x => x.id), ['w1a', 'w1b', 'w2a', 'w3a']);
+assert.deepEqual(unseen([{id: 'wrong', week: 1}], latest), [], 'mistakes are not unseen');
 
 console.log('study helpers: all checks passed');

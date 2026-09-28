@@ -91,3 +91,9 @@ export function prioritize<T extends {id: string}>(pool: T[], latest: Map<string
   const oldest = shuffle(known, rand).sort((a, b) => latest.get(a.id)!.created_at - latest.get(b.id)!.created_at);
   return [...shuffle(mistakes, rand), ...shuffle(fresh, rand), ...oldest];
 }
+
+// Never practised items, in course order: week first, then catalog order.
+export function unseen<T extends {id: string; week: number}>(pool: T[], latest: Map<string, StudyEvent>): T[] {
+  return pool.map((x, i) => ({x, i})).filter(({x}) => !latest.has(x.id))
+    .sort((a, b) => a.x.week - b.x.week || a.i - b.i).map(({x}) => x);
+}
