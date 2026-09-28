@@ -296,11 +296,12 @@
       "week": 8,
       "module": "Dengue: transmissão e evolução dos sintomas",
       "source": "Microbiota a Imunidade II/semana 8/22 set - Preparação - Febres hemorrágicas virais.md; OMS: https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue",
-      "version": "2026-09-21.1",
+      "version": "2026-09-28.1",
       "id": "reviewed-w08-dengue-recall",
       "kind": "recall",
       "title": "Que informação temporal deve ser registrada ao relacionar febre e outros sintomas na dengue?",
-      "explanation": "Quando a febre começou e cedeu, e quando surgiram os demais sintomas. Melhora da temperatura isolada não basta para concluir recuperação."
+      "explanation": "Quando a febre começou e cedeu, e quando surgiram os demais sintomas. Melhora da temperatura isolada não basta para concluir recuperação.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p25.webp\" alt=\"Dengue: fases febril, crítica e de recuperação\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 25 do PDF</figcaption></figure>"
     },
     {
       "subject": "pratica",

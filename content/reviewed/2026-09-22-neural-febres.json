@@ -159,11 +159,12 @@
       "week": 8,
       "module": "Ebola e hantavírus: exposição e transmissão",
       "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf; https://www.who.int/news-room/fact-sheets/detail/ebola-disease; https://www.cdc.gov/hantavirus/about/",
-      "version": "2026-09-22.1",
+      "version": "2026-09-28.1",
       "id": "reviewed-w08-ebola-hanta-recall",
       "kind": "recall",
       "title": "Que três dimensões organizar antes de atribuir uma síndrome febril a uma exposição?",
-      "explanation": "Pessoa, tempo e lugar: qual exposição ocorreu, em que local, e qual foi a sequência temporal em relação aos sintomas. Essa organização orienta a investigação, mas não confirma etiologia isoladamente."
+      "explanation": "Pessoa, tempo e lugar: qual exposição ocorreu, em que local, e qual foi a sequência temporal em relação aos sintomas. Essa organização orienta a investigação, mas não confirma etiologia isoladamente.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8a-p20.webp\" alt=\"Como investigar um surto: indivíduo, tempo e lugar\" loading=\"lazy\"><figcaption>Aula de febres hemorrágicas, semana 8 · página 20 do PDF</figcaption></figure>"
     }
   ]
 }

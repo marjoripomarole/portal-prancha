@@ -957,22 +957,24 @@
       "week": 5,
       "module": "Estrutura, replicação e patogênese viral",
       "source": "Microbiota a Imunidade II/semana 5/1 set - Aula - Classificação, estrutura, replicação e patogênese viral.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-28.1",
       "id": "reviewed-mi-w05-viro-r1",
       "kind": "recall",
       "title": "Deriva ou rearranjo: qual é gradual?",
-      "explanation": "Deriva, ou drift\n\nAcúmulo gradual de mutações. Rearranjo, ou shift, troca segmentos entre vírus e causa mudança abrupta."
+      "explanation": "Deriva, ou drift\n\nAcúmulo gradual de mutações. Rearranjo, ou shift, troca segmentos entre vírus e causa mudança abrupta.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p37.webp\" alt=\"Influenza e rearranjo antigênico entre espécies\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 37 do PDF</figcaption></figure>"
     },
     {
       "subject": "microbiota",
       "week": 6,
       "module": "Vírus respiratórios: comparar e interpretar",
       "source": "Microbiota a Imunidade II/semana 6/8 set - Resumo dos PDFs - Vírus respiratórios.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-28.1",
       "id": "reviewed-mi-w06-resp-r1",
       "kind": "recall",
       "title": "Hemaglutinina ou neuraminidase: qual libera as partículas?",
-      "explanation": "Neuraminidase\n\nA hemaglutinina liga ao ácido siálico e participa da entrada. A neuraminidase cliva o ácido siálico e libera as partículas."
+      "explanation": "Neuraminidase\n\nA hemaglutinina liga ao ácido siálico e participa da entrada. A neuraminidase cliva o ácido siálico e libera as partículas.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p05.webp\" alt=\"Influenza: virologia, HA, NA, drift e shift\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 5 do PDF</figcaption></figure>"
     }
   ],
   "revisions": [

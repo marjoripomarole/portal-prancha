@@ -1,0 +1,880 @@
+{
+  "reviewedAt": "2026-09-28",
+  "sources": [
+    {
+      "path": "Microbiota a Imunidade II/semana 1/Gabarito POGIL Aula 1.pdf",
+      "sha256": "169177bf3cfa8c508c547beecffd1111352a1186bc38be741a7cf3092386d6b5",
+      "scope": "Slides escolhidos para o verso dos cartões de Microbiota; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 1/Introdução aula prática - imagens para esfregaço sanguíneo.pdf",
+      "sha256": "afa470e42b8eadf884b816ebc20795bdcd3c2595df64b1a3f351e03297f8effa",
+      "scope": "Slides escolhidos para o verso dos cartões de Microbiota; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 2/FSL_AULA 02_Hipersensibilidade Tipo I.pdf",
+      "sha256": "9359fad71b1275ac6823f3ae81879673931b789eab60260d9026dfb19bfa6eab",
+      "scope": "Slides escolhidos para o verso dos cartões de Microbiota; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 2/aula_02_Medicina Mecanismos de tolerância imunológica e quebra de tolerância 2.pdf",
+      "sha256": "c07c148be92d33e1282a7baf26f56714584be4e06917907769cddb653f6028cb",
+      "scope": "Slides escolhidos para o verso dos cartões de Microbiota; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 3/FSL_AULA 03_Hipersensibilidade Tipo II III e IV.pdf",
+      "sha256": "f28cabc4ffd143c2b7a0f08dcc0b99db244058cdd25e743061987cb2b9c34e90",
+      "scope": "Slides escolhidos para o verso dos cartões de Microbiota; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 4/Aula exames laboratoriais - COOMB - FAN e VHS.pdf",
+      "sha256": "2a9e8437ac198058c1e29aa7e39357df7f3cec84acd9dc1053c944400f8c73aa",
+      "scope": "Slides escolhidos para o verso dos cartões de Microbiota; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "sha256": "925e889220e4914eb7319c082392b621e000a763e519008c27a687dda6a8e771",
+      "scope": "Slides escolhidos para o verso dos cartões de Microbiota; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "sha256": "93d3cf187496078167f49ed58c008758bd8cf56a8db8224fa1f532b15766924c",
+      "scope": "Slides escolhidos para o verso dos cartões de Microbiota; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "sha256": "6c0b90924e306465fdb79a6c908b47c3af845c98239066349d42d3a6dec6c1db",
+      "scope": "Slides escolhidos para o verso dos cartões de Microbiota; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "sha256": "df178193fe114416279adf7a6fb38983d3ccc4a8deb30ad26f5a51b1aa61ca33",
+      "scope": "Slides escolhidos para o verso dos cartões de Microbiota; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "sha256": "f22703a2dd1c0eb79ecd95578635780af4c93bfd1047669e0b0a6e22cc435060",
+      "scope": "Slides escolhidos para o verso dos cartões de Microbiota; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "sha256": "a95bf0f59c10dc551e9333d86be119adc98370a38ebdb939d0b54d0ae8fde2b6",
+      "scope": "Slides escolhidos para o verso dos cartões de Microbiota; um slide com imagem, diagrama ou quadro por cartão."
+    }
+  ],
+  "items": [],
+  "figures": [
+    {
+      "id": "anki-im-bacteria-7",
+      "from": "9a63eb8fb4c3dfce",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p10.webp\" alt=\"Opsonização por IgG e C3b e fagocitose\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-inflama-1",
+      "from": "c7ff3bf644546fa2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p08.webp\" alt=\"Sequência da inflamação aguda, do reconhecimento à resolução\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 8 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-inflama-2",
+      "from": "c7ff3bf644546fa2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p10.webp\" alt=\"Opsonização por IgG e C3b e fagocitose\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-inflama-3",
+      "from": "c7ff3bf644546fa2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p08.webp\" alt=\"Sequência da inflamação aguda, do reconhecimento à resolução\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 8 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-inflama-4",
+      "from": "c7ff3bf644546fa2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p08.webp\" alt=\"Sequência da inflamação aguda, do reconhecimento à resolução\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 8 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-inflama-5",
+      "from": "4f16eb79c9a5d152",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p08.webp\" alt=\"Sequência da inflamação aguda, do reconhecimento à resolução\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 8 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-inflama-7",
+      "from": "4f16eb79c9a5d152",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p08.webp\" alt=\"Sequência da inflamação aguda, do reconhecimento à resolução\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 8 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-inflama-8",
+      "from": "4f16eb79c9a5d152",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1a-p09.webp\" alt=\"Guia celular do neutrófilo segmentado\" loading=\"lazy\"><figcaption>Aula prática de esfregaço, semana 1 · página 9 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-inflama-9",
+      "from": "62cce026a24a7adb",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p08.webp\" alt=\"Sequência da inflamação aguda, do reconhecimento à resolução\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 8 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-inflama-10",
+      "from": "62cce026a24a7adb",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p11.webp\" alt=\"A célula dendrítica é a ponte: sinais 1, 2 e 3\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-localiza-1",
+      "from": "85380da15eefd6ab",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p10.webp\" alt=\"Onde o agente está define quem o alcança\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-localiza-3",
+      "from": "85380da15eefd6ab",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p10.webp\" alt=\"Onde o agente está define quem o alcança\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-localiza-11",
+      "from": "45ef96642d85df57",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p10.webp\" alt=\"Onde o agente está define quem o alcança\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-localiza-4",
+      "from": "85380da15eefd6ab",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p43.webp\" alt=\"Th1: IFN-γ ativa o macrófago\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 43 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-localiza-10",
+      "from": "45ef96642d85df57",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p43.webp\" alt=\"Th1: IFN-γ ativa o macrófago\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 43 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-localiza-12",
+      "from": "45ef96642d85df57",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p40.webp\" alt=\"Hipersensibilidade tipo IV: reação tardia de 48 a 72 horas\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 40 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-rec-1",
+      "from": "35add5c1614ca04d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p06.webp\" alt=\"Três receptores, PRR, BCR e TCR, e o que cada um reconhece\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 6 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-rec-2",
+      "from": "35add5c1614ca04d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p06.webp\" alt=\"Três receptores, PRR, BCR e TCR, e o que cada um reconhece\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 6 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-rec-3",
+      "from": "35add5c1614ca04d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p06.webp\" alt=\"Três receptores, PRR, BCR e TCR, e o que cada um reconhece\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 6 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-rec-4",
+      "from": "35add5c1614ca04d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p12.webp\" alt=\"Matriz de apresentação: MHC I e MHC II\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-rec-5",
+      "from": "accfa369733a4da4",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p12.webp\" alt=\"Matriz de apresentação: MHC I e MHC II\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-rec-6",
+      "from": "accfa369733a4da4",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w1b-p11.webp\" alt=\"A célula dendrítica é a ponte: sinais 1, 2 e 3\" loading=\"lazy\"><figcaption>POGIL da aula 1, semana 1 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-rec-7",
+      "from": "accfa369733a4da4",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2b-p12.webp\" alt=\"Anergia por falta de coestimulação\" loading=\"lazy\"><figcaption>Aula de tolerância imunológica, semana 2 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-1",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2a-p03.webp\" alt=\"Os quatro tipos de hipersensibilidade\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade tipo I, semana 2 · página 3 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-1-0",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2a-p13.webp\" alt=\"Sensibilização do mastócito: IgE ligada ao FcεRI\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade tipo I, semana 2 · página 13 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-1-1",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2a-p14.webp\" alt=\"Reexposição ao alérgeno: ligação cruzada da IgE\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade tipo I, semana 2 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-1-2",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2a-p16.webp\" alt=\"Degranulação do mastócito e efeitos da histamina\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade tipo I, semana 2 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-I-1",
+      "from": "ea5087da40e011c7",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2a-p11.webp\" alt=\"Fatores que promovem a diferenciação Th2\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade tipo I, semana 2 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-I-2",
+      "from": "ea5087da40e011c7",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2a-p13.webp\" alt=\"Sensibilização do mastócito: IgE ligada ao FcεRI\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade tipo I, semana 2 · página 13 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-I-3",
+      "from": "ea5087da40e011c7",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2a-p14.webp\" alt=\"Reexposição ao alérgeno: ligação cruzada da IgE\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade tipo I, semana 2 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-I-4",
+      "from": "ea5087da40e011c7",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2a-p15.webp\" alt=\"Mediadores liberados pelo mastócito ativado\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade tipo I, semana 2 · página 15 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-I-5",
+      "from": "61820e503b13bc3d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2a-p16.webp\" alt=\"Degranulação do mastócito e efeitos da histamina\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade tipo I, semana 2 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-I-6",
+      "from": "61820e503b13bc3d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2a-p12.webp\" alt=\"Citocinas das células Th2: IL-4, IL-5 e IL-13\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade tipo I, semana 2 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-I-7",
+      "from": "61820e503b13bc3d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2a-p08.webp\" alt=\"Sensibilização no indivíduo atópico, da entrada do alérgeno à produção de IgE\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade tipo I, semana 2 · página 8 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-tol-1",
+      "from": "086271e32eacbf7b",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2b-p08.webp\" alt=\"Tolerância central das células T no timo\" loading=\"lazy\"><figcaption>Aula de tolerância imunológica, semana 2 · página 8 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-tol-2",
+      "from": "086271e32eacbf7b",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2b-p15.webp\" alt=\"Tolerância central das células B na medula óssea\" loading=\"lazy\"><figcaption>Aula de tolerância imunológica, semana 2 · página 15 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-tol-3",
+      "from": "086271e32eacbf7b",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2b-p10.webp\" alt=\"Função de AIRE na deleção de células T no timo\" loading=\"lazy\"><figcaption>Aula de tolerância imunológica, semana 2 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-tol-4",
+      "from": "086271e32eacbf7b",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2b-p12.webp\" alt=\"Anergia por falta de coestimulação\" loading=\"lazy\"><figcaption>Aula de tolerância imunológica, semana 2 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-tol-5",
+      "from": "f7842f7417ad1a4c",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2b-p11.webp\" alt=\"Mecanismos de tolerância periférica das células T\" loading=\"lazy\"><figcaption>Aula de tolerância imunológica, semana 2 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-tol-6",
+      "from": "f7842f7417ad1a4c",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2b-p14.webp\" alt=\"Receptores inibidores CTLA-4 e PD-1\" loading=\"lazy\"><figcaption>Aula de tolerância imunológica, semana 2 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-tol-7",
+      "from": "f7842f7417ad1a4c",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w2b-p17.webp\" alt=\"Mecanismos postulados de autoimunidade\" loading=\"lazy\"><figcaption>Aula de tolerância imunológica, semana 2 · página 17 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-II-1",
+      "from": "88b429a89a51b35b",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p06.webp\" alt=\"Hipersensibilidade tipo II: anticorpos contra antígeno fixo em células ou tecidos\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 6 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-II-2",
+      "from": "88b429a89a51b35b",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p07.webp\" alt=\"Por que IgG e IgM no tipo II\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 7 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-II-3",
+      "from": "88b429a89a51b35b",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p10.webp\" alt=\"Opsonização por IgG e C3b e fagocitose\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-II-4",
+      "from": "88b429a89a51b35b",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p09.webp\" alt=\"Complemento e ADCC: MAC e NK via CD16\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 9 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-II-5",
+      "from": "80fbb6e13dc65c31",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p09.webp\" alt=\"Complemento e ADCC: MAC e NK via CD16\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 9 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-II-6",
+      "from": "80fbb6e13dc65c31",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p16.webp\" alt=\"Doença de Graves: anticorpo estimula o receptor de TSH\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-II-7",
+      "from": "80fbb6e13dc65c31",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p17.webp\" alt=\"Miastenia gravis: anticorpo bloqueia o receptor de acetilcolina\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 17 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-II-8",
+      "from": "80fbb6e13dc65c31",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p21.webp\" alt=\"Doença hemolítica do recém-nascido: IgG materna anti-Rh atravessa a placenta\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 21 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-IIIIV-1",
+      "from": "82e447fcaae223d7",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p29.webp\" alt=\"Hipersensibilidade tipo III: imunocomplexos depositados na parede do vaso\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-IIIIV-2",
+      "from": "82e447fcaae223d7",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p34.webp\" alt=\"Tipo III: do imunocomplexo ao complemento, aos neutrófilos e à lesão\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 34 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-IIIIV-3",
+      "from": "82e447fcaae223d7",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p37.webp\" alt=\"Exemplos do tipo III: Arthus, doença do soro, glomerulonefrite e LES\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 37 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-IIIIV-4",
+      "from": "82e447fcaae223d7",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p37.webp\" alt=\"Exemplos do tipo III: Arthus, doença do soro, glomerulonefrite e LES\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 37 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-IIIIV-5",
+      "from": "4287e4376bb342a3",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p41.webp\" alt=\"Tipo IV: vias CD4 Th1 e Th17 e CD8 citotóxica\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 41 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-IIIIV-6",
+      "from": "4287e4376bb342a3",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p43.webp\" alt=\"Th1: IFN-γ ativa o macrófago\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 43 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-IIIIV-7",
+      "from": "4287e4376bb342a3",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p44.webp\" alt=\"Th17: IL-17 recruta neutrófilos\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 44 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-IIIIV-8",
+      "from": "4287e4376bb342a3",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p45.webp\" alt=\"Citotoxicidade por T CD8: perforina, granzimas e Fas-FasL\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 45 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-IIIIV-9",
+      "from": "23a07677d56bff32",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p40.webp\" alt=\"Hipersensibilidade tipo IV: reação tardia de 48 a 72 horas\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 40 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-2-0",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p06.webp\" alt=\"Hipersensibilidade tipo II: anticorpos contra antígeno fixo em células ou tecidos\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 6 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-2-1",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p07.webp\" alt=\"Por que IgG e IgM no tipo II\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 7 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-2-2",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p12.webp\" alt=\"Tipo II sem lise celular: bloqueio e estimulação de receptor\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-3-0",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p35.webp\" alt=\"Formação e depósito de imunocomplexos circulantes\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 35 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-3-1",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p34.webp\" alt=\"Tipo III: do imunocomplexo ao complemento, aos neutrófilos e à lesão\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 34 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-3-2",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p37.webp\" alt=\"Exemplos do tipo III: Arthus, doença do soro, glomerulonefrite e LES\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 37 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-4-0",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p43.webp\" alt=\"Th1: IFN-γ ativa o macrófago\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 43 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-4-1",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p46.webp\" alt=\"Linfócito T CD8 matando a célula-alvo\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 46 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-immune-picture-4-2",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w3a-p41.webp\" alt=\"Tipo IV: vias CD4 Th1 e Th17 e CD8 citotóxica\" loading=\"lazy\"><figcaption>Aula de hipersensibilidade II, III e IV, semana 3 · página 41 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-lab-1",
+      "from": "c12e0838a493f4b3",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w4a-p06.webp\" alt=\"VHS: sedimentação das hemácias e formação de rouleaux\" loading=\"lazy\"><figcaption>Aula de exames laboratoriais, semana 4 · página 6 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-lab-2",
+      "from": "c12e0838a493f4b3",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w4a-p07.webp\" alt=\"VHS aumentado é marcador inespecífico de inflamação\" loading=\"lazy\"><figcaption>Aula de exames laboratoriais, semana 4 · página 7 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-lab-4",
+      "from": "c12e0838a493f4b3",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w4a-p13.webp\" alt=\"FAN por imunofluorescência em células HEp-2 e diluições do título\" loading=\"lazy\"><figcaption>Aula de exames laboratoriais, semana 4 · página 13 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-lab-5",
+      "from": "a14a7b895029c398",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w4a-p13.webp\" alt=\"FAN por imunofluorescência em células HEp-2 e diluições do título\" loading=\"lazy\"><figcaption>Aula de exames laboratoriais, semana 4 · página 13 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-lab-6",
+      "from": "a14a7b895029c398",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w4a-p17.webp\" alt=\"O FAN na prática: o peso do título e da clínica\" loading=\"lazy\"><figcaption>Aula de exames laboratoriais, semana 4 · página 17 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-lab-7",
+      "from": "a14a7b895029c398",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w4a-p20.webp\" alt=\"Esquema do teste de Coombs direto\" loading=\"lazy\"><figcaption>Aula de exames laboratoriais, semana 4 · página 20 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-lab-8",
+      "from": "a14a7b895029c398",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w4a-p21.webp\" alt=\"Coombs indireto avalia o soro do paciente\" loading=\"lazy\"><figcaption>Aula de exames laboratoriais, semana 4 · página 21 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-lab-9",
+      "from": "234efccfe774c55d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w4a-p19.webp\" alt=\"Coombs direto avalia as hemácias do paciente\" loading=\"lazy\"><figcaption>Aula de exames laboratoriais, semana 4 · página 19 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-im-lab-10",
+      "from": "234efccfe774c55d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w4a-p21.webp\" alt=\"Coombs indireto avalia o soro do paciente\" loading=\"lazy\"><figcaption>Aula de exames laboratoriais, semana 4 · página 21 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-ciclo-1",
+      "from": "ac1db905ec85603f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p21.webp\" alt=\"Ciclo de replicação viral em oito etapas\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 21 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-ciclo-2",
+      "from": "ac1db905ec85603f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p26.webp\" alt=\"Entrada do vírus por fusão ou endocitose\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 26 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-ciclo-3",
+      "from": "ac1db905ec85603f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p21.webp\" alt=\"Ciclo de replicação viral em oito etapas\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 21 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-ciclo-4",
+      "from": "ac1db905ec85603f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p29.webp\" alt=\"Replicação de um vírus de DNA\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-ciclo-5",
+      "from": "d6181097058c9f82",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p32.webp\" alt=\"Maturação e liberação dos vírions\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 32 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-ciclo-6",
+      "from": "d6181097058c9f82",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p32.webp\" alt=\"Maturação e liberação dos vírions\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 32 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-ciclo-7",
+      "from": "d6181097058c9f82",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p32.webp\" alt=\"Maturação e liberação dos vírions\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 32 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-ciclo-8",
+      "from": "d6181097058c9f82",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p21.webp\" alt=\"Ciclo de replicação viral em oito etapas\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 21 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-genoma-1",
+      "from": "c66d7da83b8e4bdb",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p30.webp\" alt=\"Vias de multiplicação de vírus de RNA\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 30 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-genoma-2",
+      "from": "c66d7da83b8e4bdb",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p30.webp\" alt=\"Vias de multiplicação de vírus de RNA\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 30 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-genoma-3",
+      "from": "c66d7da83b8e4bdb",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p30.webp\" alt=\"Vias de multiplicação de vírus de RNA\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 30 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-genoma-4",
+      "from": "c66d7da83b8e4bdb",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p31.webp\" alt=\"Biossíntese de vírus de RNA que usam DNA\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 31 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-genoma-5",
+      "from": "5faccfe200203b14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p29.webp\" alt=\"Replicação de um vírus de DNA\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-genoma-6",
+      "from": "5faccfe200203b14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p14.webp\" alt=\"Ciclo do influenza, com replicação no núcleo, HA e NA\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-genoma-7",
+      "from": "5faccfe200203b14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p31.webp\" alt=\"Biossíntese de vírus de RNA que usam DNA\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 31 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-genoma-8",
+      "from": "5faccfe200203b14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p11.webp\" alt=\"Vírus envelopados e não envelopados\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-genoma-9",
+      "from": "aec9cd39bceb6f8a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p06.webp\" alt=\"Comparação entre vírus e bactérias\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 6 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-patog-1",
+      "from": "a07b78d8912ef753",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p35.webp\" alt=\"Patogênese viral: da entrada à manifestação clínica\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 35 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-patog-3",
+      "from": "a07b78d8912ef753",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p35.webp\" alt=\"Patogênese viral: da entrada à manifestação clínica\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 35 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-patog-4",
+      "from": "a07b78d8912ef753",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p38.webp\" alt=\"Disseminação viral e tipos de infecção: aguda, persistente, crônica e latente\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 38 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-patog-5",
+      "from": "e9a87c1969d0ed15",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p23.webp\" alt=\"Ciclo lisogênico do bacteriófago lambda\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-patog-6",
+      "from": "e9a87c1969d0ed15",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p22.webp\" alt=\"Multiplicação dos bacteriófagos: ciclo lítico\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 22 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-patog-7",
+      "from": "e9a87c1969d0ed15",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p24.webp\" alt=\"Três consequências da lisogenia\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 24 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-patog-8",
+      "from": "e9a87c1969d0ed15",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p24.webp\" alt=\"Três consequências da lisogenia\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 24 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-compara-1",
+      "from": "e6b70cf8f6dc92db",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p05.webp\" alt=\"Influenza: virologia, HA, NA, drift e shift\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 5 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-compara-2",
+      "from": "e6b70cf8f6dc92db",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p37.webp\" alt=\"Influenza e rearranjo antigênico entre espécies\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 37 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-compara-3",
+      "from": "e6b70cf8f6dc92db",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p21.webp\" alt=\"Coronavírus: virologia geral e proteína Spike\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 21 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-compara-4",
+      "from": "e6b70cf8f6dc92db",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p38.webp\" alt=\"Coronavírus: classificação e receptores ACE2 e DPP4\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 38 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-compara-5",
+      "from": "cfdf36068e45370e",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p23.webp\" alt=\"SARS-CoV-1 e MERS-CoV: origem e receptor\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-compara-6",
+      "from": "cfdf36068e45370e",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p18.webp\" alt=\"Diagnóstico da influenza: RT-PCR, teste rápido e painel\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 18 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-compara-7",
+      "from": "cfdf36068e45370e",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p28.webp\" alt=\"Tomografias com vidro fosco na COVID-19 e em outras pneumonias\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 28 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-compara-8",
+      "from": "cfdf36068e45370e",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p42.webp\" alt=\"Antivirais e dexametasona: resumo comparativo\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 42 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-resp-1",
+      "from": "825cbe135264e49a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6b-p12.webp\" alt=\"Evolução temporal do sarampo, com manchas de Koplik\" loading=\"lazy\"><figcaption>Aula de paramixovírus, semana 6 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-resp-2",
+      "from": "825cbe135264e49a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6b-p18.webp\" alt=\"Evolução temporal da caxumba\" loading=\"lazy\"><figcaption>Aula de paramixovírus, semana 6 · página 18 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-resp-3",
+      "from": "825cbe135264e49a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6b-p25.webp\" alt=\"Lactente com bronquiolite por VSR\" loading=\"lazy\"><figcaption>Aula de paramixovírus, semana 6 · página 25 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-resp-4",
+      "from": "825cbe135264e49a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6b-p32.webp\" alt=\"Prevenção dos paramixovírus e síndrome típica de cada vírus\" loading=\"lazy\"><figcaption>Aula de paramixovírus, semana 6 · página 32 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-resp-5",
+      "from": "93f0699f953baa78",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6b-p29.webp\" alt=\"Metapneumovírus, o primo clínico do VSR\" loading=\"lazy\"><figcaption>Aula de paramixovírus, semana 6 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-resp-6",
+      "from": "93f0699f953baa78",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p14.webp\" alt=\"Ciclo do influenza, com replicação no núcleo, HA e NA\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-resp-7",
+      "from": "93f0699f953baa78",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p05.webp\" alt=\"Influenza: virologia, HA, NA, drift e shift\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 5 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-vi-resp-8",
+      "from": "93f0699f953baa78",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p05.webp\" alt=\"Influenza: virologia, HA, NA, drift e shift\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 5 do PDF</figcaption></figure>"
+    }
+  ]
+}

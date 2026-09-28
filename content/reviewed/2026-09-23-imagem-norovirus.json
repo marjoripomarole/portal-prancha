@@ -124,10 +124,11 @@
       "week": 7,
       "module": "Norovírus: transmissão e prevenção",
       "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf · p. 38–40; https://www.cdc.gov/norovirus/prevention/index.html",
-      "version": "2026-09-23.1",
+      "version": "2026-09-28.1",
       "kind": "recall",
       "title": "Como conectar a via de transmissão do norovírus às medidas de prevenção?",
-      "explanation": "Contaminação de mãos, alimentos e superfícies pode levar partículas virais à boca. Água e sabão para as mãos e desinfecção adequada do ambiente atuam sobre etapas desse percurso."
+      "explanation": "Contaminação de mãos, alimentos e superfícies pode levar partículas virais à boca. Água e sabão para as mãos e desinfecção adequada do ambiente atuam sobre etapas desse percurso.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p38.webp\" alt=\"Norovírus: por que é tão contagioso\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 38 do PDF</figcaption></figure>"
     }
   ]
 }
