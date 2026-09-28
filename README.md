@@ -20,7 +20,7 @@ Históricos Google permanecem no banco, sem exclusão ou associação automátic
 
 ## Conteúdo e privacidade
 
-2.553 itens de sete disciplinas. Materiais ficam em `protected-assets`, servidos após verificar sessão e matrícula. IDs de usuário enviados pelo cliente não determinam de quem é o histórico. Tentativas são idempotentes; snapshots usam revisão otimista. Leituras, ajuda, acertos e autoavaliações continuam distintos. Históricos dos sites antigos não migram automaticamente. Pranchas incorporadas mantêm seus próprios estilos e chaves de armazenamento.
+2.732 itens de sete disciplinas. Materiais ficam em `protected-assets`, servidos após verificar sessão e matrícula. IDs de usuário enviados pelo cliente não determinam de quem é o histórico. Tentativas são idempotentes; snapshots usam revisão otimista. Leituras, ajuda, acertos e autoavaliações continuam distintos. Históricos dos sites antigos não migram automaticamente. Pranchas incorporadas mantêm seus próprios estilos e chaves de armazenamento.
 
 O visual do Portal usa azul FSL #0061af e branco, tipografia forte, contornos e navegação arredondada, inspirado na direção visual do Decisivas. A verificação de celular inclui ausência de rolagem lateral e filtros legíveis.
 

@@ -1,0 +1,67 @@
+{
+  "reviewedAt": "2026-09-28",
+  "sources": [
+    {
+      "path": "Molécula à Célula II/semana 8/23 set - Resumo guiado - Hemoglobina e vitaminas.md",
+      "sha256": "21153ad1a38742e599d0b287e041b663fc92e0c1763b62cdb095304bb8be72ca",
+      "scope": "Seções 2–6: curvas, P50, cooperatividade e efeito Bohr. Sem alegações sobre prova, terapêutica, casos pessoais ou publicação de gravações. Conferência com Oxygen Transport."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-w08-hb-curvas-read",
+      "subject": "molecula",
+      "week": 8,
+      "module": "Hemoglobina: curvas e entrega de oxigênio",
+      "source": "Molécula à Célula II/semana 8/23 set - Resumo guiado - Hemoglobina e vitaminas.md · seções 2–6; https://www.ncbi.nlm.nih.gov/books/NBK54103/?report=printable",
+      "version": "2026-09-28.1",
+      "kind": "read",
+      "title": "Hemoglobina: interpretar curvas e entrega de oxigênio",
+      "body": "<p>A hemoglobina precisa captar oxigênio e também liberá-lo. Sua curva de saturação é sigmoide pela cooperatividade entre subunidades. A mioglobina tem um sítio de ligação e curva hiperbólica.</p><p>No gráfico, compare pressão parcial de O₂ no eixo horizontal e saturação no vertical. P50 é a pressão em que há 50% de saturação: uma P50 maior indica menor afinidade. Um deslocamento para a direita favorece a liberação de O₂ nas condições comparadas.</p><p>Mudar a PO₂ produz movimento ao longo de uma curva; mudar um modulador, como pH, pode deslocar a curva inteira. No efeito Bohr, aumento de CO₂ e/ou H⁺ reduz a afinidade da Hb por O₂. Isso favorece a entrega em tecidos metabolicamente ativos.</p><p>Desenhe duas curvas e compare a saturação na mesma PO₂ antes de consultar o cartão. Fonte de conferência: <a href=\"https://www.ncbi.nlm.nih.gov/books/NBK54103/?report=printable\">Oxygen Transport — Regulation of Tissue Oxygenation</a>. Seleção baseada no resumo local da aula; não representa revisão auditiva integral da gravação.</p>"
+    },
+    {
+      "id": "reviewed-w08-hb-curvas-p50",
+      "subject": "molecula",
+      "week": 8,
+      "module": "Hemoglobina: curvas e entrega de oxigênio",
+      "source": "Molécula à Célula II/semana 8/23 set - Resumo guiado - Hemoglobina e vitaminas.md · seções 2–6; https://www.ncbi.nlm.nih.gov/books/NBK54103/?report=printable",
+      "version": "2026-09-28.1",
+      "kind": "recall",
+      "title": "Uma curva deslocou para a direita. Como mudam P50, afinidade e liberação de O₂?",
+      "explanation": "P50 aumenta, a afinidade diminui e a liberação de O₂ é favorecida nas condições comparadas. Compare sempre a mesma PO₂."
+    },
+    {
+      "id": "reviewed-w08-hb-curvas-movimento",
+      "subject": "molecula",
+      "week": 8,
+      "module": "Hemoglobina: curvas e entrega de oxigênio",
+      "source": "Molécula à Célula II/semana 8/23 set - Resumo guiado - Hemoglobina e vitaminas.md · seções 2–6; https://www.ncbi.nlm.nih.gov/books/NBK54103/?report=printable",
+      "version": "2026-09-28.1",
+      "kind": "recall",
+      "title": "Qual é a diferença entre percorrer uma curva de Hb e deslocar a curva?",
+      "explanation": "Alterar a PO₂ move o ponto de saturação ao longo da curva. Alterar um modulador, como pH, muda a relação entre PO₂ e saturação e pode deslocar a curva."
+    },
+    {
+      "id": "reviewed-w08-hb-curvas-bohr",
+      "subject": "molecula",
+      "week": 8,
+      "module": "Hemoglobina: curvas e entrega de oxigênio",
+      "source": "Molécula à Célula II/semana 8/23 set - Resumo guiado - Hemoglobina e vitaminas.md · seções 2–6; https://www.ncbi.nlm.nih.gov/books/NBK54103/?report=printable",
+      "version": "2026-09-28.1",
+      "kind": "recall",
+      "title": "Como o efeito Bohr conecta o metabolismo tecidual à entrega de O₂?",
+      "explanation": "Aumento de CO₂ e/ou H⁺ reduz a afinidade da Hb por O₂, favorecendo sua liberação nos tecidos. Não significa que H⁺ ocupa o sítio do oxigênio no ferro do heme."
+    },
+    {
+      "id": "reviewed-w08-hb-curvas-cooperatividade",
+      "subject": "molecula",
+      "week": 8,
+      "module": "Hemoglobina: curvas e entrega de oxigênio",
+      "source": "Molécula à Célula II/semana 8/23 set - Resumo guiado - Hemoglobina e vitaminas.md · seções 2–6; https://www.ncbi.nlm.nih.gov/books/NBK54103/?report=printable",
+      "version": "2026-09-28.1",
+      "kind": "recall",
+      "title": "Por que Hb e mioglobina têm curvas com formatos diferentes?",
+      "explanation": "A Hb apresenta cooperatividade entre seus sítios, gerando curva sigmoide. A mioglobina possui um sítio de ligação e apresenta curva hiperbólica."
+    }
+  ]
+}
