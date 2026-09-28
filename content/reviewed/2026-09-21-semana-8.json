@@ -180,11 +180,12 @@
       "week": 8,
       "module": "Anomalias cromossômicas: número e estrutura",
       "source": "Genótipo ao Fenótipo/semana 8/Aula 8_Anomalias Cromossômicas.pdf · páginas 17 e 21; MedlinePlus: https://medlineplus.gov/genetics/understanding/mutationsanddisorders/structuralchanges/",
-      "version": "2026-09-21.1",
+      "version": "2026-09-28.1",
       "id": "reviewed-w08-cromossomos-recall",
       "kind": "recall",
       "title": "Qual é a diferença entre deleção e duplicação?",
-      "explanation": "Deleção: perda de um segmento cromossômico. Duplicação: cópia adicional de um segmento, com aumento de dosagem dos genes envolvidos."
+      "explanation": "Deleção: perda de um segmento cromossômico. Duplicação: cópia adicional de um segmento, com aumento de dosagem dos genes envolvidos.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w8-p22.webp\" alt=\"Alterações estruturais: deleção, duplicação e outras\" loading=\"lazy\"><figcaption>Aula de anomalias cromossômicas, semana 8 · página 22 do PDF</figcaption></figure>"
     },
     {
       "subject": "molecula",

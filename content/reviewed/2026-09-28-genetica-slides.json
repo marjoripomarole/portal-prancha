@@ -1,0 +1,799 @@
+{
+  "reviewedAt": "2026-09-28",
+  "sources": [
+    {
+      "path": "Genótipo ao Fenótipo/semana 1/Aula01_ConceitosBásicos 1.pdf",
+      "sha256": "fc54f64458c4953c4a14c16782c56573b80a8e959be537d2709d7f79cf5b51b9",
+      "scope": "Slides escolhidos para o verso dos cartões de Genética; um slide com imagem, diagrama, heredograma ou quadro por cartão."
+    },
+    {
+      "path": "Genótipo ao Fenótipo/semana 2/Aula2_Bases celulares e moleculares e bioquímicas das doenç 1.pdf",
+      "sha256": "f5a0608fb66a1ccbb3051c789fc1b6928ba023eac57672b81876d7dee8efbb9d",
+      "scope": "Slides escolhidos para o verso dos cartões de Genética; um slide com imagem, diagrama, heredograma ou quadro por cartão."
+    },
+    {
+      "path": "Genótipo ao Fenótipo/semana 3/Aula03_ErrosInatos_Triagem 1.pdf",
+      "sha256": "14dba9aa34d526e3cdc38f1043aeb13edca85e95d5ace9b7b67d360cfeb59325",
+      "scope": "Slides escolhidos para o verso dos cartões de Genética; um slide com imagem, diagrama, heredograma ou quadro por cartão."
+    },
+    {
+      "path": "Genótipo ao Fenótipo/semana 4/AULA 4 _Herança mendeliana - autossômica dominante e recessiva 1.pdf",
+      "sha256": "0acc179fbf2eb22a6380ef5d4a65b3555043e51c56f4ae30d15142fe69959ac9",
+      "scope": "Slides escolhidos para o verso dos cartões de Genética; um slide com imagem, diagrama, heredograma ou quadro por cartão."
+    },
+    {
+      "path": "Genótipo ao Fenótipo/semana 5/Aula 5_ Herança ligada ao sexo e modelos não classicos 1.pdf",
+      "sha256": "82f281f6c469766daa84b06e14c0c97737b309a750727ddeb51a18156f9d9474",
+      "scope": "Slides escolhidos para o verso dos cartões de Genética; um slide com imagem, diagrama, heredograma ou quadro por cartão."
+    },
+    {
+      "path": "Genótipo ao Fenótipo/semana 6/Aula6_Técnicas de Diagnóstico Genético e Interpretação Laboratorial_ 1.pdf",
+      "sha256": "cd1043ae1897bcb4c7056b81ec5550211662e876c278c04767137c936506cdd5",
+      "scope": "Slides escolhidos para o verso dos cartões de Genética; um slide com imagem, diagrama, heredograma ou quadro por cartão."
+    },
+    {
+      "path": "Genótipo ao Fenótipo/semana 8/Aula 8_Anomalias Cromossômicas.pdf",
+      "sha256": "a399f230e0fcdc1908fb50b9e35c4361ead56b400e9b212667333d9bf15626ac",
+      "scope": "Slides escolhidos para o verso dos cartões de Genética; um slide com imagem, diagrama, heredograma ou quadro por cartão."
+    }
+  ],
+  "items": [],
+  "figures": [
+    {
+      "id": "anki-ge-fluxo-1",
+      "from": "b25b4eb3eb59bf58",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w1-p29.webp\" alt=\"Replicação do DNA: cada molécula nova conserva uma fita antiga\" loading=\"lazy\"><figcaption>Aula de conceitos básicos, semana 1 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-fluxo-2",
+      "from": "b25b4eb3eb59bf58",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w1-p23.webp\" alt=\"A transcrição torna a informação do DNA em algo funcional\" loading=\"lazy\"><figcaption>Aula de conceitos básicos, semana 1 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-fluxo-3",
+      "from": "b25b4eb3eb59bf58",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w1-p22.webp\" alt=\"Dogma central: transcrição, processamento e splicing, transporte e tradução\" loading=\"lazy\"><figcaption>Aula de conceitos básicos, semana 1 · página 22 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-fluxo-4",
+      "from": "b25b4eb3eb59bf58",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p36.webp\" alt=\"Dogma central: replicação, transcrição e tradução\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 36 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-fluxo-5",
+      "from": "89dadbecb7db1a8a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w1-p12.webp\" alt=\"Estrutura do DNA: dupla hélice antiparalela, com extremidades 5′ e 3′\" loading=\"lazy\"><figcaption>Aula de conceitos básicos, semana 1 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-fluxo-6",
+      "from": "89dadbecb7db1a8a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w1-p20.webp\" alt=\"Estrutura do gene: promotor, éxons, íntrons e regiões não traduzidas\" loading=\"lazy\"><figcaption>Aula de conceitos básicos, semana 1 · página 20 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-fluxo-7",
+      "from": "89dadbecb7db1a8a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p10.webp\" alt=\"Mutação nonsense: códon de parada prematuro\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-fluxo-8",
+      "from": "89dadbecb7db1a8a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w1-p30.webp\" alt=\"Mesmo genoma, células diferentes: o que diferencia um hepatócito de um linfócito\" loading=\"lazy\"><figcaption>Aula de conceitos básicos, semana 1 · página 30 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-meiose-1",
+      "from": "8253475c8146d9f4",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w1-p31.webp\" alt=\"Meiose: replicação, meiose I e meiose II até quatro gametas haploides\" loading=\"lazy\"><figcaption>Aula de conceitos básicos, semana 1 · página 31 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-meiose-2",
+      "from": "8253475c8146d9f4",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w1-p31.webp\" alt=\"Meiose: replicação, meiose I e meiose II até quatro gametas haploides\" loading=\"lazy\"><figcaption>Aula de conceitos básicos, semana 1 · página 31 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-meiose-3",
+      "from": "8253475c8146d9f4",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w1-p31.webp\" alt=\"Meiose: replicação, meiose I e meiose II até quatro gametas haploides\" loading=\"lazy\"><figcaption>Aula de conceitos básicos, semana 1 · página 31 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-meiose-4",
+      "from": "8253475c8146d9f4",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w1-p31.webp\" alt=\"Meiose: replicação, meiose I e meiose II até quatro gametas haploides\" loading=\"lazy\"><figcaption>Aula de conceitos básicos, semana 1 · página 31 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-meiose-5",
+      "from": "d8a7f05bb4aff10d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p12.webp\" alt=\"Formação dos gametas: crossing-over e meiose\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-meiose-6",
+      "from": "d8a7f05bb4aff10d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p11.webp\" alt=\"Leis de Mendel e a separação dos homólogos na meiose\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-meiose-7",
+      "from": "d8a7f05bb4aff10d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p21.webp\" alt=\"Loci em cromossomos diferentes segregam de forma independente\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 21 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-meiose-8",
+      "from": "d8a7f05bb4aff10d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w1-p39.webp\" alt=\"Locus, alelos e cromossomos homólogos\" loading=\"lazy\"><figcaption>Aula de conceitos básicos, semana 1 · página 39 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-hbf-1",
+      "from": "481245b08220f7d2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p63.webp\" alt=\"Troca das cadeias de globina: HbF α2γ2 no feto, HbA α2β2 no adulto\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 63 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-hbf-2",
+      "from": "481245b08220f7d2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p63.webp\" alt=\"Troca das cadeias de globina: HbF α2γ2 no feto, HbA α2β2 no adulto\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 63 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-hbf-3",
+      "from": "481245b08220f7d2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p68.webp\" alt=\"Anemia falciforme: HbS polimeriza, a hemácia falciza e ocorre vaso-oclusão\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 68 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-hbf-4",
+      "from": "481245b08220f7d2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p68.webp\" alt=\"Anemia falciforme: HbS polimeriza, a hemácia falciza e ocorre vaso-oclusão\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 68 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-hbf-5",
+      "from": "6ac2f548bc4ac25c",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p63.webp\" alt=\"Troca das cadeias de globina: HbF α2γ2 no feto, HbA α2β2 no adulto\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 63 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-hbf-6",
+      "from": "6ac2f548bc4ac25c",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p33.webp\" alt=\"Regiões distais: acentuador e silenciador atuam a distância do promotor\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 33 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-hbf-7",
+      "from": "6ac2f548bc4ac25c",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p28.webp\" alt=\"Metilação do DNA na citosina e na região promotora\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 28 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-hbf-8",
+      "from": "6ac2f548bc4ac25c",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p34.webp\" alt=\"Penetrância e expressividade em pessoas com a mesma mutação\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 34 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-var-1",
+      "from": "91d98fe3285ebe21",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p65.webp\" alt=\"Anemia falciforme: GAG vira GUG, glutamato vira valina\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 65 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-var-2",
+      "from": "91d98fe3285ebe21",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p10.webp\" alt=\"Mutação nonsense: códon de parada prematuro\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-var-3",
+      "from": "91d98fe3285ebe21",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p55.webp\" alt=\"Frameshift: inserção ou deleção que muda o quadro de leitura\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 55 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-var-4",
+      "from": "91d98fe3285ebe21",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p55.webp\" alt=\"Frameshift: inserção ou deleção que muda o quadro de leitura\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 55 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-var-5",
+      "from": "e260b6e6dc2ce7f5",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p49.webp\" alt=\"Mecanismos pelos quais mutações causam doença\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 49 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-var-6",
+      "from": "e260b6e6dc2ce7f5",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p49.webp\" alt=\"Mecanismos pelos quais mutações causam doença\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 49 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-eim-1",
+      "from": "5c27d86d8d9ff8ce",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w3-p27.webp\" alt=\"Fenilcetonúria: toxicidade do substrato e ausência do produto\" loading=\"lazy\"><figcaption>Aula de erros inatos e triagem, semana 3 · página 27 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-eim-2",
+      "from": "5c27d86d8d9ff8ce",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w3-p28.webp\" alt=\"Via da fenilalanina: PAH e BH4 convertem fenilalanina em tirosina\" loading=\"lazy\"><figcaption>Aula de erros inatos e triagem, semana 3 · página 28 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-eim-3",
+      "from": "5c27d86d8d9ff8ce",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w3-p38.webp\" alt=\"PKU materna e fetal\" loading=\"lazy\"><figcaption>Aula de erros inatos e triagem, semana 3 · página 38 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-eim-4",
+      "from": "5c27d86d8d9ff8ce",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w3-p41.webp\" alt=\"Tay-Sachs: mancha vermelho-cereja na retina\" loading=\"lazy\"><figcaption>Aula de erros inatos e triagem, semana 3 · página 41 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-eim-5",
+      "from": "d575c2c1c3f50155",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w3-p39.webp\" alt=\"Doenças de armazenamento lisossômico: lisossomo normal e doente\" loading=\"lazy\"><figcaption>Aula de erros inatos e triagem, semana 3 · página 39 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-eim-6",
+      "from": "d575c2c1c3f50155",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p50.webp\" alt=\"Heredograma de herança autossômica recessiva\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 50 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-triagem-1",
+      "from": "84c748d658a6f8fb",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w3-p55.webp\" alt=\"Teste do pezinho: triagem neonatal por metabólitos\" loading=\"lazy\"><figcaption>Aula de erros inatos e triagem, semana 3 · página 55 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-triagem-2",
+      "from": "84c748d658a6f8fb",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w3-p57.webp\" alt=\"Espectrometria de massas em tandem na triagem neonatal\" loading=\"lazy\"><figcaption>Aula de erros inatos e triagem, semana 3 · página 57 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-triagem-3",
+      "from": "84c748d658a6f8fb",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w3-p57.webp\" alt=\"Espectrometria de massas em tandem na triagem neonatal\" loading=\"lazy\"><figcaption>Aula de erros inatos e triagem, semana 3 · página 57 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-triagem-8",
+      "from": "8a66326207947a3f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w3-p61.webp\" alt=\"Testes de rastreamento e diagnósticos dos erros inatos\" loading=\"lazy\"><figcaption>Aula de erros inatos e triagem, semana 3 · página 61 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mendel-1",
+      "from": "17feccd604a072da",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p16.webp\" alt=\"Quadro de Punnett\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mendel-2",
+      "from": "17feccd604a072da",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p16.webp\" alt=\"Quadro de Punnett\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mendel-3",
+      "from": "17feccd604a072da",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p16.webp\" alt=\"Quadro de Punnett\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mendel-4",
+      "from": "17feccd604a072da",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p16.webp\" alt=\"Quadro de Punnett\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mendel-5",
+      "from": "97cde3efce199326",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p16.webp\" alt=\"Quadro de Punnett\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mendel-6",
+      "from": "97cde3efce199326",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p49.webp\" alt=\"Penetrância incompleta: ectrodactilia e salto de geração\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 49 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mendel-7",
+      "from": "97cde3efce199326",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p16.webp\" alt=\"Quadro de Punnett\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mendel-8",
+      "from": "97cde3efce199326",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p16.webp\" alt=\"Quadro de Punnett\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-padroes-1",
+      "from": "e6eb2d5bd596afa0",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p43.webp\" alt=\"Heredograma de herança autossômica dominante\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 43 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-padroes-2",
+      "from": "e6eb2d5bd596afa0",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p50.webp\" alt=\"Heredograma de herança autossômica recessiva\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 50 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-padroes-3",
+      "from": "e6eb2d5bd596afa0",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p53.webp\" alt=\"Consanguinidade em heredograma autossômico recessivo\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 53 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-padroes-4",
+      "from": "e6eb2d5bd596afa0",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p34.webp\" alt=\"Penetrância e expressividade em pessoas com a mesma mutação\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 34 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-padroes-7",
+      "from": "434955d157db4045",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p32.webp\" alt=\"Pleiotropia: um gene, vários órgãos afetados\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 32 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-padroes-8",
+      "from": "434955d157db4045",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p65.webp\" alt=\"Mutação de novo e mosaicismo germinativo\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 65 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pedigree-AR",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w4-p50.webp\" alt=\"Heredograma de herança autossômica recessiva\" loading=\"lazy\"><figcaption>Aula de herança mendeliana, semana 4 · página 50 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-imprint-1",
+      "from": "595d7808409e3e54",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p35.webp\" alt=\"Heredograma com imprinting: paragangliomas hereditários\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 35 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-imprint-5",
+      "from": "944d7acafcdf2ff2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p38.webp\" alt=\"Doenças de poliglutamina: repetições CAG e idade de início\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 38 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-imprint-6",
+      "from": "944d7acafcdf2ff2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p44.webp\" alt=\"X frágil: sítio frágil e risco de expansão da pré-mutação\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 44 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-imprint-7",
+      "from": "944d7acafcdf2ff2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p45.webp\" alt=\"Huntington e X frágil comparados\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 45 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-imprint-8",
+      "from": "944d7acafcdf2ff2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p44.webp\" alt=\"X frágil: sítio frágil e risco de expansão da pré-mutação\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 44 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mt-1",
+      "from": "82369beb089f7b34",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p49.webp\" alt=\"Heredograma de herança mitocondrial\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 49 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mt-2",
+      "from": "82369beb089f7b34",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p51.webp\" alt=\"Heteroplasmia e segregação replicativa das mitocôndrias\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 51 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mt-3",
+      "from": "82369beb089f7b34",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p51.webp\" alt=\"Heteroplasmia e segregação replicativa das mitocôndrias\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 51 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mt-4",
+      "from": "82369beb089f7b34",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p46.webp\" alt=\"Mitocôndrias do óvulo e do espermatozoide e o genoma mitocondrial\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 46 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mt-5",
+      "from": "602b5f92e22f7f8f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p62.webp\" alt=\"Risco relativo familiar λR\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 62 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mt-6",
+      "from": "602b5f92e22f7f8f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p62.webp\" alt=\"Risco relativo familiar λR\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 62 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mt-7",
+      "from": "602b5f92e22f7f8f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p69.webp\" alt=\"Gêmeos criados separados: correlação do IMC em monozigóticos e dizigóticos\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 69 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-mt-8",
+      "from": "602b5f92e22f7f8f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p71.webp\" alt=\"Limitações dos estudos de famílias e gêmeos; herdabilidade não é universal\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 71 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-sexo-1",
+      "from": "e0eae9db6019d5fd",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p27.webp\" alt=\"Heredograma de herança dominante ligada ao X\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 27 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-sexo-2",
+      "from": "e0eae9db6019d5fd",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p26.webp\" alt=\"Heredograma de herança recessiva ligada ao X\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 26 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-sexo-3",
+      "from": "e0eae9db6019d5fd",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p27.webp\" alt=\"Heredograma de herança dominante ligada ao X\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 27 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-sexo-4",
+      "from": "e0eae9db6019d5fd",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p24.webp\" alt=\"Distrofina em mulher portadora: mosaico de fibras musculares\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 24 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-sexo-5",
+      "from": "6a2dfdce1635b269",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p22.webp\" alt=\"Inativação aleatória do X e corpúsculo de Barr\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 22 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-sexo-6",
+      "from": "6a2dfdce1635b269",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p22.webp\" alt=\"Inativação aleatória do X e corpúsculo de Barr\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 22 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-sexo-7",
+      "from": "6a2dfdce1635b269",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p14.webp\" alt=\"Regiões pseudoautossômicas de X e Y, com o gene SHOX\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-sexo-8",
+      "from": "6a2dfdce1635b269",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w5-p16.webp\" alt=\"Heredograma de herança ligada ao Y\" loading=\"lazy\"><figcaption>Aula de herança ligada ao sexo e não clássica, semana 5 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-laudo-1",
+      "from": "dfcd97d36da695c9",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p76.webp\" alt=\"Eletroferograma de Sanger com duplo pico em heterozigose\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 76 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-laudo-2",
+      "from": "dfcd97d36da695c9",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p79.webp\" alt=\"Painel, exoma, genoma e transcriptoma comparados\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 79 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-laudo-3",
+      "from": "dfcd97d36da695c9",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p79.webp\" alt=\"Painel, exoma, genoma e transcriptoma comparados\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 79 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-laudo-4",
+      "from": "dfcd97d36da695c9",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w2-p75.webp\" alt=\"Classes de variantes do ACMG, com a VUS entre as mais frequentes\" loading=\"lazy\"><figcaption>Aula de bases celulares e moleculares, semana 2 · página 75 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-laudo-5",
+      "from": "1834f6221d06adce",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p64.webp\" alt=\"Microarray cromossômico e CGH\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 64 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-laudo-6",
+      "from": "1834f6221d06adce",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p59.webp\" alt=\"Técnica de FISH: sondas fluorescentes\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 59 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-laudo-7",
+      "from": "1834f6221d06adce",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w1-p35.webp\" alt=\"Mosaicismo genético: mutação depois do zigoto gera populações celulares diferentes\" loading=\"lazy\"><figcaption>Aula de conceitos básicos, semana 1 · página 35 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-pcr-1",
+      "from": "16d3f00a811bf4b6",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p25.webp\" alt=\"Ciclo da PCR: desnaturação, anelamento e extensão\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 25 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-pcr-2",
+      "from": "16d3f00a811bf4b6",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p25.webp\" alt=\"Ciclo da PCR: desnaturação, anelamento e extensão\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 25 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-pcr-3",
+      "from": "16d3f00a811bf4b6",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p25.webp\" alt=\"Ciclo da PCR: desnaturação, anelamento e extensão\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 25 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-pcr-4",
+      "from": "16d3f00a811bf4b6",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p26.webp\" alt=\"Amplificação exponencial na PCR\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 26 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-pcr-5",
+      "from": "9d7d3a918ed642a0",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p28.webp\" alt=\"RT-PCR: o RNA vira cDNA antes da amplificação\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 28 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-pcr-6",
+      "from": "9d7d3a918ed642a0",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p36.webp\" alt=\"Curva de amplificação da qPCR e o Ct\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 36 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-pcr-7",
+      "from": "9d7d3a918ed642a0",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p38.webp\" alt=\"Curvas de qPCR: menor Ct, mais alvo inicial\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 38 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-pcr-8",
+      "from": "9d7d3a918ed642a0",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p38.webp\" alt=\"Curvas de qPCR: menor Ct, mais alvo inicial\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 38 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-pcr-9",
+      "from": "37d92183f77056d8",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p29.webp\" alt=\"Gel de eletroforese com produtos de PCR\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-testes-1",
+      "from": "4412a6a28899ccb1",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p56.webp\" alt=\"Cariótipo com bandeamento\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 56 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-testes-2",
+      "from": "4412a6a28899ccb1",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p59.webp\" alt=\"Técnica de FISH: sondas fluorescentes\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 59 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-testes-3",
+      "from": "4412a6a28899ccb1",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p64.webp\" alt=\"Microarray cromossômico e CGH\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 64 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-testes-4",
+      "from": "4412a6a28899ccb1",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p15.webp\" alt=\"A pergunta clínica e o teste que responde\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 15 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-testes-5",
+      "from": "afcf0f0a529119b9",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p70.webp\" alt=\"dNTP e ddNTP: sem 3′-OH, a síntese para\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 70 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-testes-6",
+      "from": "afcf0f0a529119b9",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p77.webp\" alt=\"Sanger e NGS: fluxo do sequenciamento de nova geração\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 77 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-testes-7",
+      "from": "afcf0f0a529119b9",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p78.webp\" alt=\"Aplicações do NGS em DNA e RNA\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 78 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-ge-testes-8",
+      "from": "afcf0f0a529119b9",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p15.webp\" alt=\"A pergunta clínica e o teste que responde\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 15 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-gel-0",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p29.webp\" alt=\"Gel de eletroforese com produtos de PCR\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-gel-1",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p29.webp\" alt=\"Gel de eletroforese com produtos de PCR\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-gel-2",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p29.webp\" alt=\"Gel de eletroforese com produtos de PCR\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-gel-3",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p29.webp\" alt=\"Gel de eletroforese com produtos de PCR\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-qpcr-0",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p38.webp\" alt=\"Curvas de qPCR: menor Ct, mais alvo inicial\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 38 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-qpcr-1",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p38.webp\" alt=\"Curvas de qPCR: menor Ct, mais alvo inicial\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 38 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-qpcr-2",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p36.webp\" alt=\"Curva de amplificação da qPCR e o Ct\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 36 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-qpcr-3",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p38.webp\" alt=\"Curvas de qPCR: menor Ct, mais alvo inicial\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 38 do PDF</figcaption></figure>"
+    }
+  ]
+}

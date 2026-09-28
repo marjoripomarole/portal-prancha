@@ -528,22 +528,24 @@
       "week": 8,
       "module": "Anomalias cromossômicas: número e estrutura",
       "source": "Genótipo ao Fenótipo/semana 8/25 set - Resumo guiado - Anomalias cromossômicas.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-28.1",
       "id": "reviewed-ge-w08-anom-r1",
       "kind": "recall",
       "title": "Não disjunção na meiose I ou na II: em qual todos os gametas ficam aneuploides?",
-      "explanation": "Meiose I\n\nNa meiose I, os homólogos não se separam. Na meiose II, as cromátides-irmãs não se separam e o esquema gera dois gametas normais."
+      "explanation": "Meiose I\n\nNa meiose I, os homólogos não se separam. Na meiose II, as cromátides-irmãs não se separam e o esquema gera dois gametas normais.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w8-p44.webp\" alt=\"Não disjunção na meiose I e na meiose II\" loading=\"lazy\"><figcaption>Aula de anomalias cromossômicas, semana 8 · página 44 do PDF</figcaption></figure>"
     },
     {
       "subject": "genetica",
       "week": 8,
       "module": "Anomalias cromossômicas: número e estrutura",
       "source": "Genótipo ao Fenótipo/semana 8/25 set - Resumo guiado - Anomalias cromossômicas.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-28.1",
       "id": "reviewed-ge-w08-anom-r2",
       "kind": "recall",
       "title": "FISH ou microarray: qual varre o genoma todo?",
-      "explanation": "Microarray\n\nO FISH responde só à região da sonda. O microarray busca perdas e ganhos submicroscópicos pelo genoma, mas costuma não ver rearranjos balanceados."
+      "explanation": "Microarray\n\nO FISH responde só à região da sonda. O microarray busca perdas e ganhos submicroscópicos pelo genoma, mas costuma não ver rearranjos balanceados.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-ge-w6-p64.webp\" alt=\"Microarray cromossômico e CGH\" loading=\"lazy\"><figcaption>Aula de técnicas de diagnóstico, semana 6 · página 64 do PDF</figcaption></figure>"
     }
   ],
   "revisions": [
