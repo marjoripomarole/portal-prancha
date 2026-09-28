@@ -1,7 +1,7 @@
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 import {execFileSync} from 'node:child_process';
-import {mergeReviewed,optionsFingerprint} from '../scripts/apply-reviewed-content.mjs';
+import {mergeReviewed,optionsFingerprint,visualFingerprint} from '../scripts/apply-reviewed-content.mjs';
 const before=JSON.parse(execFileSync('git',['show','HEAD:content/catalog.json'],{encoding:'utf8',maxBuffer:20_000_000}));
 const current=JSON.parse(fs.readFileSync('content/catalog.json'));
 const bundles=fs.readdirSync('content/reviewed').filter(f=>f.endsWith('.json')).map(f=>JSON.parse(fs.readFileSync('content/reviewed/'+f)));
@@ -9,8 +9,11 @@ const result=mergeReviewed(before,bundles);
 assert.deepEqual(result,current);
 // Existing items change only through a new version of their reviewed bundle or an explicit revision.
 const revisedIds=new Set(bundles.flatMap(b=>(b.revisions??[]).map(r=>r.id)));
-let revisedCount=0,updatedReviewed=0;
+const figureIds=new Set(bundles.flatMap(b=>(b.figures??[]).map(f=>f.id)));
+let revisedCount=0,updatedReviewed=0,figuredCount=0;
 for(const item of before.items){const now=result.items.find(x=>x.id===item.id);
+  // A figure only replaces the image shown after the answer.
+  if(figureIds.has(item.id)){const {solutionVisual:a,figureFrom:b,...restNow}=now,{solutionVisual:c,figureFrom:d,...restBefore}=item;assert.deepEqual(restNow,restBefore,`Figure changed more than the image: ${item.id}`);if(a!==c)figuredCount++;continue;}
   if(revisedIds.has(item.id)){assert.equal(now.title,item.title);assert.equal(now.options.length,item.options.length);assert.equal(now.options[now.answer]&&true,true);if(JSON.stringify(now)!==JSON.stringify(item))revisedCount++;continue;}
   if(item.id.startsWith('reviewed-')&&now.version!==item.version){updatedReviewed++;continue;}
   assert.deepEqual(now,item,`Existing item changed: ${item.id}`);}
@@ -29,6 +32,20 @@ assert.equal(applied.items.find(i=>i.id===target.id).revisedFrom,rev.from,'Appli
 const rev2={...rev,version:'test.2',options:rev.options.map(o=>o+' (v2)')};
 assert.deepEqual(mergeReviewed(applied,[{...probe,revisions:[rev2]}],warn).items.find(i=>i.id===target.id).options,rev2.options,'Updated revision re-applies over its earlier version');
 assert.throws(()=>mergeReviewed(before,[{...probe,revisions:[{...rev,id:'reviewed-x'}]}],warn),/own bundle/);
+// Figures: applied once, idempotent, skipped when the card's image changed, forbidden on reviewed items.
+const card=before.items.find(i=>i.kind==='recall'&&!i.id.startsWith('reviewed-')&&!figureIds.has(i.id));
+const fig={id:card.id,from:visualFingerprint(card),version:'test.1',reason:'test',solutionVisual:'<figure><img class="figure" src="/media/x.webp" alt="x"></figure>'};
+const figProbe={...probe,revisions:[],figures:[fig]};
+const withFig=mergeReviewed(before,[figProbe],warn),figured=withFig.items.find(i=>i.id===card.id);
+assert.equal(figured.solutionVisual,fig.solutionVisual);
+assert.equal(figured.figureFrom,fig.from,'Applied figure records the original image');
+assert.deepEqual(mergeReviewed(withFig,[figProbe],warn),withFig,'Figure must be idempotent');
+const fig2={...fig,version:'test.2',solutionVisual:fig.solutionVisual.replace('x.webp','y.webp')};
+assert.equal(mergeReviewed(withFig,[{...figProbe,figures:[fig2]}],warn).items.find(i=>i.id===card.id).solutionVisual,fig2.solutionVisual,'Updated figure re-applies over its earlier version');
+const redrawn=structuredClone(before);redrawn.items.find(i=>i.id===card.id).solutionVisual='<img src="/media/outra.svg">';
+assert.deepEqual(mergeReviewed(redrawn,[figProbe],warn).items.find(i=>i.id===card.id),redrawn.items.find(i=>i.id===card.id),'Stale figure must not apply');
+assert(warnings.some(w=>w.startsWith('Stale figure skipped')));
+assert.throws(()=>mergeReviewed(before,[{...figProbe,figures:[{...fig,id:'reviewed-x'}]}],warn),/own bundle/);
 assert.deepEqual(mergeReviewed(result,bundles),result,'Repeated import must be idempotent');
 assert.deepEqual(mergeReviewed(result,[]),result,'Missing bundle must not delete existing activities');
 assert.throws(()=>mergeReviewed(before,[bundles[0],bundles[0]]),/Duplicate reviewed ID/);
@@ -36,4 +53,4 @@ const invalid=structuredClone(bundles[0]); invalid.items[0].id=before.items[0].i
 assert.throws(()=>mergeReviewed(before,[invalid]),/namespace/);
 assert(result.items.some(i=>i.week===8));
 assert.equal((150/500)/(60/500),2.5);assert.equal((200/100)/(100/200),4);
-console.log(JSON.stringify({preservedItems:before.items.length,newItems:result.items.length-before.items.length,revisedItems:revisedCount,updatedReviewedItems:updatedReviewed,idempotent:true,missingSourcesPreserved:true}));
+console.log(JSON.stringify({preservedItems:before.items.length,newItems:result.items.length-before.items.length,revisedItems:revisedCount,figuredItems:figuredCount,updatedReviewedItems:updatedReviewed,idempotent:true,missingSourcesPreserved:true}));

@@ -231,22 +231,24 @@
       "week": 7,
       "module": "Modalidades: quantitativa, qualitativa e mista",
       "source": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-28.1",
       "id": "reviewed-pc-w07-mod-r1",
       "kind": "recall",
       "title": "O que separa métodos mistos de dois estudos paralelos?",
-      "explanation": "Integração planejada\n\nDefinir onde e como os resultados quantitativos e qualitativos se conectam, com prioridade e sequência explícitas. Divergências entre eles devem ser discutidas."
+      "explanation": "Integração planejada\n\nDefinir onde e como os resultados quantitativos e qualitativos se conectam, com prioridade e sequência explícitas. Divergências entre eles devem ser discutidas.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w7-p21.webp\" alt=\"Pesquisa multimétodo: quantitativa mais qualitativa, visão completa\" loading=\"lazy\"><figcaption>Aula da semana 7 · página 21 do PDF</figcaption></figure>"
     },
     {
       "subject": "pesquisa",
       "week": 7,
       "module": "Modalidades: quantitativa, qualitativa e mista",
       "source": "Pesquisa Científica/semana 7/14 set - Preparação - Modalidades de pesquisa e APS.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-28.1",
       "id": "reviewed-pc-w07-mod-r2",
       "kind": "recall",
       "title": "Sequencial exploratório: qual etapa vem primeiro?",
-      "explanation": "A qualitativa\n\nQualitativo e depois quantitativo, por exemplo para construir um questionário. No sequencial explicativo, o quantitativo vem primeiro."
+      "explanation": "A qualitativa\n\nQualitativo e depois quantitativo, por exemplo para construir um questionário. No sequencial explicativo, o quantitativo vem primeiro.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w7-p22.webp\" alt=\"Designs em métodos mistos: sequencial explanatório, sequencial exploratório e concomitante\" loading=\"lazy\"><figcaption>Aula da semana 7 · página 22 do PDF</figcaption></figure>"
     },
     {
       "subject": "pesquisa",
@@ -979,11 +981,12 @@
       "week": 8,
       "module": "Escolher e interpretar estudos observacionais",
       "source": "Pesquisa Científica/semana 8/21 set - Resumo guiado - Estudos observacionais.md",
-      "version": "2026-09-27.1",
+      "version": "2026-09-28.1",
       "id": "reviewed-pc-w08-obs-r2",
       "kind": "recall",
       "title": "Qual desenho parte do desfecho?",
-      "explanation": "Caso-controle\n\nSeleciona casos e controles e compara exposições anteriores. A coorte parte da exposição e acompanha o aparecimento do desfecho."
+      "explanation": "Caso-controle\n\nSeleciona casos e controles e compara exposições anteriores. A coorte parte da exposição e acompanha o aparecimento do desfecho.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w8-p56.webp\" alt=\"Estudos observacionais: fotografia, filme e investigação do passado\" loading=\"lazy\"><figcaption>Aula da semana 8 · página 56 do PDF</figcaption></figure>"
     }
   ]
 }

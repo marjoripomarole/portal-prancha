@@ -121,11 +121,12 @@
       "week": 8,
       "module": "Estudos observacionais: seleção, temporalidade e medidas",
       "source": "Pesquisa Científica/semana 8/Aula_07_Observacionais_15Set2026.pdf · páginas 13–18, 25–32, 41–53",
-      "version": "2026-09-21.1",
+      "version": "2026-09-28.1",
       "id": "reviewed-w08-observacionais-recall",
       "kind": "recall",
       "title": "Como distinguir transversal, coorte e caso-controle sem depender apenas da palavra retrospectivo?",
-      "explanation": "Transversal: medidas numa ocasião ou período curto. Coorte: população definida e ocorrência do desfecho ao longo do acompanhamento, inclusive reconstruído em registros. Caso-controle: seleção pelo desfecho e comparação das exposições."
+      "explanation": "Transversal: medidas numa ocasião ou período curto. Coorte: população definida e ocorrência do desfecho ao longo do acompanhamento, inclusive reconstruído em registros. Caso-controle: seleção pelo desfecho e comparação das exposições.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w8-p58.webp\" alt=\"Quadro-resumo de transversal, coorte e caso-controle\" loading=\"lazy\"><figcaption>Aula da semana 8 · página 58 do PDF</figcaption></figure>"
     },
     {
       "subject": "genetica",

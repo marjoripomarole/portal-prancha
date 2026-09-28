@@ -54,6 +54,10 @@ As pranchas incorporadas em `protected-assets/cadernos` recebem as mesmas altern
 
 `node tests/answer-cues.mjs` falha se alguma objetiva tiver uma alternativa visivelmente mais longa ou mais curta que as demais, isto é, mais de 10% e mais de 8 caracteres de diferença. Também falha se, numa disciplina, a correta for a mais longa em mais de 30% das questões. Novos pacotes precisam passar nesse teste.
 
+### Slides das aulas nos cartões — 28/09/2026
+
+Os cartões de recordação mostram, depois da resposta, o slide da aula que ensinou aquele ponto. Os pacotes revisados trazem `figures`: cada entrada troca apenas o `solutionVisual` de um cartão importado e registra em `from` a impressão digital da imagem anterior. Ela só é aplicada enquanto o cartão ainda mostrar essa imagem; caso contrário, é pulada com aviso. O cartão guarda `figureFrom`. Cartões do namespace `reviewed-` recebem o slide no próprio pacote, com nova `version`. Os slides ficam em `protected-assets/media/slide-*.webp`, com no máximo 1280 px de largura, e só são servidos à turma. A legenda indica a semana da aula e a página do PDF. Cartões cujo tema só aparece em slides de texto corrido mantêm a figura anterior.
+
 Antes de publicar: `npm run validate:content`, `node tests/reviewed-content.mjs`, `node tests/answer-cues.mjs`, `node --experimental-strip-types tests/study.mjs`, verificação de tipos e build. O teste compara o catálogo com o HEAD, impede alteração dos itens anteriores nesta atualização e verifica repetição da importação, colisões de IDs e ausência de fontes. O inventário e o relatório privado ficam fora do projeto, em `_/Portal Prancha/Atualização diária/`. Inventariado ou citado não significa publicado.
 
 Em 21/09, foram acrescentados 22 itens da semana 8: cinco leituras, 12 questões e cinco cartões em Pesquisa, Genética, Molécula, Microbiota e Prática Médica. A seleção não representa cobertura integral das aulas. Histologia/Neuroembriologia aguardam revisão das imagens; documentos pessoais e de visitas não foram incorporados. A inversão de rótulos na página 17 da aula de Genética foi registrada e esclarecida na leitura correspondente.

@@ -1,0 +1,428 @@
+{
+  "reviewedAt": "2026-09-28",
+  "sources": [
+    {
+      "path": "Pesquisa Científica/semana 1/Por que pesquisar A logica da descoberta cientifica.pdf",
+      "sha256": "dc273d285c3c3e539d9ec8879e39a6822050968a4a83f28853cdc4ecb60c8449",
+      "scope": "Slides escolhidos para o verso dos cartões de Pesquisa; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Pesquisa Científica/semana 2/Aula_02_Metodo_Cientifico_04Aug2026.pdf",
+      "sha256": "8ff5061d6460d0c1a0dd8a892eb7551d6d9d6f2149803ccb5c5496f3edc6e947",
+      "scope": "Slides escolhidos para o verso dos cartões de Pesquisa; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Pesquisa Científica/semana 3/Slides aula do tema a pesquisa.pdf",
+      "sha256": "de7fd22a1b44a539533948b887ff365804cf198e90ee6eef03c7144510f6b271",
+      "scope": "Slides escolhidos para o verso dos cartões de Pesquisa; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Pesquisa Científica/semana 4/aula-fontes-referencias.pdf",
+      "sha256": "ead4c8e3d11fceabc85e6eb8d9c6e189ab91eb874716b1faefb6af03e7720083",
+      "scope": "Slides escolhidos para o verso dos cartões de Pesquisa; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Pesquisa Científica/semana 5/aula-elementos-basicos-pesquisa.pdf",
+      "sha256": "dc24684b00b0eb430f8889215bbb63a9a39860a50ab2be5ab514a3c000f264a1",
+      "scope": "Slides escolhidos para o verso dos cartões de Pesquisa; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Pesquisa Científica/semana 7/Aula de pesquisa métodos quanti quali e misto.pdf",
+      "sha256": "f4e96c73be44228bf3d7124a45b8080c3c4fc246bc8e296d3248131318ac675b",
+      "scope": "Slides escolhidos para o verso dos cartões de Pesquisa; um slide com imagem, diagrama ou quadro por cartão."
+    },
+    {
+      "path": "Pesquisa Científica/semana 8/Aula_07_Observacionais_15Set2026.pdf",
+      "sha256": "8011dd1c86ae1ee0d2efd27f7fb3bc03fd6c2f8931c9c1ecff5f1c7bbfb60d43",
+      "scope": "Slides escolhidos para o verso dos cartões de Pesquisa; um slide com imagem, diagrama ou quadro por cartão."
+    }
+  ],
+  "items": [],
+  "figures": [
+    {
+      "id": "anki-pc-ciencia-1",
+      "from": "52f3ba87d49df3d1",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w1-p07.webp\" alt=\"Pintura A Sangria, de Dandré-Bardon\" loading=\"lazy\"><figcaption>Aula da semana 1 · página 7 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-ciencia-3",
+      "from": "52f3ba87d49df3d1",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w3-p15.webp\" alt=\"Um alerta sobre viés: pergunta que permite e pergunta que força\" loading=\"lazy\"><figcaption>Aula da semana 3 · página 15 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-ciencia-2",
+      "from": "52f3ba87d49df3d1",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w2-p84.webp\" alt=\"Karl Popper: uma teoria que não pode ser refutada não é científica\" loading=\"lazy\"><figcaption>Aula da semana 2 · página 84 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-metodo-2",
+      "from": "2b7b1c4c3577f55b",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w2-p41.webp\" alt=\"Pesquisa translacional: bancada, paciente, sistema de saúde e população\" loading=\"lazy\"><figcaption>Aula da semana 2 · página 41 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-metodo-3",
+      "from": "2b7b1c4c3577f55b",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w2-p51.webp\" alt=\"Tipos de estudos observacionais: transversal, caso-controle e coorte\" loading=\"lazy\"><figcaption>Aula da semana 2 · página 51 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-metodo-1",
+      "from": "2b7b1c4c3577f55b",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w2-p33.webp\" alt=\"A pesquisa básica: mecanismos biológicos, sem aplicação clínica imediata\" loading=\"lazy\"><figcaption>Aula da semana 2 · página 33 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-pico-8",
+      "from": "5b7a5f859f413f06",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w3-p17.webp\" alt=\"Os sete passos do projeto, do tema geral aos objetivos\" loading=\"lazy\"><figcaption>Aula da semana 3 · página 17 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-pico-3",
+      "from": "e51d7ff0add1b855",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w3-p26.webp\" alt=\"O arcabouço da pergunta: PICOT e PECOT\" loading=\"lazy\"><figcaption>Aula da semana 3 · página 26 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-pico-6",
+      "from": "5b7a5f859f413f06",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w3-p14.webp\" alt=\"O algoritmo FINER: factível, interessante, novo, ético e relevante\" loading=\"lazy\"><figcaption>Aula da semana 3 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-pico-1",
+      "from": "e51d7ff0add1b855",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w3-p27.webp\" alt=\"Exemplo de pergunta montada no arcabouço PECOT\" loading=\"lazy\"><figcaption>Aula da semana 3 · página 27 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-pico-4",
+      "from": "e51d7ff0add1b855",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w3-p27.webp\" alt=\"Exemplo de pergunta montada no arcabouço PECOT\" loading=\"lazy\"><figcaption>Aula da semana 3 · página 27 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-pico-2",
+      "from": "e51d7ff0add1b855",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w3-p26.webp\" alt=\"O arcabouço da pergunta: PICOT e PECOT\" loading=\"lazy\"><figcaption>Aula da semana 3 · página 26 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-pico-5",
+      "from": "5b7a5f859f413f06",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w3-p27.webp\" alt=\"Exemplo de pergunta montada no arcabouço PECOT\" loading=\"lazy\"><figcaption>Aula da semana 3 · página 27 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-pico-7",
+      "from": "5b7a5f859f413f06",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w3-p14.webp\" alt=\"O algoritmo FINER: factível, interessante, novo, ético e relevante\" loading=\"lazy\"><figcaption>Aula da semana 3 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-busca-2",
+      "from": "251d02b00052e493",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w4-p23.webp\" alt=\"MeSH, vocabulário controlado, e termos livres [tiab]\" loading=\"lazy\"><figcaption>Aula da semana 4 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-fontes-3",
+      "from": "0f15cfd585792201",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w4-p34.webp\" alt=\"Fontes em dois eixos: popular ou acadêmica, primária ou secundária\" loading=\"lazy\"><figcaption>Aula da semana 4 · página 34 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-busca-1",
+      "from": "251d02b00052e493",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w4-p23.webp\" alt=\"MeSH, vocabulário controlado, e termos livres [tiab]\" loading=\"lazy\"><figcaption>Aula da semana 4 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-busca-6",
+      "from": "f3f4f033eea61733",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w4-p23.webp\" alt=\"MeSH, vocabulário controlado, e termos livres [tiab]\" loading=\"lazy\"><figcaption>Aula da semana 4 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-precision-2",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p52.webp\" alt=\"Precisão e acurácia no alvo, com e sem viés\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 52 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-precision-3",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p52.webp\" alt=\"Precisão e acurácia no alvo, com e sem viés\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 52 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-amostra-2",
+      "from": "586f314094a08478",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p43.webp\" alt=\"Da população-alvo à amostra real\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 43 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-desenho-1",
+      "from": "df789d68a78ceaa8",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w8-p26.webp\" alt=\"Estudo de coorte: da população em risco ao desfecho, ao longo do tempo\" loading=\"lazy\"><figcaption>Aula da semana 8 · página 26 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-amostra-7",
+      "from": "f7af1b1a2f258281",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p23.webp\" alt=\"A cadeia da inferência, com validade interna e validade externa\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-desenho-3",
+      "from": "df789d68a78ceaa8",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w8-p14.webp\" alt=\"Estudo transversal: exposição e desfecho medidos ao mesmo tempo\" loading=\"lazy\"><figcaption>Aula da semana 8 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-amostra-1",
+      "from": "586f314094a08478",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p43.webp\" alt=\"Da população-alvo à amostra real\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 43 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-precision-0",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p52.webp\" alt=\"Precisão e acurácia no alvo, com e sem viés\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 52 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-amostra-6",
+      "from": "f7af1b1a2f258281",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p52.webp\" alt=\"Precisão e acurácia no alvo, com e sem viés\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 52 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-amostra-4",
+      "from": "586f314094a08478",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p46.webp\" alt=\"Como escolher a amostra: não probabilísticas e probabilísticas\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 46 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-amostra-3",
+      "from": "586f314094a08478",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p43.webp\" alt=\"Da população-alvo à amostra real\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 43 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-amostra-8",
+      "from": "f7af1b1a2f258281",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p23.webp\" alt=\"A cadeia da inferência, com validade interna e validade externa\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-precision-1",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p52.webp\" alt=\"Precisão e acurácia no alvo, com e sem viés\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 52 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-desenho-2",
+      "from": "df789d68a78ceaa8",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w8-p43.webp\" alt=\"Estudo caso-controle: parte do desfecho e investiga a exposição passada\" loading=\"lazy\"><figcaption>Aula da semana 8 · página 43 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-amostra-5",
+      "from": "f7af1b1a2f258281",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p47.webp\" alt=\"Recrutar: representatividade contra o viés, tamanho contra o acaso\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 47 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-ciencia-8",
+      "from": "e64705dd37627f93",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w1-p14.webp\" alt=\"Pintura de Benjamin Rush: assassino ou curandeiro amado?\" loading=\"lazy\"><figcaption>Aula da semana 1 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-ciencia-5",
+      "from": "e64705dd37627f93",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w1-p21.webp\" alt=\"Linha do tempo da talidomida, com crianças afetadas e a correlação clínica feita depois\" loading=\"lazy\"><figcaption>Aula da semana 1 · página 21 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-ciencia-7",
+      "from": "e64705dd37627f93",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w1-p32.webp\" alt=\"Os três pilares da MBE: melhor evidência, experiência clínica e valores do paciente\" loading=\"lazy\"><figcaption>Aula da semana 1 · página 32 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-ciencia-4",
+      "from": "52f3ba87d49df3d1",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w1-p18.webp\" alt=\"Talidomida: por que foi tão popular. Testes em roedores não estabeleceram dose letal\" loading=\"lazy\"><figcaption>Aula da semana 1 · página 18 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-metodo-7",
+      "from": "d8a08e1d0e16bd1a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w2-p17.webp\" alt=\"Retratos de Francis Bacon e René Descartes\" loading=\"lazy\"><figcaption>Aula da semana 2 · página 17 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-metodo-5",
+      "from": "d8a08e1d0e16bd1a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w2-p57.webp\" alt=\"Espectro da pesquisa em saúde, da bancada à implementação clínica\" loading=\"lazy\"><figcaption>Aula da semana 2 · página 57 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-metodo-8",
+      "from": "d8a08e1d0e16bd1a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w2-p57.webp\" alt=\"Espectro da pesquisa em saúde, da bancada à implementação clínica\" loading=\"lazy\"><figcaption>Aula da semana 2 · página 57 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-metodo-6",
+      "from": "d8a08e1d0e16bd1a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w2-p86.webp\" alt=\"Naomi Oreskes: por que confiar na ciência?\" loading=\"lazy\"><figcaption>Aula da semana 2 · página 86 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-metodo-4",
+      "from": "2b7b1c4c3577f55b",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w2-p54.webp\" alt=\"Ensaio clínico randomizado: o investigador atribui a intervenção\" loading=\"lazy\"><figcaption>Aula da semana 2 · página 54 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-fontes-4",
+      "from": "0f15cfd585792201",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w4-p34.webp\" alt=\"Fontes em dois eixos: popular ou acadêmica, primária ou secundária\" loading=\"lazy\"><figcaption>Aula da semana 4 · página 34 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-fontes-8",
+      "from": "c43166e6c4242c79",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w4-p56.webp\" alt=\"Livro da Springer Nature com referências inventadas por IA\" loading=\"lazy\"><figcaption>Aula da semana 4 · página 56 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-fontes-7",
+      "from": "c43166e6c4242c79",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w4-p64.webp\" alt=\"Paráfrase: o que não fazer\" loading=\"lazy\"><figcaption>Aula da semana 4 · página 64 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-inferencia-4",
+      "from": "4f4c97a01b90f4e6",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p49.webp\" alt=\"Do abstrato ao dado: fenômeno-alvo, variável pretendida e medida real\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 49 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-inferencia-1",
+      "from": "4f4c97a01b90f4e6",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p23.webp\" alt=\"A cadeia da inferência, com validade interna e validade externa\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-desenho-8",
+      "from": "114f4c61f9245020",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p52.webp\" alt=\"Precisão e acurácia no alvo, com e sem viés\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 52 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-inferencia-5",
+      "from": "08535fbb94cf327c",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w8-p18.webp\" alt=\"O que o estudo transversal não informa: causalidade\" loading=\"lazy\"><figcaption>Aula da semana 8 · página 18 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-desenho-7",
+      "from": "114f4c61f9245020",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p52.webp\" alt=\"Precisão e acurácia no alvo, com e sem viés\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 52 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-inferencia-6",
+      "from": "08535fbb94cf327c",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w8-p31.webp\" alt=\"Estudo de coorte: a temporalidade entre exposição e desfecho\" loading=\"lazy\"><figcaption>Aula da semana 8 · página 31 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-desenho-4",
+      "from": "df789d68a78ceaa8",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w2-p54.webp\" alt=\"Ensaio clínico randomizado: o investigador atribui a intervenção\" loading=\"lazy\"><figcaption>Aula da semana 2 · página 54 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-inferencia-7",
+      "from": "08535fbb94cf327c",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w2-p79.webp\" alt=\"Resultado do ensaio da hidroxicloroquina na COVID-19, sem melhora clínica\" loading=\"lazy\"><figcaption>Aula da semana 2 · página 79 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-inferencia-2",
+      "from": "4f4c97a01b90f4e6",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p43.webp\" alt=\"Da população-alvo à amostra real\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 43 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pc-desenho-6",
+      "from": "114f4c61f9245020",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pc-w5-p49.webp\" alt=\"Do abstrato ao dado: fenômeno-alvo, variável pretendida e medida real\" loading=\"lazy\"><figcaption>Aula da semana 5 · página 49 do PDF</figcaption></figure>"
+    }
+  ]
+}

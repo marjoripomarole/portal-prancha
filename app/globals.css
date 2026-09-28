@@ -208,6 +208,8 @@ button:disabled { cursor:default; }
 .studyhtml svg { max-width:100%; height:auto; max-height:500px; }
 .studyhtml figure { margin:16px 0; }
 .studyhtml figcaption,.studyhtml small { font-size:12px; }
+.studyhtml figure.slide img { margin:0 auto; border:1px solid var(--border); border-radius:6px; }
+.studyhtml figure.slide figcaption { margin-top:6px; text-align:center; color:var(--muted-foreground); line-height:1.4; }
 .studyhtml .box { fill:#edf6ff; stroke:#0061af; }
 .studyhtml .arrow { stroke:#0061af; stroke-width:2; marker-end:url(#arrow); }
 .stats { display:grid; grid-template-columns:repeat(4,1fr); gap:14px; margin:24px 0; }

@@ -32,6 +32,31 @@ function applyRevisions(byId, bundles, warn) {
   return revised;
 }
 
+// Fingerprint of the image an imported card shows after its answer, recorded by each figure.
+export const visualFingerprint = item => crypto.createHash('sha256').update(item.solutionVisual ?? '').digest('hex').slice(0, 16);
+
+// Figures replace the image shown after an imported card's answer, for example with the lecture slide that taught it.
+// A figure applies only while the card still shows the image it was chosen against; otherwise it is skipped loudly.
+function applyFigures(byId, bundles, warn) {
+  const figured = new Set();
+  for (const bundle of bundles) for (const f of bundle.figures ?? []) {
+    assert(!figured.has(f.id), `Duplicate figure: ${f.id}`);
+    figured.add(f.id);
+    assert(!f.id.startsWith('reviewed-'), 'Edit reviewed items in their own bundle');
+    assert(f.from && f.version && f.reason && f.solutionVisual, `Figure needs from, version, reason and solutionVisual: ${f.id}`);
+    const item = byId.get(f.id);
+    if (!item) { warn(`Figure target missing: ${f.id}`); continue; }
+    if (item.solutionVisual === f.solutionVisual) {
+      if (item.figureFrom !== f.from) byId.set(f.id, {...item, figureFrom: f.from});
+      continue;
+    }
+    // A card that already received a figure carries the fingerprint of its imported image.
+    if ((item.figureFrom ?? visualFingerprint(item)) !== f.from) { warn(`Stale figure skipped: ${f.id}`); continue; }
+    byId.set(f.id, {...item, solutionVisual: f.solutionVisual, figureFrom: f.from});
+  }
+  return figured;
+}
+
 // Additive by default: an absent source never removes an existing activity.
 export function mergeReviewed(catalog, bundles, warn = message => console.warn(message)) {
   const byId = new Map(catalog.items.map(item => [item.id, item]));
@@ -51,6 +76,7 @@ export function mergeReviewed(catalog, bundles, warn = message => console.warn(m
     }
   }
   applyRevisions(byId, bundles, warn);
+  applyFigures(byId, bundles, warn);
   return {...catalog, items: [...byId.values()]};
 }
 export function applyReviewed() {
