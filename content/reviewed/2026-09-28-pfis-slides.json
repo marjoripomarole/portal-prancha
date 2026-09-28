@@ -1,0 +1,543 @@
+{
+  "reviewedAt": "2026-09-28",
+  "sources": [
+    {
+      "path": "PFIS II/semana 1/Aula 1 PFIS II 2026_2_Comunicação em Saúde Comunicação Não Violenta e Cultura da Paz 2.pdf",
+      "sha256": "8d8ec5adcf15213275302eb08ca63c4516b815e0a949a030de7eecbaca89eef1",
+      "scope": "Slides e figuras escolhidos para o verso dos cartões de PFIS; um slide com imagem, diagrama, fórmula ou quadro por cartão."
+    },
+    {
+      "path": "PFIS II/semana 1/Epidemiologia_Aula1_historia e conceito.pdf",
+      "sha256": "0e1e5c5aafd267653dc15eb82b9039d84ef9e711ea873370c52a55eee908ebea",
+      "scope": "Slides e figuras escolhidos para o verso dos cartões de PFIS; um slide com imagem, diagrama, fórmula ou quadro por cartão."
+    },
+    {
+      "path": "PFIS II/semana 2/Educação em Saúde revisadoV2 3.pdf",
+      "sha256": "3c988d5f4796066a42c6acae49a6a6f2fd200bf85876b69211850377fb118108",
+      "scope": "Slides e figuras escolhidos para o verso dos cartões de PFIS; um slide com imagem, diagrama, fórmula ou quadro por cartão."
+    },
+    {
+      "path": "PFIS II/semana 2/Medidas em saúde.pdf",
+      "sha256": "7bd7eb5b2ffbe8be845fda74ebcd051462b41aad3f3171a0f7441a28bba6f57b",
+      "scope": "Slides e figuras escolhidos para o verso dos cartões de PFIS; um slide com imagem, diagrama, fórmula ou quadro por cartão."
+    },
+    {
+      "path": "PFIS II/semana 3/Aula_RAS_Redes_Tematicas_SUS.pdf",
+      "sha256": "bf4f312ebcdbb4ea613f10e810a9089b603dbafcf4db73d62e94d6eb018f8294",
+      "scope": "Slides e figuras escolhidos para o verso dos cartões de PFIS; um slide com imagem, diagrama, fórmula ou quadro por cartão."
+    },
+    {
+      "path": "PFIS II/semana 3/Guia-da-Jornada-de-Organizacao-das-Redes-de-Atencao-a-Saude-Conass-1 1.pdf",
+      "sha256": "475eace0ddf6acd71b603e1f50cec517e01a87bd57119e0ba295ac91095c3247",
+      "scope": "Slides e figuras escolhidos para o verso dos cartões de PFIS; um slide com imagem, diagrama, fórmula ou quadro por cartão."
+    },
+    {
+      "path": "PFIS II/semana 4/Epidemiologia descritiva.pdf",
+      "sha256": "79fb2b3c4eff021b3e33b021cd7524dd3678659d29ce0f2f1f8ff62f29933bb8",
+      "scope": "Slides e figuras escolhidos para o verso dos cartões de PFIS; um slide com imagem, diagrama, fórmula ou quadro por cartão."
+    },
+    {
+      "path": "PFIS II/semana 5/PICS Medicina.pptx",
+      "sha256": "e045c5eff0816d0deb093a80f4214cffbfa871c52f8e03c87c9bac24bb7e24fc",
+      "scope": "Slides e figuras escolhidos para o verso dos cartões de PFIS; um slide com imagem, diagrama, fórmula ou quadro por cartão."
+    },
+    {
+      "path": "PFIS II/semana 7/Aula - Epidemiologia Analítica.pdf",
+      "sha256": "d22593ab678747e57a5e503d0f7c868dc6881ed3a845c9b9f13099d1f743cc5a",
+      "scope": "Slides e figuras escolhidos para o verso dos cartões de PFIS; um slide com imagem, diagrama, fórmula ou quadro por cartão."
+    }
+  ],
+  "items": [],
+  "figures": [
+    {
+      "id": "anki-pf-cnv-1",
+      "from": "62b0064178c4bf06",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1a-p13.webp\" alt=\"Observação e julgamento lado a lado\" loading=\"lazy\"><figcaption>Aula de comunicação e CNV, semana 1 · página 13 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-cnv-2",
+      "from": "62b0064178c4bf06",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1a-p09.webp\" alt=\"Os quatro componentes da CNV: observação, sentimento, necessidade e pedido\" loading=\"lazy\"><figcaption>Aula de comunicação e CNV, semana 1 · página 9 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-cnv-3",
+      "from": "62b0064178c4bf06",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1a-p09.webp\" alt=\"Os quatro componentes da CNV: observação, sentimento, necessidade e pedido\" loading=\"lazy\"><figcaption>Aula de comunicação e CNV, semana 1 · página 9 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-cnv-4",
+      "from": "62b0064178c4bf06",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1a-p09.webp\" alt=\"Os quatro componentes da CNV: observação, sentimento, necessidade e pedido\" loading=\"lazy\"><figcaption>Aula de comunicação e CNV, semana 1 · página 9 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-cnv-5",
+      "from": "fb101c13a2718a82",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1a-p11.webp\" alt=\"Empatia, compaixão e simpatia comparadas\" loading=\"lazy\"><figcaption>Aula de comunicação e CNV, semana 1 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-cnv-6",
+      "from": "fb101c13a2718a82",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1a-p11.webp\" alt=\"Empatia, compaixão e simpatia comparadas\" loading=\"lazy\"><figcaption>Aula de comunicação e CNV, semana 1 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-cnv-7",
+      "from": "fb101c13a2718a82",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1a-p14.webp\" alt=\"Cultura da paz: diálogo, negociação e cooperação\" loading=\"lazy\"><figcaption>Aula de comunicação e CNV, semana 1 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-cnv-8",
+      "from": "fb101c13a2718a82",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1a-p10.webp\" alt=\"Da frase de julgamento à frase com os quatro componentes da CNV\" loading=\"lazy\"><figcaption>Aula de comunicação e CNV, semana 1 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-epi-1",
+      "from": "266f33b4c2869fb1",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1b-p16.webp\" alt=\"A definição de epidemiologia decomposta termo a termo\" loading=\"lazy\"><figcaption>Aula de epidemiologia, semana 1 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-epi-2",
+      "from": "266f33b4c2869fb1",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1b-p38.webp\" alt=\"Três eixos da distribuição: tempo, lugar e pessoa\" loading=\"lazy\"><figcaption>Aula de epidemiologia, semana 1 · página 38 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-epi-3",
+      "from": "266f33b4c2869fb1",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1b-p16.webp\" alt=\"A definição de epidemiologia decomposta termo a termo\" loading=\"lazy\"><figcaption>Aula de epidemiologia, semana 1 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-epi-4",
+      "from": "266f33b4c2869fb1",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1b-p10.webp\" alt=\"Os números de John Snow: mortes por cólera segundo a companhia de água\" loading=\"lazy\"><figcaption>Aula de epidemiologia, semana 1 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-epi-5",
+      "from": "38f10cc715f67b5a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1b-p11.webp\" alt=\"Doll e Hill: tabagismo e câncer de pulmão, risco 14 vezes maior\" loading=\"lazy\"><figcaption>Aula de epidemiologia, semana 1 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-epi-6",
+      "from": "38f10cc715f67b5a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1b-p22.webp\" alt=\"Tríade epidemiológica: agente, hospedeiro e ambiente\" loading=\"lazy\"><figcaption>Aula de epidemiologia, semana 1 · página 22 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-epi-7",
+      "from": "38f10cc715f67b5a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1b-p23.webp\" alt=\"História natural da doença: exposição, fase pré-clínica, doença clínica e desfecho\" loading=\"lazy\"><figcaption>Aula de epidemiologia, semana 1 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-epi-8",
+      "from": "38f10cc715f67b5a",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1b-p23.webp\" alt=\"História natural da doença: exposição, fase pré-clínica, doença clínica e desfecho\" loading=\"lazy\"><figcaption>Aula de epidemiologia, semana 1 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-contas-1",
+      "from": "451a5f6a6ac75000",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p19.webp\" alt=\"Incidência acumulada: a forma mais simples de medir risco\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 19 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-contas-2",
+      "from": "451a5f6a6ac75000",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p20.webp\" alt=\"Letalidade: óbitos pela doença entre os doentes\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 20 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-contas-3",
+      "from": "451a5f6a6ac75000",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p29.webp\" alt=\"Coeficiente de mortalidade infantil por mil nascidos vivos\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-contas-4",
+      "from": "451a5f6a6ac75000",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p13.webp\" alt=\"A caixa-d’água: casos novos entram, cura e óbito esvaziam a prevalência\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 13 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-contas-5",
+      "from": "b6e4a7fd8970f962",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p13.webp\" alt=\"A caixa-d’água: casos novos entram, cura e óbito esvaziam a prevalência\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 13 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-contas-6",
+      "from": "b6e4a7fd8970f962",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p13.webp\" alt=\"A caixa-d’água: casos novos entram, cura e óbito esvaziam a prevalência\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 13 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-contas-7",
+      "from": "b6e4a7fd8970f962",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p05.webp\" alt=\"Duas cidades com 100 mortes por infarto: qual está mais doente?\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 5 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-contas-8",
+      "from": "b6e4a7fd8970f962",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p35.webp\" alt=\"Taxa bruta engana, a padronizada por idade corrige\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 35 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-educ-1",
+      "from": "eb482f77dd6eaed8",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2a-p03.webp\" alt=\"Paulo Freire: ensinar não é transferir conhecimento\" loading=\"lazy\"><figcaption>Aula de educação em saúde, semana 2 · página 3 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-educ-2",
+      "from": "eb482f77dd6eaed8",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2a-p41.webp\" alt=\"Problematização e arco de Maguerez\" loading=\"lazy\"><figcaption>Aula de educação em saúde, semana 2 · página 41 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-educ-3",
+      "from": "eb482f77dd6eaed8",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2a-p03.webp\" alt=\"Paulo Freire: ensinar não é transferir conhecimento\" loading=\"lazy\"><figcaption>Aula de educação em saúde, semana 2 · página 3 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-educ-4",
+      "from": "eb482f77dd6eaed8",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2a-p45.webp\" alt=\"Folder da Política Nacional de Educação Popular em Saúde\" loading=\"lazy\"><figcaption>Aula de educação em saúde, semana 2 · página 45 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-educ-5",
+      "from": "ef2c4cc63e1a8474",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w1a-p06.webp\" alt=\"Comunicação em saúde: encontro de saberes e verificação da compreensão por teach-back\" loading=\"lazy\"><figcaption>Aula de comunicação e CNV, semana 1 · página 6 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-educ-7",
+      "from": "ef2c4cc63e1a8474",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2a-p45.webp\" alt=\"Folder da Política Nacional de Educação Popular em Saúde\" loading=\"lazy\"><figcaption>Aula de educação em saúde, semana 2 · página 45 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-medidas-1",
+      "from": "fa95f81546685a9d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p12.webp\" alt=\"Incidência e prevalência comparadas\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-medidas-2",
+      "from": "fa95f81546685a9d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p12.webp\" alt=\"Incidência e prevalência comparadas\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-medidas-3",
+      "from": "fa95f81546685a9d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p17.webp\" alt=\"Densidade de incidência: casos novos por pessoa-tempo em risco\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 17 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-medidas-4",
+      "from": "fa95f81546685a9d",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p20.webp\" alt=\"Letalidade: óbitos pela doença entre os doentes\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 20 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-medidas-5",
+      "from": "77acc417f59d6694",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p28.webp\" alt=\"Taxas específicas e mortalidade proporcional\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 28 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-medidas-6",
+      "from": "77acc417f59d6694",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p29.webp\" alt=\"Coeficiente de mortalidade infantil por mil nascidos vivos\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-medidas-7",
+      "from": "77acc417f59d6694",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p31.webp\" alt=\"Mortalidade materna por 100 mil nascidos vivos\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 31 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-medidas-8",
+      "from": "77acc417f59d6694",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p43.webp\" alt=\"DALY: anos de vida perdidos mais anos vividos com incapacidade\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 43 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-epi-table-0",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w7a-p32.webp\" alt=\"A tabela 2×2 de exposição e doença\" loading=\"lazy\"><figcaption>Aula de epidemiologia analítica, semana 7 · página 32 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-epi-table-1",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w7a-p32.webp\" alt=\"A tabela 2×2 de exposição e doença\" loading=\"lazy\"><figcaption>Aula de epidemiologia analítica, semana 7 · página 32 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-epi-table-2",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w7a-p33.webp\" alt=\"Risco relativo: incidência nos expostos sobre incidência nos não expostos\" loading=\"lazy\"><figcaption>Aula de epidemiologia analítica, semana 7 · página 33 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-epi-table-3",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w7a-p32.webp\" alt=\"A tabela 2×2 de exposição e doença\" loading=\"lazy\"><figcaption>Aula de epidemiologia analítica, semana 7 · página 32 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-epi-table-4",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w7a-p23.webp\" alt=\"Estudo de coorte: de expostos e não expostos à incidência e ao RR\" loading=\"lazy\"><figcaption>Aula de epidemiologia analítica, semana 7 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-epi-table-5",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w2b-p17.webp\" alt=\"Densidade de incidência: casos novos por pessoa-tempo em risco\" loading=\"lazy\"><figcaption>Aula de medidas em saúde, semana 2 · página 17 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-epi-table-6",
+      "from": "e3b0c44298fc1c14",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w7a-p14.webp\" alt=\"Fator de confusão ligado à exposição e ao desfecho\" loading=\"lazy\"><figcaption>Aula de epidemiologia analítica, semana 7 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-ras-1",
+      "from": "98e00d172a4262a7",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-g3-p50.webp\" alt=\"Organização poliárquica com a APS como ordenadora da rede\" loading=\"lazy\"><figcaption>Guia Conass das Redes de Atenção, semana 3 · página 50 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-ras-2",
+      "from": "98e00d172a4262a7",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w3a-p07.webp\" alt=\"Elementos constitutivos da RAS: população, estrutura operacional e modelo de atenção\" loading=\"lazy\"><figcaption>Aula de Redes de Atenção à Saúde, semana 3 · página 7 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-ras-3",
+      "from": "98e00d172a4262a7",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-g3-p34.webp\" alt=\"Do sistema piramidal à rede poliárquica com a APS no centro\" loading=\"lazy\"><figcaption>Guia Conass das Redes de Atenção, semana 3 · página 34 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-ras-4",
+      "from": "98e00d172a4262a7",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-g3-p37.webp\" alt=\"Estrutura operacional das RAS: APS, pontos de atenção, sistemas de apoio, sistemas logísticos e governança\" loading=\"lazy\"><figcaption>Guia Conass das Redes de Atenção, semana 3 · página 37 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-ras-5",
+      "from": "be5ff4034e784fdc",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-g3-p37.webp\" alt=\"Estrutura operacional das RAS: APS, pontos de atenção, sistemas de apoio, sistemas logísticos e governança\" loading=\"lazy\"><figcaption>Guia Conass das Redes de Atenção, semana 3 · página 37 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-ras-6",
+      "from": "be5ff4034e784fdc",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-g3-p37.webp\" alt=\"Estrutura operacional das RAS: APS, pontos de atenção, sistemas de apoio, sistemas logísticos e governança\" loading=\"lazy\"><figcaption>Guia Conass das Redes de Atenção, semana 3 · página 37 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-redes-1",
+      "from": "7816d37fa9a8a5a2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w3a-p11.webp\" alt=\"Quatro redes temáticas e seus componentes\" loading=\"lazy\"><figcaption>Aula de Redes de Atenção à Saúde, semana 3 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-redes-2",
+      "from": "7816d37fa9a8a5a2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w3a-p11.webp\" alt=\"Quatro redes temáticas e seus componentes\" loading=\"lazy\"><figcaption>Aula de Redes de Atenção à Saúde, semana 3 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-redes-3",
+      "from": "7816d37fa9a8a5a2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w3a-p11.webp\" alt=\"Quatro redes temáticas e seus componentes\" loading=\"lazy\"><figcaption>Aula de Redes de Atenção à Saúde, semana 3 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-redes-4",
+      "from": "7816d37fa9a8a5a2",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w3a-p11.webp\" alt=\"Quatro redes temáticas e seus componentes\" loading=\"lazy\"><figcaption>Aula de Redes de Atenção à Saúde, semana 3 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-redes-5",
+      "from": "bfd14f8b9e3faa08",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w3a-p12.webp\" alt=\"Rede de atenção às pessoas com doenças crônicas\" loading=\"lazy\"><figcaption>Aula de Redes de Atenção à Saúde, semana 3 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-redes-6",
+      "from": "bfd14f8b9e3faa08",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w3a-p09.webp\" alt=\"O fundamento econômico da rede: escala, escopo, volume e acesso\" loading=\"lazy\"><figcaption>Aula de Redes de Atenção à Saúde, semana 3 · página 9 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-desc-1",
+      "from": "f344942e114aab5f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w4a-p12.webp\" alt=\"Evolução dos casos graves de COVID-19 por semana epidemiológica\" loading=\"lazy\"><figcaption>Aula de epidemiologia descritiva, semana 4 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-desc-2",
+      "from": "f344942e114aab5f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w4a-p18.webp\" alt=\"Mapa da febre maculosa por município\" loading=\"lazy\"><figcaption>Aula de epidemiologia descritiva, semana 4 · página 18 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-desc-3",
+      "from": "f344942e114aab5f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w4a-p22.webp\" alt=\"Pessoa: quem está adoecendo\" loading=\"lazy\"><figcaption>Aula de epidemiologia descritiva, semana 4 · página 22 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-desc-4",
+      "from": "f344942e114aab5f",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w4a-p19.webp\" alt=\"Coeficiente de incidência e números absolutos por município\" loading=\"lazy\"><figcaption>Aula de epidemiologia descritiva, semana 4 · página 19 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-desc-5",
+      "from": "485e69e27140b587",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w4a-p07.webp\" alt=\"Quando usar a epidemiologia descritiva\" loading=\"lazy\"><figcaption>Aula de epidemiologia descritiva, semana 4 · página 7 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-desc-7",
+      "from": "485e69e27140b587",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w4a-p19.webp\" alt=\"Coeficiente de incidência e números absolutos por município\" loading=\"lazy\"><figcaption>Aula de epidemiologia descritiva, semana 4 · página 19 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-desc-8",
+      "from": "485e69e27140b587",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-w7a-p21.webp\" alt=\"Falácia ecológica: chocolate e prêmios Nobel\" loading=\"lazy\"><figcaption>Aula de epidemiologia analítica, semana 7 · página 21 do PDF</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-pics-1",
+      "from": "36d2cd3c19d78951",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-p5-p04.webp\" alt=\"Complementar, alternativa e integrativa não são sinônimos\" loading=\"lazy\"><figcaption>Aula de PICS, semana 5 · slide 4</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-pics-2",
+      "from": "36d2cd3c19d78951",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-p5-p24.webp\" alt=\"Melhorou depois não significa melhorou por causa\" loading=\"lazy\"><figcaption>Aula de PICS, semana 5 · slide 24</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-pics-3",
+      "from": "36d2cd3c19d78951",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-p5-p25.webp\" alt=\"Segurança inclui mais do que eventos adversos\" loading=\"lazy\"><figcaption>Aula de PICS, semana 5 · slide 25</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-pics-4",
+      "from": "36d2cd3c19d78951",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-p5-p23.webp\" alt=\"PICO: transformar crença em pergunta clínica\" loading=\"lazy\"><figcaption>Aula de PICS, semana 5 · slide 23</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-pics-5",
+      "from": "6eab30778d86c3c4",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-p5-p29.webp\" alt=\"Decisão compartilhada: um contrato clínico simples\" loading=\"lazy\"><figcaption>Aula de PICS, semana 5 · slide 29</figcaption></figure>"
+    },
+    {
+      "id": "anki-pf-pics-6",
+      "from": "6eab30778d86c3c4",
+      "version": "2026-09-28.1",
+      "reason": "Slide da aula no verso do cartão",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-pf-p5-p26.webp\" alt=\"Quando integrar: checklist clínico em seis passos\" loading=\"lazy\"><figcaption>Aula de PICS, semana 5 · slide 26</figcaption></figure>"
+    }
+  ]
+}
