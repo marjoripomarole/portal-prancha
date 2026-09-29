@@ -60,6 +60,8 @@ Os cartões de recordação mostram, depois da resposta, o slide da aula que ens
 
 Antes de publicar: `npm run validate:content`, `node tests/reviewed-content.mjs`, `node tests/answer-cues.mjs`, `node --experimental-strip-types tests/study.mjs`, verificação de tipos e build. O teste compara o catálogo com o HEAD, impede alteração dos itens anteriores nesta atualização e verifica repetição da importação, colisões de IDs e ausência de fontes. O inventário e o relatório privado ficam fora do projeto, em `_/Portal Prancha/Atualização diária/`. Inventariado ou citado não significa publicado.
 
+Em 29/09, antes da N1 de Microbiota, a virologia das semanas 5 a 8 foi conferida contra as aulas, APS e aulas práticas. O pacote `2026-09-29-virologia-n1.json` acrescentou 43 objetivas, 68 cartões e 5 discursivas nos temas que faltavam, como desidratação, rotavírus, enterovírus e pólio, sinais de alarme e grupos da dengue, prova do laço, fases da febre amarela, contágio do Ebola, hantavírus e paramentação. Os cartões com slide visual da aula o mostram no verso; números de genótipos não foram cobrados, a pedido da docente.
+
 Em 21/09, foram acrescentados 22 itens da semana 8: cinco leituras, 12 questões e cinco cartões em Pesquisa, Genética, Molécula, Microbiota e Prática Médica. A seleção não representa cobertura integral das aulas. Histologia/Neuroembriologia aguardam revisão das imagens; documentos pessoais e de visitas não foram incorporados. A inversão de rótulos na página 17 da aula de Genética foi registrada e esclarecida na leitura correspondente.
 
 ## Publicação

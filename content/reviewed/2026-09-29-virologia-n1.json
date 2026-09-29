@@ -1,0 +1,1736 @@
+{
+  "reviewedAt": "2026-09-29",
+  "sources": [
+    {
+      "path": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "sha256": "925e889220e4914eb7319c082392b621e000a763e519008c27a687dda6a8e771",
+      "scope": "Efeito citopático, tipos de infecção, vírus e câncer, morfologia, liberação e lisogenia."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 5/APS_Aula_05_Classificacao_Estrutura_Replicacao_Viral.pdf",
+      "sha256": "c034ad052fe19bb1131252d9a3d0e98a9a4f4bdf5016891f8842ed116b788155",
+      "scope": "Caso do vírus de RNA negativo, envelopado e respiratório."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "sha256": "6c0b90924e306465fdb79a6c908b47c3af845c98239066349d42d3a6dec6c1db",
+      "scope": "Influenza e coronavírus: grupos de risco, complicações, tratamento por fase, vacina e antivirais."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "sha256": "93d3cf187496078167f49ed58c008758bd8cf56a8db8224fa1f532b15766924c",
+      "scope": "Paramixovírus: sarampo, caxumba, VSR, proteínas HN, H, G e F, tríplice viral."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 6/Aula Prática - Casos clínicos.pdf",
+      "sha256": "8c304ae4b020ce68b1fb9e5cbdb3d94c29ecb8367e21c1e26f109e809121c53c",
+      "scope": "Casos de sarampo e influenza usados como modelo das discursivas."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "sha256": "df178193fe114416279adf7a6fb38983d3ccc4a8deb30ad26f5a51b1aa61ca33",
+      "scope": "Desidratação, pistas de etiologia, rotavírus, norovírus, enterovírus e pólio. Sem números de genótipos, como pediu a docente."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "sha256": "f22703a2dd1c0eb79ecd95578635780af4c93bfd1047669e0b0a6e22cc435060",
+      "scope": "Ebola e hantavírus: contágio, evasão imune, seguimento de contatos e formas clínicas."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "sha256": "a95bf0f59c10dc551e9333d86be119adc98370a38ebdb939d0b54d0ae8fde2b6",
+      "scope": "Dengue e febre amarela: sinais de alarme, grupos, diagnóstico por fase, ciclos, vetores e fases."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- prova do laço.pdf",
+      "sha256": "75c3ac91c7d056f53262733e9dd4b6e6115a589a63e2420650e67d56425540df",
+      "scope": "Técnica e interpretação da prova do laço."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- paramentação.pdf",
+      "sha256": "e2c6f33c64925a2dc0cb6142a90f65ca5abce9feaa44e4b2e3d42443c45206fd",
+      "scope": "Paramentação e desparamentação para vírus respiratórios e Ebola."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- febres hemorrágicas.pdf",
+      "sha256": "7171180f0c74426d1da2c15b480ac8ac0dbb42cffc3c0977503ff8b9fb804453",
+      "scope": "Caso suspeito de Ebola da aula prática."
+    }
+  ],
+  "items": [
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-q1",
+      "kind": "mcq",
+      "title": "O que é efeito citopático?",
+      "options": [
+        "Resposta de anticorpos que neutraliza a partícula viral",
+        "Dano visível na célula causado pela replicação do vírus",
+        "Ligação da glicoproteína viral ao receptor da célula",
+        "Integração do genoma viral no cromossomo do hospedeiro"
+      ],
+      "answer": 1,
+      "explanation": "Na aula, a replicação pode causar lise, apoptose, alteração de membrana, alterações metabólicas, de organelas e inclusões. É o efeito direto do vírus, que se soma ao dano causado pela resposta imune."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-q2",
+      "kind": "mcq",
+      "title": "Qual é a diferença entre infecção latente e infecção crônica?",
+      "options": [
+        "Na latente há produção contínua de vírus; na crônica o genoma fica silencioso",
+        "Na latente o vírus é eliminado; na crônica ele volta na forma de novas cepas",
+        "Na latente o dano vem da resposta imune; na crônica, do efeito citopático",
+        "Na latente o genoma fica sem produzir vírus; na crônica a produção continua"
+      ],
+      "answer": 3,
+      "explanation": "Na latência, como nos herpesvírus, o genoma permanece com pouca ou nenhuma produção viral e pode reativar, o que dá a forma recorrente. Na infecção crônica, a produção viral se prolonga."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-q3",
+      "kind": "mcq",
+      "title": "Qual associação entre vírus e câncer foi apresentada na aula?",
+      "options": [
+        "HPV e carcinoma hepatocelular após hepatite crônica",
+        "EBV e câncer do colo do útero em mulheres jovens",
+        "HTLV-1 e leucemia/linfoma de células T do adulto",
+        "HBV e linfoma de Burkitt em crianças da África"
+      ],
+      "answer": 2,
+      "explanation": "Na aula: HPV com câncer do colo do útero, EBV com diferentes neoplasias, como o linfoma de Burkitt, HBV e HCV com carcinoma hepatocelular, e HTLV-1 com leucemia/linfoma de células T do adulto. Esses vírus interferem no ciclo celular, na apoptose e no reparo do DNA."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-q4",
+      "kind": "mcq",
+      "title": "Como vírus sem envelope e vírus envelopados costumam deixar a célula?",
+      "options": [
+        "Sem envelope por lise da célula; com envelope por brotamento",
+        "Sem envelope por brotamento; com envelope por lise da célula",
+        "Os dois por exocitose, sem causar dano à célula hospedeira",
+        "Os dois por lise, pois o envelope se forma fora da célula"
+      ],
+      "answer": 0,
+      "explanation": "Os não envelopados saem por rupturas da membrana plasmática, o que em geral mata a célula. Os envelopados brotam e levam parte da membrana como envelope."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-q5",
+      "kind": "mcq",
+      "title": "Qual par morfologia do capsídeo e exemplo está correto?",
+      "options": [
+        "Complexo: poliovírus, de capsídeo icosaédrico",
+        "Helicoidal: adenovírus, com faces triangulares",
+        "Helicoidal: vírus Ebola, em forma de bastonete",
+        "Poliédrico: bacteriófago com cabeça e cauda"
+      ],
+      "answer": 2,
+      "explanation": "Helicoidal: Ebola. Poliédrico ou icosaédrico: adenovírus e poliovírus. Complexo: bacteriófagos, com cabeça e cauda, e poxvírus."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-q6",
+      "kind": "mcq",
+      "title": "O gene da toxina diftérica vem de um fago lisogênico. O que isso ilustra?",
+      "options": [
+        "Ciclo lítico: a bactéria é destruída ao liberar a toxina",
+        "Conversão fágica: a bactéria ganha uma nova propriedade",
+        "Transdução generalizada de genes bacterianos ao acaso",
+        "Resistência da bactéria a antibióticos de largo espectro"
+      ],
+      "answer": 1,
+      "explanation": "Na lisogenia, o profago pode trazer genes que mudam o fenótipo da bactéria. O gene da toxina diftérica pertence ao fago β, não ao genoma original de Corynebacterium diphtheriae. A toxina do botulismo é outro exemplo da aula."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/APS_Aula_05_Classificacao_Estrutura_Replicacao_Viral.pdf; Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-w1",
+      "kind": "written",
+      "title": "Um novo vírus respiratório tem RNA de fita simples negativa, envelope e glicoproteínas de superfície. Explique como ele entra na célula, o que define seu tropismo, como usa o genoma e como sai.",
+      "rubric": [
+        "Glicoproteínas de superfície ligam receptores da célula: adsorção",
+        "O tropismo depende do receptor e de a célula permitir a replicação",
+        "Entrada por fusão do envelope ou por endocitose, seguida de desnudamento",
+        "RNA negativo não serve de mRNA: a RNA-polimerase trazida no vírion transcreve RNA positivo",
+        "Montagem, maturação e saída por brotamento, levando parte da membrana"
+      ],
+      "explanation": "É o caso da APS da semana 5. O ponto central é que o genoma negativo precisa ser transcrito pela polimerase do próprio vírus antes de qualquer tradução, e que o envelope vem da membrana da célula no brotamento."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-r1",
+      "kind": "recall",
+      "title": "Efeito citopático",
+      "explanation": "Dano na célula causado pela replicação viral\n\nLise, apoptose, alteração de membrana, alterações metabólicas e de organelas, inclusões. Soma-se ao dano causado pela resposta imune.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p35.webp\" alt=\"Patogênese viral: da entrada à manifestação clínica\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 35 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-r2",
+      "kind": "recall",
+      "title": "Infecção latente ou crônica",
+      "explanation": "Latente: genoma sem produção viral, pode reativar. Crônica: produção prolongada\n\nExemplo de latência: herpesvírus. A reativação após a latência dá a forma recorrente.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p38.webp\" alt=\"Disseminação viral e tipos de infecção: aguda, persistente, crônica e latente\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 38 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-r3",
+      "kind": "recall",
+      "title": "Vírus associados a câncer",
+      "explanation": "HPV, EBV, HBV, HCV e HTLV-1\n\nHPV: colo do útero. EBV: linfoma de Burkitt e outras neoplasias. HBV e HCV: carcinoma hepatocelular. HTLV-1: leucemia/linfoma de células T do adulto."
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-r4",
+      "kind": "recall",
+      "title": "Saída da célula: vírus com e sem envelope",
+      "explanation": "Sem envelope: lise. Com envelope: brotamento\n\nA lise em geral mata a célula. No brotamento, o vírus leva parte da membrana como envelope.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p32.webp\" alt=\"Maturação e liberação dos vírions\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 32 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-r5",
+      "kind": "recall",
+      "title": "Morfologia do capsídeo",
+      "explanation": "Helicoidal, poliédrica ou complexa\n\nHelicoidal: Ebola. Poliédrico: adenovírus e poliovírus. Complexo: bacteriófagos e poxvírus.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p14.webp\" alt=\"Morfologia viral: vírus helicoidal, poliédrico e envelopado\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-r6",
+      "kind": "recall",
+      "title": "Vias de disseminação viral",
+      "explanation": "Local, sangue, linfa e nervos\n\nNo sangue, a presença do vírus é a viremia.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p38.webp\" alt=\"Disseminação viral e tipos de infecção: aguda, persistente, crônica e latente\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 38 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 5,
+      "module": "Estrutura, replicação e patogênese viral",
+      "source": "Microbiota a Imunidade II/semana 5/Aula 5  Classificação Estrutura e Replicação Viral  Mecanismos de patogênese viral.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w05-n1-r7",
+      "kind": "recall",
+      "title": "Três consequências da lisogenia",
+      "explanation": "Imunidade ao mesmo fago, conversão fágica e transdução especializada\n\nConversão fágica: genes do profago dão novas propriedades, como as toxinas diftérica e botulínica.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w5a-p24.webp\" alt=\"Três consequências da lisogenia\" loading=\"lazy\"><figcaption>Aula de estrutura e replicação viral, semana 5 · página 24 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-q1",
+      "kind": "mcq",
+      "title": "Um adulto com influenza melhora no 4º dia, mas no 6º volta a ter febre, tosse produtiva e piora respiratória. Qual hipótese a aula destaca?",
+      "options": [
+        "Pneumonia viral primária por progressão direta",
+        "Crupe por parainfluenza associada à influenza",
+        "Reação à vacina da influenza tomada no ano anterior",
+        "Pneumonia bacteriana secundária, como por S. aureus"
+      ],
+      "answer": 3,
+      "explanation": "O padrão bifásico, melhora seguida de piora, sugere pneumonia bacteriana secundária por S. pneumoniae, S. aureus ou H. influenzae. A pneumonia viral primária progride direto, sem essa melhora."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-q2",
+      "kind": "mcq",
+      "title": "Por que se evita AAS em criança ou adolescente com influenza?",
+      "options": [
+        "Pelo risco de síndrome de Reye",
+        "Porque o AAS inibe a neuraminidase",
+        "Porque reduz a resposta à vacina",
+        "Pelo risco de pneumonia bacteriana"
+      ],
+      "answer": 0,
+      "explanation": "A aula contraindica AAS nessa faixa etária durante a influenza pelo risco de síndrome de Reye. Para febre e dor, usar paracetamol ou dipirona."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-q3",
+      "kind": "mcq",
+      "title": "Um paciente com influenza está internado no 4º dia de sintomas. E o oseltamivir?",
+      "options": [
+        "Contraindicado, porque já passou a janela de 48 horas",
+        "Indicado, mesmo depois de 48 horas, por estar internado",
+        "Dispensável, porque a influenza é autolimitada em adultos",
+        "Condicionado a um teste rápido de antígeno positivo"
+      ],
+      "answer": 1,
+      "explanation": "O maior benefício ocorre se iniciado em até 48 horas, mas o tratamento é indicado a qualquer momento para hospitalizados, doença grave ou progressiva e grupos de risco. Teste rápido negativo não exclui influenza."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-q4",
+      "kind": "mcq",
+      "title": "Qual paciente pertence a grupo de risco para complicações da influenza?",
+      "options": [
+        "Adulto de 40 anos com IMC de 27",
+        "Criança saudável de 9 anos de idade",
+        "Puérpera com 10 dias de pós-parto",
+        "Adolescente com rinite alérgica leve"
+      ],
+      "answer": 2,
+      "explanation": "Grupos de risco da aula: menores de 5 anos, sobretudo de 2, idosos de 65 anos ou mais, gestantes e puérperas até 2 semanas, comorbidades crônicas, obesidade com IMC de 40 ou mais e imunossuprimidos."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-q5",
+      "kind": "mcq",
+      "title": "Por que a vacina da influenza precisa ser aplicada todo ano?",
+      "options": [
+        "O drift muda HA e NA, e a composição é revista a cada ano",
+        "A vacina é de vírus vivo e perde a potência em poucos meses",
+        "O shift ocorre a cada inverno e troca segmentos das cepas",
+        "A imunidade contra a influenza não gera anticorpos de memória"
+      ],
+      "answer": 0,
+      "explanation": "Mutações pontuais graduais em HA e NA, o drift, reduzem o reconhecimento pelos anticorpos. A OMS revisa a composição anualmente para cada hemisfério. A efetividade típica é de 40 a 60%, com benefício contra formas graves."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-q6",
+      "kind": "mcq",
+      "title": "Na COVID-19, quando cada tratamento é mais útil?",
+      "options": [
+        "Corticoide na fase precoce; antiviral na fase inflamatória",
+        "Antiviral e corticoide juntos desde o primeiro dia de sintomas",
+        "Antiviral na fase precoce; corticoide na inflamatória, com O₂",
+        "Corticoide em doença leve para prevenir a fase inflamatória"
+      ],
+      "answer": 2,
+      "explanation": "A aula marca essa lógica como essencial para a prova. Antiviral, como nirmatrelvir/ritonavir, na fase replicativa, em ambulatorial de alto risco e idealmente até 5 dias. Corticoide, como dexametasona, na fase inflamatória, em hospitalizados hipoxêmicos. Não usar corticoide em doença leve sem O₂."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-q7",
+      "kind": "mcq",
+      "title": "No sarampo, o que causa o exantema?",
+      "options": [
+        "A replicação do vírus nos queratinócitos da pele",
+        "Uma toxina liberada pelo vírus na corrente sanguínea",
+        "Imunocomplexos de IgE depositados nos capilares",
+        "A resposta de linfócitos T às células infectadas"
+      ],
+      "answer": 3,
+      "explanation": "Pela aula, a erupção resulta da resposta dos linfócitos T às células epiteliais infectadas. Por isso, quem tem deficiência de linfócitos T pode evoluir com pneumonia de células gigantes e até sem exantema."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-q8",
+      "kind": "mcq",
+      "title": "Anos depois de um sarampo, uma criança desenvolve deterioração neurológica progressiva. Qual complicação?",
+      "options": [
+        "Meningite asséptica pós-caxumba tardia",
+        "Panencefalite esclerosante subaguda",
+        "Síndrome de Reye por uso de antitérmico",
+        "Encefalite aguda por reinfecção do vírus"
+      ],
+      "answer": 1,
+      "explanation": "A PEES surge 5 a 7 anos após o sarampo, por uma variante defeituosa do vírus no SNC. Outras complicações da aula: otite, pneumonia, encefalite e imunossupressão transitória."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-q9",
+      "kind": "mcq",
+      "title": "Qual par proteína dos paramixovírus e função está correto?",
+      "options": [
+        "F: funde membranas e forma sincícios",
+        "HN: funde células e forma sincícios",
+        "G: liga ácido siálico no sarampo",
+        "H: libera partículas na caxumba"
+      ],
+      "answer": 0,
+      "explanation": "HN, no parainfluenza e na caxumba, liga ácido siálico e tem atividade de neuraminidase. H é a proteína de ligação do sarampo, e G, a do VSR. A proteína F funde o envelope à membrana e células vizinhas entre si, formando sincícios."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf; Microbiota a Imunidade II/semana 6/Aula Prática - Casos clínicos.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-q10",
+      "kind": "mcq",
+      "title": "Sobre a vacina tríplice viral, qual afirmação está correta?",
+      "options": [
+        "É de vírus inativados e pode ser dada logo após o nascimento",
+        "Protege contra sarampo, caxumba e varicela em dose anual",
+        "É indicada após exposição, em até 30 dias do contato com o caso",
+        "É de vírus vivos atenuados, com dose após os 12 meses e reforço"
+      ],
+      "answer": 3,
+      "explanation": "A tríplice viral protege contra sarampo, caxumba e rubéola com vírus vivos atenuados. Na aula, a primeira dose é após os 12 meses, com reforço posterior; uma dose imuniza cerca de 95%."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-q11",
+      "kind": "mcq",
+      "title": "Como a aula resume a prevenção do VSR em lactentes de risco?",
+      "options": [
+        "Vacina de vírus vivo atenuado aplicada logo ao nascer",
+        "Oseltamivir profilático durante a estação do vírus",
+        "Imunização passiva com anticorpo em prematuros de risco",
+        "Antibiótico precoce para evitar a bronquiolite viral grave"
+      ],
+      "answer": 2,
+      "explanation": "Para o VSR, a aula cita imunização passiva de recém-nascidos prematuros de alto risco. As formas brandas são tratadas com suporte; antibiótico não trata vírus."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-q12",
+      "kind": "mcq",
+      "title": "Qual característica é dos coronavírus sazonais, como 229E, NL63, OC43 e HKU1?",
+      "options": [
+        "Usam DPP4 como receptor e causam doença de alta letalidade",
+        "Causam parte dos resfriados, com reinfecções frequentes",
+        "Surgiram em 2019 e causam surtos com alta letalidade",
+        "Sofrem shift por terem genoma de RNA segmentado"
+      ],
+      "answer": 1,
+      "explanation": "Os quatro coronavírus sazonais respondem por 10 a 30% dos resfriados; a imunidade é curta e reinfecções são comuns. DPP4 é o receptor do MERS-CoV. Shift é exclusivo da influenza, que tem genoma segmentado."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf; Microbiota a Imunidade II/semana 6/Aula Prática - Casos clínicos.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-w1",
+      "kind": "written",
+      "title": "Explique a diferença entre drift e shift no vírus influenza e relacione cada um à vacina anual e ao potencial pandêmico.",
+      "rubric": [
+        "Drift: mutações pontuais graduais em HA e NA",
+        "O drift causa epidemias sazonais e exige revisar a vacina todo ano",
+        "Shift: rearranjo de segmentos entre vírus diferentes, possível porque o genoma é segmentado",
+        "O shift pode trazer HA ou NA nova, sem imunidade na população: potencial pandêmico",
+        "Exemplo da aula: porco infectado ao mesmo tempo por vírus humano e aviário"
+      ],
+      "explanation": "É a pergunta da aula prática de influenza. Drift e shift são exclusivos da influenza entre os vírus da aula; o SARS-CoV-2 também muda por deriva contínua, mas não tem segmentos para rearranjar."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Prática - Casos clínicos.pdf; Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-w2",
+      "kind": "written",
+      "title": "Criança de 6 anos sem a segunda dose da tríplice viral tem febre, tosse, coriza, conjuntivite, manchas de Koplik e exantema que começou na face. Há outros casos na comunidade. Explique por que a queda da cobertura vacinal traz o sarampo de volta e quais medidas tomar.",
+      "rubric": [
+        "Sarampo é muito contagioso, por aerossóis, e transmite antes dos sintomas",
+        "A queda da cobertura acumula suscetíveis e rompe a imunidade coletiva",
+        "Notificar o caso suspeito de imediato",
+        "Isolar o paciente e identificar os contatos",
+        "Verificar a vacinação dos contatos e vacinar os suscetíveis"
+      ],
+      "explanation": "O caso é o da aula prática. Tosse, coriza e conjuntivite, seguidas de Koplik e exantema cefalocaudal, com esquema vacinal incompleto, tornam o sarampo a hipótese principal."
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r1",
+      "kind": "recall",
+      "title": "Influenza: melhora e depois piora",
+      "explanation": "Pneumonia bacteriana secundária\n\nAgentes: S. pneumoniae, S. aureus e H. influenzae. A pneumonia viral primária progride direto, sem melhora.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p17.webp\" alt=\"Complicações da influenza, com o padrão bifásico da pneumonia bacteriana secundária\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 17 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r2",
+      "kind": "recall",
+      "title": "Oseltamivir: quando iniciar",
+      "explanation": "Melhor até 48 horas; em casos graves, a qualquer momento\n\nTratar todo hospitalizado, doença grave ou progressiva e grupos de risco, independentemente do tempo de sintomas.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p19.webp\" alt=\"Tratamento da influenza: antivirais e quem tratar\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 19 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r3",
+      "kind": "recall",
+      "title": "Grupos de risco da influenza",
+      "explanation": "Extremos de idade, gestantes e puérperas, comorbidades e imunossupressão\n\nMenores de 5 anos, sobretudo de 2; 65 anos ou mais; gestação e até 2 semanas pós-parto; IMC de 40 ou mais.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p16.webp\" alt=\"Grupos de risco para complicações da influenza\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 16 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r4",
+      "kind": "recall",
+      "title": "AAS na criança com influenza",
+      "explanation": "Contraindicado: risco de síndrome de Reye\n\nPara febre e dor, usar paracetamol ou dipirona.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p46.webp\" alt=\"Conceitos essenciais: drift e shift, ACE2 e DPP4, AAS na influenza, corticoide na COVID-19\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 46 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r5",
+      "kind": "recall",
+      "title": "Vacina da influenza",
+      "explanation": "Anual, a partir dos 6 meses, por causa do drift\n\nA OMS revisa a composição para cada hemisfério. Efetividade típica de 40 a 60%, com proteção contra formas graves.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p20.webp\" alt=\"Prevenção da influenza: vacinação anual, efetividade e quimioprofilaxia\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 20 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r6",
+      "kind": "recall",
+      "title": "Mecanismo dos antivirais da aula",
+      "explanation": "Oseltamivir e zanamivir inibem neuraminidase\n\nBaloxavir inibe a endonuclease da polimerase, em dose única. Nirmatrelvir/ritonavir inibe a protease do SARS-CoV-2.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p42.webp\" alt=\"Antivirais e dexametasona: resumo comparativo\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 42 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r7",
+      "kind": "recall",
+      "title": "COVID-19: tratamento por fase",
+      "explanation": "Antiviral precoce, corticoide tardio\n\nReplicativa: nirmatrelvir/ritonavir em alto risco, até 5 dias. Inflamatória: dexametasona em hospitalizado com O₂. Crítica: suporte.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p39.webp\" alt=\"COVID-19: fase replicativa, inflamatória e crítica, com o tratamento de cada uma\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 39 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r8",
+      "kind": "recall",
+      "title": "Complicações do sarampo",
+      "explanation": "Otite, pneumonia, encefalite, imunossupressão e PEES\n\nA PEES surge 5 a 7 anos depois, por variante defeituosa do vírus no SNC.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6b-p12.webp\" alt=\"Evolução temporal do sarampo, com manchas de Koplik, exantema e PEES\" loading=\"lazy\"><figcaption>Aula de paramixovírus, semana 6 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r9",
+      "kind": "recall",
+      "title": "Exantema do sarampo",
+      "explanation": "Resposta de linfócitos T às células infectadas\n\nSem linfócitos T, pode haver pneumonia de células gigantes e faltar o exantema.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6b-p11.webp\" alt=\"Mecanismos patológicos do sarampo\" loading=\"lazy\"><figcaption>Aula de paramixovírus, semana 6 · página 11 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r10",
+      "kind": "recall",
+      "title": "Proteínas dos paramixovírus",
+      "explanation": "HN, H ou G ligam; F funde\n\nHN: parainfluenza e caxumba, liga ácido siálico e tem neuraminidase. H: sarampo. G: VSR. F: fusão com a membrana e sincícios.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6b-p09.webp\" alt=\"Replicação dos paramixovírus: proteínas HN, H, G e F e formação de sincícios\" loading=\"lazy\"><figcaption>Aula de paramixovírus, semana 6 · página 9 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r11",
+      "kind": "recall",
+      "title": "Complicações da caxumba",
+      "explanation": "Orquite, ooforite, pancreatite, meningite e encefalite\n\nPodem ocorrer mesmo sem parotidite. A orquite pode causar esterilidade.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6b-p18.webp\" alt=\"Evolução temporal da caxumba, com orquite e meningoencefalite\" loading=\"lazy\"><figcaption>Aula de paramixovírus, semana 6 · página 18 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r12",
+      "kind": "recall",
+      "title": "Tríplice viral",
+      "explanation": "Vírus vivos atenuados: sarampo, caxumba e rubéola\n\nPrimeira dose após os 12 meses, com reforço. Uma dose imuniza cerca de 95%.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6b-p32.webp\" alt=\"Prevenção dos paramixovírus e síndrome típica de cada vírus\" loading=\"lazy\"><figcaption>Aula de paramixovírus, semana 6 · página 32 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r13",
+      "kind": "recall",
+      "title": "Prevenção do VSR",
+      "explanation": "Imunização passiva em prematuros de alto risco\n\nFormas brandas: tratamento de suporte.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6b-p32.webp\" alt=\"Prevenção dos paramixovírus e síndrome típica de cada vírus\" loading=\"lazy\"><figcaption>Aula de paramixovírus, semana 6 · página 32 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r14",
+      "kind": "recall",
+      "title": "Coronavírus sazonais",
+      "explanation": "229E, NL63, OC43 e HKU1: 10 a 30% dos resfriados\n\nImunidade curta e reinfecções comuns. NL63 também usa ACE2.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p22.webp\" alt=\"Coronavírus sazonais: 229E, NL63, OC43 e HKU1\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 22 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula Virus Respiratorios 08 set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r15",
+      "kind": "recall",
+      "title": "Resfriado, influenza ou COVID-19",
+      "explanation": "Início gradual, abrupto ou variável\n\nResfriado: pouca febre, coriza. Influenza: febre alta e mialgia intensa. COVID-19: anosmia e ageusia sugerem. A confirmação exige teste.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6a-p41.webp\" alt=\"Diagnóstico diferencial rápido: resfriado, influenza e COVID-19\" loading=\"lazy\"><figcaption>Aula de vírus respiratórios, semana 6 · página 41 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 6,
+      "module": "Vírus respiratórios: comparar e interpretar",
+      "source": "Microbiota a Imunidade II/semana 6/Aula 6 Vírus respiratórios 1.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w06-n1-r16",
+      "kind": "recall",
+      "title": "Transmissão do sarampo",
+      "explanation": "Aerossóis, muito contagioso, antes dos sintomas\n\nUm sorotipo e imunidade duradoura. Maior risco: não vacinados, lactentes, desnutridos com falta de vitamina A e imunodeprimidos.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w6b-p12.webp\" alt=\"Evolução temporal do sarampo, com manchas de Koplik, exantema e PEES\" loading=\"lazy\"><figcaption>Aula de paramixovírus, semana 6 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-q1",
+      "kind": "mcq",
+      "title": "Um lactente com gastroenterite está torporoso, com olhos muito fundos, lágrimas ausentes e pulso fraco. Qual é a classificação e a conduta?",
+      "options": [
+        "Leve, com soro oral em casa",
+        "Moderada, com antidiarreico",
+        "Grave, com reidratação intravenosa",
+        "Grave, com dieta de líquidos claros"
+      ],
+      "answer": 2,
+      "explanation": "Torpor, olhos muito fundos, lágrimas ausentes e pulso fraco indicam desidratação grave, de 10% ou mais, com reidratação intravenosa. Antidiarreicos e dietas restritivas não são recomendados."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-q2",
+      "kind": "mcq",
+      "title": "Numa diarreia aguda, qual achado sugere causa bacteriana ou parasitária, e não viral?",
+      "options": [
+        "Vômitos proeminentes no início do quadro",
+        "Sangue ou muco nas fezes, com tenesmo",
+        "Diarreia aquosa em criança de creche",
+        "Outros casos semelhantes na mesma casa"
+      ],
+      "answer": 1,
+      "explanation": "Diarreia aquosa, vômitos e surto em creche combinam com vírus. Sangue ou muco, febre acima de 40 °C, tenesmo e exposições de risco, como alimento cru, sugerem bactéria ou parasita."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-q3",
+      "kind": "mcq",
+      "title": "Qual orientação sobre dieta está correta numa gastroenterite por rotavírus?",
+      "options": [
+        "Manter o aleitamento e retomar a dieta habitual para a idade",
+        "Suspender o leite materno até a diarreia desaparecer por completo",
+        "Oferecer líquidos claros e dieta BRAT por uma semana",
+        "Jejum por 24 horas para o intestino se recuperar"
+      ],
+      "answer": 0,
+      "explanation": "Depois de corrigir a desidratação, retoma-se a alimentação habitual; dietas restritivas não são recomendadas e o aleitamento materno não deve ser suspenso. Pode haver intolerância transitória à lactose pela perda de enzimas da borda em escova."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-q4",
+      "kind": "mcq",
+      "title": "Uma criança de 2 anos com gastroenterite e desidratação leve tem vômitos que impedem a reidratação oral. O que a aula permite considerar?",
+      "options": [
+        "Loperamida para reduzir o número de evacuações",
+        "Antibiótico empírico para encurtar a diarreia",
+        "Probiótico de rotina como tratamento principal",
+        "Ondansetrona em dose única para permitir a TRO"
+      ],
+      "answer": 3,
+      "explanation": "Ondansetrona em dose única oral pode ser considerada a partir de 6 meses, com desidratação leve a moderada e vômitos que dificultam a TRO; atenção ao QTc. Antidiarreicos não são recomendados de rotina e antibiótico não trata vírus."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-q5",
+      "kind": "mcq",
+      "title": "Qual situação contraindica a vacina oral contra rotavírus?",
+      "options": [
+        "Diarreia leve em irmão mais velho",
+        "Invaginação intestinal prévia",
+        "Aleitamento materno exclusivo",
+        "Prematuridade com baixo peso ao nascer"
+      ],
+      "answer": 1,
+      "explanation": "As contraindicações da aula são imunodeficiência combinada grave, história de invaginação intestinal e anafilaxia a dose anterior. A RotaShield saiu do mercado em 1999 por aumento de invaginação."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-q6",
+      "kind": "mcq",
+      "title": "Na orofaringe, o que diferencia herpangina de gengivoestomatite herpética?",
+      "options": [
+        "Herpangina tem lesões posteriores; a herpética, anteriores",
+        "Herpangina tem lesões anteriores; a herpética, posteriores",
+        "Herpangina é causada por HSV-1; a herpética, por coxsackie",
+        "Herpangina não causa febre; a herpética causa febre alta"
+      ],
+      "answer": 0,
+      "explanation": "Herpangina, por coxsackievírus A, afeta pilares anteriores das fauces, palato mole, tonsilas e úvula, com febre alta de início abrupto. A gengivoestomatite por HSV-1 acomete gengiva e lábios, com pródromo febril mais longo."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-q7",
+      "kind": "mcq",
+      "title": "Qual enterovírus se associa às complicações graves de mão-pé-boca, como rombencefalite e edema pulmonar?",
+      "options": [
+        "Coxsackievírus B",
+        "Poliovírus tipo 2",
+        "Enterovírus A71",
+        "Echovírus 11"
+      ],
+      "answer": 2,
+      "explanation": "Complicações graves de mão-pé-boca e herpangina são raras, exceto com o EV-A71: rombencefalite, paralisia flácida aguda, meningite asséptica, miopericardite e edema pulmonar em lactentes."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-q8",
+      "kind": "mcq",
+      "title": "Por que surgem surtos por poliovírus derivado da vacina, os cVDPV?",
+      "options": [
+        "O vírus da VOP circula onde a cobertura vacinal é baixa",
+        "A VIP contém vírus vivo que volta a ser neurovirulento",
+        "A VOP deixa de proteger após cinco anos de aplicação",
+        "A vacina inativada é aplicada por via oral em surtos"
+      ],
+      "answer": 0,
+      "explanation": "Os VDPV surgem de vírus da vacina oral que circulam em populações com baixa cobertura e acumulam mutações até se tornarem neurovirulentos. A VIP é inativada e não causa VAPP nem VDPV. Por isso a VOP deve ser descontinuada após a erradicação."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-q9",
+      "kind": "mcq",
+      "title": "Por que o norovírus se espalha com tanta facilidade em creches, hospitais e navios?",
+      "options": [
+        "É transmitido por mosquitos que se reproduzem em água parada",
+        "Tem envelope lipídico e resiste bem ao álcool em gel",
+        "Causa infecção latente com reativação a cada inverno",
+        "Poucas partículas infectam; há aerossol de vômito e fômites"
+      ],
+      "answer": 3,
+      "explanation": "Menos de 100 partículas bastam para infectar. Há transmissão fecal-oral, por aerossol de vômito, fômites e alimentos, e eliminação nas fezes por semanas. O vírus não tem envelope e resiste ao álcool: lavar as mãos com água e sabão e desinfetar superfícies com hipoclorito."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-q10",
+      "kind": "mcq",
+      "title": "Uma criança teve gastroenterite há três semanas e agora tem nova diarreia. A PCR nas fezes é positiva para norovírus. O que considerar?",
+      "options": [
+        "A PCR positiva confirma que o norovírus causa o quadro atual",
+        "O norovírus deixa de ser eliminado logo após a doença",
+        "A PCR pode seguir positiva após a melhora do quadro",
+        "O resultado indica infecção latente, com reativação"
+      ],
+      "answer": 2,
+      "explanation": "Teste positivo não é sinônimo de causa: a PCR pode permanecer positiva por mais tempo que os testes de antígeno, há portadores assintomáticos e vírus vacinal nas fezes após a vacina oral de rotavírus. O resultado precisa ser lido com a clínica."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-w1",
+      "kind": "written",
+      "title": "Lactente de 11 meses, em creche com outros casos, tem febre e vômitos há 36 horas e diarreia aquosa. Está irritado, com mucosas secas, olhos fundos, lágrimas diminuídas e diurese muito reduzida. Classifique a desidratação, diga a conduta inicial e o agente mais provável.",
+      "rubric": [
+        "Desidratação moderada: irritabilidade, mucosas secas, olhos fundos, lágrimas diminuídas e diurese reduzida",
+        "Prioridade é reidratar: terapia de reidratação oral supervisionada; intravenosa se falhar ou houver vômitos incoercíveis",
+        "Manter o aleitamento e retomar a dieta depois da correção",
+        "Não usar antidiarreico nem antibiótico",
+        "Etiologia viral provável, como rotavírus ou norovírus: diarreia aquosa, vômitos e surto em creche"
+      ],
+      "explanation": "Baseado no caso da aula. A primeira pergunta é se a criança está desidratada; a etiologia vem depois e raramente muda a conduta."
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r1",
+      "kind": "recall",
+      "title": "Diarreia aguda: definição",
+      "explanation": "3 ou mais evacuações amolecidas em 24 horas\n\nOu 2 acima do hábito. Aguda: em geral menos de 7 dias, sem passar de 14. Persistente: mais de 14 dias.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p03.webp\" alt=\"Diarreia: definição e classificação em aguda, persistente e recorrente\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 3 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r2",
+      "kind": "recall",
+      "title": "Primeira pergunta na diarreia aguda",
+      "explanation": "O paciente está desidratado?\n\nCorrigir a desidratação vem antes de investigar o agente.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p05.webp\" alt=\"Antes do agente: o paciente está desidratado?\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 5 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r3",
+      "kind": "recall",
+      "title": "Sinais de desidratação grave",
+      "explanation": "Torpor, pulso fraco, olhos muito fundos, sem lágrimas\n\nTambém mucosa ressecada, prega persistente e anúria. Moderada: irritabilidade, pulso rápido, olhos fundos, lágrimas diminuídas.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p06.webp\" alt=\"Classificação clínica da desidratação: leve, moderada e grave\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 6 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r4",
+      "kind": "recall",
+      "title": "Diarreia viral ou bacteriana",
+      "explanation": "Aquosa com vômitos ou com sangue e muco\n\nViral: aquosa, vômitos, sem sangue, surto em creche. Bacteriana ou parasitária: sangue ou muco, febre acima de 40 °C, tenesmo, alimento cru.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p08.webp\" alt=\"Diarreia viral ou não viral: achados de cada lado\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 8 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r5",
+      "kind": "recall",
+      "title": "Rotavírus: o vírus",
+      "explanation": "Reoviridae, sem envelope, RNA de fita dupla em 11 segmentos\n\nDuplo capsídeo com aspecto de roda. Proteínas VP7 e VP4. Resiste no ambiente.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p12.webp\" alt=\"Rotavírus: família, morfologia, genoma segmentado e proteínas de superfície\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r6",
+      "kind": "recall",
+      "title": "Rotavírus: três mecanismos da diarreia",
+      "explanation": "Lesão vilositária, NSP4 e sistema nervoso entérico\n\nA lesão dos enterócitos causa diarreia osmótica; a NSP4 age como enterotoxina secretora; o sistema nervoso entérico aumenta a secreção e causa vômitos.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p14.webp\" alt=\"Patogênese do rotavírus: lesão vilositária, NSP4 e sistema nervoso entérico\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r7",
+      "kind": "recall",
+      "title": "Rotavírus: quem adoece mais",
+      "explanation": "Primoinfecção entre 6 e 24 meses\n\nMenores de 6 meses têm anticorpos maternos; reinfecções tendem a ser mais brandas.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p13.webp\" alt=\"Quem adoece por rotavírus: primoinfecção, anticorpos maternos e imunocomprometidos\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 13 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r8",
+      "kind": "recall",
+      "title": "Complicação transitória após rotavírus",
+      "explanation": "Intolerância à lactose\n\nPerda da lactase da borda em escova. A principal complicação é a desidratação grave.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p15.webp\" alt=\"Rotavírus: sequência clínica e complicações, como a intolerância à lactose\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 15 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r9",
+      "kind": "recall",
+      "title": "Manejo da gastroenterite viral",
+      "explanation": "Reidratar primeiro\n\nOral na leve a moderada; venosa na grave ou se a oral falha. Retomar a dieta e manter o aleitamento. Sem antidiarreico nem antibiótico de rotina.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p19.webp\" alt=\"Manejo da gastroenterite: hidratação em primeiro lugar\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 19 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r10",
+      "kind": "recall",
+      "title": "Ondansetrona na gastroenterite",
+      "explanation": "Dose única oral para permitir a reidratação\n\nA partir de 6 meses, com desidratação leve a moderada e vômitos que atrapalham a TRO. Atenção ao QTc.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p20.webp\" alt=\"Antieméticos, antidiarreicos e antibióticos na gastroenterite viral\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 20 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r11",
+      "kind": "recall",
+      "title": "Vacinas contra rotavírus",
+      "explanation": "Orais e vivas: RV1 em 2 doses, RV5 em 3\n\nRV1: monovalente humana. RV5: pentavalente, reassortante humano-bovina. A RotaShield saiu do mercado em 1999 por invaginação intestinal.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p22.webp\" alt=\"Vacinas contra rotavírus: RotaShield, RV1 e RV5\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 22 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r12",
+      "kind": "recall",
+      "title": "Contraindicações da vacina de rotavírus",
+      "explanation": "SCID, invaginação prévia e anafilaxia\n\nAnafilaxia a dose anterior ou a componente da vacina.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p23.webp\" alt=\"Vacina contra rotavírus: contraindicações e balanço de risco e benefício\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 23 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r13",
+      "kind": "recall",
+      "title": "Norovírus: por que é tão contagioso",
+      "explanation": "Menos de 100 partículas infectam\n\nAerossol de vômito, fômites, alimentos e água; eliminação nas fezes por semanas. Resiste ao álcool: água e sabão e hipoclorito.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p38.webp\" alt=\"Norovírus: por que é tão contagioso\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 38 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r14",
+      "kind": "recall",
+      "title": "Norovírus: quadro clínico",
+      "explanation": "Início abrupto e vômito proeminente\n\nIncubação de 24 a 48 horas; diarreia aquosa sem sangue; duração de 48 a 72 horas. Maior risco: idosos, lactentes e imunocomprometidos.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p39.webp\" alt=\"Norovírus: quadro clínico e comparação com o rotavírus\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 39 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r15",
+      "kind": "recall",
+      "title": "Teste positivo na diarreia",
+      "explanation": "Positivo não prova causa\n\nA PCR fica positiva por mais tempo, há portadores assintomáticos e vírus vacinal nas fezes.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p18.webp\" alt=\"Armadilha diagnóstica: resultado positivo não é causalidade\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 18 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r16",
+      "kind": "recall",
+      "title": "Enterovírus",
+      "explanation": "Picornaviridae: RNA, sem envelope, fecal-oral\n\nPoliovírus, coxsackievírus A e B, echovírus, EV-D68 e EV-A71. Mais de 90% das infecções não-pólio são assintomáticas.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p26.webp\" alt=\"Enterovírus: poliovírus, coxsackievírus, echovírus e enterovírus numerados\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 26 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r17",
+      "kind": "recall",
+      "title": "Mão-pé-boca: agentes",
+      "explanation": "Coxsackievírus A16 e EV-A71\n\nDesde 2008, o coxsackievírus A6 causa formas atípicas e mais extensas. Enantema oral e lesões em mãos, pés e nádegas.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p28.webp\" alt=\"Doença mão-pé-boca: agentes, idade, sazonalidade e transmissão\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 28 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r18",
+      "kind": "recall",
+      "title": "Herpangina ou gengivoestomatite herpética",
+      "explanation": "Lesões posteriores ou anteriores\n\nHerpangina: coxsackievírus A, pilares, palato mole e úvula. Herpética: HSV-1, gengiva e lábios.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p31.webp\" alt=\"Herpangina e o diagnóstico diferencial com a gengivoestomatite herpética\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 31 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r19",
+      "kind": "recall",
+      "title": "EV-A71: complicações",
+      "explanation": "Rombencefalite, paralisia flácida e edema pulmonar\n\nTambém meningite asséptica e miopericardite. O coxsackievírus também pode causar miocardite.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p35.webp\" alt=\"Complicações graves de mão-pé-boca e herpangina, sobretudo pelo EV-A71\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 35 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r20",
+      "kind": "recall",
+      "title": "VIP ou VOP",
+      "explanation": "Inativada injetável ou atenuada oral\n\nVIP: não causa VAPP nem VDPV. VOP: dá imunidade intestinal, mas pode causar VAPP e originar VDPV.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p47.webp\" alt=\"Vacinas contra poliomielite: VIP, VOP e nOPV2\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 47 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 7,
+      "module": "Diarreias virais e enterovírus",
+      "source": "Microbiota a Imunidade II/semana 7/Aula Diarreias Virais.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w07-n1-r21",
+      "kind": "recall",
+      "title": "Poliovírus derivado da vacina",
+      "explanation": "Vírus da VOP que circula e volta a ser neurovirulento\n\nSurge em populações com baixa cobertura vacinal.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w7a-p49.webp\" alt=\"Efeitos adversos da vacina oral: VAPP e poliovírus derivados da vacina\" loading=\"lazy\"><figcaption>Aula de diarreias virais, semana 7 · página 49 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q1",
+      "kind": "mcq",
+      "title": "Qual destes é sinal de alarme na dengue?",
+      "options": [
+        "Dor atrás dos olhos com cefaleia",
+        "Dor abdominal intensa e contínua",
+        "Febre alta nos dois primeiros dias",
+        "Manchas vermelhas espalhadas no corpo"
+      ],
+      "answer": 1,
+      "explanation": "Sinais de alarme: dor abdominal intensa, vômitos persistentes, hipotensão postural ou lipotimia, acúmulo de líquidos, sangramento de mucosa, letargia ou irritabilidade. Febre alta, dor retro-orbitária e manchas são sintomas comuns da dengue."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- prova do laço.pdf; Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q2",
+      "kind": "mcq",
+      "title": "Paciente com dengue, sem sinais de alarme, tem prova do laço positiva e nenhum sangramento espontâneo. Em que grupo fica, no mínimo?",
+      "options": [
+        "Grupo A",
+        "Grupo B",
+        "Grupo C",
+        "Grupo D"
+      ],
+      "answer": 1,
+      "explanation": "Prova do laço positiva é sangramento induzido e coloca o caso, no mínimo, no grupo B. O grupo C exige sinais de alarme, e o D, dengue grave."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- prova do laço.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q3",
+      "kind": "mcq",
+      "title": "Na prova do laço de um adulto com PA de 120 × 80 mmHg, como insuflar o manguito?",
+      "options": [
+        "Em 100 mmHg por 5 minutos",
+        "Em 120 mmHg por 3 minutos",
+        "Em 80 mmHg por 5 minutos",
+        "Em 100 mmHg por 10 minutos"
+      ],
+      "answer": 0,
+      "explanation": "Insufla-se até a pressão média, (PAS + PAD) ÷ 2, por 5 minutos no adulto e 3 na criança. Contam-se as petéquias num quadrado de 2,5 cm: positiva com 20 ou mais no adulto e 10 ou mais na criança."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- prova do laço.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q4",
+      "kind": "mcq",
+      "title": "Qual afirmação sobre a prova do laço está correta?",
+      "options": [
+        "Confirma o diagnóstico de dengue quando o resultado é positivo",
+        "É indicada em quem já tem sangramento espontâneo",
+        "Pode ser falsamente negativa em obesos e durante o choque",
+        "Positiva com 5 petéquias no quadrado em adultos"
+      ],
+      "answer": 2,
+      "explanation": "A prova avalia fragilidade capilar e não é exame diagnóstico. É indicada na suspeita de dengue sem sangramento espontâneo. Pode ser falso-negativa em obesos e no choque, e positiva em outras causas, como hepatopatias."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q5",
+      "kind": "mcq",
+      "title": "Que medicamentos devem ser evitados na dengue?",
+      "options": [
+        "Paracetamol e dipirona em doses usuais",
+        "Soro de reidratação oral e água",
+        "Antieméticos em dose única oral",
+        "AAS e anti-inflamatórios não esteroides"
+      ],
+      "answer": 3,
+      "explanation": "A aula orienta evitar AAS e AINEs. A hidratação é a base do manejo: oral nos grupos A e B, venosa nos grupos C e D."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q6",
+      "kind": "mcq",
+      "title": "Homem volta de área rural com febre e mialgia, melhora por um dia e, no 6º dia, tem icterícia, oligúria e sangramento gengival. Qual hipótese e fase?",
+      "options": [
+        "Dengue, na fase de recuperação",
+        "Hantavírus, na fase prodrômica",
+        "Febre amarela, na fase de intoxicação",
+        "Febre amarela, na fase de remissão breve"
+      ],
+      "answer": 2,
+      "explanation": "Após a fase febril, a febre amarela pode ter remissão de horas a 2 dias; 15 a 20% evoluem para intoxicação, com icterícia, hemorragias, oligúria e choque. Exposição rural reforça a hipótese; notificar de imediato."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q7",
+      "kind": "mcq",
+      "title": "Qual combinação de ciclo e vetor da febre amarela está correta?",
+      "options": [
+        "Silvestre: primatas e Haemagogus ou Sabethes",
+        "Silvestre: roedores silvestres e Aedes aegypti",
+        "Urbano: primatas não humanos e Haemagogus",
+        "Urbano: morcegos e mosquitos do gênero Culex"
+      ],
+      "answer": 0,
+      "explanation": "No Brasil a febre amarela é predominantemente silvestre: primatas não humanos e Haemagogus ou Sabethes, com o humano como hospedeiro acidental. O ciclo urbano, com Aedes aegypti, não tem casos no Brasil desde 1942."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf; Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q8",
+      "kind": "mcq",
+      "title": "O que as febres hemorrágicas virais têm em comum?",
+      "options": [
+        "Vírus de DNA transmitidos por mosquitos em áreas urbanas densas",
+        "Vírus que causam hemorragia franca como sinal dominante",
+        "Vírus sem envelope que resistem bem ao ambiente externo",
+        "Vírus de RNA que rompem a integridade vascular e a coagulação"
+      ],
+      "answer": 3,
+      "explanation": "São vírus de RNA de famílias diferentes, Arenaviridae, Bunyaviridae, Filoviridae e Flaviviridae, que lesam o endotélio e a coagulação. A hemorragia nem sempre domina: no hantavírus, o extravasamento de plasma para pulmão ou rim mata mais."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q9",
+      "kind": "mcq",
+      "title": "Em que momento o paciente com Ebola transmite mais o vírus?",
+      "options": [
+        "Durante a incubação, antes dos primeiros sintomas",
+        "Na fase tardia, úmida ou hemorrágica, e após o óbito",
+        "Nos primeiros dias, antes da febre alta começar",
+        "Após a cura, por gotículas e aerossóis respiratórios"
+      ],
+      "answer": 1,
+      "explanation": "Na incubação, de 2 a 21 dias, não há transmissão. O contágio aumenta com os sintomas e é máximo na fase úmida ou hemorrágica e no cadáver, daí os enterros seguros. Sobreviventes podem transmitir pelo esperma. O Ebola não é transmitido por aerossóis."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q10",
+      "kind": "mcq",
+      "title": "Por quanto tempo os contatos de um caso de Ebola devem ser acompanhados?",
+      "options": [
+        "Por 7 dias após o início dos sintomas do caso",
+        "Até o caso-índice receber alta hospitalar",
+        "Por 21 dias após a última exposição de risco",
+        "Por 48 horas, enquanto a PCR não fica pronta"
+      ],
+      "answer": 2,
+      "explanation": "O seguimento cobre o maior período de incubação: pelo menos 21 dias após o contato de risco."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q11",
+      "kind": "mcq",
+      "title": "Como o Ebola escapa da imunidade inata logo no início?",
+      "options": [
+        "GP1 destrói linfócitos T ao entrar por receptores CD4",
+        "O vírus se integra ao genoma e fica latente em neurônios",
+        "A GP2 neutraliza IgG circulante antes da resposta inata",
+        "VP35 e VP24 bloqueiam o interferon tipo I e sua sinalização"
+      ],
+      "answer": 3,
+      "explanation": "VP35 e VP24 bloqueiam a produção de interferon tipo I e a sinalização de STAT1; a replicação avança sem alarme. A GP entra via NPC1 em células dendríticas, macrófagos e hepatócitos e desorganiza o endotélio. Linfócitos morrem por apoptose sem serem infectados."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q12",
+      "kind": "mcq",
+      "title": "O que mais leva à morte na síndrome cardiopulmonar por hantavírus?",
+      "options": [
+        "Hemorragia digestiva maciça por falta de plaquetas",
+        "Extravasamento de plasma no pulmão, com edema e choque",
+        "Insuficiência hepática grave com icterícia intensa",
+        "Encefalite com convulsões por invasão do sistema nervoso"
+      ],
+      "answer": 1,
+      "explanation": "O hantavírus infecta o endotélio, e a resposta do hospedeiro, com bradicinina, VEGF e citocinas, aumenta a permeabilidade. Na síndrome cardiopulmonar o extravasamento vai ao pulmão, com edema não cardiogênico e choque; na forma renal, ao retroperitônio e ao rim."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q13",
+      "kind": "mcq",
+      "title": "Como a febre é produzida numa infecção viral?",
+      "options": [
+        "O vírus lesa o hipotálamo e desliga a perda de calor pela pele",
+        "A histamina dos mastócitos aumenta o metabolismo muscular",
+        "IL-1, IL-6 e TNF elevam a PGE2, que sobe o set point hipotalâmico",
+        "Anticorpos IgM ativam o complemento no centro termorregulador"
+      ],
+      "answer": 2,
+      "explanation": "PAMPs ativam células imunes; IL-1, IL-6 e TNF aumentam a PGE2, que eleva o ponto de ajuste do hipotálamo e produz febre."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- paramentação.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q14",
+      "kind": "mcq",
+      "title": "Na paramentação para caso suspeito de Ebola, o que muda em relação aos vírus respiratórios?",
+      "options": [
+        "Dupla luva, proteção impermeável e observador treinado",
+        "Máscara cirúrgica simples e um único par de luvas",
+        "Dispensa de proteção ocular quando se usa respirador",
+        "Retirada da máscara antes das luvas, dentro do quarto"
+      ],
+      "answer": 0,
+      "explanation": "Para Ebola: macacão ou avental impermeável, respirador N95/PFF2 ou PAPR, proteção facial completa, capuz, dupla luva e observador treinado que confere a paramentação e guia a retirada. Na retirada, as luvas externas saem primeiro e a higiene das mãos fecha o processo."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-q15",
+      "kind": "mcq",
+      "title": "Na dengue, quem teve infecção por um sorotipo fica protegido contra os outros?",
+      "options": [
+        "Sim: a imunidade cruzada aos quatro sorotipos é duradoura",
+        "Sim, desde que a primeira infecção tenha sido grave",
+        "Não: a proteção é específica do sorotipo que infectou",
+        "Não, porque a dengue não induz anticorpos neutralizantes"
+      ],
+      "answer": 2,
+      "explanation": "Há quatro sorotipos, DENV-1 a 4. A imunidade é específica e a proteção contra os demais é limitada. Anticorpos preexistentes podem facilitar a infecção por outro sorotipo, a ADE, fator de risco para dengue grave."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- febres hemorrágicas.pdf; Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf; Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- paramentação.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-w1",
+      "kind": "written",
+      "title": "Homem de 35 anos tem febre há 3 dias, mialgia, vômitos e diarreia. Voltou há 6 dias de uma região com surto de Ebola, onde cuidou de um colega que teve a doença. Explique por que o caso é suspeito, qual a primeira atitude da equipe e como o vírus se transmite.",
+      "rubric": [
+        "Vínculo epidemiológico: região com surto e contato com caso confirmado",
+        "Sintomas compatíveis dentro de 21 dias da exposição",
+        "Isolar o paciente, usar EPI de proteção ampliada e notificar de imediato",
+        "Transmissão por contato com sangue e fluidos corporais, objetos contaminados e cadáveres",
+        "Não se transmite por aerossóis; sobreviventes podem transmitir pelo esperma"
+      ],
+      "explanation": "É o caso da aula prática. A ausência de sangramento não afasta Ebola: vômitos e diarreia são comuns e a fase hemorrágica é tardia."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r1",
+      "kind": "recall",
+      "title": "Sinais de alarme da dengue",
+      "explanation": "Dor abdominal intensa, vômitos persistentes, hipotensão postural\n\nTambém acúmulo de líquidos, sangramento de mucosa, letargia ou irritabilidade.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p24.webp\" alt=\"Dengue: sinais comuns e sinais de alarme\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 24 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r2",
+      "kind": "recall",
+      "title": "Fase crítica da dengue",
+      "explanation": "Na defervescência, entre o 3º e o 7º dia\n\nExtravasamento de plasma, hemoconcentração e risco de choque. É quando surgem os sinais de alarme.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p25.webp\" alt=\"Dengue: fases febril, crítica e de recuperação\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 25 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf; Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- prova do laço.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r3",
+      "kind": "recall",
+      "title": "Grupos de manejo da dengue",
+      "explanation": "A e B oral; C e D venosa\n\nA: sem sinais nem condição especial. B: condição especial, comorbidade, risco social ou sangramento de pele, como prova do laço positiva. C: sinais de alarme. D: dengue grave.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p28.webp\" alt=\"Dengue: grupos A, B, C e D de manejo\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 28 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- prova do laço.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r4",
+      "kind": "recall",
+      "title": "Prova do laço: como fazer",
+      "explanation": "Manguito na pressão média por 5 minutos\n\nPressão média = (PAS + PAD) ÷ 2. Na criança, 3 minutos. Contar as petéquias num quadrado de 2,5 cm."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- prova do laço.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r5",
+      "kind": "recall",
+      "title": "Prova do laço: leitura",
+      "explanation": "Positiva com 20 petéquias no adulto e 10 na criança\n\nNão diagnostica dengue. Positiva: no mínimo grupo B. Pode ser falso-negativa em obesos e no choque."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r6",
+      "kind": "recall",
+      "title": "Dengue: exame por fase",
+      "explanation": "Primeiros dias: RT-PCR ou NS1. Depois: IgM\n\nIgM negativa no 2º dia não exclui dengue. Monitorar hemograma e albumina."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r7",
+      "kind": "recall",
+      "title": "Dengue: sorotipos e imunidade",
+      "explanation": "Quatro sorotipos, imunidade específica\n\nA proteção contra os demais é limitada; anticorpos de uma infecção anterior podem favorecer a forma grave, a ADE.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p21.webp\" alt=\"Dengue: quatro sorotipos e imunidade específica\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 21 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r8",
+      "kind": "recall",
+      "title": "Dengue: o que evitar",
+      "explanation": "AAS e anti-inflamatórios não esteroides",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p28.webp\" alt=\"Dengue: grupos A, B, C e D de manejo\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 28 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r9",
+      "kind": "recall",
+      "title": "Febre amarela: o vírus",
+      "explanation": "Flaviviridae, RNA positivo, envelopado\n\nProteínas E e M na ligação e entrada. Notificação compulsória imediata.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p08.webp\" alt=\"Febre amarela: Flaviviridae, RNA envelopado de fita positiva\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 8 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r10",
+      "kind": "recall",
+      "title": "Febre amarela: ciclos e vetores",
+      "explanation": "Silvestre: primatas, Haemagogus e Sabethes\n\nO humano é hospedeiro acidental. Urbano: Aedes aegypti, sem casos no Brasil desde 1942. Macacos são sentinelas, não transmissores.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p10.webp\" alt=\"Ciclos silvestre e urbano da febre amarela; macacos são sentinelas\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r11",
+      "kind": "recall",
+      "title": "Febre amarela: fases",
+      "explanation": "Febril, remissão breve e intoxicação\n\nNa intoxicação, em 15 a 20%: icterícia, hemorragias, oligúria, insuficiência hepática e renal e choque.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p15.webp\" alt=\"Febre amarela: fase inicial, remissão e intoxicação\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 15 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r12",
+      "kind": "recall",
+      "title": "Febre amarela: exame por fase",
+      "explanation": "Virêmica: RT-PCR. Tardia: IgM\n\nResultado negativo fora da janela não encerra a investigação.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p18.webp\" alt=\"Febre amarela: o exame ideal muda com o dia da doença\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 18 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r13",
+      "kind": "recall",
+      "title": "Febre amarela: prevenção e notificação",
+      "explanation": "Vacina de vírus vivo atenuado\n\nVigilância de epizootias e notificação imediata, em até 24 horas. Não há antiviral de rotina.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p10.webp\" alt=\"Ciclos silvestre e urbano da febre amarela; macacos são sentinelas\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 10 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r14",
+      "kind": "recall",
+      "title": "Febre amarela ou dengue",
+      "explanation": "Fígado ou permeabilidade\n\nFA: ciclo silvestre, lesão hepática, icterícia, oligúria. Dengue: ciclo urbano, extravasamento, alarme na defervescência.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p29.webp\" alt=\"Febre amarela e dengue comparadas\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 29 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r15",
+      "kind": "recall",
+      "title": "Famílias das febres hemorrágicas",
+      "explanation": "Arenaviridae, Bunyaviridae, Filoviridae e Flaviviridae\n\nVírus de RNA que lesam vasos e coagulação. Exemplos: Ebola, Marburg, dengue e febre amarela.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8a-p04.webp\" alt=\"Febres hemorrágicas virais: famílias de vírus de RNA e letalidade\" loading=\"lazy\"><figcaption>Aula de febres hemorrágicas, semana 8 · página 4 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r16",
+      "kind": "recall",
+      "title": "Ebola: incubação e contágio",
+      "explanation": "Incubação de 2 a 21 dias, sem transmissão\n\nContágio com sintomas, máximo na fase úmida e no cadáver. Sobreviventes podem transmitir pelo esperma. Não há transmissão por aerossóis.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8a-p14.webp\" alt=\"Ebola: incubação de 2 a 21 dias e fases de contágio\" loading=\"lazy\"><figcaption>Aula de febres hemorrágicas, semana 8 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r17",
+      "kind": "recall",
+      "title": "Ebola: evasão imune e lesão",
+      "explanation": "VP35 e VP24 bloqueiam o interferon\n\nA GP entra via NPC1 e desorganiza o endotélio. Linfócitos morrem por apoptose sem serem infectados.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8a-p12.webp\" alt=\"Fisiopatologia do Ebola: entrada, evasão do interferon e lesão endotelial\" loading=\"lazy\"><figcaption>Aula de febres hemorrágicas, semana 8 · página 12 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r18",
+      "kind": "recall",
+      "title": "Ebola: seguimento de contatos",
+      "explanation": "21 dias após o último contato de risco",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8a-p14.webp\" alt=\"Ebola: incubação de 2 a 21 dias e fases de contágio\" loading=\"lazy\"><figcaption>Aula de febres hemorrágicas, semana 8 · página 14 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r19",
+      "kind": "recall",
+      "title": "Hantavírus: formas clínicas",
+      "explanation": "Renal na Europa e Ásia; cardiopulmonar nas Américas\n\nFHSR: febre hemorrágica com síndrome renal. SCPH: síndrome cardiopulmonar, com edema pulmonar e choque rápido.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8a-p40.webp\" alt=\"Hantavírus: lesão endotelial e extravasamento no rim ou no pulmão\" loading=\"lazy\"><figcaption>Aula de febres hemorrágicas, semana 8 · página 40 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r20",
+      "kind": "recall",
+      "title": "Hantavírus: transmissão",
+      "explanation": "Aerossóis de excretas de roedores\n\nSaliva, urina e fezes; mordidas são raras. O vírus Andes é o único com transmissão pessoa a pessoa bem documentada.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8a-p06.webp\" alt=\"Padrão ecológico comum: reservatório, contato humano e transmissão entre pessoas\" loading=\"lazy\"><figcaption>Aula de febres hemorrágicas, semana 8 · página 6 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Aula FHemorragicas Dr Fabio set 26.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r21",
+      "kind": "recall",
+      "title": "Hantavírus: tratamento e prevenção",
+      "explanation": "Suporte em UTI e controle de roedores\n\nDiálise na forma renal; oxigenação ou ECMO na cardiopulmonar.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8a-p44.webp\" alt=\"Hantavírus: diagnóstico, tratamento e prevenção\" loading=\"lazy\"><figcaption>Aula de febres hemorrágicas, semana 8 · página 44 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/Febres_hemorragicas_virais_modelo_FSL.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r22",
+      "kind": "recall",
+      "title": "Como surge a febre",
+      "explanation": "IL-1, IL-6 e TNF aumentam a PGE2\n\nA PGE2 eleva o ponto de ajuste do hipotálamo.",
+      "solutionVisual": "<figure class=\"slide\"><img class=\"figure\" src=\"/media/slide-mi-w8b-p06.webp\" alt=\"Febre: citocinas, PGE2 e set point hipotalâmico\" loading=\"lazy\"><figcaption>Aula de febre amarela e dengue, semana 8 · página 6 do PDF</figcaption></figure>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- paramentação.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r23",
+      "kind": "recall",
+      "title": "Paramentação para Ebola",
+      "explanation": "Proteção ampliada com observador treinado\n\nMacacão ou avental impermeável, N95/PFF2 ou PAPR, proteção facial completa, capuz e dupla luva."
+    },
+    {
+      "subject": "microbiota",
+      "week": 8,
+      "module": "Febres hemorrágicas virais e investigação de surtos",
+      "source": "Microbiota a Imunidade II/semana 8/UC MI II Aula pratica- paramentação.pdf",
+      "version": "2026-09-29.1",
+      "id": "reviewed-mi-w08-n1-r24",
+      "kind": "recall",
+      "title": "Desparamentação",
+      "explanation": "Do mais contaminado ao menos contaminado\n\nLuvas externas primeiro, avental enrolado para dentro, respirador pelos elásticos no fim e higiene das mãos ao final."
+    }
+  ]
+}
