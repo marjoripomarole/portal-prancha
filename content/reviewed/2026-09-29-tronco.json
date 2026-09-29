@@ -1,0 +1,56 @@
+{
+  "reviewedAt": "2026-09-29",
+  "sources": [
+    {
+      "path": "Forma a Função II/semana 9/28 set - Resumo guiado - Tronco encefálico, cerebelo e nervos cranianos.md",
+      "sha256": "11e7c1307bdcd210cb486cd21c2f6aa145d63d68731f126aa381371e1d3ba657",
+      "scope": "Seções 3 e 7: orientação do tronco, aqueduto/assoalho ventricular e correção do mapa de sabores; sem casos, procedimentos, exigências de avaliação ou figuras não conferidas."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-w09-tronco-read",
+      "subject": "forma",
+      "week": 9,
+      "module": "Tronco encefálico: orientação e relações",
+      "source": "Forma a Função II/semana 9/28 set - Resumo guiado - Tronco encefálico, cerebelo e nervos cranianos.md · seções 3 e 7; https://www.ncbi.nlm.nih.gov/books/NBK544297/?report=printable; https://www.nidcd.nih.gov/health/taste-disorders",
+      "version": "2026-09-29.1",
+      "kind": "read",
+      "title": "Tronco encefálico: orientar antes de nomear",
+      "body": "<p>Ao seguir da medula em direção ao encéfalo, reconheça bulbo, ponte e mesencéfalo. Comece pela orientação superior/inferior e anterior/posterior antes de identificar detalhes em uma peça.</p><p>O aqueduto cerebral atravessa o mesencéfalo e liga o III ao IV ventrículo. O assoalho do IV ventrículo se relaciona com a face dorsal da ponte e a porção superior aberta do bulbo. Não confunda o aqueduto com o assoalho ventricular. Conferência: <a href=\"https://www.ncbi.nlm.nih.gov/books/NBK544297/?report=printable\">Neuroanatomy, Brainstem</a>.</p><p>Na revisão dos nervos cranianos, separe território de inervação e modalidade sensorial. A língua não possui zonas exclusivas para cada sabor: a ideia de um mapa rígido de doce, salgado, azedo e amargo é incorreta. Conferência: <a href=\"https://www.nidcd.nih.gov/health/taste-disorders\">NIDCD — paladar</a>.</p><p>Esta seleção usa o resumo local da aula de 28/09, produzido a partir de transcrições automáticas. Os conceitos selecionados foram conferidos, mas imagens numeradas e a gravação integral não foram revisadas nesta seleção.</p>"
+    },
+    {
+      "id": "reviewed-w09-tronco-ordem",
+      "subject": "forma",
+      "week": 9,
+      "module": "Tronco encefálico: orientação e relações",
+      "source": "Forma a Função II/semana 9/28 set - Resumo guiado - Tronco encefálico, cerebelo e nervos cranianos.md · seções 3 e 7; https://www.ncbi.nlm.nih.gov/books/NBK544297/?report=printable; https://www.nidcd.nih.gov/health/taste-disorders",
+      "version": "2026-09-29.1",
+      "kind": "recall",
+      "title": "Como ordenar as três regiões do tronco encefálico, partindo da medula?",
+      "explanation": "Bulbo → ponte → mesencéfalo. Use essa sequência como orientação superior/inferior antes de identificar estruturas menores."
+    },
+    {
+      "id": "reviewed-w09-tronco-aqueduto",
+      "subject": "forma",
+      "week": 9,
+      "module": "Tronco encefálico: orientação e relações",
+      "source": "Forma a Função II/semana 9/28 set - Resumo guiado - Tronco encefálico, cerebelo e nervos cranianos.md · seções 3 e 7; https://www.ncbi.nlm.nih.gov/books/NBK544297/?report=printable; https://www.nidcd.nih.gov/health/taste-disorders",
+      "version": "2026-09-29.1",
+      "kind": "recall",
+      "title": "Qual passagem atravessa o mesencéfalo e quais ventrículos ela conecta?",
+      "explanation": "O aqueduto cerebral conecta o III ao IV ventrículo. O assoalho do IV ventrículo se relaciona com ponte e bulbo superior aberto, não com o mesencéfalo."
+    },
+    {
+      "id": "reviewed-w09-tronco-paladar",
+      "subject": "forma",
+      "week": 9,
+      "module": "Tronco encefálico: orientação e relações",
+      "source": "Forma a Função II/semana 9/28 set - Resumo guiado - Tronco encefálico, cerebelo e nervos cranianos.md · seções 3 e 7; https://www.ncbi.nlm.nih.gov/books/NBK544297/?report=printable; https://www.nidcd.nih.gov/health/taste-disorders",
+      "version": "2026-09-29.1",
+      "kind": "recall",
+      "title": "Por que um território de inervação da língua não equivale a uma zona exclusiva de sabor?",
+      "explanation": "A distribuição dos nervos por território não separa sabores em regiões exclusivas. Células sensíveis a diferentes sabores estão distribuídas pela língua; o mapa rígido de sabores é uma simplificação incorreta."
+    }
+  ]
+}
