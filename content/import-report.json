@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 2852,
+  "items": 2856,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -30,10 +30,10 @@
       "name": "Molécula à Célula II",
       "description": "Mecanismos · Metabolismo · Cálculos",
       "counts": {
-        "read": 39,
+        "read": 40,
         "mcq": 116,
         "written": 16,
-        "recall": 192
+        "recall": 195
       },
       "weeks": [
         1,
@@ -42,7 +42,8 @@
         4,
         5,
         6,
-        8
+        8,
+        9
       ]
     },
     {
@@ -148,5 +149,5 @@
       ]
     }
   ],
-  "updated": "2026-09-29"
+  "updated": "2026-10-01"
 }

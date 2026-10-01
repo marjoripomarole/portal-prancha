@@ -1,0 +1,56 @@
+{
+  "reviewedAt": "2026-10-01",
+  "sources": [
+    {
+      "path": "Molécula à Célula II/semana 9/Dosagem de Billirrubina.pdf",
+      "sha256": "8405fc78b91ff49f45082c3d40cbc53a28e9734cb49270dca115e94525398b94",
+      "scope": "Aula 09, seção Dosagem de bilirrubina: princípio geral da reação diazo e relação entre frações direta, total e indireta. Protocolo, volumes, interpretação diagnóstica, faixas de referência e conteúdo de APS não foram reproduzidos."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-w09-bilirrubina-read",
+      "subject": "molecula",
+      "week": 9,
+      "module": "Dosagem de bilirrubina",
+      "source": "Dosagem de Billirrubina.pdf · aula 09, seção Dosagem de bilirrubina; Kalakonda et al. Physiology, Bilirubin, NCBI Bookshelf, seção Related Testing — https://www.ncbi.nlm.nih.gov/books/NBK470290/",
+      "version": "2026-10-01.1",
+      "kind": "read",
+      "title": "Bilirrubina direta, total e indireta: princípio da dosagem",
+      "body": "<p>Na reação diazo (van den Bergh), a bilirrubina reage com um reagente diazo e forma um produto colorido que pode ser medido por espectrofotometria. A bilirrubina conjugada reage rapidamente sem acelerador e é chamada de fração de reação direta. A bilirrubina não conjugada reage lentamente; um acelerador, como metanol ou cafeína em métodos descritos, favorece a reação e permite estimar a bilirrubina total.</p><p>Neste esquema, a bilirrubina indireta é calculada: total − direta. Exemplo apenas aritmético: se total = 4,2 e direta = 0,8 mg/dL, indireta = 3,4 mg/dL. Esse cálculo não interpreta um resultado clínico; intervalos e métodos dependem do laboratório e do ensaio utilizado.</p><p>Fonte da aula: Molécula à Célula II, semana 9. Conferência do princípio analítico: <a href=\"https://www.ncbi.nlm.nih.gov/books/NBK470290/\">NCBI Bookshelf — Physiology, Bilirubin, seção Related Testing</a>. A aula contém um protocolo prático com volumes inconsistentes entre unidades em uma etapa; por isso, esta revisão não publica quantidades nem instruções para executar o ensaio.</p>"
+    },
+    {
+      "id": "reviewed-w09-bilirrubina-direta",
+      "subject": "molecula",
+      "week": 9,
+      "module": "Dosagem de bilirrubina",
+      "source": "Dosagem de Billirrubina.pdf · aula 09; NCBI Bookshelf — Physiology, Bilirubin, https://www.ncbi.nlm.nih.gov/books/NBK470290/",
+      "version": "2026-10-01.1",
+      "kind": "recall",
+      "title": "No método diazo descrito na aula, por que a fração conjugada é chamada de direta?",
+      "explanation": "Porque reage rapidamente com o reagente diazo em meio aquoso, sem precisar de acelerador. O termo descreve o comportamento no ensaio; não deve ser usado sozinho para concluir um diagnóstico."
+    },
+    {
+      "id": "reviewed-w09-bilirrubina-total",
+      "subject": "molecula",
+      "week": 9,
+      "module": "Dosagem de bilirrubina",
+      "source": "Dosagem de Billirrubina.pdf · aula 09; NCBI Bookshelf — Physiology, Bilirubin, https://www.ncbi.nlm.nih.gov/books/NBK470290/",
+      "version": "2026-10-01.1",
+      "kind": "recall",
+      "title": "Qual é a função do acelerador na dosagem diazo da bilirrubina total?",
+      "explanation": "Ele favorece a reação da bilirrubina não conjugada, menos solúvel em água, com o reagente diazo; assim o ensaio pode estimar a bilirrubina total. O reagente e o procedimento dependem do método validado pelo laboratório."
+    },
+    {
+      "id": "reviewed-w09-bilirrubina-indireta",
+      "subject": "molecula",
+      "week": 9,
+      "module": "Dosagem de bilirrubina",
+      "source": "Dosagem de Billirrubina.pdf · aula 09; NCBI Bookshelf — Physiology, Bilirubin, https://www.ncbi.nlm.nih.gov/books/NBK470290/",
+      "version": "2026-10-01.1",
+      "kind": "recall",
+      "title": "Como calcular a bilirrubina indireta a partir da total e da direta?",
+      "explanation": "Indireta = total − direta. No exemplo hipotético da leitura: 4,2 − 0,8 = 3,4 mg/dL. É um exercício de cálculo, sem interpretação clínica."
+    }
+  ]
+}
