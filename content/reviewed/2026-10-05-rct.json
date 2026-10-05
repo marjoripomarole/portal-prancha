@@ -1,0 +1,78 @@
+{
+  "reviewedAt": "2026-10-05",
+  "sources": [
+    {
+      "path": "Pesquisa Científica/semana 10/Aula_08_RCT_05Out2026.pdf",
+      "sha256": "9999ab7230d4502cff159716fba2f4e4805280ce03c361175a293458a1086951",
+      "scope": "Aula 08 sobre ensaios clínicos randomizados: componentes do desenho, alocação, ocultação, cegamento, desfechos, seguimento e interpretação. Não reproduz exemplos de doenças, recomendações clínicas, participantes ou atividades avaliativas. Corrige a legenda dos slides que mistura risco relativo e intenção de tratar; consultar Cochrane e CONSORT para os conceitos metodológicos."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-pesquisa-w10-rct-read",
+      "subject": "pesquisa",
+      "week": 10,
+      "module": "Ensaio clínico randomizado",
+      "source": "Pesquisa Científica · semana 10 · Aula 08, Ensaio Clínico Randomizado; Cochrane Handbook, capítulo 8 — https://training.cochrane.org/handbook/current/chapter-08; CONSORT-SPIRIT, itens 17a e 18 — https://www.consort-spirit.org/item17a-sequencegeneration",
+      "version": "2026-10-05.1",
+      "kind": "read",
+      "title": "Ensaio clínico randomizado: desenho, proteção contra vieses e leitura dos resultados",
+      "body": "<p>Um ensaio clínico testa uma intervenção atribuída pelo pesquisador. Quando a alocação aos grupos ocorre por uma sequência imprevisível baseada no acaso, trata-se de ensaio randomizado. Isso difere da amostragem aleatória: amostrar é selecionar pessoas da população para participar; randomizar é distribuí-las entre grupos do estudo. Randomização busca tornar os grupos comparáveis, inclusive quanto a fatores prognósticos conhecidos e desconhecidos, mas não garante que grupos pequenos fiquem idênticos nem torna automaticamente o resultado generalizável para outras populações.</p><p>Descreva a população elegível e seus critérios, a intervenção, o comparador, os desfechos e o período de seguimento. O comparador pode ser cuidado usual, outra intervenção ou placebo, conforme a pergunta e a ética. Definir previamente um desfecho primário e o momento de aferição ajuda a evitar escolha seletiva de resultados depois de conhecidos os dados.</p><p>Três proteções são diferentes. <strong>Geração da sequência</strong> determina a ordem aleatória. <strong>Ocultação da alocação</strong> impede que quem recruta saiba o próximo grupo antes de incluir a pessoa, reduzindo manipulação da entrada. <strong>Cegamento</strong> limita o conhecimento do grupo depois da alocação por participantes, profissionais ou avaliadores, reduzindo possíveis vieses de cuidado e aferição. Um ensaio pode ser randomizado sem ser cego; cegamento não corrige uma sequência previsível.</p><p>Na análise por intenção de tratar (ITT), participantes permanecem no grupo para o qual foram alocados, mesmo que não sigam integralmente a intervenção ou mudem de tratamento. A ITT procura estimar o efeito de ser alocado à estratégia. Ela não recupera magicamente desfechos ausentes: perdas e dados faltantes precisam ser descritos e avaliados, pois podem enviesar resultados. Uma análise que exclui participantes sem desfecho pode ser chamada de “intenção de tratar modificada” por alguns autores, mas não equivale necessariamente à ITT completa.</p><p>Não confunda medidas de efeito com a estratégia de análise. O risco relativo (RR) compara o risco no grupo intervenção com o risco no controle. A redução absoluta do risco (RAR/ARR), para um evento adverso, é risco no controle menos risco na intervenção; o número necessário para tratar (NNT) é 1/RAR quando a redução é positiva e expressa em proporção, no horizonte temporal estudado. Por exemplo, riscos de 20% e 10% dão RR = 0,5, redução absoluta = 0,10 e NNT = 10 nesse período. A ITT é um princípio de análise; RR, ARR e NNT são formas distintas de expressar efeitos.</p><p>“Padrão-ouro” não significa garantia de resposta correta. A validade depende da execução, comparador, adesão, perdas, mensuração e relato dos desfechos; a randomização não elimina todos os vieses e a validade externa depende da população e do contexto. O material de aula mistura os rótulos de RR e ITT em um slide; esta leitura os separa segundo Cochrane e CONSORT.</p>"
+    },
+    {
+      "id": "reviewed-pesquisa-w10-rct-random-sample",
+      "subject": "pesquisa",
+      "week": 10,
+      "module": "Ensaio clínico randomizado",
+      "source": "Pesquisa Científica · semana 10 · Aula 08; CONSORT-SPIRIT, item 17a — https://www.consort-spirit.org/item17a-sequencegeneration",
+      "version": "2026-10-05.1",
+      "kind": "recall",
+      "title": "Em um ensaio clínico, qual é a diferença entre amostragem aleatória e randomização?",
+      "explanation": "A amostragem seleciona quem participa da população-alvo. A randomização distribui participantes já incluídos entre grupos de intervenção. Uma não substitui a outra: randomizar não torna automaticamente representativa a amostra."
+    },
+    {
+      "id": "reviewed-pesquisa-w10-rct-concealment",
+      "subject": "pesquisa",
+      "week": 10,
+      "module": "Ensaio clínico randomizado",
+      "source": "Pesquisa Científica · semana 10 · Aula 08; CONSORT-SPIRIT, itens 17a e 18 — https://www.consort-spirit.org/item17a-sequencegeneration",
+      "version": "2026-10-05.1",
+      "kind": "recall",
+      "title": "Como diferenciar ocultação da alocação e cegamento?",
+      "explanation": "A ocultação protege a próxima atribuição antes e até a inclusão/alocação do participante, reduzindo viés de seleção. O cegamento limita o conhecimento do grupo depois da alocação, por exemplo por participante, profissional ou avaliador, reduzindo outros vieses. São etapas e propósitos distintos."
+    },
+    {
+      "id": "reviewed-pesquisa-w10-rct-itt",
+      "subject": "pesquisa",
+      "week": 10,
+      "module": "Ensaio clínico randomizado",
+      "source": "Pesquisa Científica · semana 10 · Aula 08; Cochrane Handbook, capítulo 8 — https://training.cochrane.org/handbook/current/chapter-08; CONSORT-SPIRIT, item 21b — https://www.consort-spirit.org/item21b-whoisincluded",
+      "version": "2026-10-05.1",
+      "kind": "recall",
+      "title": "O que define a análise por intenção de tratar e qual é seu limite?",
+      "explanation": "Analisa participantes no grupo para o qual foram randomizados, independentemente da adesão posterior. Isso preserva a comparação pela alocação; não resolve sozinho desfechos ausentes, cuja quantidade e possíveis efeitos sobre o viés ainda devem ser avaliados."
+    },
+    {
+      "id": "reviewed-pesquisa-w10-rct-effect-measures",
+      "subject": "pesquisa",
+      "week": 10,
+      "module": "Ensaio clínico randomizado",
+      "source": "Pesquisa Científica · semana 10 · Aula 08",
+      "version": "2026-10-05.1",
+      "kind": "recall",
+      "title": "Se os riscos forem 20% no controle e 10% na intervenção, quais são RR, redução absoluta e NNT?",
+      "explanation": "RR = 0,10/0,20 = 0,5. A redução absoluta é 0,20 − 0,10 = 0,10 (10 pontos percentuais). NNT = 1/0,10 = 10 para evitar um evento adicional no horizonte do estudo. Isso é um exemplo aritmético, não uma previsão clínica."
+    },
+    {
+      "id": "reviewed-pesquisa-w10-rct-components",
+      "subject": "pesquisa",
+      "week": 10,
+      "module": "Ensaio clínico randomizado",
+      "source": "Pesquisa Científica · semana 10 · Aula 08; CONSORT-SPIRIT — https://www.consort-spirit.org/",
+      "version": "2026-10-05.1",
+      "kind": "recall",
+      "title": "Quais elementos mínimos você identifica ao descrever o desenho de um ensaio clínico?",
+      "explanation": "População elegível, intervenção, comparador, desfecho(s) e período de seguimento. Indique também a sequência de alocação, ocultação, cegamento quando aplicável e como serão tratados adesão e perdas."
+    }
+  ]
+}
