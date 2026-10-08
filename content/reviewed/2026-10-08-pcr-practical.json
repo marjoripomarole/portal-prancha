@@ -1,0 +1,78 @@
+{
+  "reviewedAt": "2026-10-08",
+  "sources": [
+    {
+      "path": "Microbiota a Imunidade II/semana 10/Aula Prática - PCR Simulado.pdf",
+      "sha256": "8b0b7450cf000b59520c3f5ead5262d28c70bffbb2c730e6bd0dca74c4af472d",
+      "scope": "Atividade visual de PCR simulada para estudo dos componentes, montagem, etapas térmicas e controles. Os volumes são exclusivos do exercício de micropipetagem e não correspondem a protocolo diagnóstico; nomes A/B/C são apenas códigos de amostras simuladas."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-microbiota-w10-pcr-read",
+      "subject": "microbiota",
+      "week": 10,
+      "module": "PCR simulada",
+      "source": "Microbiota a Imunidade II · semana 10 · Aula Prática - PCR Simulado, páginas 1–3",
+      "version": "2026-10-08.1",
+      "kind": "read",
+      "title": "PCR após transcrição reversa: componentes, etapas e controles",
+      "body": "<p>Na atividade, a PCR é usada para amplificar uma sequência-alvo a partir de cDNA obtido previamente pela transcrição reversa de RNA viral. A reação simulada recebe o cDNA da amostra, primers Forward e Reverse, Master Mix e água livre de nucleases. Os primers orientam a amplificação do alvo; o Master Mix fornece os componentes da reação e a água completa o volume definido no exercício.</p><p>A montagem é feita em tubos separados para cada amostra simulada. A atividade propõe micropipetagem cuidadosa e troca de ponteira entre transferências para reduzir contaminação cruzada. Depois da montagem, os ciclos do termociclador seguem a ordem: desnaturação das fitas, anelamento dos primers e extensão pela polimerase. A repetição dos ciclos permite amplificar o alvo para detecção.</p><p>Os controles ajudam a interpretar a rodada. O controle positivo deve apresentar amplificação, mostrando que o ensaio conseguiu detectar seu alvo; o controle negativo não deve amplificar, ajudando a identificar contaminação. Se qualquer controle falhar no comportamento esperado, os resultados da rodada precisam ser questionados antes de interpretar as amostras.</p><p><strong>Limite do material:</strong> os volumes finais descritos na folha servem exclusivamente à simulação de micropipetagem e compreensão da composição. Não são protocolo diagnóstico nem orientação laboratorial para uso clínico. A atividade não fornece resultados das amostras, portanto esta leitura não atribui diagnóstico a ninguém.</p>"
+    },
+    {
+      "id": "reviewed-microbiota-w10-pcr-reverse-transcription",
+      "subject": "microbiota",
+      "week": 10,
+      "module": "PCR simulada",
+      "source": "Microbiota a Imunidade II · semana 10 · Aula Prática - PCR Simulado, páginas 1–2",
+      "version": "2026-10-08.1",
+      "kind": "recall",
+      "title": "Por que a transcrição reversa foi feita antes da PCR nesta atividade?",
+      "explanation": "O alvo de partida é RNA viral. A transcrição reversa converte esse RNA em cDNA, que então pode ser usado como molde na PCR simulada."
+    },
+    {
+      "id": "reviewed-microbiota-w10-pcr-components",
+      "subject": "microbiota",
+      "week": 10,
+      "module": "PCR simulada",
+      "source": "Microbiota a Imunidade II · semana 10 · Aula Prática - PCR Simulado, páginas 1–2",
+      "version": "2026-10-08.1",
+      "kind": "recall",
+      "title": "Quais componentes são reunidos na reação de PCR simulada?",
+      "explanation": "cDNA da amostra, primers Forward e Reverse, Master Mix simulado e água livre de nucleases. Na folha, a água completa o volume definido para fins didáticos."
+    },
+    {
+      "id": "reviewed-microbiota-w10-pcr-thermal-cycles",
+      "subject": "microbiota",
+      "week": 10,
+      "module": "PCR simulada",
+      "source": "Microbiota a Imunidade II · semana 10 · Aula Prática - PCR Simulado, página 3",
+      "version": "2026-10-08.1",
+      "kind": "recall",
+      "title": "Qual é a sequência das etapas de um ciclo de PCR?",
+      "explanation": "Desnaturação, anelamento dos primers e extensão. A atividade pede para descrever brevemente o que ocorre em cada etapa."
+    },
+    {
+      "id": "reviewed-microbiota-w10-pcr-controls",
+      "subject": "microbiota",
+      "week": 10,
+      "module": "PCR simulada",
+      "source": "Microbiota a Imunidade II · semana 10 · Aula Prática - PCR Simulado, página 3",
+      "version": "2026-10-08.1",
+      "kind": "recall",
+      "title": "O que se espera dos controles positivo e negativo em uma rodada de PCR?",
+      "explanation": "O controle positivo deve amplificar e o negativo deve permanecer sem amplificação. Amplificação no negativo sugere contaminação; ausência no positivo indica que a rodada não demonstrou o funcionamento esperado."
+    },
+    {
+      "id": "reviewed-microbiota-w10-pcr-contamination",
+      "subject": "microbiota",
+      "week": 10,
+      "module": "PCR simulada",
+      "source": "Microbiota a Imunidade II · semana 10 · Aula Prática - PCR Simulado, página 1",
+      "version": "2026-10-08.1",
+      "kind": "recall",
+      "title": "Que cuidado de micropipetagem a atividade usa para reduzir contaminação cruzada?",
+      "explanation": "Usar uma ponteira nova nas transferências e evitar tocar a ponteira em superfícies externas ou introduzi-la em tubos diferentes depois do contato com uma amostra."
+    }
+  ]
+}
