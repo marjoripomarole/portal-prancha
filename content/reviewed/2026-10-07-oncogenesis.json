@@ -1,0 +1,127 @@
+{
+  "reviewedAt": "2026-10-07",
+  "sources": [
+    {
+      "path": "Microbiota a Imunidade II/semana 10/UC AV MI II Virus e Cancer.pdf",
+      "sha256": "c91fdd166ef3bd7a4b8472d289892354b219a475d2dd9add4aefc46ee1f8ee05",
+      "scope": "Aula da semana 10 sobre oncogênese viral. Seleção limitada aos mecanismos gerais, HPV de alto risco, hepatites B/C e prevenção por vacina. Estatísticas, esquemas de vacinação, recomendações locais e casos clínicos não foram reproduzidos; integração do HPV não foi apresentada como universal."
+    },
+    {
+      "path": "Genótipo ao Fenótipo/semana 10/aula10_Genética do Câncer.pdf",
+      "sha256": "a14140f84cd28b8a1b57979c71bbc992a5709950ecc1e1b4a1df8f8e4a045f76",
+      "scope": "Aula 10 de genética do câncer. Seleção limitada a alterações driver/passenger, proto-oncogenes, genes supressores tumorais e diferenças entre alterações somáticas e predisposição herdada. Casos, números celulares, alegações terapêuticas e outros tópicos extensos do PDF não foram reproduzidos."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-microbiota-w10-viral-oncogenesis-read",
+      "subject": "microbiota",
+      "week": 10,
+      "module": "Vírus oncogênicos",
+      "source": "Microbiota a Imunidade II · semana 10 · UC AV, Vírus e Câncer; NCI — Infectious Agents — https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents; CDC — Clinical Overview of HPV — https://www.cdc.gov/hpv/hcp/clinical-overview/",
+      "version": "2026-10-07.1",
+      "kind": "read",
+      "title": "Vírus oncogênicos: mecanismos diretos, indiretos e prevenção",
+      "body": "<p>Uma infecção associada ao câncer aumenta o risco em determinadas circunstâncias; não significa que toda pessoa infectada desenvolverá um tumor. Persistência, características do hospedeiro e outros fatores influenciam a progressão, que pode levar anos. O câncer não é transmitido de pessoa para pessoa, embora alguns agentes infecciosos possam ser.</p><p>Há mecanismos diretos, quando produtos virais alteram controles de proliferação, sobrevivência ou reparo da célula, e indiretos, quando infecção persistente, inflamação crônica ou imunossupressão cria condições que favorecem o acúmulo e a seleção de alterações celulares. Um mesmo agente pode envolver mais de uma via. A associação entre um vírus e um câncer não implica um único mecanismo obrigatório.</p><p>Nos tipos oncogênicos de HPV, as oncoproteínas E6 e E7 interferem, respectivamente, nas proteínas supressoras tumorais p53 e Rb, enfraquecendo controles do ciclo celular. Persistência da infecção por HPV de alto risco é importante para a progressão; integração do DNA viral pode ocorrer, mas não deve ser tratada como etapa universal em todos os tumores associados ao HPV.</p><p>Infecções crônicas por HBV ou HCV podem contribuir para câncer de fígado. A inflamação hepática persistente e a lesão e regeneração repetidas são uma via indireta importante. O HBV também pode afetar diretamente a célula hepática; não é necessário atribuir um mecanismo único a todos os casos. A aula contrasta essas vias sem que esta síntese reproduza seus casos clínicos.</p><p>A vacina contra HPV previne novas infecções pelos tipos incluídos e reduz risco de doenças associadas; ela não trata uma infecção ou doença já existente. Vacinação é prevenção primária, e não substitui o rastreamento indicado. Esta leitura omite esquemas e faixas etárias, que dependem das recomendações vigentes e da jurisdição.</p>"
+    },
+    {
+      "id": "reviewed-microbiota-w10-virus-mechanisms",
+      "subject": "microbiota",
+      "week": 10,
+      "module": "Vírus oncogênicos",
+      "source": "Microbiota a Imunidade II · semana 10 · UC AV, Vírus e Câncer; NCI — Infectious Agents — https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents",
+      "version": "2026-10-07.1",
+      "kind": "recall",
+      "title": "Qual é a diferença entre uma via direta e uma via indireta de oncogênese viral?",
+      "explanation": "Na via direta, componentes virais interferem em controles celulares, como proliferação e sobrevivência. Na indireta, infecção persistente pode causar inflamação crônica ou imunossupressão, favorecendo alterações celulares e reduzindo o controle de outros agentes. Um vírus pode envolver mais de uma via."
+    },
+    {
+      "id": "reviewed-microbiota-w10-hpv-e6-e7",
+      "subject": "microbiota",
+      "week": 10,
+      "module": "Vírus oncogênicos",
+      "source": "Microbiota a Imunidade II · semana 10 · UC AV, Vírus e Câncer; NCI — HPV and Cancer — https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-and-cancer; NCI — HPV-associated head and neck cancer — https://www.cancer.gov/about-nci/organization/ccct/steering-committees/nctn/head-neck/hnsc-squamouscellhumanpapillomavirus-publication200911.pdf",
+      "version": "2026-10-07.1",
+      "kind": "recall",
+      "title": "Que controles celulares são afetados pelas oncoproteínas E6 e E7 do HPV de alto risco?",
+      "explanation": "E6 interfere em p53, e E7 interfere em Rb. Isso enfraquece controles de sobrevivência e progressão do ciclo celular. A associação não quer dizer que toda infecção por HPV persista ou evolua para câncer."
+    },
+    {
+      "id": "reviewed-microbiota-w10-hbv-hcv",
+      "subject": "microbiota",
+      "week": 10,
+      "module": "Vírus oncogênicos",
+      "source": "Microbiota a Imunidade II · semana 10 · UC AV, Vírus e Câncer; NCI — Liver Cancer Causes and Risk Factors — https://www.cancer.gov/types/liver/what-is-liver-cancer/causes-risk-factors",
+      "version": "2026-10-07.1",
+      "kind": "recall",
+      "title": "Como infecções crônicas por HBV ou HCV podem contribuir para câncer hepático?",
+      "explanation": "A infecção crônica pode manter inflamação e lesão hepática, seguidas de regeneração repetida; com o tempo, esse ambiente pode favorecer alterações celulares. Não é correto concluir que toda infecção crônica evoluirá para câncer."
+    },
+    {
+      "id": "reviewed-microbiota-w10-hpv-vaccine",
+      "subject": "microbiota",
+      "week": 10,
+      "module": "Vírus oncogênicos",
+      "source": "Microbiota a Imunidade II · semana 10 · UC AV, Vírus e Câncer; CDC — Clinical Overview of HPV — https://www.cdc.gov/hpv/hcp/clinical-overview/",
+      "version": "2026-10-07.1",
+      "kind": "recall",
+      "title": "A vacina contra HPV trata uma infecção já existente?",
+      "explanation": "Não. É preventiva: protege contra novas infecções pelos tipos incluídos na vacina, mas não elimina infecção, lesão ou doença já estabelecida. O material aqui não especifica esquema vacinal; confira a recomendação brasileira vigente."
+    },
+    {
+      "id": "reviewed-genetica-w10-cancer-genetics-read",
+      "subject": "genetica",
+      "week": 10,
+      "module": "Genética do câncer",
+      "source": "Genótipo ao Fenótipo · semana 10 · Aula 10, Genética do Câncer; NCI — The Genetics of Cancer — https://www.cancer.gov/about-cancer/causes-prevention/genetics; NCI — What Is Cancer? — https://www.cancer.gov/about-cancer/understanding/what-is-cancer",
+      "version": "2026-10-07.1",
+      "kind": "read",
+      "title": "Drivers, passageiros e genes que controlam o crescimento celular",
+      "body": "<p>Câncer envolve alterações genéticas e epigenéticas que afetam o crescimento, a sobrevivência, a diferenciação ou o reparo celular. Alterações driver contribuem para a vantagem e a expansão de um clone tumoral. Alterações passenger acompanham a história replicativa desse clone, sem vantagem demonstrada naquele contexto. Encontrar uma alteração em um tumor, por si só, não demonstra que ela causou a doença ou que seja acionável.</p><p>Proto-oncogenes participam do crescimento e da divisão normais. Certas alterações que aumentam sua atividade podem convertê-los em oncogenes, como um acelerador preso. Genes supressores tumorais ajudam a restringir a proliferação, apoiar reparo ou promover respostas como apoptose; a perda de sua função enfraquece um freio. Genes de reparo do DNA mantêm a integridade genômica: sua falha pode elevar o acúmulo de outras alterações.</p><p>Uma alteração pode surgir apenas nas células do tumor (somática) ou estar presente desde a concepção por herança ou novo evento germinativo. A maioria das alterações encontradas em um tumor não é transmitida aos filhos. Algumas predisposições hereditárias aumentam a chance de certos cânceres, mas predisposição não torna o câncer inevitável. Portanto, câncer é uma doença genética no sentido de envolver genes e seus controles, mas não é necessariamente hereditário.</p><p>Distinga as palavras: <strong>driver/passenger</strong> descreve a contribuição funcional de uma alteração à evolução do tumor; <strong>somática/germinativa</strong> descreve onde a alteração está presente e se pode ser transmitida. São classificações diferentes. A interpretação de uma variante depende do gene, do tipo de tumor e das evidências disponíveis.</p>"
+    },
+    {
+      "id": "reviewed-genetica-w10-driver-passenger",
+      "subject": "genetica",
+      "week": 10,
+      "module": "Genética do câncer",
+      "source": "Genótipo ao Fenótipo · semana 10 · Aula 10, Genética do Câncer; NCI — Driver Mutation — https://www.cancer.gov/publications/dictionaries/cancer-terms/def/driver-mutation; NCI — From Variants to Functions — https://www.cancer.gov/ccg/blog/2019/from-variants-to-functions-new-strategies-for-the-interpretation-of-cancer-genomes",
+      "version": "2026-10-07.1",
+      "kind": "recall",
+      "title": "Como diferenciar uma alteração driver de uma passenger em um tumor?",
+      "explanation": "Uma driver contribui para vantagem seletiva e expansão do clone tumoral. Uma passenger acompanha o clone sem contribuição funcional demonstrada para essa vantagem no contexto avaliado. Detectar uma variante, isoladamente, não estabelece sua função."
+    },
+    {
+      "id": "reviewed-genetica-w10-proto-oncogene",
+      "subject": "genetica",
+      "week": 10,
+      "module": "Genética do câncer",
+      "source": "Genótipo ao Fenótipo · semana 10 · Aula 10, Genética do Câncer; NCI — What Is Cancer? — https://www.cancer.gov/about-cancer/understanding/what-is-cancer",
+      "version": "2026-10-07.1",
+      "kind": "recall",
+      "title": "O que pode ocorrer quando um proto-oncogene ganha atividade anormal?",
+      "explanation": "Ele pode se tornar um oncogene e estimular crescimento ou sobrevivência celular de forma inadequada. A ideia é de ganho de atividade em um sinal que normalmente participa da regulação; a consequência depende do gene e da alteração."
+    },
+    {
+      "id": "reviewed-genetica-w10-tumor-suppressor",
+      "subject": "genetica",
+      "week": 10,
+      "module": "Genética do câncer",
+      "source": "Genótipo ao Fenótipo · semana 10 · Aula 10, Genética do Câncer; NCI — The Genetics of Cancer — https://www.cancer.gov/about-cancer/causes-prevention/genetics",
+      "version": "2026-10-07.1",
+      "kind": "recall",
+      "title": "Como a perda de função de um gene supressor tumoral pode favorecer a oncogênese?",
+      "explanation": "Remove parte do controle que restringe proliferação, ajuda no reparo ou promove a eliminação de células alteradas, enfraquecendo freios do crescimento tumoral."
+    },
+    {
+      "id": "reviewed-genetica-w10-somatic-hereditary",
+      "subject": "genetica",
+      "week": 10,
+      "module": "Genética do câncer",
+      "source": "Genótipo ao Fenótipo · semana 10 · Aula 10, Genética do Câncer; NCI — The Genetics of Cancer — https://www.cancer.gov/about-cancer/causes-prevention/genetics",
+      "version": "2026-10-07.1",
+      "kind": "recall",
+      "title": "Qual a diferença entre uma alteração somática de um tumor e uma predisposição hereditária ao câncer?",
+      "explanation": "Uma alteração somática está nas células tumorais e em sua linhagem, sem necessariamente estar nas células reprodutivas; não é transmitida aos descendentes. Uma alteração germinativa herdada pode estar em várias células do corpo e transmitir predisposição, mas não determina que a pessoa desenvolverá câncer."
+    }
+  ]
+}

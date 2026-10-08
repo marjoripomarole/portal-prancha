@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 2862,
+  "items": 2872,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -51,10 +51,10 @@
       "name": "Genótipo ao Fenótipo",
       "description": "Heranças · Diagnóstico · Genética",
       "counts": {
-        "read": 35,
+        "read": 36,
         "mcq": 102,
         "written": 14,
-        "recall": 127
+        "recall": 131
       },
       "weeks": [
         1,
@@ -64,7 +64,8 @@
         5,
         6,
         7,
-        8
+        8,
+        10
       ]
     },
     {
@@ -72,10 +73,10 @@
       "name": "Microbiota a Imunidade II",
       "description": "Imunologia · Virologia",
       "counts": {
-        "read": 17,
+        "read": 18,
         "mcq": 103,
         "written": 7,
-        "recall": 209
+        "recall": 213
       },
       "weeks": [
         1,
@@ -85,7 +86,8 @@
         5,
         6,
         7,
-        8
+        8,
+        10
       ]
     },
     {
@@ -150,5 +152,5 @@
       ]
     }
   ],
-  "updated": "2026-10-05"
+  "updated": "2026-10-07"
 }
