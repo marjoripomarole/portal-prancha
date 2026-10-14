@@ -1,0 +1,89 @@
+{
+  "reviewedAt": "2026-10-14",
+  "sources": [
+    {
+      "path": "Forma a Função II/semana 11/Dience_falo_.pdf",
+      "sha256": "178d9e025e9e92a4746478b7e2188271100a21a8a7aa3901a4608625c1960eaf",
+      "scope": "Semana 11: síntese introdutória da divisão embrionária e dos principais componentes e relações do diencéfalo, com função geral selecionada do tálamo, subtálamo e epitálamo (slides 3, 9 e 12–16). Foram omitidos casos clínicos, diagnóstico por imagem, condutas, tabelas com relações simplificadas ou potencialmente ambíguas e dados de pacientes."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-forma-w11-diencephalon-read",
+      "subject": "forma",
+      "week": 11,
+      "module": "Neuroanatomia do diencéfalo",
+      "source": "Forma a Função II · semana 11 · Diencéfalo: integração clínico-radiológica, slides 3, 9 e 12–16",
+      "version": "2026-10-14.1",
+      "kind": "read",
+      "title": "Diencéfalo: divisões, relações e funções gerais",
+      "body": "<p>Durante o desenvolvimento, o prosencéfalo origina o telencéfalo e o diencéfalo. No adulto, o diencéfalo inclui tálamo, hipotálamo, epitálamo e subtálamo e se relaciona com o terceiro ventrículo. O telencéfalo forma os hemisférios cerebrais e se relaciona com os ventrículos laterais. Essa correspondência ajuda a organizar a anatomia, mas não substitui a identificação de cada estrutura em cortes e planos diferentes.</p><p>Os componentes diencefálicos podem ser diferenciados por posição e função geral. O tálamo participa da integração e retransmissão de informações sensitivas e motoras e também se relaciona com alerta e memória. O subtálamo fica inferior ao tálamo e participa de circuitos dos núcleos da base relacionados ao movimento. O hipotálamo e a hipófise estão associados às paredes e ao assoalho inferiores do terceiro ventrículo e participam da homeostase e da regulação hormonal. O epitálamo ocupa uma região posterossuperior; inclui a pineal, relacionada à melatonina, e as habênulas.</p><p>Ao revisar uma imagem, combine a divisão anatômica com a cavidade ventricular e as relações espaciais. Não conclua que uma estrutura está ausente ou alterada apenas porque não aparece em um corte específico. As relações ajudam a orientar a leitura, enquanto uma interpretação clínica depende do conjunto da imagem e do contexto, não de uma associação isolada.</p>"
+    },
+    {
+      "id": "reviewed-forma-w11-prosencephalon",
+      "subject": "forma",
+      "week": 11,
+      "module": "Neuroanatomia do diencéfalo",
+      "source": "Forma a Função II · semana 11 · Diencéfalo: integração clínico-radiológica, slide 3",
+      "version": "2026-10-14.1",
+      "kind": "recall",
+      "title": "Quais duas divisões adultas se originam do prosencéfalo?",
+      "explanation": "Telencéfalo e diencéfalo. O telencéfalo origina os hemisférios cerebrais e se relaciona com os ventrículos laterais; o diencéfalo inclui estruturas ao redor do terceiro ventrículo."
+    },
+    {
+      "id": "reviewed-forma-w11-components",
+      "subject": "forma",
+      "week": 11,
+      "module": "Neuroanatomia do diencéfalo",
+      "source": "Forma a Função II · semana 11 · Diencéfalo: integração clínico-radiológica, slide 9",
+      "version": "2026-10-14.1",
+      "kind": "recall",
+      "title": "Quais são os quatro componentes diencefálicos destacados na aula?",
+      "explanation": "Tálamo, hipotálamo, epitálamo e subtálamo."
+    },
+    {
+      "id": "reviewed-forma-w11-thalamus",
+      "subject": "forma",
+      "week": 11,
+      "module": "Neuroanatomia do diencéfalo",
+      "source": "Forma a Função II · semana 11 · Diencéfalo: integração clínico-radiológica, slides 9 e 12–13",
+      "version": "2026-10-14.1",
+      "kind": "recall",
+      "title": "Quais funções gerais da aula estão associadas ao tálamo?",
+      "explanation": "Integração e retransmissão de informações sensitivas e motoras, além de participação em processos de alerta e memória. Essas categorias resumem o papel geral; não substituem a identificação de núcleos e conexões específicos."
+    },
+    {
+      "id": "reviewed-forma-w11-subthalamus",
+      "subject": "forma",
+      "week": 11,
+      "module": "Neuroanatomia do diencéfalo",
+      "source": "Forma a Função II · semana 11 · Diencéfalo: integração clínico-radiológica, slide 9",
+      "version": "2026-10-14.1",
+      "kind": "recall",
+      "title": "Onde fica o subtálamo em relação ao tálamo e a que circuito se associa?",
+      "explanation": "Fica inferior ao tálamo e participa de circuitos dos núcleos da base relacionados ao movimento."
+    },
+    {
+      "id": "reviewed-forma-w11-hypothalamus",
+      "subject": "forma",
+      "week": 11,
+      "module": "Neuroanatomia do diencéfalo",
+      "source": "Forma a Função II · semana 11 · Diencéfalo: integração clínico-radiológica, slide 9",
+      "version": "2026-10-14.1",
+      "kind": "recall",
+      "title": "Com que região ventricular e função geral a aula relaciona hipotálamo e hipófise?",
+      "explanation": "Com as paredes e o assoalho inferiores do terceiro ventrículo; em conjunto, estão associados à homeostase e à regulação hormonal."
+    },
+    {
+      "id": "reviewed-forma-w11-epithalamus",
+      "subject": "forma",
+      "week": 11,
+      "module": "Neuroanatomia do diencéfalo",
+      "source": "Forma a Função II · semana 11 · Diencéfalo: integração clínico-radiológica, slides 9 e 16",
+      "version": "2026-10-14.1",
+      "kind": "recall",
+      "title": "Quais estruturas a aula inclui no epitálamo?",
+      "explanation": "Pineal e habênulas. A aula relaciona a pineal à melatonina."
+    }
+  ]
+}
