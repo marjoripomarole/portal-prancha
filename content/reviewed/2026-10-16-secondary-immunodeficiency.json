@@ -1,0 +1,83 @@
+{
+  "reviewedAt": "2026-10-16",
+  "sources": [
+    {
+      "path": "Microbiota a Imunidade II/semana 12/Secondary Immunodeficiency-1.pdf",
+      "sha256": "05557709f02bea9134eb29b9264d2f055032e9a52b28f522c60f5146f057f3d2",
+      "scope": "Semana 12: leitura introdutória sobre conceito, causas heterogêneas e abordagem geral das imunodeficiências secundárias. Não foram incluídas recomendações terapêuticas nem limiares diagnósticos."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 12/20 out - Preparação - Imunodeficiências secundárias.md",
+      "sha256": "5c478d0f3f29c5ff665c125e660202cb771cb1b2dcc79d91b9dcecb2e42fcd85",
+      "scope": "Confirma o contexto da semana 12 e a indicação local de leitura para 20/10; a referência do aviso do Canvas não foi acessada diretamente."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-microbiota-w12-sid-overview",
+      "subject": "microbiota",
+      "week": 12,
+      "module": "Imunodeficiências secundárias",
+      "source": "Microbiota a Imunidade II · semana 12 · leitura Secondary Immunodeficiency, pp. 1, 5–6",
+      "version": "2026-10-16.1",
+      "kind": "read",
+      "title": "Imunodeficiências secundárias: conceito, causas e avaliação inicial",
+      "body": "<p>As imunodeficiências secundárias (SID) decorrem de fatores externos ao sistema imune, ao contrário dos erros inatos da imunidade. Podem comprometer componentes da imunidade inata, adaptativa ou vários ao mesmo tempo; alguns quadros são transitórios e reversíveis, enquanto outros persistem.</p><p>As causas são variadas. O texto revisa efeitos de medicamentos e terapias imunológicas, infecções, neoplasias hematológicas, desnutrição, perda de proteínas pelo trato gastrointestinal ou pelos rins, doença renal crônica e mudanças relacionadas à idade. Uma causa ou doença pode afetar mais de um braço da resposta imune, e fatores podem coexistir.</p><p>A investigação começa pela história e pelo exame físico. A história deve caracterizar frequência, gravidade e tipo das infecções, além de procurar doenças associadas e exposições relevantes, como medicamentos. Esses padrões orientam a avaliação, mas não identificam sozinhos uma causa. Quando há suspeita de comprometimento celular ou combinado, o artigo descreve hemograma com diferencial e imunofenotipagem de linfócitos T, B e NK entre os exames que podem ser considerados. Para avaliar a imunidade humoral, são medidas imunoglobulinas quantitativas, incluindo IgG, IgA e IgM. A seleção e a interpretação dos exames dependem do contexto clínico; este resumo é educacional, não um algoritmo diagnóstico ou orientação de tratamento.</p><p>Leitura-base: Pourshahnazari P, Betschel SD, Kim VHD, et al. <em>Secondary Immunodeficiency</em>. <em>Allergy, Asthma &amp; Clinical Immunology</em>. 2024;20(Suppl 3):80. <a href=\"https://doi.org/10.1186/s13223-024-00925-4\">doi:10.1186/s13223-024-00925-4</a>. Revisão de acesso aberto sob licença CC BY 4.0.</p>"
+    },
+    {
+      "id": "reviewed-microbiota-w12-sid-definition",
+      "subject": "microbiota",
+      "week": 12,
+      "module": "Imunodeficiências secundárias",
+      "source": "Microbiota a Imunidade II · semana 12 · Secondary Immunodeficiency, p. 1",
+      "version": "2026-10-16.1",
+      "kind": "recall",
+      "title": "O que distingue, em termos gerais, uma imunodeficiência secundária de um erro inato da imunidade?",
+      "explanation": "A imunodeficiência secundária decorre de fatores extrínsecos ao sistema imune do hospedeiro; erros inatos resultam de alterações próprias do desenvolvimento ou funcionamento imune. A classificação depende da avaliação clínica e não pode ser feita apenas por um sintoma."
+    },
+    {
+      "id": "reviewed-microbiota-w12-sid-heterogeneity",
+      "subject": "microbiota",
+      "week": 12,
+      "module": "Imunodeficiências secundárias",
+      "source": "Microbiota a Imunidade II · semana 12 · Secondary Immunodeficiency, p. 1",
+      "version": "2026-10-16.1",
+      "kind": "recall",
+      "title": "Quais braços da resposta imune podem ser afetados em uma imunodeficiência secundária?",
+      "explanation": "A imunidade inata, a adaptativa ou múltiplos componentes simultaneamente. Por isso, as SID são heterogêneas; algumas são transitórias e reversíveis e outras podem persistir."
+    },
+    {
+      "id": "reviewed-microbiota-w12-sid-causes",
+      "subject": "microbiota",
+      "week": 12,
+      "module": "Imunodeficiências secundárias",
+      "source": "Microbiota a Imunidade II · semana 12 · Secondary Immunodeficiency, pp. 1–5",
+      "version": "2026-10-16.1",
+      "kind": "recall",
+      "title": "Cite quatro grupos de causas discutidos para imunodeficiências secundárias.",
+      "explanation": "Entre os grupos revistos estão medicamentos ou terapias, infecções, neoplasias, desnutrição e perda de proteínas. Doença renal crônica e fatores relacionados à idade também são discutidos. A lista não é exaustiva, e causas podem coexistir."
+    },
+    {
+      "id": "reviewed-microbiota-w12-sid-history",
+      "subject": "microbiota",
+      "week": 12,
+      "module": "Imunodeficiências secundárias",
+      "source": "Microbiota a Imunidade II · semana 12 · Secondary Immunodeficiency, p. 5",
+      "version": "2026-10-16.1",
+      "kind": "recall",
+      "title": "Que aspectos da história ajudam a orientar a avaliação de uma possível SID?",
+      "explanation": "Investigar possíveis causas, comorbidades e exposições, além de caracterizar infecções por tipo, frequência e gravidade. Esses elementos ajudam a direcionar a avaliação, mas não confirmam isoladamente uma SID ou sua causa."
+    },
+    {
+      "id": "reviewed-microbiota-w12-sid-testing",
+      "subject": "microbiota",
+      "week": 12,
+      "module": "Imunodeficiências secundárias",
+      "source": "Microbiota a Imunidade II · semana 12 · Secondary Immunodeficiency, pp. 5–6",
+      "version": "2026-10-16.1",
+      "kind": "recall",
+      "title": "Quais exames o artigo apresenta para explorar componentes celulares e humorais da imunidade?",
+      "explanation": "Conforme a suspeita, hemograma com diferencial e imunofenotipagem de subpopulações T, B e NK podem explorar componentes celulares; IgG, IgA e IgM quantitativas avaliam a imunidade humoral. A escolha e a interpretação são clínicas, não um algoritmo universal."
+    }
+  ]
+}
