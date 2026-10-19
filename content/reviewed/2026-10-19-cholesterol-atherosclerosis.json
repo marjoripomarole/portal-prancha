@@ -1,0 +1,78 @@
+{
+  "reviewedAt": "2026-10-19",
+  "sources": [
+    {
+      "path": "Molécula à Célula II/semana 12/Bioquimica-do-Colesterol-e-Aterosclerose - Gabriel 1.pdf",
+      "sha256": "0d9e8a64e1f11205e10ed7a18525221f3ca7a38d91c658fa4d229923d18f33a2",
+      "scope": "Semana 12: síntese e regulação intracelular do colesterol, transporte por lipoproteínas, receptor de LDL/PCSK9 e início da aterogênese. Foram omitidos interpretação de lipidograma, valores clínicos e recomendações terapêuticas."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-molecula-w12-cholesterol-overview",
+      "subject": "molecula",
+      "week": 12,
+      "module": "Colesterol e aterosclerose",
+      "source": "Molécula à Célula II · semana 12 · Bioquímica do Colesterol e Aterosclerose, slides sobre síntese, lipoproteínas e aterogênese",
+      "version": "2026-10-19.1",
+      "kind": "read",
+      "title": "Colesterol: síntese, transporte e regulação",
+      "body": "<p>O colesterol integra membranas e serve de precursor para hormônios esteroides, ácidos biliares e vitamina D. Como lipídeos são pouco solúveis no plasma aquoso, circulam em lipoproteínas: um núcleo rico em triacilgliceróis e ésteres de colesterol, envolto por uma superfície anfipática que inclui fosfolipídeos, colesterol livre e apolipoproteínas.</p><p>Na síntese endógena, acetil-CoA alimenta uma sequência de reações. A HMG-CoA redutase converte HMG-CoA em mevalonato e representa uma etapa regulada importante. Quando o colesterol intracelular aumenta, a célula reduz a expressão da HMG-CoA redutase e dos receptores de LDL; parte do excesso pode ser esterificada pela ACAT para armazenamento.</p><p>Na via exógena, partículas produzidas no intestino transportam lipídeos absorvidos da dieta. Os quilomícrons contêm ApoB-48 e seus remanescentes retornam ao fígado. Na via endógena, o fígado secreta VLDL com ApoB-100; a remoção progressiva de triacilgliceróis pela lipoproteína lipase e depois pela lipase hepática relaciona VLDL, IDL e LDL. Apolipoproteínas ajudam na estrutura, na interação com receptores e na regulação enzimática: por exemplo, ApoC-II ativa a lipoproteína lipase e ApoB-100 é reconhecida pelo receptor de LDL.</p><p>A PCSK9 reduz a reciclagem do receptor de LDL ao favorecer sua degradação, o que altera a captação de LDL pelas células. Na parede arterial, retenção de lipoproteínas na íntima pode anteceder modificações e resposta inflamatória. A captação excessiva de partículas modificadas por macrófagos via receptores scavenger contribui para a formação de células espumosas; essa via não deve ser confundida com a endocitose regulada pelo receptor clássico de LDL. Este resumo trata dos mecanismos apresentados na aula, não de diagnóstico, interpretação individual de exames ou tratamento.</p>"
+    },
+    {
+      "id": "reviewed-molecula-w12-hmgcr",
+      "subject": "molecula",
+      "week": 12,
+      "module": "Colesterol e aterosclerose",
+      "source": "Molécula à Célula II · semana 12 · Bioquímica do Colesterol e Aterosclerose, seção HMG-CoA redutase",
+      "version": "2026-10-19.1",
+      "kind": "recall",
+      "title": "Qual reação é catalisada pela HMG-CoA redutase na síntese do colesterol?",
+      "explanation": "Ela reduz HMG-CoA a mevalonato usando NADPH. A aula destaca essa etapa como um ponto regulado da via de síntese do colesterol."
+    },
+    {
+      "id": "reviewed-molecula-w12-feedback",
+      "subject": "molecula",
+      "week": 12,
+      "module": "Colesterol e aterosclerose",
+      "source": "Molécula à Célula II · semana 12 · Bioquímica do Colesterol e Aterosclerose, seção regulação por colesterol intracelular",
+      "version": "2026-10-19.1",
+      "kind": "recall",
+      "title": "Como a célula responde a maior disponibilidade de colesterol intracelular?",
+      "explanation": "A aula descreve redução da expressão da HMG-CoA redutase e do receptor de LDL. O excesso também pode ser esterificado pela ACAT para armazenamento intracelular."
+    },
+    {
+      "id": "reviewed-molecula-w12-lipoproteins",
+      "subject": "molecula",
+      "week": 12,
+      "module": "Colesterol e aterosclerose",
+      "source": "Molécula à Célula II · semana 12 · Bioquímica do Colesterol e Aterosclerose, seções de via exógena e endógena",
+      "version": "2026-10-19.1",
+      "kind": "recall",
+      "title": "Compare a origem dos quilomícrons com a sequência hepática VLDL–IDL–LDL.",
+      "explanation": "Quilomícrons são formados no intestino e carregam lipídeos absorvidos, com ApoB-48. Na via endógena, o fígado libera VLDL com ApoB-100; a perda progressiva de triacilgliceróis relaciona VLDL a IDL e LDL."
+    },
+    {
+      "id": "reviewed-molecula-w12-apolipoproteins",
+      "subject": "molecula",
+      "week": 12,
+      "module": "Colesterol e aterosclerose",
+      "source": "Molécula à Célula II · semana 12 · Bioquímica do Colesterol e Aterosclerose, seção apoproteínas-chave",
+      "version": "2026-10-19.1",
+      "kind": "recall",
+      "title": "Qual função a aula atribui à ApoC-II e qual relação destaca para ApoB-100?",
+      "explanation": "ApoC-II ativa a lipoproteína lipase. ApoB-100 integra VLDL/LDL e é reconhecida pelo receptor de LDL."
+    },
+    {
+      "id": "reviewed-molecula-w12-scavenger",
+      "subject": "molecula",
+      "week": 12,
+      "module": "Colesterol e aterosclerose",
+      "source": "Molécula à Célula II · semana 12 · Bioquímica do Colesterol e Aterosclerose, seção monócitos, macrófagos e células espumosas",
+      "version": "2026-10-19.1",
+      "kind": "recall",
+      "title": "Que receptores a aula relaciona à captação excessiva de lipoproteínas modificadas por macrófagos?",
+      "explanation": "Receptores scavenger. A aula os diferencia do receptor clássico de LDL e relaciona essa captação à formação de células espumosas."
+    }
+  ]
+}
