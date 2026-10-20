@@ -1,0 +1,78 @@
+{
+  "reviewedAt": "2026-10-20",
+  "sources": [
+    {
+      "path": "Microbiota a Imunidade II/semana 12/Imunodeficiencias Secundarias.pdf",
+      "sha256": "b78f8da6bbebab273bded2eac7457f1614388334ce6a9d784e510b896db61a4f",
+      "scope": "Semana 12: seleção dos slides 32–33 e 40 sobre o mecanismo dos glicocorticoides, calcineurina/NFAT e mTOR na resposta de linfócitos T. Não inclui doses, riscos clínicos, sinais diagnósticos, quimioterapia/neutropenia, nutrição, GLP-1, profilaxia ou recomendações terapêuticas."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-microbiota-w12-sid-pathways-overview",
+      "subject": "microbiota",
+      "week": 12,
+      "module": "Imunodeficiências secundárias · mecanismos celulares",
+      "source": "Microbiota a Imunidade II · semana 12 · Imunodeficiências Secundárias, slides 32–33 e 40; refs. 1, 2, 4 e 7 da apresentação",
+      "version": "2026-10-20.1",
+      "kind": "read",
+      "title": "Em que etapas corticoides e imunossupressores interferem na ativação do linfócito T?",
+      "body": "<p>A apresentação organiza parte da imunossupressão em etapas da resposta do linfócito T. No sinal do receptor T (TCR), a calcineurina participa da ativação de NFAT e da transcrição de IL-2. Ciclosporina e tacrolimo inibem a calcineurina, reduzindo essa etapa de sinalização.</p><p>Em outra etapa, a IL-2 liga-se ao seu receptor e aciona vias que sustentam a resposta proliferativa; a apresentação destaca mTOR nesse ponto. Sirolimo e everolimo interferem nessa resposta a jusante do receptor de IL-2. Portanto, inibir calcineurina e inibir mTOR são bloqueios em etapas distintas do esquema didático.</p><p>Os glicocorticoides ligam-se a um receptor intracelular que atua no núcleo. A aula esquematiza redução da atividade de programas transcricionais associados a NF-κB e AP-1 e menor expressão de mediadores inflamatórios, incluindo IL-2. Isso ajuda a entender por que o efeito descrito alcança componentes da imunidade inata e adaptativa.</p><p>Este material resume o esquema mecanístico apresentado nas aulas e não compara eficácia, dose ou indicação clínica. Para aprofundamento: <a href=\"https://doi.org/10.1038/357695a0\">Clipstone &amp; Crabtree, Nature (1992), calcineurina na ativação de linfócitos T</a>; <a href=\"https://doi.org/10.1084/jem.175.3.637\">Vacca et al., Journal of Experimental Medicine (1992), regulação da expressão de IL-2 por glicocorticoides</a>.</p>"
+    },
+    {
+      "id": "reviewed-microbiota-w12-sid-calcineurin-nfat",
+      "subject": "microbiota",
+      "week": 12,
+      "module": "Imunodeficiências secundárias · mecanismos celulares",
+      "source": "Microbiota a Imunidade II · semana 12 · Imunodeficiências Secundárias, slide 40",
+      "version": "2026-10-20.1",
+      "kind": "recall",
+      "title": "Na sequência TCR → calcineurina → NFAT, qual função da calcineurina a aula destaca?",
+      "explanation": "A calcineurina permite a ativação de NFAT, que participa da transcrição de IL-2 no esquema da aula. A resposta liga o sinal do TCR à produção de uma citocina importante para a ativação e expansão dos linfócitos."
+    },
+    {
+      "id": "reviewed-microbiota-w12-sid-calcineurin-drugs",
+      "subject": "microbiota",
+      "week": 12,
+      "module": "Imunodeficiências secundárias · mecanismos celulares",
+      "source": "Microbiota a Imunidade II · semana 12 · Imunodeficiências Secundárias, slide 40",
+      "version": "2026-10-20.1",
+      "kind": "recall",
+      "title": "Que etapa do sinal do linfócito T é inibida por ciclosporina e tacrolimo?",
+      "explanation": "Ambos são apresentados como inibidores da calcineurina. No esquema, isso reduz a ativação de NFAT e a transcrição de IL-2; não é o mesmo ponto de ação atribuído aos inibidores de mTOR."
+    },
+    {
+      "id": "reviewed-microbiota-w12-sid-mtor",
+      "subject": "microbiota",
+      "week": 12,
+      "module": "Imunodeficiências secundárias · mecanismos celulares",
+      "source": "Microbiota a Imunidade II · semana 12 · Imunodeficiências Secundárias, slide 40",
+      "version": "2026-10-20.1",
+      "kind": "recall",
+      "title": "No esquema da aula, onde atuam sirolimo e everolimo em relação à IL-2?",
+      "explanation": "Eles inibem mTOR e, assim, interferem na resposta proliferativa a jusante do receptor de IL-2. A apresentação contrasta esse bloqueio com os inibidores de calcineurina, que reduzem a transcrição de IL-2."
+    },
+    {
+      "id": "reviewed-microbiota-w12-sid-compare-blocks",
+      "subject": "microbiota",
+      "week": 12,
+      "module": "Imunodeficiências secundárias · mecanismos celulares",
+      "source": "Microbiota a Imunidade II · semana 12 · Imunodeficiências Secundárias, slide 40",
+      "version": "2026-10-20.1",
+      "kind": "recall",
+      "title": "Compare o ponto de bloqueio da ciclosporina/tacrolimo com o do sirolimo/everolimo.",
+      "explanation": "Ciclosporina e tacrolimo inibem calcineurina antes da transcrição de IL-2 por NFAT. Sirolimo e everolimo inibem mTOR e a resposta celular à IL-2. São etapas diferentes da sequência apresentada."
+    },
+    {
+      "id": "reviewed-microbiota-w12-sid-glucocorticoid",
+      "subject": "microbiota",
+      "week": 12,
+      "module": "Imunodeficiências secundárias · mecanismos celulares",
+      "source": "Microbiota a Imunidade II · semana 12 · Imunodeficiências Secundárias, slides 32–33",
+      "version": "2026-10-20.1",
+      "kind": "recall",
+      "title": "Como o receptor de glicocorticoide ajuda a explicar o efeito amplo descrito na aula?",
+      "explanation": "O receptor intracelular atua no núcleo e a aula esquematiza redução de programas transcricionais associados a NF-κB e AP-1, incluindo mediadores inflamatórios e IL-2. Por atingir esses programas, o esquema relaciona o efeito a componentes inatos e adaptativos."
+    }
+  ]
+}
