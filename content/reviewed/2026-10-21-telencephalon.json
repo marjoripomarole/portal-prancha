@@ -1,0 +1,96 @@
+{
+  "reviewedAt": "2026-10-21",
+  "sources": [
+    {
+      "path": "Forma a Função II/semana 12/Telencéfalo.pdf",
+      "sha256": "7872db8a84b549151f25314070dec657d5ef149f2c10621b950601f57f590079",
+      "scope": "Semana 12: topografia dos lobos e sulcos, áreas corticais primárias, ventrículos laterais e hipocampo, classificação das fibras da substância branca e organização da cápsula interna. Omitidos os casos clínicos individuais, inferências diagnósticas e recomendações. A capa identifica Telencéfalo; o metadado do PDF traz título diferente (Diencéfalo), registrado como discrepância de metadados."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-forma-w12-telencephalon-overview",
+      "subject": "forma",
+      "week": 12,
+      "module": "Telencéfalo e leitura anatômica de RM",
+      "source": "Forma a Função II · semana 12 · Telencéfalo, slides ‘Os sulcos que dividem os lobos’, ‘Lobos’ e ‘Áreas primárias e de associação’",
+      "version": "2026-10-21.1",
+      "kind": "read",
+      "title": "Como se orientar entre lobos, sulcos e áreas corticais",
+      "body": "<p>Comece pela relação anatômica antes de nomear uma região. O sulco central separa os lobos frontal e parietal; o sulco lateral (fissura silviana) separa o temporal de partes dos lobos frontal e parietal; o sulco parieto-occipital é mais evidente na face medial. No occipital medial, o sulco calcarino separa o cúneo, superiormente, do giro lingual, inferiormente.</p><p>O giro pré-central, anterior ao sulco central, contém a área motora primária (área 4). O giro pós-central, posterior ao sulco, contém a área somestésica primária (áreas 3, 1 e 2). No mapa motor mostrado na aula, face e mão ficam na convexidade, enquanto perna e pé ficam na face medial, no lóbulo paracentral. A área visual primária (área 17) acompanha as margens do sulco calcarino.</p><p>Use o plano de imagem e os sulcos como marcos. Uma estrutura deve ser identificada pelas relações anatômicas do corte, não apenas por cor, aparência isolada ou posição na tela.</p>"
+    },
+    {
+      "id": "reviewed-forma-w12-telencephalon-sulci",
+      "subject": "forma",
+      "week": 12,
+      "module": "Telencéfalo e leitura anatômica de RM",
+      "source": "Forma a Função II · semana 12 · Telencéfalo, slides ‘Os sulcos que dividem os lobos’ e ‘Lobo occipital’",
+      "version": "2026-10-21.1",
+      "kind": "recall",
+      "title": "Quais sulcos ajudam a separar frontal, parietal, temporal e occipital?",
+      "explanation": "O sulco central separa frontal de parietal; o sulco lateral separa temporal de partes dos lobos frontal e parietal; o sulco parieto-occipital marca a divisão entre parietal e occipital na face medial. O sulco calcarino é um marco do occipital medial e da área visual primária."
+    },
+    {
+      "id": "reviewed-forma-w12-telencephalon-cortical-areas",
+      "subject": "forma",
+      "week": 12,
+      "module": "Telencéfalo e leitura anatômica de RM",
+      "source": "Forma a Função II · semana 12 · Telencéfalo, slides ‘Córtex motor e homúnculo’, ‘Lobo parietal’ e ‘Lobo occipital’",
+      "version": "2026-10-21.1",
+      "kind": "recall",
+      "title": "Relacione os giros pré-central e pós-central às respectivas áreas primárias.",
+      "explanation": "O giro pré-central, anterior ao sulco central, corresponde à área motora primária (área 4). O giro pós-central, posterior ao sulco central, corresponde à área somestésica primária (áreas 3, 1 e 2)."
+    },
+    {
+      "id": "reviewed-forma-w12-telencephalon-visual-cortex",
+      "subject": "forma",
+      "week": 12,
+      "module": "Telencéfalo e leitura anatômica de RM",
+      "source": "Forma a Função II · semana 12 · Telencéfalo, slide ‘Lobo occipital’",
+      "version": "2026-10-21.1",
+      "kind": "recall",
+      "title": "Onde fica a área visual primária e qual marco anatômico ajuda a encontrá-la?",
+      "explanation": "A área visual primária (área 17) fica nas margens do sulco calcarino, na face medial do lobo occipital. A aula destaca o sulco calcarino como referência para localizar o cúneo acima e o giro lingual abaixo."
+    },
+    {
+      "id": "reviewed-forma-w12-telencephalon-white-matter",
+      "subject": "forma",
+      "week": 12,
+      "module": "Telencéfalo e leitura anatômica de RM",
+      "source": "Forma a Função II · semana 12 · Telencéfalo, slides ‘Três tipos de fibras’ e ‘Associação e comissurais’",
+      "version": "2026-10-21.1",
+      "kind": "recall",
+      "title": "Compare fibras de associação, comissurais e de projeção.",
+      "explanation": "Fibras de associação conectam áreas do mesmo hemisfério; fibras comissurais conectam os dois hemisférios; fibras de projeção conectam o córtex a estruturas abaixo. A aula usa, respectivamente, fascículo arqueado, corpo caloso e trato corticoespinal como exemplos."
+    },
+    {
+      "id": "reviewed-forma-w12-telencephalon-internal-capsule",
+      "subject": "forma",
+      "week": 12,
+      "module": "Telencéfalo e leitura anatômica de RM",
+      "source": "Forma a Função II · semana 12 · Telencéfalo, slide ‘Cápsula interna’",
+      "version": "2026-10-21.1",
+      "kind": "mcq",
+      "title": "Qual descrição corresponde à organização da cápsula interna apresentada na aula?",
+      "options": [
+        "O ramo anterior fica entre a cabeça do caudado e o núcleo lentiforme; o joelho conduz fibras corticonucleares; o ramo posterior conduz fibras corticoespinais.",
+        "O ramo anterior conduz fibras corticoespinais; o joelho contém fibras comissurais; o ramo posterior fica entre a cabeça do caudado e o núcleo lentiforme.",
+        "O ramo anterior fica lateral ao tálamo; o joelho conduz fibras de associação; o ramo posterior contém apenas fibras corticonucleares.",
+        "O ramo anterior conecta os dois hemisférios; o joelho conduz fibras visuais; o ramo posterior forma o corpo caloso."
+      ],
+      "answer": 0,
+      "explanation": "A aula localiza o ramo anterior entre a cabeça do caudado e o núcleo lentiforme, atribui fibras corticonucleares ao joelho e fibras corticoespinais ao ramo posterior, lateral ao tálamo. No corte axial, o conjunto é descrito como um V com o joelho apontando para dentro."
+    },
+    {
+      "id": "reviewed-forma-w12-telencephalon-lateral-ventricle",
+      "subject": "forma",
+      "week": 12,
+      "module": "Telencéfalo e leitura anatômica de RM",
+      "source": "Forma a Função II · semana 12 · Telencéfalo, slides ‘Ventrículos laterais’ e ‘Quiz rápido’",
+      "version": "2026-10-21.1",
+      "kind": "recall",
+      "title": "Como o ventrículo lateral se comunica com o terceiro ventrículo e que relação a aula destaca para o hipocampo?",
+      "explanation": "A comunicação ocorre pelo forame interventricular (forame de Monro). A aula identifica o hipocampo como parte do assoalho do corno temporal do ventrículo lateral."
+    }
+  ]
+}
