@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 2932,
+  "items": 2957,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -32,10 +32,10 @@
       "name": "Molécula à Célula II",
       "description": "Mecanismos · Metabolismo · Cálculos",
       "counts": {
-        "read": 41,
+        "read": 42,
         "mcq": 116,
-        "written": 16,
-        "recall": 200
+        "written": 17,
+        "recall": 203
       },
       "weeks": [
         1,
@@ -46,7 +46,8 @@
         6,
         8,
         9,
-        12
+        12,
+        13
       ]
     },
     {
@@ -54,10 +55,10 @@
       "name": "Genótipo ao Fenótipo",
       "description": "Heranças · Diagnóstico · Genética",
       "counts": {
-        "read": 36,
+        "read": 37,
         "mcq": 102,
-        "written": 14,
-        "recall": 131
+        "written": 15,
+        "recall": 134
       },
       "weeks": [
         1,
@@ -68,7 +69,8 @@
         6,
         7,
         8,
-        10
+        10,
+        13
       ]
     },
     {
@@ -76,10 +78,10 @@
       "name": "Microbiota a Imunidade II",
       "description": "Imunologia · Virologia",
       "counts": {
-        "read": 23,
+        "read": 25,
         "mcq": 103,
-        "written": 7,
-        "recall": 241
+        "written": 9,
+        "recall": 247
       },
       "weeks": [
         1,
@@ -92,7 +94,8 @@
         8,
         10,
         11,
-        12
+        12,
+        13
       ]
     },
     {
@@ -119,10 +122,10 @@
       "name": "Pesquisa Científica",
       "description": "Método · Pergunta · Evidências",
       "counts": {
-        "read": 9,
+        "read": 10,
         "mcq": 50,
-        "written": 3,
-        "recall": 82
+        "written": 4,
+        "recall": 85
       },
       "weeks": [
         1,
@@ -133,7 +136,8 @@
         7,
         8,
         10,
-        12
+        12,
+        13
       ]
     },
     {
@@ -158,5 +162,5 @@
       ]
     }
   ],
-  "updated": "2026-10-21"
+  "updated": "2026-10-27"
 }

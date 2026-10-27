@@ -1,0 +1,337 @@
+{
+  "reviewedAt": "2026-10-27",
+  "sources": [
+    {
+      "path": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf",
+      "sha256": "316c7f363715bad26b51de610b23ca51a59ac7d7f533fddc33ca12cd21d3b9cf",
+      "scope": "Semana 13: leitura visual das páginas 15–28; princípios da separação de DNA em agarose, ladder, controles e tampões. Omitidos detalhes de biossegurança e execução experimental não revisados."
+    },
+    {
+      "path": "Molécula à Célula II/semana 13/Ciclo da Uréia  Prática Urianálise.pdf",
+      "sha256": "d6b92329372f584adf1703d00986dbf23f7fa3eb21c59fc4b05534113b2814a9",
+      "scope": "Semana 13 por pasta e agenda, embora a capa diga Aula 11. Seleção nas páginas 14, 19, 24, 30 e 33: compartimentos, doadores de nitrogênio, sequência, balanço energético e regulação. Não usar isoladamente a equação líquida simplificada da página 30; a segunda entrada de nitrogênio é aspartato, conforme página 19."
+    },
+    {
+      "path": "Pesquisa Científica/semana 13/Aula_13_Etica_Pesquisa_25Out2026.pdf",
+      "sha256": "4c31afac4aa7791b9b945af465f9e08c2b485ec31e76d2b1751260eec715bac9",
+      "scope": "Semana 13: princípios, consentimento, confidencialidade e conflitos (páginas 11–19). Conteúdo real da aula é ética, apesar da preparação preliminar sugerir big data. Excluídos casos pessoais e estrutura normativa atual da página 21, que exige revisão própria."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 13/Aula 13 - Antigenos tumorais.pdf",
+      "sha256": "1114998749c714ec7961005ab5acfd05a966de8816dd10106d96819c62848cf9",
+      "scope": "Semana 13: antígenos e mecanismos de apoptose das páginas 3, 5–7, 17, 24–30, 34 e 37. Não reproduzir a classificação rígida necrose=acidental da página 33 nem equiparar autofagia a morte; há necroptose e papel de sobrevivência no próprio material."
+    },
+    {
+      "path": "Microbiota a Imunidade II/semana 13/Aula 13 -Definição de tumores e mecanismo de metástases - VF.pdf",
+      "sha256": "58f21dc34d7c87fc00f65a8ab5f5e64acb3ea3759f9935114aee19f49e2aefaa",
+      "scope": "Semana 13: conceitos de neoplasia, grau versus extensão e cascata metastática. Não generalizar velocidade de crescimento, categorias TNM específicas nem usar o glioma da página 7 como exemplo universal de benignidade."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-genetica-w13-agarose-principles",
+      "subject": "genetica",
+      "week": 13,
+      "module": "Eletroforese em gel de agarose",
+      "source": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf · páginas do PDF 15–20 e 23–28",
+      "version": "2026-10-27.1",
+      "kind": "read",
+      "title": "Eletroforese: carga, tamanho e leitura das bandas",
+      "body": "<p>A eletroforese separa moléculas sob a ação de um campo elétrico. No gel de agarose, os grupos fosfato dão ao DNA carga líquida negativa; ele migra em direção ao polo positivo. A matriz do gel funciona como uma peneira: em condições comparáveis, fragmentos lineares menores percorrem maior distância que os maiores.</p><p>O marcador de tamanho (ladder) contém fragmentos conhecidos e permite estimar o tamanho das bandas da amostra por comparação. Sua presença não substitui controles do experimento. No esquema da aula, o controle negativo fica sem banda; uma banda nesse controle exige investigar contaminação ou outro problema antes de interpretar o resultado.</p><p>O tampão de corrida participa da condução elétrica e manutenção das condições da corrida. O tampão de carga aumenta a densidade da amostra e oferece um corante de acompanhamento; esse corante não é o DNA. A revelação das bandas requer um método de detecção apropriado. Ao ler um gel, identifique marcador, amostras e controles antes de tirar conclusões.</p>"
+    },
+    {
+      "id": "reviewed-genetica-w13-agarose-polarity",
+      "subject": "genetica",
+      "week": 13,
+      "module": "Eletroforese em gel de agarose",
+      "source": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf · páginas do PDF 19",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Por que o DNA migra em direção ao polo positivo na eletroforese?",
+      "explanation": "O esqueleto açúcar-fosfato confere ao DNA carga líquida negativa. Sob o campo elétrico, ele migra em direção ao ânodo, o polo positivo.",
+      "solutionVisual": "<figure><img src=\"/media/slide-w13-20261027-genetica-p19.webp\" alt=\"Carga do DNA e migração para o ânodo\"/><figcaption>Eletroforese em gel de agarose · semana 13 · página 19 do PDF da aula.</figcaption></figure>"
+    },
+    {
+      "id": "reviewed-genetica-w13-agarose-ladder",
+      "subject": "genetica",
+      "week": 13,
+      "module": "Eletroforese em gel de agarose",
+      "source": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf · páginas do PDF 15 e 18",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Duas bandas de DNA linear foram separadas no mesmo gel: uma percorreu maior distância. Como comparar seus tamanhos?",
+      "explanation": "Em condições comparáveis, a banda que percorreu maior distância corresponde ao fragmento menor. O tamanho aproximado é estimado pela posição em relação às bandas conhecidas do ladder, e não apenas pela intensidade da fluorescência."
+    },
+    {
+      "id": "reviewed-genetica-w13-agarose-loading",
+      "subject": "genetica",
+      "week": 13,
+      "module": "Eletroforese em gel de agarose",
+      "source": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf · páginas do PDF 16 e 23–25",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Qual é a diferença entre tampão de carga e tampão de corrida?",
+      "explanation": "O tampão de carga é adicionado à amostra: aumenta sua densidade e inclui um corante para acompanhar a corrida. O tampão de corrida ocupa a cuba e o gel, permitindo condução elétrica e mantendo as condições apropriadas. O corante de acompanhamento não representa diretamente as bandas de DNA."
+    },
+    {
+      "id": "reviewed-genetica-w13-agarose-controls",
+      "subject": "genetica",
+      "week": 13,
+      "module": "Eletroforese em gel de agarose",
+      "source": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf · páginas do PDF 18 e 20",
+      "version": "2026-10-27.1",
+      "kind": "written",
+      "title": "O controle negativo de uma PCR apresenta banda no gel. Explique por que não basta observar a banda da amostra para validar o ensaio.",
+      "explanation": "Um controle que deveria permanecer sem amplificação apresentou sinal, o que levanta suspeita de contaminação ou outro problema do ensaio. É necessário investigar e resolver essa falha antes de validar a interpretação da amostra. O ladder apenas auxilia a estimar tamanhos e não corrige um controle inválido.",
+      "rubric": [
+        "Reconhece que o controle negativo deveria estar sem banda.",
+        "Aponta suspeita de contaminação ou problema do ensaio.",
+        "Distingue a função do controle da função do ladder."
+      ]
+    },
+    {
+      "id": "reviewed-molecula-w13-urea-overview",
+      "subject": "molecula",
+      "week": 13,
+      "module": "Ciclo da ureia",
+      "source": "Molécula à Célula II/semana 13/Ciclo da Uréia  Prática Urianálise.pdf · páginas do PDF 14, 19, 24, 30 e 33",
+      "version": "2026-10-27.1",
+      "kind": "read",
+      "title": "Ciclo da ureia: acompanhe nitrogênios, compartimentos e energia",
+      "body": "<p>Nos hepatócitos, o ciclo da ureia permite incorporar nitrogênio em ureia, posteriormente transportada pelo sangue até os rins. Os dois nitrogênios da ureia têm entradas distintas: um vem da amônia/amônio, incorporado ao carbamoil-fosfato; o outro vem do aspartato.</p><p>Na matriz mitocondrial, a carbamoil-fosfato sintetase I forma carbamoil-fosfato e a ornitina transcarbamilase forma citrulina. A citrulina segue para o citosol. Ali, a argininosuccinato sintetase incorpora aspartato; a argininosuccinato liase libera fumarato e produz arginina; a arginase libera ureia e regenera ornitina, que retorna à mitocôndria.</p><p>São consumidas três moléculas de ATP, correspondentes a quatro ligações fosfato de alta energia: duas etapas convertem ATP em ADP e uma converte ATP em AMP e pirofosfato. O fumarato oferece uma conexão metabólica com o ciclo do ácido cítrico. O N-acetilglutamato é o ativador alostérico da carbamoil-fosfato sintetase I destacado na aula.</p>"
+    },
+    {
+      "id": "reviewed-molecula-w13-urea-nitrogen-donors",
+      "subject": "molecula",
+      "week": 13,
+      "module": "Ciclo da ureia",
+      "source": "Molécula à Célula II/semana 13/Ciclo da Uréia  Prática Urianálise.pdf · páginas do PDF 14 e 19",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Quais são as duas fontes imediatas de nitrogênio para a síntese de ureia?",
+      "explanation": "Um nitrogênio entra a partir da amônia/amônio, por meio do carbamoil-fosfato formado pela carbamoil-fosfato sintetase I. O segundo entra a partir do aspartato, na formação de argininosuccinato.",
+      "solutionVisual": "<figure><img src=\"/media/slide-w13-20261027-molecula-p19.webp\" alt=\"Etapas e compartimentos do ciclo da ureia\"/><figcaption>Ciclo da ureia · semana 13 · página 19 do PDF da aula.</figcaption></figure>"
+    },
+    {
+      "id": "reviewed-molecula-w13-urea-compartments",
+      "subject": "molecula",
+      "week": 13,
+      "module": "Ciclo da ureia",
+      "source": "Molécula à Célula II/semana 13/Ciclo da Uréia  Prática Urianálise.pdf · páginas do PDF 19",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Quais etapas iniciais da síntese de ureia ficam na mitocôndria e qual intermediário segue ao citosol?",
+      "explanation": "A formação do carbamoil-fosfato pela carbamoil-fosfato sintetase I e a formação de citrulina pela ornitina transcarbamilase ocorrem na matriz mitocondrial. A citrulina segue ao citosol, onde ocorrem as etapas com argininosuccinato sintetase, argininosuccinato liase e arginase."
+    },
+    {
+      "id": "reviewed-molecula-w13-urea-energy",
+      "subject": "molecula",
+      "week": 13,
+      "module": "Ciclo da ureia",
+      "source": "Molécula à Célula II/semana 13/Ciclo da Uréia  Prática Urianálise.pdf · páginas do PDF 19 e 30",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Por que consumir três ATP na síntese de ureia corresponde a quatro ligações fosfato de alta energia?",
+      "explanation": "A carbamoil-fosfato sintetase I utiliza dois ATP, convertendo-os em ADP. A argininosuccinato sintetase utiliza um ATP e gera AMP e pirofosfato, cujo processamento corresponde a duas ligações de alta energia. O total é três moléculas de ATP e quatro equivalentes de ligações fosfato de alta energia."
+    },
+    {
+      "id": "reviewed-molecula-w13-urea-return-ornithine",
+      "subject": "molecula",
+      "week": 13,
+      "module": "Ciclo da ureia",
+      "source": "Molécula à Célula II/semana 13/Ciclo da Uréia  Prática Urianálise.pdf · páginas do PDF 19",
+      "version": "2026-10-27.1",
+      "kind": "written",
+      "title": "Reconstrua a sequência citosólica do ciclo da ureia a partir da citrulina e indique o destino da ornitina.",
+      "explanation": "Citrulina e aspartato formam argininosuccinato, com consumo de ATP. O argininosuccinato é clivado em arginina e fumarato. A arginase hidrolisa a arginina, liberando ureia e ornitina. A ornitina retorna à matriz mitocondrial para receber um novo grupo carbamoil.",
+      "rubric": [
+        "Inclui a entrada do aspartato e formação de argininosuccinato.",
+        "Identifica arginina e fumarato como produtos da etapa seguinte.",
+        "Indica ureia, regeneração de ornitina e retorno à mitocôndria."
+      ]
+    },
+    {
+      "id": "reviewed-pesquisa-w13-research-ethics-overview",
+      "subject": "pesquisa",
+      "week": 13,
+      "module": "Ética em pesquisa científica",
+      "source": "Pesquisa Científica/semana 13/Aula_13_Etica_Pesquisa_25Out2026.pdf · páginas do PDF 11–19",
+      "version": "2026-10-27.1",
+      "kind": "read",
+      "title": "Ética em pesquisa: consentimento, riscos e distribuição justa",
+      "body": "<p>A aula apresenta três pilares do Relatório Belmont: respeito pelas pessoas, beneficência e justiça. Respeito pelas pessoas inclui autonomia e proteção adicional quando ela está reduzida. Beneficência exige minimizar riscos e considerar benefícios. Justiça diz respeito à distribuição dos ônus e dos benefícios da pesquisa, evitando exploração de grupos vulneráveis.</p><p>Consentimento livre e esclarecido envolve compreender objetivos, riscos, benefícios e formas de proteção das informações, além de poder recusar ou sair do estudo. A assinatura de um termo, isoladamente, não demonstra que houve compreensão.</p><p>A confidencialidade exige acesso autorizado, uso compatível com os objetivos aprovados e proteção contra divulgação indevida. A aula relaciona essas medidas a armazenamento seguro, acesso restrito e proteção dos dados. Conflitos de interesses podem ser financeiros, acadêmicos ou ligados a prestígio e publicação; precisam ser reconhecidos porque podem favorecer vieses e omissão de efeitos adversos. Esta seleção trata dos princípios da aula, sem apresentar um roteiro regulatório ou definir critérios de dispensa de consentimento.</p>"
+    },
+    {
+      "id": "reviewed-pesquisa-w13-research-belmont",
+      "subject": "pesquisa",
+      "week": 13,
+      "module": "Ética em pesquisa científica",
+      "source": "Pesquisa Científica/semana 13/Aula_13_Etica_Pesquisa_25Out2026.pdf · páginas do PDF 11",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Quais são os três pilares do Relatório Belmont apresentados na aula de ética?",
+      "explanation": "Respeito pelas pessoas, beneficência e justiça. Correspondem, respectivamente, à autonomia e proteção de pessoas com autonomia diminuída; à minimização de riscos e consideração dos benefícios; e à distribuição justa dos benefícios e ônus da pesquisa.",
+      "solutionVisual": "<figure><img src=\"/media/slide-w13-20261027-pesquisa-p11.webp\" alt=\"Três pilares do Relatório Belmont\"/><figcaption>Ética em pesquisa científica · semana 13 · página 11 do PDF da aula.</figcaption></figure>"
+    },
+    {
+      "id": "reviewed-pesquisa-w13-research-consent",
+      "subject": "pesquisa",
+      "week": 13,
+      "module": "Ética em pesquisa científica",
+      "source": "Pesquisa Científica/semana 13/Aula_13_Etica_Pesquisa_25Out2026.pdf · páginas do PDF 13",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Além de assinar o termo, o que um participante precisa compreender e poder decidir no consentimento livre e esclarecido?",
+      "explanation": "Precisa compreender objetivos, riscos, benefícios e proteção das informações, saber como contatar a equipe e poder recusar a participação ou sair do estudo. O esclarecimento e a liberdade de decisão são centrais."
+    },
+    {
+      "id": "reviewed-pesquisa-w13-research-conflicts",
+      "subject": "pesquisa",
+      "week": 13,
+      "module": "Ética em pesquisa científica",
+      "source": "Pesquisa Científica/semana 13/Aula_13_Etica_Pesquisa_25Out2026.pdf · páginas do PDF 16",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Um pesquisador sem vínculo financeiro pode apresentar conflito de interesses? Justifique.",
+      "explanation": "Sim. A aula inclui interesses acadêmicos, de prestígio e de publicação, além dos financeiros. Eles podem favorecer vieses e omissão de resultados ou efeitos adversos; por isso a análise do conflito não se limita ao recebimento de dinheiro."
+    },
+    {
+      "id": "reviewed-pesquisa-w13-research-confidentiality",
+      "subject": "pesquisa",
+      "week": 13,
+      "module": "Ética em pesquisa científica",
+      "source": "Pesquisa Científica/semana 13/Aula_13_Etica_Pesquisa_25Out2026.pdf · páginas do PDF 17–19",
+      "version": "2026-10-27.1",
+      "kind": "written",
+      "title": "Uma equipe propõe disponibilizar a planilha identificada dos participantes a todos os colaboradores, mesmo aos que não precisam dela. Analise a proposta à luz da confidencialidade.",
+      "explanation": "A proposta contraria o acesso restrito às pessoas autorizadas e necessário aos objetivos aprovados. A equipe deve definir quem precisa de acesso, proteger o armazenamento e evitar divulgação indevida. Retirar apenas um identificador ou obter uma assinatura de consentimento não elimina a necessidade dessas salvaguardas.",
+      "rubric": [
+        "Relaciona confidencialidade a acesso autorizado e finalidade aprovada.",
+        "Questiona o acesso indiscriminado.",
+        "Propõe restrição de acesso e armazenamento seguro."
+      ]
+    },
+    {
+      "id": "reviewed-microbiota-w13-neoplasia-metastasis-overview",
+      "subject": "microbiota",
+      "week": 13,
+      "module": "Neoplasias e cascata metastática",
+      "source": "Microbiota a Imunidade II/semana 13/Aula 13 -Definição de tumores e mecanismo de metástases - VF.pdf · páginas do PDF 3–9, 12, 14 e 18–26; fechamento na página 35",
+      "version": "2026-10-27.1",
+      "kind": "read",
+      "title": "Neoplasia, malignidade e as barreiras da cascata metastática",
+      "body": "<p>Neoplasia é uma proliferação celular anormal, relativamente autônoma e persistente. Pode ser benigna ou maligna; câncer é a denominação geral das neoplasias malignas. Nem todo câncer forma uma massa sólida: a aula usa as leucemias como exemplo. Uma neoplasia benigna pode causar efeitos importantes por compressão ou produção hormonal.</p><p>A invasão local envolve a progressão para o tecido adjacente. A metástase pressupõe disseminação e formação de um foco secundário. Na cascata mostrada na aula, a invasão local é seguida por intravasamento, sobrevivência na circulação, extravasamento e colonização. Intravasamento significa entrar em um vaso; extravasamento significa sair dele.</p><p>Encontrar células tumorais na circulação não demonstra, por si só, uma metástase estabelecida. A célula disseminada ainda precisa sobreviver e adaptar-se ao microambiente do órgão-alvo. Na ideia de semente e solo, a semente é a célula disseminada e o solo é o microambiente que pode favorecer ou limitar seu crescimento. Grau histológico descreve características microscópicas; estadiamento avalia a extensão da doença.</p>"
+    },
+    {
+      "id": "reviewed-microbiota-w13-metastatic-cascade",
+      "subject": "microbiota",
+      "week": 13,
+      "module": "Neoplasias e cascata metastática",
+      "source": "Microbiota a Imunidade II/semana 13/Aula 13 -Definição de tumores e mecanismo de metástases - VF.pdf · páginas do PDF 19–21",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Organize as etapas da cascata metastática a partir da invasão local.",
+      "explanation": "Invasão local → intravasamento → sobrevivência na circulação → extravasamento → colonização. A colonização bem-sucedida permite a expansão do foco secundário; chegar à circulação ou ao novo órgão não garante que todas essas etapas sejam completadas.",
+      "solutionVisual": "<figure><img src=\"/media/slide-w13-20261027-microbiota-tumores-p19.webp\" alt=\"Sequência de barreiras da cascata metastática\"/><figcaption>Neoplasias e cascata metastática · semana 13 · página 19 do PDF da aula.</figcaption></figure>"
+    },
+    {
+      "id": "reviewed-microbiota-w13-metastasis-intra-extra",
+      "subject": "microbiota",
+      "week": 13,
+      "module": "Neoplasias e cascata metastática",
+      "source": "Microbiota a Imunidade II/semana 13/Aula 13 -Definição de tumores e mecanismo de metástases - VF.pdf · páginas do PDF 20–21",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Diferencie intravasamento de extravasamento na disseminação tumoral.",
+      "explanation": "Intravasamento é a entrada de células tumorais em vasos sanguíneos ou linfáticos. Extravasamento é a saída dessas células do vaso para um novo tecido, onde ainda precisam sobreviver e colonizar."
+    },
+    {
+      "id": "reviewed-microbiota-w13-tumor-grade-stage",
+      "subject": "microbiota",
+      "week": 13,
+      "module": "Neoplasias e cascata metastática",
+      "source": "Microbiota a Imunidade II/semana 13/Aula 13 -Definição de tumores e mecanismo de metástases - VF.pdf · páginas do PDF 12 e 14",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Qual é a diferença conceitual entre grau histológico e estadiamento de um câncer?",
+      "explanation": "O grau histológico descreve características microscópicas das células, como diferenciação e atipia. O estadiamento descreve a extensão da doença no organismo; no sistema TNM, considera o tumor primário, linfonodos regionais e metástase à distância. São dimensões diferentes da avaliação do tumor."
+    },
+    {
+      "id": "reviewed-microbiota-w13-seed-soil-colonization",
+      "subject": "microbiota",
+      "week": 13,
+      "module": "Neoplasias e cascata metastática",
+      "source": "Microbiota a Imunidade II/semana 13/Aula 13 -Definição de tumores e mecanismo de metástases - VF.pdf · páginas do PDF 21–23",
+      "version": "2026-10-27.1",
+      "kind": "written",
+      "title": "Uma célula tumoral chega a um órgão distante, mas não forma uma lesão detectável. Explique isso usando a hipótese de semente e solo.",
+      "explanation": "A chegada da célula disseminada, a semente, é apenas uma etapa. A colonização depende de sua capacidade de sobreviver e interagir com o solo, o microambiente do órgão-alvo. Fatores locais podem limitar a expansão, e células viáveis também podem permanecer em dormência. Portanto, disseminação não equivale automaticamente a uma metástase clinicamente detectável.",
+      "rubric": [
+        "Identifica a célula disseminada como semente e o microambiente como solo.",
+        "Distingue chegada de colonização bem-sucedida.",
+        "Reconhece limitação do crescimento ou dormência como possibilidades."
+      ]
+    },
+    {
+      "id": "reviewed-microbiota-w13-tumor-antigens-apoptosis-overview",
+      "subject": "microbiota",
+      "week": 13,
+      "module": "Antígenos tumorais e apoptose",
+      "source": "Microbiota a Imunidade II/semana 13/Aula 13 - Antigenos tumorais.pdf · páginas do PDF 3, 5–7, 17, 24–30, 34 e 37",
+      "version": "2026-10-27.1",
+      "kind": "read",
+      "title": "Antígenos tumorais e resistência à apoptose",
+      "body": "<p>A aula distingue neoantígenos derivados de genes mutantes, antígenos de vírus oncogênicos e proteínas celulares não mutantes expressas em excesso pelo tumor. A origem tumoral não impede o reconhecimento imune; linfócitos T, especialmente os citotóxicos CD8+, participam das respostas. A perda de expressão de antígenos pode favorecer o escape de subclones tumorais.</p><p>Na apoptose, caspases iniciadoras ativam caspases efetoras, que executam alterações celulares. A via extrínseca começa por receptores de morte, como Fas. A via intrínseca envolve a mitocôndria e o equilíbrio entre proteínas pró e antiapoptóticas da família BCL-2; a formação do apoptossomo promove ativação de caspase-9. As caspases 3, 6 e 7 são efetoras.</p><p>Alterações em TP53, aumento de proteínas antiapoptóticas ou falhas em outras etapas da maquinaria apoptótica podem permitir sobrevivência tumoral. Autofagia é um processo de degradação e reciclagem que pode favorecer a sobrevivência: não deve ser tratada automaticamente como sinônimo de morte celular. Esta seleção não usa a simplificação de que toda morte com morfologia necrótica é acidental, pois a própria aula apresenta necroptose regulada.</p>"
+    },
+    {
+      "id": "reviewed-microbiota-w13-tumor-antigens-types",
+      "subject": "microbiota",
+      "week": 13,
+      "module": "Antígenos tumorais e apoptose",
+      "source": "Microbiota a Imunidade II/semana 13/Aula 13 - Antigenos tumorais.pdf · páginas do PDF 6–7",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Compare neoantígenos, antígenos virais e proteínas superexpressas no contexto tumoral.",
+      "explanation": "Neoantígenos derivam de alterações em genes do tumor. Antígenos virais são produtos de vírus oncogênicos expressos pelas células tumorais. Proteínas superexpressas podem não apresentar mutação, mas são produzidas em maior quantidade no tumor ou voltam a ser expressas a partir de genes antes silenciados.",
+      "solutionVisual": "<figure><img src=\"/media/slide-w13-20261027-microbiota-p6.webp\" alt=\"Neoantígenos e antígenos de vírus oncogênicos\"/><figcaption>Antígenos tumorais e apoptose · semana 13 · página 6 do PDF da aula.</figcaption></figure>"
+    },
+    {
+      "id": "reviewed-microbiota-w13-apoptosis-initiation",
+      "subject": "microbiota",
+      "week": 13,
+      "module": "Antígenos tumorais e apoptose",
+      "source": "Microbiota a Imunidade II/semana 13/Aula 13 - Antigenos tumorais.pdf · páginas do PDF 25–30",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "Como diferenciar a via extrínseca da via intrínseca de indução da apoptose?",
+      "explanation": "A via extrínseca é iniciada por receptores de morte, como Fas. A via intrínseca depende de eventos mitocondriais regulados pelo equilíbrio entre proteínas pró e antiapoptóticas; o apoptossomo promove ativação da caspase-9. As vias convergem para a execução da apoptose por caspases efetoras."
+    },
+    {
+      "id": "reviewed-microbiota-w13-apoptosis-effectors",
+      "subject": "microbiota",
+      "week": 13,
+      "module": "Antígenos tumorais e apoptose",
+      "source": "Microbiota a Imunidade II/semana 13/Aula 13 - Antigenos tumorais.pdf · páginas do PDF 24–25",
+      "version": "2026-10-27.1",
+      "kind": "recall",
+      "title": "O que diferencia caspases iniciadoras de caspases efetoras na apoptose?",
+      "explanation": "As iniciadoras participam dos complexos que iniciam a cascata e ativam as pró-caspases efetoras. As efetoras, como as caspases 3, 6 e 7, clivam proteínas celulares e executam as alterações da morte apoptótica."
+    },
+    {
+      "id": "reviewed-microbiota-w13-apoptosis-tumor-survival",
+      "subject": "microbiota",
+      "week": 13,
+      "module": "Antígenos tumorais e apoptose",
+      "source": "Microbiota a Imunidade II/semana 13/Aula 13 - Antigenos tumorais.pdf · páginas do PDF 27, 29 e 37",
+      "version": "2026-10-27.1",
+      "kind": "written",
+      "title": "Explique como o aumento de uma proteína antiapoptótica pode favorecer a progressão tumoral.",
+      "explanation": "O aumento de proteínas antiapoptóticas, como BCL-2, pode elevar a resistência à via mitocondrial de apoptose. Assim, células que normalmente seriam eliminadas podem sobreviver e continuar proliferando. Isso é uma possibilidade mecanística e não significa que toda célula com maior BCL-2 formará um tumor.",
+      "rubric": [
+        "Identifica BCL-2 ou outra proteína antiapoptótica como reguladora da via mitocondrial.",
+        "Relaciona resistência à apoptose com sobrevivência de células que seriam eliminadas.",
+        "Evita transformar o mecanismo em resultado inevitável."
+      ]
+    }
+  ]
+}
