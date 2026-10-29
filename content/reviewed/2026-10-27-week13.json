@@ -8,8 +8,16 @@
     },
     {
       "path": "Molécula à Célula II/semana 13/Ciclo da Uréia  Prática Urianálise.pdf",
-      "sha256": "d6b92329372f584adf1703d00986dbf23f7fa3eb21c59fc4b05534113b2814a9",
-      "scope": "Semana 13 por pasta e agenda, embora a capa diga Aula 11. Seleção nas páginas 14, 19, 24, 30 e 33: compartimentos, doadores de nitrogênio, sequência, balanço energético e regulação. Não usar isoladamente a equação líquida simplificada da página 30; a segunda entrada de nitrogênio é aspartato, conforme página 19."
+      "sha256": "97fe4d2bf51fbff587e2a32db4a15fe30118257bb1ea890c9753634f7ba5e375",
+      "scope": "Semana 13 por pasta e agenda, embora a capa diga Aula 11. Seleção nas páginas 14, 19, 24, 30 e 33: compartimentos, doadores de nitrogênio, sequência, balanço energético e regulação. Não usar isoladamente a equação líquida simplificada da página 30; a segunda entrada de nitrogênio é aspartato, conforme página 19. Revalidada em 29/10 a versão local com anotações: as páginas 14, 19, 24, 30 e 33 mantêm o suporte dos cinco itens existentes. Conteúdo dos itens e figura original preservados; não publicadas anotações pessoais. Extração do PDF emite avisos de estrutura, mas as páginas selecionadas renderizam e foram conferidas.",
+      "previousVersions": [
+        {
+          "sha256": "d6b92329372f584adf1703d00986dbf23f7fa3eb21c59fc4b05534113b2814a9",
+          "reviewedAt": "2026-10-27",
+          "scope": "Versão original usada nos cinco itens e na figura sem anotações da página 19."
+        }
+      ],
+      "revalidatedAt": "2026-10-29"
     },
     {
       "path": "Pesquisa Científica/semana 13/Aula_13_Etica_Pesquisa_25Out2026.pdf",

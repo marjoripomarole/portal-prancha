@@ -1,0 +1,96 @@
+{
+  "reviewedAt": "2026-10-29",
+  "sources": [
+    {
+      "path": "Forma a Função II/semana 13/Nova núcleos da base e cerebelo.pdf",
+      "sha256": "454043cd7cd14464e83b8b2a0b78079a9760b9a87d73b63af3cc6a119ee834fe",
+      "scope": "Seleção da semana 13: agrupamentos nucleares, relações das cápsulas, organização cerebelar, pedúnculos e núcleos profundos, com leitura textual e visual das páginas 5–15, 19–25. Exercício funcional baseado nas páginas 26–27. Omitido caso clínico da página 17 e qualquer recomendação diagnóstica ou terapêutica. Não reproduzido o rótulo lóbulo paracentral no vérmis (página 23), que requer conferência; não se usa a localização de todas as estruturas da lista funcional como se fossem intratelencefálicas. Figuras selecionadas das páginas 13 e 24 sem identificadores de pacientes."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-forma-w13-basal-cerebellar-overview",
+      "subject": "forma",
+      "week": 13,
+      "module": "Núcleos da base e cerebelo na imagem",
+      "source": "Forma a Função II/semana 13/Nova núcleos da base e cerebelo.pdf · páginas do PDF 5–9, 11–15, 20 e 23–25",
+      "version": "2026-10-29.1",
+      "kind": "read",
+      "title": "Núcleos profundos, cápsulas e cerebelo: um roteiro de localização",
+      "body": "<p>Os núcleos profundos são agrupamentos de substância cinzenta; as cápsulas que os separam são feixes de substância branca. O núcleo lentiforme reúne putâmen e globo pálido. Na definição de estriado adotada na aula, correspondente ao estriado dorsal, o agrupamento é caudado e putâmen. A lista funcional dos núcleos da base inclui estruturas relacionadas de outras regiões, como substância negra e núcleo subtalâmico.</p><p>Para orientar a cápsula interna, localize primeiro caudado, tálamo e lentiforme. O ramo anterior fica entre a cabeça do caudado e o lentiforme; o ramo posterior fica entre o tálamo e o lentiforme. Mais lateralmente, a cápsula externa está entre putâmen e claustro; a cápsula extrema está entre claustro e ínsula. O plano e o nível do corte precisam ser considerados.</p><p>O cerebelo fica na fossa posterior, abaixo do tentório, posteriormente ao tronco encefálico e ao quarto ventrículo. Tem córtex de substância cinzenta na superfície, substância branca profunda e núcleos profundos. O vérmis ocupa a linha média, entre os hemisférios. Os pedúnculos superior, médio e inferior o conectam, respectivamente, ao mesencéfalo, à ponte e ao bulbo. De lateral para medial, seus núcleos profundos são denteado, emboliforme, globoso e fastigial; o denteado é o maior.</p>"
+    },
+    {
+      "id": "reviewed-forma-w13-basal-nuclear-groups",
+      "subject": "forma",
+      "week": 13,
+      "module": "Núcleos da base e cerebelo na imagem",
+      "source": "Forma a Função II/semana 13/Nova núcleos da base e cerebelo.pdf · páginas do PDF 11–12 e 30",
+      "version": "2026-10-29.1",
+      "kind": "recall",
+      "title": "Quais estruturas compõem o núcleo lentiforme e o estriado dorsal?",
+      "explanation": "O núcleo lentiforme é composto por putâmen e globo pálido. O estriado dorsal reúne núcleo caudado e putâmen. Na aula, esse segundo agrupamento aparece com o título Corpo Estriado; os termos designam agrupamentos diferentes, embora compartilhem o putâmen."
+    },
+    {
+      "id": "reviewed-forma-w13-basal-internal-capsule-relations",
+      "subject": "forma",
+      "week": 13,
+      "module": "Núcleos da base e cerebelo na imagem",
+      "source": "Forma a Função II/semana 13/Nova núcleos da base e cerebelo.pdf · páginas do PDF 13",
+      "version": "2026-10-29.1",
+      "kind": "recall",
+      "title": "Quais estruturas delimitam os ramos anterior e posterior da cápsula interna?",
+      "explanation": "O ramo anterior fica entre a cabeça do núcleo caudado, medialmente, e o núcleo lentiforme, lateralmente. O ramo posterior fica entre o tálamo, medialmente, e o lentiforme, lateralmente. Essas relações ajudam a reconhecer a cápsula nos cortes axiais.",
+      "solutionVisual": "<figure><img src=\"/media/slide-w13-20261029-nucleos-p13.webp\" alt=\"Relações da cápsula interna com caudado, tálamo e núcleo lentiforme\"/><figcaption>Núcleos da base e cerebelo · semana 13 · página 13 do PDF da aula.</figcaption></figure>"
+    },
+    {
+      "id": "reviewed-forma-w13-basal-external-extreme",
+      "subject": "forma",
+      "week": 13,
+      "module": "Núcleos da base e cerebelo na imagem",
+      "source": "Forma a Função II/semana 13/Nova núcleos da base e cerebelo.pdf · páginas do PDF 14–15",
+      "version": "2026-10-29.1",
+      "kind": "recall",
+      "title": "Como distinguir cápsula externa de cápsula extrema pela posição?",
+      "explanation": "A cápsula externa fica entre o putâmen e o claustro. A cápsula extrema fica entre o claustro e a ínsula. As duas são faixas de substância branca; o claustro, entre elas, é substância cinzenta."
+    },
+    {
+      "id": "reviewed-forma-w13-cerebellar-peduncles",
+      "subject": "forma",
+      "week": 13,
+      "module": "Núcleos da base e cerebelo na imagem",
+      "source": "Forma a Função II/semana 13/Nova núcleos da base e cerebelo.pdf · páginas do PDF 24",
+      "version": "2026-10-29.1",
+      "kind": "recall",
+      "title": "Relacione cada pedúnculo cerebelar à região do tronco encefálico com que se conecta.",
+      "explanation": "O pedúnculo cerebelar superior conecta o cerebelo ao mesencéfalo; o médio, à ponte; e o inferior, ao bulbo. A aula destaca o pedúnculo médio como o maior. A associação topográfica não significa que todos os pedúnculos tenham o mesmo sentido de condução das fibras.",
+      "solutionVisual": "<figure><img src=\"/media/slide-w13-20261029-nucleos-p24.webp\" alt=\"Pedúnculos cerebelares e suas conexões com o tronco encefálico\"/><figcaption>Núcleos da base e cerebelo · semana 13 · página 24 do PDF da aula.</figcaption></figure>"
+    },
+    {
+      "id": "reviewed-forma-w13-cerebellar-deep-nuclei",
+      "subject": "forma",
+      "week": 13,
+      "module": "Núcleos da base e cerebelo na imagem",
+      "source": "Forma a Função II/semana 13/Nova núcleos da base e cerebelo.pdf · páginas do PDF 25",
+      "version": "2026-10-29.1",
+      "kind": "recall",
+      "title": "Qual é a ordem dos núcleos profundos do cerebelo, de lateral para medial, e qual é o maior?",
+      "explanation": "Denteado → emboliforme → globoso → fastigial. O núcleo denteado é o maior. Essa sequência ajuda a orientar a localização dos núcleos na substância branca profunda do cerebelo."
+    },
+    {
+      "id": "reviewed-forma-w13-cerebellar-functional-regions",
+      "subject": "forma",
+      "week": 13,
+      "module": "Núcleos da base e cerebelo na imagem",
+      "source": "Forma a Função II/semana 13/Nova núcleos da base e cerebelo.pdf · páginas do PDF 26–27",
+      "version": "2026-10-29.1",
+      "kind": "written",
+      "title": "Compare vestibulocerebelo, espinocerebelo e cerebrocerebelo quanto à localização e à função destacadas na aula.",
+      "explanation": "O vestibulocerebelo corresponde ao lobo floculonodular e está relacionado ao equilíbrio e aos movimentos oculares. O espinocerebelo abrange vérmis e paravérmis e participa do controle do tronco e da marcha. O cerebrocerebelo corresponde aos hemisférios laterais e participa do planejamento e da coordenação fina dos membros. Esses agrupamentos são funcionais e complementam a descrição anatômica.",
+      "rubric": [
+        "Relaciona lobo floculonodular a equilíbrio e movimentos oculares.",
+        "Relaciona vérmis/paravérmis a tronco e marcha.",
+        "Relaciona hemisférios laterais ao planejamento e à coordenação fina dos membros."
+      ]
+    }
+  ]
+}
