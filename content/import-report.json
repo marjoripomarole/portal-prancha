@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 2964,
+  "items": 2971,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -56,10 +56,10 @@
       "name": "Genótipo ao Fenótipo",
       "description": "Heranças · Diagnóstico · Genética",
       "counts": {
-        "read": 37,
+        "read": 38,
         "mcq": 102,
-        "written": 15,
-        "recall": 134
+        "written": 17,
+        "recall": 138
       },
       "weeks": [
         1,
@@ -163,5 +163,5 @@
       ]
     }
   ],
-  "updated": "2026-10-29"
+  "updated": "2026-10-30"
 }

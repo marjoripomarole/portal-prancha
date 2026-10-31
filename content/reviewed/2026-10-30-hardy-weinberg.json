@@ -1,0 +1,101 @@
+{
+  "reviewedAt": "2026-10-30",
+  "sources": [
+    {
+      "path": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf",
+      "sha256": "316c7f363715bad26b51de610b23ca51a59ac7d7f533fddc33ca12cd21d3b9cf",
+      "scope": "Nova seleção das páginas 3–12, motivada pelo guia e pela revisão de genética de populações de 30/10. Conferidos enunciados, resoluções, unidades percentuais e hipóteses dos cinco exercícios. Figuras das páginas 4 e 8, sem resultados pessoais ou pacientes. Não incorporados o áudio, a transcrição ou a aproximação de risco de casal das páginas 13–14."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-genetica-w13-hwe-overview",
+      "subject": "genetica",
+      "week": 13,
+      "module": "Hardy-Weinberg: frequências e exercícios",
+      "source": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf · páginas do PDF 3–12",
+      "version": "2026-10-30.1",
+      "kind": "read",
+      "title": "Hardy-Weinberg: identifique o dado antes de calcular",
+      "body": "<p>Nos exercícios da aula, p e q são frequências dos alelos A e a em um locus autossômico com dois alelos, em indivíduos diploides. Assim, p + q = 1. Se os genótipos foram contados, cada AA contribui com duas cópias de A, cada Aa com uma cópia de cada alelo e cada aa com duas cópias de a. A frequência de A é (2 × número de AA + número de Aa)/(2 × total de indivíduos). Essa contagem de alelos não exige supor equilíbrio.</p><p>Sob a hipótese de equilíbrio de Hardy-Weinberg, as frequências genotípicas esperadas são p² para AA, 2pq para Aa e q² para aa. Não confunda frequência de um alelo com a frequência de um genótipo. Conhecer a frequência de aa e tirar a raiz para obter q depende da hipótese do modelo.</p><p>Nos problemas em que uma doença recessiva é representada pelo genótipo aa, a frequência de afetados é tratada como q² conforme as condições do exercício. Converta porcentagens em proporções antes de tirar a raiz: 1% = 0,01. Para obter números esperados de indivíduos, multiplique a frequência genotípica por N. Confira as somas: as frequências esperadas devem totalizar 1, e os números de pessoas devem totalizar N. O modelo funciona como referência para comparar frequências, sem transformar a hipótese de equilíbrio em um fato automático sobre qualquer população.</p>"
+    },
+    {
+      "id": "reviewed-genetica-w13-hwe-allele-count",
+      "subject": "genetica",
+      "week": 13,
+      "module": "Hardy-Weinberg: frequências e exercícios",
+      "source": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf · páginas do PDF 3–4",
+      "version": "2026-10-30.1",
+      "kind": "recall",
+      "title": "Em 100 indivíduos, há 36 AA, 48 Aa e 16 aa. Quais são as frequências de A e a?",
+      "explanation": "Há 200 cópias alélicas. Para A: (2 × 36 + 48)/200 = 120/200 = 0,60. Para a: (2 × 16 + 48)/200 = 80/200 = 0,40. Portanto, A corresponde a 60% e a a 40%. Os 36% de indivíduos AA não são a frequência do alelo A.",
+      "solutionVisual": "<figure><img src=\"/media/slide-w13-20261030-hwe-p4.webp\" alt=\"Resolução de genética de populações apresentada na aula\"/><figcaption>Genótipo ao Fenótipo · semana 13 · página 4 do PDF da aula.</figcaption></figure>"
+    },
+    {
+      "id": "reviewed-genetica-w13-hwe-expected-genotypes",
+      "subject": "genetica",
+      "week": 13,
+      "module": "Hardy-Weinberg: frequências e exercícios",
+      "source": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf · páginas do PDF 5–6",
+      "version": "2026-10-30.1",
+      "kind": "recall",
+      "title": "Com p = 0,70 e q = 0,30, quais frequências genotípicas são esperadas sob Hardy-Weinberg?",
+      "explanation": "AA: p² = 0,49 (49%). Aa: 2pq = 0,42 (42%). aa: q² = 0,09 (9%). As três frequências somam 1. Esses valores são expectativas sob a hipótese de equilíbrio, não uma contagem observada."
+    },
+    {
+      "id": "reviewed-genetica-w13-hwe-recessive-frequency",
+      "subject": "genetica",
+      "week": 13,
+      "module": "Hardy-Weinberg: frequências e exercícios",
+      "source": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf · páginas do PDF 7–8",
+      "version": "2026-10-30.1",
+      "kind": "recall",
+      "title": "No modelo recessivo da aula, 1% da população é aa. Em equilíbrio, qual é a frequência de heterozigotos?",
+      "explanation": "q² = 0,01; portanto, q = 0,10 e p = 0,90. A frequência de Aa é 2pq = 2 × 0,90 × 0,10 = 0,18, isto é, 18%. O resultado decimal 0,18 não equivale a 0,18%.",
+      "solutionVisual": "<figure><img src=\"/media/slide-w13-20261030-hwe-p8.webp\" alt=\"Resolução de genética de populações apresentada na aula\"/><figcaption>Genótipo ao Fenótipo · semana 13 · página 8 do PDF da aula.</figcaption></figure>"
+    },
+    {
+      "id": "reviewed-genetica-w13-hwe-model-reference",
+      "subject": "genetica",
+      "week": 13,
+      "module": "Hardy-Weinberg: frequências e exercícios",
+      "source": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf · páginas do PDF 11–12",
+      "version": "2026-10-30.1",
+      "kind": "recall",
+      "title": "Para que serve o modelo de Hardy-Weinberg na interpretação de uma população?",
+      "explanation": "Ele estabelece frequências genotípicas esperadas a partir das frequências alélicas sob suas condições idealizadas. Essas expectativas servem de referência para avaliar a estrutura genética da população. Aplicar as fórmulas não demonstra, por si só, que a população esteja em equilíbrio."
+    },
+    {
+      "id": "reviewed-genetica-w13-hwe-population-counts",
+      "subject": "genetica",
+      "week": 13,
+      "module": "Hardy-Weinberg: frequências e exercícios",
+      "source": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf · páginas do PDF 9–10",
+      "version": "2026-10-30.1",
+      "kind": "written",
+      "title": "Uma população de 10.000 indivíduos está em equilíbrio e tem q = 0,20. Calcule frequências e números esperados de AA, Aa e aa.",
+      "explanation": "p = 1 − 0,20 = 0,80. AA: 0,80² = 0,64, portanto 6.400 indivíduos. Aa: 2 × 0,80 × 0,20 = 0,32, portanto 3.200 indivíduos. aa: 0,20² = 0,04, portanto 400 indivíduos. As frequências somam 1 e os números somam 10.000; AA é o grupo mais frequente neste exemplo.",
+      "rubric": [
+        "Obtém p = 0,80.",
+        "Calcula frequências 0,64; 0,32; 0,04.",
+        "Converte em 6.400 AA, 3.200 Aa e 400 aa e confere o total."
+      ]
+    },
+    {
+      "id": "reviewed-genetica-w13-hwe-carriers-from-count",
+      "subject": "genetica",
+      "week": 13,
+      "module": "Hardy-Weinberg: frequências e exercícios",
+      "source": "Genótipo ao Fenótipo/semana 13/Aula 13_ Eletroforese_med.pdf · páginas do PDF 11–12",
+      "version": "2026-10-30.1",
+      "kind": "written",
+      "title": "Em 5.000 indivíduos, 450 são aa. Assumindo equilíbrio de Hardy-Weinberg, estime quantos são Aa e mostre cada etapa.",
+      "explanation": "A frequência de aa é q² = 450/5.000 = 0,09. Logo, q = 0,30 e p = 0,70. A frequência de heterozigotos é 2pq = 0,42. Multiplicando por 5.000, são esperados 2.100 indivíduos Aa. A hipótese de equilíbrio é necessária para inferir q a partir apenas da frequência de aa.",
+      "rubric": [
+        "Calcula a proporção q² = 0,09 antes de tirar a raiz.",
+        "Obtém q = 0,30; p = 0,70; 2pq = 0,42.",
+        "Responde 2.100 pessoas, e não apenas 42%."
+      ]
+    }
+  ]
+}
