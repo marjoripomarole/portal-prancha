@@ -1,0 +1,96 @@
+{
+  "reviewedAt": "2026-11-02",
+  "sources": [
+    {
+      "path": "Forma a Função II/semana 14/meninges.pdf",
+      "sha256": "59777243d02ffde8c7733a5a711959a332e5510650c7bc51fc739cd0cd279ebe",
+      "scope": "Seleção da semana 14: camadas meníngeas, dura craniana versus espinal, espaços subdural/subaracnoideo, pregas e percurso clássico do líquor, páginas 2–19. Texto lido e páginas 2, 5, 6, 8, 9, 13, 18 e 19 renderizadas. Figuras das páginas 9 e 18. Não reproduzida a descrição parcial de compartimento supratentorial como se contivesse apenas lobos occipitais (p.15); não incorporados punção de líquor, casos pessoais ou recomendações clínicas. Reabsorção clássica por granulações não apresentada como via exclusiva."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-forma-w14-meninges-overview",
+      "subject": "forma",
+      "week": 14,
+      "module": "Meninges, pregas durais e circulação do líquor",
+      "source": "Forma a Função II/semana 14/meninges.pdf · páginas do PDF 2–9 e 18–19",
+      "version": "2026-11-02.1",
+      "kind": "read",
+      "title": "Meninges: organize camadas, espaços e trajeto do líquor",
+      "body": "<p>De superficial para profundo, as meninges são dura-máter, aracnoide e pia-máter. No crânio, a dura-máter tem camadas periosteal e meníngea; os seios venosos durais se formam em regiões de separação dessas camadas. A camada meníngea também forma pregas, como a foice do cérebro e a tenda do cerebelo. A dura-máter espinal não apresenta a camada periosteal craniana.</p><p>A aracnoide não acompanha os sulcos cerebrais. A pia-máter é fina, vascularizada e aderida à superfície do sistema nervoso, acompanhando giros e sulcos. Entre dura-máter e aracnoide, o espaço subdural é descrito didaticamente como potencial. Entre aracnoide e pia-máter está o espaço subaracnoideo, um espaço real com líquor e vasos sanguíneos. Não atribua ao espaço subdural o conteúdo normal do subaracnoideo.</p><p>No percurso clássico mostrado na aula, o líquor dos ventrículos laterais segue pelos forames interventriculares ao terceiro ventrículo, pelo aqueduto cerebral ao quarto ventrículo e pelas aberturas mediana e laterais ao espaço subaracnoideo. O material destaca a reabsorção pelas granulações aracnoideas para os seios venosos durais. Esse roteiro descreve a circulação ensinada na aula, sem apresentar a drenagem por granulações como a única via possível. O foco desta seleção é anatomia; não inclui técnica de punção ou condutas clínicas.</p>"
+    },
+    {
+      "id": "reviewed-forma-w14-meninges-layers",
+      "subject": "forma",
+      "week": 14,
+      "module": "Meninges, pregas durais e circulação do líquor",
+      "source": "Forma a Função II/semana 14/meninges.pdf · páginas do PDF 2 e 5–6",
+      "version": "2026-11-02.1",
+      "kind": "recall",
+      "title": "Qual é a sequência das meninges de superficial para profundo?",
+      "explanation": "Dura-máter → aracnoide → pia-máter. A dura-máter é a camada externa resistente; a aracnoide fica intermediariamente; a pia-máter adere à superfície do sistema nervoso."
+    },
+    {
+      "id": "reviewed-forma-w14-meninges-dural-layers",
+      "subject": "forma",
+      "week": 14,
+      "module": "Meninges, pregas durais e circulação do líquor",
+      "source": "Forma a Função II/semana 14/meninges.pdf · páginas do PDF 2–4",
+      "version": "2026-11-02.1",
+      "kind": "recall",
+      "title": "Quais são as camadas da dura-máter craniana e qual delas forma as pregas durais?",
+      "explanation": "As camadas são a periosteal, aderida ao endocrânio, e a meníngea, mais interna. A camada meníngea forma as pregas durais. Em regiões específicas, a separação entre as camadas dá origem aos seios venosos durais. A dura-máter espinal não possui a camada periosteal craniana."
+    },
+    {
+      "id": "reviewed-forma-w14-meninges-arachnoid-pia",
+      "subject": "forma",
+      "week": 14,
+      "module": "Meninges, pregas durais e circulação do líquor",
+      "source": "Forma a Função II/semana 14/meninges.pdf · páginas do PDF 5–6 e 9",
+      "version": "2026-11-02.1",
+      "kind": "recall",
+      "title": "Como distinguir aracnoide e pia-máter pela relação com os sulcos cerebrais?",
+      "explanation": "A aracnoide passa sobre os sulcos sem acompanhá-los. A pia-máter fica aderida à superfície encefálica e acompanha seus giros e sulcos. O espaço subaracnoideo está entre as duas membranas."
+    },
+    {
+      "id": "reviewed-forma-w14-meninges-spaces",
+      "subject": "forma",
+      "week": 14,
+      "module": "Meninges, pregas durais e circulação do líquor",
+      "source": "Forma a Função II/semana 14/meninges.pdf · páginas do PDF 8–9",
+      "version": "2026-11-02.1",
+      "kind": "recall",
+      "title": "Compare a posição e o conteúdo normal dos espaços subdural e subaracnoideo.",
+      "explanation": "O subdural é um espaço potencial entre dura-máter e aracnoide; não é o compartimento normal de circulação do líquor. O subaracnoideo é real, fica entre aracnoide e pia-máter e contém líquor e vasos sanguíneos.",
+      "solutionVisual": "<figure><img src=\"/media/slide-w14-20261102-meninges-p9.webp\" alt=\"Esquema da aula de meninges\"/><figcaption>Forma a Função II · semana 14 · página 9 do PDF da aula de meninges.</figcaption></figure>"
+    },
+    {
+      "id": "reviewed-forma-w14-meninges-csf-route",
+      "subject": "forma",
+      "week": 14,
+      "module": "Meninges, pregas durais e circulação do líquor",
+      "source": "Forma a Função II/semana 14/meninges.pdf · páginas do PDF 18–19",
+      "version": "2026-11-02.1",
+      "kind": "recall",
+      "title": "Reconstrua o percurso do líquor dos ventrículos laterais até o espaço subaracnoideo.",
+      "explanation": "Ventrículos laterais → forames interventriculares (de Monro) → terceiro ventrículo → aqueduto cerebral → quarto ventrículo → abertura mediana (de Magendie) e aberturas laterais (de Luschka) → espaço subaracnoideo. A aula prossegue com granulações aracnoideas e seios venosos durais como a via clássica de reabsorção apresentada.",
+      "solutionVisual": "<figure><img src=\"/media/slide-w14-20261102-meninges-p18.webp\" alt=\"Esquema da aula de meninges\"/><figcaption>Forma a Função II · semana 14 · página 18 do PDF da aula de meninges.</figcaption></figure>"
+    },
+    {
+      "id": "reviewed-forma-w14-meninges-dural-folds",
+      "subject": "forma",
+      "week": 14,
+      "module": "Meninges, pregas durais e circulação do líquor",
+      "source": "Forma a Função II/semana 14/meninges.pdf · páginas do PDF 4 e 10–17",
+      "version": "2026-11-02.1",
+      "kind": "written",
+      "title": "Relacione foice do cérebro, tenda do cerebelo, foice do cerebelo e diafragma da sela às respectivas relações anatômicas.",
+      "explanation": "A foice do cérebro é uma prega vertical mediana entre os hemisférios cerebrais. A tenda do cerebelo separa os lobos occipitais do cerebelo e apresenta uma incisura por onde passa o mesencéfalo. A foice do cerebelo separa parcialmente os hemisférios cerebelares. O diafragma da sela forma um teto sobre a sela túrcica, com passagem para a haste hipofisária. São pregas da camada meníngea da dura-máter.",
+      "rubric": [
+        "Localiza a foice do cérebro entre os hemisférios cerebrais.",
+        "Relaciona a tenda à separação entre occipitais e cerebelo e à passagem do mesencéfalo.",
+        "Distingue foice do cerebelo de diafragma da sela."
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 2971,
+  "items": 2978,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -8,10 +8,10 @@
       "name": "Forma a Função II",
       "description": "Anatomia · Histologia · Embriologia",
       "counts": {
-        "read": 151,
+        "read": 152,
         "mcq": 430,
-        "written": 130,
-        "recall": 778
+        "written": 131,
+        "recall": 783
       },
       "weeks": [
         1,
@@ -25,7 +25,8 @@
         9,
         11,
         12,
-        13
+        13,
+        14
       ]
     },
     {
@@ -163,5 +164,5 @@
       ]
     }
   ],
-  "updated": "2026-10-30"
+  "updated": "2026-11-02"
 }
