@@ -1,0 +1,61 @@
+{
+  "reviewedAt": "2026-11-03",
+  "sources": [
+    {
+      "path": "Microbiota a Imunidade II/semana 14/Aula 14 -Imunovigilância tumoral.pdf",
+      "sha256": "ca5d54ed1034940065757d08a9e129a06730741cd81982c9ffd2ef4befbeb4ba",
+      "scope": "Páginas 6–12: apresentação de antígenos, citotoxicidade por CD8+ e efeito da redução de MHC I nas respostas CD8+ e NK."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-microbiota-w14-imunovigilancia-leitura",
+      "subject": "microbiota",
+      "week": 14,
+      "module": "Imunovigilância tumoral",
+      "source": "Microbiota a Imunidade II/semana 14/Aula 14 -Imunovigilância tumoral.pdf · páginas 6–12",
+      "version": "2026-11-03.1",
+      "kind": "read",
+      "title": "Imunovigilância tumoral: como linfócitos T CD8+ e NK reconhecem células tumorais",
+      "body": "<p>Linfócitos T CD8+ citotóxicos reconhecem peptídeos tumorais apresentados em MHC classe I na superfície da célula-alvo. Uma etapa distinta é a ativação de linfócitos T: células dendríticas podem captar antígenos do tumor e apresentá-los em seu próprio MHC I, processo chamado apresentação cruzada.</p><p>Após reconhecer o alvo, o linfócito citotóxico pode induzir sua morte pela liberação de perforina e granzimas. A redução de MHC I na célula tumoral dificulta esse reconhecimento específico porque diminui a apresentação de peptídeos.</p><p>Para a célula NK, o MHC I próprio pode funcionar como sinal inibitório. Quando esse sinal diminui, o tumor pode ficar mais vulnerável à resposta NK, desde que existam sinais ativadores suficientes. Esse mecanismo é chamado missing self. A mesma alteração tumoral pode, portanto, ter efeitos opostos sobre as duas vias de vigilância.</p>"
+    },
+    {
+      "id": "reviewed-microbiota-w14-imunovigilancia-cruzada",
+      "subject": "microbiota",
+      "week": 14,
+      "module": "Imunovigilância tumoral",
+      "source": "Microbiota a Imunidade II/semana 14/Aula 14 -Imunovigilância tumoral.pdf · páginas 6–8",
+      "version": "2026-11-03.1",
+      "kind": "recall",
+      "title": "Na apresentação cruzada de antígenos tumorais, qual célula apresenta o peptídeo ao linfócito T CD8+?",
+      "explanation": "A célula dendrítica capta antígenos tumorais e apresenta peptídeos derivados deles em seu próprio MHC I. O reconhecimento posterior do alvo pelo linfócito efetor envolve peptídeo em MHC I na célula tumoral."
+    },
+    {
+      "id": "reviewed-microbiota-w14-imunovigilancia-citotoxicidade",
+      "subject": "microbiota",
+      "week": 14,
+      "module": "Imunovigilância tumoral",
+      "source": "Microbiota a Imunidade II/semana 14/Aula 14 -Imunovigilância tumoral.pdf · páginas 10",
+      "version": "2026-11-03.1",
+      "kind": "recall",
+      "title": "Quais moléculas o linfócito T citotóxico pode liberar após reconhecer uma célula tumoral?",
+      "explanation": "Perforina e granzimas. Essa via contribui para induzir a morte da célula-alvo. Interações com receptores de morte também podem participar."
+    },
+    {
+      "id": "reviewed-microbiota-w14-imunovigilancia-missing-self",
+      "subject": "microbiota",
+      "week": 14,
+      "module": "Imunovigilância tumoral",
+      "source": "Microbiota a Imunidade II/semana 14/Aula 14 -Imunovigilância tumoral.pdf · páginas 11–12",
+      "version": "2026-11-03.1",
+      "kind": "written",
+      "title": "Um clone tumoral reduz MHC I de superfície. Compare a consequência para linfócitos T CD8+ e células NK.",
+      "explanation": "A menor apresentação de peptídeos em MHC I pode reduzir o reconhecimento pelo T CD8+. Para a NK, a perda de sinais inibitórios associados ao MHC I pode favorecer a citotoxicidade quando houver ativação suficiente.",
+      "rubric": [
+        "Relaciona redução de MHC I à menor apresentação de peptídeos ao T CD8+.",
+        "Identifica a redução do sinal inibitório para a NK.",
+        "Explica que a resposta NK depende também de sinais ativadores."
+      ]
+    }
+  ]
+}
