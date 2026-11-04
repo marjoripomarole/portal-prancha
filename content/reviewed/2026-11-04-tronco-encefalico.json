@@ -1,0 +1,61 @@
+{
+  "reviewedAt": "2026-11-04",
+  "sources": [
+    {
+      "path": "Forma a Função II/semana 14/Tronco_encefalico_e_pares_cranianos.pdf",
+      "sha256": "e785ead146ca21037f033999aa097b5858dcc63d3d97c743aedc262e0039c6f6",
+      "scope": "Páginas 6–8 e 14. Marcos anatômicos dos três níveis e emergência aparente dos pares III, IV e XII. Seleção textual, sem imagens ou casos clínicos."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-forma-w14-tronco-leitura",
+      "subject": "forma",
+      "week": 14,
+      "module": "Tronco encefálico e pares cranianos",
+      "source": "Forma a Função II/semana 14/Tronco_encefalico_e_pares_cranianos.pdf · páginas 6–8 e 14",
+      "version": "2026-11-04.1",
+      "kind": "read",
+      "title": "Tronco encefálico: referências para distinguir mesencéfalo, ponte e bulbo",
+      "body": "<p>Do nível mais superior ao mais inferior, o tronco encefálico se divide em mesencéfalo, ponte e bulbo. Na face anterior, os pedúnculos cerebrais delimitam a fossa interpeduncular no mesencéfalo. A ponte tem uma base larga, com sulco basilar na linha média. No bulbo, procure as pirâmides anteriormente e as olivas lateralmente a elas.</p><p>O oculomotor (III) emerge anteriormente na fossa interpeduncular. O troclear (IV) emerge na face posterior do mesencéfalo, abaixo do colículo inferior. No bulbo, o hipoglosso (XII) emerge no sulco pré-olivar, entre a pirâmide e a oliva.</p>"
+    },
+    {
+      "id": "reviewed-forma-w14-tronco-mesencefalo",
+      "subject": "forma",
+      "week": 14,
+      "module": "Tronco encefálico e pares cranianos",
+      "source": "Forma a Função II/semana 14/Tronco_encefalico_e_pares_cranianos.pdf · páginas 7–8",
+      "version": "2026-11-04.1",
+      "kind": "recall",
+      "title": "Onde procurar a emergência aparente dos nervos oculomotor e troclear no mesencéfalo?",
+      "explanation": "O oculomotor (III) emerge anteriormente na fossa interpeduncular. O troclear (IV) emerge posteriormente, abaixo do colículo inferior."
+    },
+    {
+      "id": "reviewed-forma-w14-tronco-hipoglosso",
+      "subject": "forma",
+      "week": 14,
+      "module": "Tronco encefálico e pares cranianos",
+      "source": "Forma a Função II/semana 14/Tronco_encefalico_e_pares_cranianos.pdf · páginas 14",
+      "version": "2026-11-04.1",
+      "kind": "recall",
+      "title": "Qual par craniano emerge no sulco entre a pirâmide e a oliva bulbar?",
+      "explanation": "O hipoglosso (XII). Entre a pirâmide e a oliva fica o sulco pré-olivar."
+    },
+    {
+      "id": "reviewed-forma-w14-tronco-estacao",
+      "subject": "forma",
+      "week": 14,
+      "module": "Tronco encefálico e pares cranianos",
+      "source": "Forma a Função II/semana 14/Tronco_encefalico_e_pares_cranianos.pdf · páginas 6–7",
+      "version": "2026-11-04.1",
+      "kind": "written",
+      "title": "Em uma estação de anatomia, diferencie os três níveis do tronco encefálico usando um marco da face anterior de cada nível.",
+      "explanation": "Mesencéfalo: pedúnculos cerebrais e fossa interpeduncular. Ponte: base larga com sulco basilar mediano. Bulbo: pirâmides anteriores e olivas laterais a elas.",
+      "rubric": [
+        "Identifica pedúnculos cerebrais ou fossa interpeduncular no mesencéfalo.",
+        "Identifica a base larga ou o sulco basilar na ponte.",
+        "Identifica pirâmides ou olivas no bulbo."
+      ]
+    }
+  ]
+}
