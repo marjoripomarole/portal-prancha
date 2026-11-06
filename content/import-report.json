@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 2986,
+  "items": 2990,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -148,10 +148,10 @@
       "name": "Prática Médica II",
       "description": "Comunicação · Habilidades · Segurança",
       "counts": {
-        "read": 10,
+        "read": 11,
         "mcq": 7,
-        "written": 0,
-        "recall": 116
+        "written": 1,
+        "recall": 118
       },
       "weeks": [
         1,
@@ -161,9 +161,10 @@
         5,
         6,
         7,
-        8
+        8,
+        14
       ]
     }
   ],
-  "updated": "2026-11-04"
+  "updated": "2026-11-06"
 }

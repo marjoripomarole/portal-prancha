@@ -1,0 +1,61 @@
+{
+  "reviewedAt": "2026-11-05",
+  "sources": [
+    {
+      "path": "Prática Médica II/semana 14/Slides Noticias difíceis estudantes.pdf",
+      "sha256": "c1bc23a9439093536d33c8a43288d304288e1e3de5efb680b120d815cd5a81d3",
+      "scope": "Páginas 11–29: roteiro SPIKES, perguntas de percepção e convite, comunicação em etapas e resposta empática. Estação fictícia criada para prática."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-pratica-w14-spikes-leitura",
+      "subject": "pratica",
+      "week": 14,
+      "module": "Comunicação de notícias difíceis · SPIKES",
+      "source": "Prática Médica II/semana 14/Slides Noticias difíceis estudantes.pdf · páginas 11–29",
+      "version": "2026-11-05.1",
+      "kind": "read",
+      "title": "SPIKES: conduza a conversa em seis etapas",
+      "body": "<p>Prepare um ambiente reservado e reduza interrupções (Setting). Pergunte o que a pessoa já sabe ou suspeita (Perception). Antes de explicar o resultado, peça permissão e descubra quanto detalhe ela deseja naquele momento (Invitation).</p><p>Avise que a notícia é difícil e explique o resultado com clareza, em blocos curtos. Faça pausas para perguntas e confira a compreensão (Knowledge). Diante de uma reação emocional, dê tempo, reconheça o que observou e responda com empatia (Emotions).</p><p>Quando a pessoa estiver pronta, resuma o que foi conversado e combine os próximos passos (Strategy &amp; summary).</p>"
+    },
+    {
+      "id": "reviewed-pratica-w14-spikes-percepcao-convite",
+      "subject": "pratica",
+      "week": 14,
+      "module": "Comunicação de notícias difíceis · SPIKES",
+      "source": "Prática Médica II/semana 14/Slides Noticias difíceis estudantes.pdf · páginas 16–21",
+      "version": "2026-11-05.1",
+      "kind": "recall",
+      "title": "No SPIKES, que perguntas distinguem percepção e convite?",
+      "explanation": "Para percepção: “Como você entende o que está acontecendo até aqui?” Para convite: “Você quer conversar sobre o resultado agora? Quanto detalhe seria útil neste momento?”"
+    },
+    {
+      "id": "reviewed-pratica-w14-spikes-informacao",
+      "subject": "pratica",
+      "week": 14,
+      "module": "Comunicação de notícias difíceis · SPIKES",
+      "source": "Prática Médica II/semana 14/Slides Noticias difíceis estudantes.pdf · páginas 22–23",
+      "version": "2026-11-05.1",
+      "kind": "recall",
+      "title": "Como entregar uma notícia difícil em linguagem clara na etapa Knowledge?",
+      "explanation": "Sinalize que vem uma notícia difícil, diga a informação principal sem jargão e divida os detalhes em blocos curtos. Faça pausas e confira o entendimento antes de prosseguir."
+    },
+    {
+      "id": "reviewed-pratica-w14-spikes-estacao",
+      "subject": "pratica",
+      "week": 14,
+      "module": "Comunicação de notícias difíceis · SPIKES",
+      "source": "Prática Médica II/semana 14/Slides Noticias difíceis estudantes.pdf · páginas 22–29",
+      "version": "2026-11-05.1",
+      "kind": "written",
+      "title": "Em uma estação simulada, a pessoa fica em silêncio e começa a chorar após receber uma notícia difícil. Como você responde e retoma a conversa?",
+      "explanation": "Faça uma pausa. Reconheça a reação com empatia, por exemplo: “Percebo que isso foi difícil de ouvir. Podemos fazer uma pausa.” Dê espaço para a pessoa falar. Quando ela indicar que está pronta, confira o entendimento e combine o próximo passo.",
+      "rubric": [
+        "Dá tempo para a pessoa reagir.",
+        "Reconhece a emoção com empatia.",
+        "Confere se a pessoa está pronta para retomar e combina um próximo passo."
+      ]
+    }
+  ]
+}
