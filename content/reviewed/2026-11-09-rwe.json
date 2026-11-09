@@ -1,0 +1,61 @@
+{
+  "reviewedAt": "2026-11-09",
+  "sources": [
+    {
+      "path": "Pesquisa Científica/semana 15/aula-rwe-big-data.pdf",
+      "sha256": "503a3fb71986ae45311d5180ac55af40ba6ac7dca9e535a2cb7c9cc199670fd9",
+      "scope": "Páginas do PDF 21–23 e 32–36: RWD, RWE, Big Data, tempo imortal e tempo zero."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-pesquisa-w15-rwe-leitura",
+      "subject": "pesquisa",
+      "week": 15,
+      "module": "Evidências do mundo real e tempo zero",
+      "source": "Pesquisa Científica/semana 15/aula-rwe-big-data.pdf · páginas do PDF 21–23 e 32–36",
+      "version": "2026-11-09.1",
+      "kind": "read",
+      "title": "Dados do mundo real: da coleta de rotina ao desenho do estudo",
+      "body": "<p>Prontuários, registros e bases administrativas podem fornecer dados do mundo real (RWD). A evidência do mundo real (RWE) resulta de análises desses dados para responder a uma pergunta definida. RWD descreve a origem dos dados. Big Data descreve características como volume, velocidade e variedade.</p><p>Em uma comparação entre iniciar e não iniciar um tratamento, defina o tempo zero de modo que elegibilidade, atribuição à estratégia e início do seguimento coincidam. Se o grupo tratado for definido por um tratamento futuro, seus integrantes precisam sobreviver até recebê-lo. Atribuir esse período anterior ao tratamento ao grupo tratado pode criar uma vantagem aparente. Mesmo com o tempo zero alinhado, diferenças entre grupos que não foram medidas ainda podem distorcer a estimativa.</p>"
+    },
+    {
+      "id": "reviewed-pesquisa-w15-rwe-distincao",
+      "subject": "pesquisa",
+      "week": 15,
+      "module": "Evidências do mundo real e tempo zero",
+      "source": "Pesquisa Científica/semana 15/aula-rwe-big-data.pdf · páginas do PDF 21–23",
+      "version": "2026-11-09.1",
+      "kind": "recall",
+      "title": "Em pesquisa com prontuários, como distinguir RWD de RWE?",
+      "explanation": "Os registros coletados no cuidado de rotina são RWD. O resultado de uma análise desenhada para responder a uma pergunta com esses registros pode gerar RWE. A origem dos dados não determina por si só a validade da conclusão."
+    },
+    {
+      "id": "reviewed-pesquisa-w15-rwe-alinhamento",
+      "subject": "pesquisa",
+      "week": 15,
+      "module": "Evidências do mundo real e tempo zero",
+      "source": "Pesquisa Científica/semana 15/aula-rwe-big-data.pdf · páginas do PDF 32–34",
+      "version": "2026-11-09.1",
+      "kind": "recall",
+      "title": "Que três eventos devem coincidir no tempo zero de uma emulação de ensaio-alvo?",
+      "explanation": "A verificação da elegibilidade, a atribuição à estratégia comparada e o início do seguimento. Definir esses marcos no mesmo instante reduz o risco de atribuir tempo anterior ao tratamento ao grupo tratado."
+    },
+    {
+      "id": "reviewed-pesquisa-w15-rwe-tempo-imortal",
+      "subject": "pesquisa",
+      "week": 15,
+      "module": "Evidências do mundo real e tempo zero",
+      "source": "Pesquisa Científica/semana 15/aula-rwe-big-data.pdf · páginas do PDF 32–36",
+      "version": "2026-11-09.1",
+      "kind": "written",
+      "title": "Um estudo conta a sobrevida desde o diagnóstico e chama de tratado quem inicia a terapia meses depois. Como esse desenho pode favorecer o grupo tratado?",
+      "explanation": "Quem inicia a terapia precisa sobreviver do diagnóstico até a primeira dose. Se esse período for atribuído ao grupo tratado, ele entra na comparação como tempo de exposição mesmo antes do início da terapia. Uma emulação deve explicitar as estratégias e alinhar elegibilidade, atribuição e início do seguimento.",
+      "rubric": [
+        "Explica a sobrevivência necessária até o início da terapia.",
+        "Identifica a classificação incorreta do período anterior como exposto.",
+        "Propõe alinhar elegibilidade, atribuição e início do seguimento."
+      ]
+    }
+  ]
+}

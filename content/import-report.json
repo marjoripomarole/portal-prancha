@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 2990,
+  "items": 2994,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -125,10 +125,10 @@
       "name": "Pesquisa Científica",
       "description": "Método · Pergunta · Evidências",
       "counts": {
-        "read": 10,
+        "read": 11,
         "mcq": 50,
-        "written": 4,
-        "recall": 85
+        "written": 5,
+        "recall": 87
       },
       "weeks": [
         1,
@@ -140,7 +140,8 @@
         8,
         10,
         12,
-        13
+        13,
+        15
       ]
     },
     {
@@ -166,5 +167,5 @@
       ]
     }
   ],
-  "updated": "2026-11-06"
+  "updated": "2026-11-09"
 }

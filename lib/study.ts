@@ -3,16 +3,18 @@
 export type StudyEvent = {item_id: string; kind: string; correct: number | null; assisted: number; rating: number | null; created_at: number};
 export type Exam = {date: string; subject: string; title: string; note?: string; assessment: boolean};
 
-// Official weekly board for T2A, 28/09 to 02/10/2026, checked on 27/09/2026.
+// T2A dates from the September weekly board and the November academic calendar plus the week 2.15 board.
 export const calendars: Record<string, {checked: string; exams: Exam[]}> = {
   't2a-2026s2': {
-    checked: 'Quadro semanal de 28/09 a 02/10, conferido em 27/09.',
+    checked: 'Fontes: quadros semanais da T2A e Calendário acadêmico TIIA 2026.2. Integradora conferida em 09/11.',
     exams: [
       {date: '2026-09-28', subject: 'pesquisa', title: 'Pesquisa · N1', assessment: true},
       {date: '2026-09-29', subject: 'microbiota', title: 'Microbiota · N1', assessment: true},
       {date: '2026-09-30', subject: 'molecula', title: 'Molécula · vista da P1', note: 'Sem prova', assessment: false},
       {date: '2026-10-01', subject: 'pfis', title: 'PFIS · N1 e apresentação SWOT', assessment: true},
       {date: '2026-10-02', subject: 'genetica', title: 'Genética · P2', note: '70% da N1. Manhã, chegada até 9h45', assessment: true},
+      {date: '2026-11-11', subject: 'forma', title: 'Integradora · Forma a Função II', assessment: true},
+      {date: '2026-11-11', subject: 'molecula', title: 'Integradora · Molécula a Célula II', assessment: true},
     ],
   },
 };

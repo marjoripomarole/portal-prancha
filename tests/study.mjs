@@ -9,10 +9,11 @@ assert.equal(nextExam(t2a, '2026-09-28').subject, 'pesquisa', 'exam day still sh
 assert.equal(nextExam(t2a, '2026-09-29').subject, 'microbiota');
 assert.equal(nextExam(t2a, '2026-09-30').subject, 'pfis', 'vista da P1 is not an assessment');
 assert.equal(nextExam(t2a, '2026-10-02').subject, 'genetica');
-assert.equal(nextExam(t2a, '2026-10-03'), null);
+assert.deepEqual(upcomingExams(t2a, '2026-11-11').map(e => e.subject), ['forma', 'molecula']);
+assert.equal(nextExam(t2a, '2026-11-12'), null);
 assert.equal(nextExam('t1a-2026s2', '2026-09-27'), null, 'no calendar for other cohorts');
 assert.equal(nextExam(undefined, '2026-09-27'), null);
-assert.equal(upcomingExams(t2a, '2026-09-27').length, 4);
+assert.equal(upcomingExams(t2a, '2026-09-27').length, 6);
 
 assert.equal(dayLabel('2026-09-28'), 'seg 28/09');
 assert.equal(dayLabel('2026-10-02'), 'sex 02/10');
