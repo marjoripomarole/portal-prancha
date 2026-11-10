@@ -1,0 +1,61 @@
+{
+  "reviewedAt": "2026-11-10",
+  "sources": [
+    {
+      "path": "Microbiota a Imunidade II/semana 15/Aula 15 - Imunologia de transplantes.pdf",
+      "sha256": "3516abed9cdb0ef7beee4d54bdb9895adf2860dfc575204f0ba4a315589c71f4",
+      "scope": "Páginas 10–17 do PDF. Vias direta e indireta de alorreconhecimento e mecanismos de lesão do enxerto. Seleção textual."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-microbiota-w15-transplantes-leitura",
+      "subject": "microbiota",
+      "week": 15,
+      "module": "Imunologia de transplantes",
+      "source": "Microbiota a Imunidade II/semana 15/Aula 15 - Imunologia de transplantes.pdf · páginas do PDF 10–17",
+      "version": "2026-11-10.1",
+      "kind": "read",
+      "title": "Imunologia de transplantes: do alorreconhecimento à lesão do enxerto",
+      "body": "<p>Na via direta, linfócitos T do receptor reconhecem complexos de MHC do doador na superfície de células apresentadoras do doador. Na via indireta, células apresentadoras do receptor processam proteínas do enxerto e exibem os peptídeos resultantes em MHC do próprio receptor.</p><p>Na rejeição hiperaguda, anticorpos já presentes no receptor ligam-se a antígenos do endotélio do doador. A lesão vascular com trombose pode começar em minutos a horas. Na rejeição aguda, a lesão pode envolver linfócitos T alorreativos, anticorpos ou ambos. Em enxertos vascularizados, um padrão descrito na rejeição crônica é o estreitamento arterial progressivo, que compromete a perfusão.</p>"
+    },
+    {
+      "id": "reviewed-microbiota-w15-transplantes-vias",
+      "subject": "microbiota",
+      "week": 15,
+      "module": "Imunologia de transplantes",
+      "source": "Microbiota a Imunidade II/semana 15/Aula 15 - Imunologia de transplantes.pdf · páginas do PDF 10–12",
+      "version": "2026-11-10.1",
+      "kind": "recall",
+      "title": "Na via direta e na indireta de alorreconhecimento, de quem são a célula apresentadora e o MHC que ela exibe?",
+      "explanation": "Na direta, a célula apresentadora é do doador e exibe MHC do doador. Na indireta, a célula apresentadora é do receptor e exibe peptídeos derivados do enxerto em MHC próprio."
+    },
+    {
+      "id": "reviewed-microbiota-w15-transplantes-hiperaguda",
+      "subject": "microbiota",
+      "week": 15,
+      "module": "Imunologia de transplantes",
+      "source": "Microbiota a Imunidade II/semana 15/Aula 15 - Imunologia de transplantes.pdf · páginas do PDF 14",
+      "version": "2026-11-10.1",
+      "kind": "recall",
+      "title": "Como anticorpos preexistentes podem causar rejeição hiperaguda do enxerto?",
+      "explanation": "Ligam-se a antígenos endoteliais do doador e desencadeiam lesão vascular com trombose, comprometendo a perfusão do enxerto em minutos a horas."
+    },
+    {
+      "id": "reviewed-microbiota-w15-transplantes-comparacao",
+      "subject": "microbiota",
+      "week": 15,
+      "module": "Imunologia de transplantes",
+      "source": "Microbiota a Imunidade II/semana 15/Aula 15 - Imunologia de transplantes.pdf · páginas do PDF 14–17",
+      "version": "2026-11-10.1",
+      "kind": "written",
+      "title": "Compare a lesão vascular da rejeição hiperaguda com o estreitamento arterial progressivo descrito na rejeição crônica.",
+      "explanation": "Na hiperaguda, anticorpos preexistentes contra antígenos do enxerto podem desencadear oclusão trombótica logo após o restabelecimento do fluxo. Na crônica, a proliferação de músculo liso na íntima pode estreitar progressivamente as artérias do enxerto vascularizado e produzir dano isquêmico.",
+      "rubric": [
+        "Relaciona anticorpos preexistentes e trombose à rejeição hiperaguda.",
+        "Descreve o estreitamento arterial progressivo na rejeição crônica.",
+        "Explica como a perda de perfusão lesa o enxerto."
+      ]
+    }
+  ]
+}
