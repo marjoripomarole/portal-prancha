@@ -1,0 +1,45 @@
+{
+  "reviewedAt": "2026-11-18",
+  "sources": [
+    {
+      "path": "Microbiota a Imunidade II/semana 16/Vacinas tipos mecanismos de ação e memória imunológica .pdf",
+      "sha256": "8eeed22933cca85d0f63be54b66d00b6ec875d9c6f476f5002dac360041a064c",
+      "scope": "Seleção textual das páginas 6 e 8: imunidade ativa/passiva, plasmócitos de vida longa e células B de memória. Sem calendários, contraindicações ou resolução dos casos clínicos."
+    }
+  ],
+  "items": [
+    {
+      "subject": "microbiota",
+      "week": 16,
+      "module": "Vacinas e memória imunológica",
+      "source": "Microbiota a Imunidade II/semana 16/Vacinas tipos mecanismos de ação e memória imunológica .pdf · páginas 6 e 8 do PDF",
+      "version": "2026-11-18.1",
+      "id": "reviewed-mi-w16-vacinas-memoria-leitura",
+      "kind": "read",
+      "title": "Vacinação: imunidade ativa, passiva e memória de células B",
+      "body": "<p>Na imunidade ativa, o próprio organismo desenvolve a resposta ao antígeno, como ocorre após a vacinação. Na imunidade passiva, recebe anticorpos já produzidos, como na transferência de IgG pela placenta ou na administração de imunoglobulinas. A transferência de anticorpos oferece proteção imediata, mas não gera, por si só, memória imunológica no receptor.</p><p>Plasmócitos de vida longa e células B de memória desempenham funções distintas. Os plasmócitos mantêm a secreção de anticorpos; as células B de memória podem responder rapidamente ao reencontro com o antígeno. Assim, a concentração de anticorpos circulantes e a presença de memória não são medidas equivalentes.</p><p>Seleção conceitual da Aula 16. Não apresenta calendários vacinais nem condutas para os casos clínicos dos slides.</p>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 16,
+      "module": "Vacinas e memória imunológica",
+      "source": "Microbiota a Imunidade II/semana 16/Vacinas tipos mecanismos de ação e memória imunológica .pdf · páginas 6 e 8 do PDF",
+      "version": "2026-11-18.1",
+      "id": "reviewed-mi-w16-vacinas-ativa-passiva",
+      "kind": "recall",
+      "title": "Qual é a diferença entre produzir uma resposta após a vacinação e receber anticorpos prontos?",
+      "explanation": "A vacinação estimula imunidade ativa: o organismo monta sua resposta e pode formar memória. Receber anticorpos prontos é imunidade passiva: a proteção é imediata e temporária, sem formação de memória decorrente da transferência."
+    },
+    {
+      "subject": "microbiota",
+      "week": 16,
+      "module": "Vacinas e memória imunológica",
+      "source": "Microbiota a Imunidade II/semana 16/Vacinas tipos mecanismos de ação e memória imunológica .pdf · páginas 6 e 8 do PDF",
+      "version": "2026-11-18.1",
+      "id": "reviewed-mi-w16-vacinas-plasmocitos-memoria",
+      "kind": "recall",
+      "title": "Como diferem as funções de plasmócitos de vida longa e células B de memória?",
+      "explanation": "Plasmócitos de vida longa secretam anticorpos continuamente. Células B de memória permanecem disponíveis para responder rapidamente a um reencontro com o antígeno; não se confundem com as células que mantêm a secreção basal de anticorpos."
+    }
+  ]
+}
