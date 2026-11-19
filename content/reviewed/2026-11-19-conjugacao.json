@@ -1,0 +1,56 @@
+{
+  "reviewedAt": "2026-11-19",
+  "sources": [
+    {
+      "path": "Microbiota a Imunidade II/semana 16/17 nov - Guia de estudo - Vacinas e memória imunológica.md",
+      "sha256": "86bf0455228262c17c9ea45a3142de1aced66d001804489e7dfa77bf7b7517fc",
+      "scope": "Seções 4–6: toxoides, reconhecimento ligado e distinção carreador/adjuvante. Seleção conceitual; sem condutas, calendários ou prazos de provas."
+    }
+  ],
+  "items": [
+    {
+      "subject": "microbiota",
+      "week": 16,
+      "module": "Plataformas vacinais: conjugação e adjuvantes",
+      "source": "Microbiota a Imunidade II/semana 16/17 nov - Guia de estudo - Vacinas e memória imunológica.md · seções 4–6",
+      "version": "2026-11-19.1",
+      "id": "reviewed-mi-w16-conjugacao-leitura",
+      "kind": "read",
+      "title": "Vacinas conjugadas: como a proteína carreadora permite ajuda T",
+      "body": "<p>Em uma vacina conjugada, o polissacarídeo capsular está ligado a uma proteína carreadora. O linfócito B que reconhece o polissacarídeo internaliza o conjugado, processa a proteína e apresenta peptídeos dela em MHC II. Células T auxiliares reconhecem esses peptídeos e fornecem ajuda ao B.</p><p>Essa cooperação favorece troca de classe, maturação de afinidade e memória da resposta contra o polissacarídeo. O T reconhece o peptídeo da proteína; não precisa reconhecer diretamente o açúcar no MHC II.</p><p>A proteína carreadora e o adjuvante têm funções diferentes. O carreador fornece peptídeos para a ajuda T; o adjuvante favorece o estímulo imune, incluindo ativação inata e apresentação antigênica.</p>"
+    },
+    {
+      "subject": "microbiota",
+      "week": 16,
+      "module": "Plataformas vacinais: conjugação e adjuvantes",
+      "source": "Microbiota a Imunidade II/semana 16/17 nov - Guia de estudo - Vacinas e memória imunológica.md · seções 4–6",
+      "version": "2026-11-19.1",
+      "id": "reviewed-mi-w16-conjugacao-tfh",
+      "kind": "recall",
+      "title": "Na vacina conjugada, o B reconhece o polissacarídeo. O que a célula T auxiliar reconhece?",
+      "explanation": "Reconhece um peptídeo da proteína carreadora apresentado em MHC II pelo B que internalizou o conjugado. A ajuda T favorece a resposta do B específico para o polissacarídeo."
+    },
+    {
+      "subject": "microbiota",
+      "week": 16,
+      "module": "Plataformas vacinais: conjugação e adjuvantes",
+      "source": "Microbiota a Imunidade II/semana 16/17 nov - Guia de estudo - Vacinas e memória imunológica.md · seções 4–6",
+      "version": "2026-11-19.1",
+      "id": "reviewed-mi-w16-carreador-adjuvante",
+      "kind": "recall",
+      "title": "Por que proteína carreadora e adjuvante não são sinônimos?",
+      "explanation": "A proteína carreadora oferece peptídeos para ajuda T na vacina conjugada. O adjuvante favorece a ativação imune, incluindo sinais inatos e apresentação antigênica; não desempenha necessariamente a função de carreador ligado ao polissacarídeo."
+    },
+    {
+      "subject": "microbiota",
+      "week": 16,
+      "module": "Plataformas vacinais: conjugação e adjuvantes",
+      "source": "Microbiota a Imunidade II/semana 16/17 nov - Guia de estudo - Vacinas e memória imunológica.md · seções 4–6",
+      "version": "2026-11-19.1",
+      "id": "reviewed-mi-w16-toxoide-alvo",
+      "kind": "recall",
+      "title": "Qual é o alvo da proteção induzida por um toxoide?",
+      "explanation": "A toxina: anticorpos induzidos contra a toxina inativada podem neutralizar seus efeitos. Essa proteção não equivale necessariamente a eliminar a bactéria ou impedir toda colonização."
+    }
+  ]
+}

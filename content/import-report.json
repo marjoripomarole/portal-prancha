@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 3001,
+  "items": 3005,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -80,10 +80,10 @@
       "name": "Microbiota a Imunidade II",
       "description": "Imunologia · Virologia",
       "counts": {
-        "read": 28,
+        "read": 29,
         "mcq": 103,
         "written": 11,
-        "recall": 253
+        "recall": 256
       },
       "weeks": [
         1,
@@ -169,5 +169,5 @@
       ]
     }
   ],
-  "updated": "2026-11-18"
+  "updated": "2026-11-19"
 }
