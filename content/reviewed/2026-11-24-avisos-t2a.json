@@ -1,0 +1,45 @@
+{
+  "reviewedAt": "2026-11-24",
+  "sources": [
+    {
+      "path": "_/Portal Prancha/Atualização diária/2026-11-24-avisos.md",
+      "sha256": "aadafc9ad100538bd07c5306fbb50843f8f7dfc2881f647c547fa6568273c26b",
+      "scope": "Avisos acadêmicos de 21 e 23/11: adiamento de prática e horários das aulas de 27/11. Sem conversas ou dados pessoais."
+    }
+  ],
+  "items": [
+    {
+      "id": "reviewed-forma-w17-aviso-pratica-adiada",
+      "subject": "forma",
+      "week": 17,
+      "module": "Avisos T2A — atualização de 24/11",
+      "kind": "read",
+      "title": "T2A: prática de 27/11 adiada, sem nova data",
+      "body": "<p>A prática de Forma à Função prevista para 27/11 foi adiada. O aviso de 21/11, reiterado em 23/11, informa tentativa de remarcação para depois das N2; ainda não há nova data confirmada.</p><p>Fonte: avisos da representação da turma no grupo T2A Avisos, conferidos em 24/11/2026. Informações específicas da T2A; não definem o conteúdo ou formato de provas.</p>",
+      "source": "_/Portal Prancha/Atualização diária/2026-11-24-avisos.md · avisos de 21 e 23/11",
+      "version": "2026-11-24.1"
+    },
+    {
+      "id": "reviewed-molecula-w17-aviso-convidado",
+      "subject": "molecula",
+      "week": 17,
+      "module": "Avisos T2A — atualização de 24/11",
+      "kind": "read",
+      "title": "T2A: Obesidade e Síndrome Metabólica em 27/11 às 08h",
+      "body": "<p>A atualização de 23/11 informa aula com convidado sobre Obesidade e Síndrome Metabólica em 27/11, às 08h00, com duração prevista de 2h30. Esse horário substitui a previsão anterior de 18/11.</p><p>Fonte: avisos da representação da turma no grupo T2A Avisos, conferidos em 24/11/2026. Informações específicas da T2A; não definem o conteúdo ou formato de provas.</p>",
+      "source": "_/Portal Prancha/Atualização diária/2026-11-24-avisos.md · avisos de 21 e 23/11",
+      "version": "2026-11-24.1"
+    },
+    {
+      "id": "reviewed-genetica-w17-aviso-convidado",
+      "subject": "genetica",
+      "week": 17,
+      "module": "Avisos T2A — atualização de 24/11",
+      "kind": "read",
+      "title": "T2A: Genética Médica em 27/11 às 12h50",
+      "body": "<p>A atualização de 23/11 informa aula com convidada sobre Genética Médica em 27/11, às 12h50, com duração prevista de 2h30.</p><p>Fonte: avisos da representação da turma no grupo T2A Avisos, conferidos em 24/11/2026. Informações específicas da T2A; não definem o conteúdo ou formato de provas.</p>",
+      "source": "_/Portal Prancha/Atualização diária/2026-11-24-avisos.md · avisos de 21 e 23/11",
+      "version": "2026-11-24.1"
+    }
+  ]
+}
