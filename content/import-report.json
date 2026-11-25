@@ -1,6 +1,6 @@
 {
   "created": "2026-09-20",
-  "items": 3008,
+  "items": 3011,
   "duplicateCardsSkipped": 140,
   "bySubject": [
     {
@@ -111,10 +111,10 @@
       "name": "PFIS II",
       "description": "Epidemiologia · Saúde coletiva",
       "counts": {
-        "read": 9,
+        "read": 10,
         "mcq": 48,
         "written": 2,
-        "recall": 84
+        "recall": 86
       },
       "weeks": [
         1,
@@ -122,7 +122,8 @@
         3,
         4,
         5,
-        7
+        7,
+        17
       ]
     },
     {
@@ -172,5 +173,5 @@
       ]
     }
   ],
-  "updated": "2026-11-24"
+  "updated": "2026-11-25"
 }

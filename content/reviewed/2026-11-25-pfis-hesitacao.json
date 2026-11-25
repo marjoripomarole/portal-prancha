@@ -1,0 +1,45 @@
+{
+  "reviewedAt": "2026-11-25",
+  "sources": [
+    {
+      "path": "PFIS II/semana 17/Aula_Vigilancia_Imunizacao_revisada 2.pptx",
+      "sha256": "56c96ef5ae2d573de4082d84b8b257fa29cece7a826082fb4b342982014558a7",
+      "scope": "Seleção textual dos slides 19–20: 3 Cs e barreiras de acesso; sem estatísticas, protocolos ou afirmações sobre 5 Cs. Conceitos conferidos no documento Vaccination and trust da OMS."
+    }
+  ],
+  "items": [
+    {
+      "subject": "pfis",
+      "week": 17,
+      "module": "Hesitação vacinal e barreiras de acesso",
+      "source": "PFIS II/semana 17/Aula_Vigilancia_Imunizacao_revisada 2.pptx · slides 19–20; OMS, Vaccination and trust (2017)",
+      "version": "2026-11-25.1",
+      "id": "reviewed-pfis-w17-hesitacao-leitura",
+      "kind": "read",
+      "title": "Hesitação vacinal: confiança, complacência e conveniência",
+      "body": "<p>No modelo dos 3 Cs, confiança envolve a vacina e o sistema que a oferece; complacência corresponde à baixa percepção do risco da doença; conveniência envolve acesso, compreensão das informações e adequação do serviço.</p><p>Não receber uma vacina não demonstra, por si só, recusa. Falta de doses, distância ou horários incompatíveis podem impedir a vacinação de quem deseja recebê-la. Antes de escolher uma ação, investigue a barreira concreta: informação e diálogo, organização do serviço e acesso resolvem problemas diferentes.</p><p>Fonte complementar: <a href=\"https://www.who.int/docs/default-source/documents/publications/vaccines-and-trust.pdf\">OMS — Vaccination and trust</a>. Seleção conceitual dos slides 19–20; não inclui recomendações individuais de vacinação.</p>"
+    },
+    {
+      "subject": "pfis",
+      "week": 17,
+      "module": "Hesitação vacinal e barreiras de acesso",
+      "source": "PFIS II/semana 17/Aula_Vigilancia_Imunizacao_revisada 2.pptx · slides 19–20; OMS, Vaccination and trust (2017)",
+      "version": "2026-11-25.1",
+      "id": "reviewed-pfis-w17-tres-cs",
+      "kind": "recall",
+      "title": "Quais são os 3 Cs da hesitação vacinal?",
+      "explanation": "Confiança: credibilidade da vacina e do sistema. Complacência: baixa percepção do risco da doença. Conveniência: condições de acesso, compreensão e adequação do serviço."
+    },
+    {
+      "subject": "pfis",
+      "week": 17,
+      "module": "Hesitação vacinal e barreiras de acesso",
+      "source": "PFIS II/semana 17/Aula_Vigilancia_Imunizacao_revisada 2.pptx · slides 19–20; OMS, Vaccination and trust (2017)",
+      "version": "2026-11-25.1",
+      "id": "reviewed-pfis-w17-acesso-recusa",
+      "kind": "recall",
+      "title": "Uma pessoa quer se vacinar, mas encontra a unidade fechada. Isso demonstra recusa?",
+      "explanation": "Não. O exemplo aponta uma barreira operacional de acesso. É necessário investigar o motivo da não vacinação antes de atribuí-la à recusa ou escolher uma intervenção."
+    }
+  ]
+}
